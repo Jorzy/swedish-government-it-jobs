@@ -1,0 +1,52 @@
+[
+  {
+    "id": "sample1",
+    "title": "IT-utvecklare",
+    "employer": "Försvarsmakten",
+    "location": "Göteborg",
+    "published": "2025-04-01",
+    "deadline": "2025-05-01",
+    "url": "https://jobb.forsvarsmakten.se/sv/lediga-tjanster/it-utvecklare-goteborg",
+    "description": "Vi söker en IT-utvecklare till vårt team i Göteborg. Som IT-utvecklare hos Försvarsmakten kommer du att arbeta med utveckling och förvaltning av våra interna system. Du kommer att ingå i ett team av erfarna utvecklare och arbeta med moderna tekniker och metoder. Vi söker dig som har erfarenhet av systemutveckling och ett stort intresse för IT-säkerhet."
+  },
+  {
+    "id": "sample2",
+    "title": "Systemutvecklare",
+    "employer": "Polismyndigheten",
+    "location": "Göteborg",
+    "published": "2025-04-05",
+    "deadline": "2025-05-15",
+    "url": "https://polisen.se/jobb-hos-polisen/lediga-jobb/systemutvecklare-goteborg",
+    "description": "Polisen söker systemutvecklare för att arbeta med våra interna system. Du kommer att arbeta med utveckling och förvaltning av system som används i det dagliga polisarbetet. Vi söker dig som har erfarenhet av systemutveckling och ett stort intresse för att bidra till samhällsnytta. Som systemutvecklare hos Polisen får du möjlighet att arbeta med viktiga system som gör skillnad i samhället."
+  },
+  {
+    "id": "sample3",
+    "title": "IT-säkerhetsspecialist",
+    "employer": "Göteborgs Stad",
+    "location": "Göteborg",
+    "published": "2025-04-10",
+    "deadline": "2025-05-10",
+    "url": "https://goteborg.se/jobb/it-sakerhetsspecialist",
+    "description": "Göteborgs Stad söker IT-säkerhetsspecialist för att stärka vår IT-säkerhet. Du kommer att arbeta med att identifiera och åtgärda säkerhetsrisker i våra system och nätverk. Vi söker dig som har erfarenhet av IT-säkerhet och ett stort intresse för att skydda känslig information. Som IT-säkerhetsspecialist hos Göteborgs Stad får du möjlighet att arbeta med viktiga system som används av stadens verksamheter."
+  },
+  {
+    "id": "sample4",
+    "title": "Webbutvecklare",
+    "employer": "Västra Götalandsregionen",
+    "location": "Göteborg",
+    "published": "2025-04-12",
+    "deadline": "2025-05-12",
+    "url": "https://vgregion.se/jobb/webbutvecklare",
+    "description": "Västra Götalandsregionen söker webbutvecklare till vårt digitala team. Du kommer att arbeta med utveckling och förvaltning av våra webbplatser och webbtjänster. Vi söker dig som har erfarenhet av webbutveckling och ett stort intresse för användarvänlighet och tillgänglighet. Som webbutvecklare hos Västra Götalandsregionen får du möjlighet att arbeta med viktiga digitala tjänster som används av regionens invånare."
+  },
+  {
+    "id": "sample5",
+    "title": "Systemarkitekt",
+    "employer": "Trafikverket",
+    "location": "Göteborg",
+    "published": "2025-04-15",
+    "deadline": "2025-05-20",
+    "url": "https://trafikverket.se/jobb/systemarkitekt-goteborg",
+    "description": "Trafikverket söker systemarkitekt till vårt IT-team i Göteborg. Du kommer att arbeta med att utforma och utveckla våra IT-system och infrastruktur. Vi söker dig som har erfarenhet av systemarkitektur och ett stort intresse för att skapa robusta och skalbara lösningar. Som systemarkitekt hos Trafikverket får du möjlighet att arbeta med viktiga system som stödjer Sveriges infrastruktur."
+  }
+]
