@@ -10,16 +10,6 @@
     "description": "Stadsmiljöförvaltningen har ett helhetsansvar för stadens offentliga rum och samlade framkomlighet. Vi arbetar för att skapa tillgängliga, attraktiva och levande stadsmiljöer och naturområden. Förvaltningen äger och förvaltar spårvagnsnätet i Göteborg. På förvaltningen arbetar cirka 900 personer.\n\nStadsmiljöförvaltningen är en del av de stadsutvecklingsförvaltningar som finns i Göteborgs Stad. Gemensamt arbetar vi med att skapa förutsättningar för en fungerande infrastruktur, bostäder och lokale..."
   },
   {
-    "id": "29645871",
-    "title": "Leveransområdesansvarig IT inom Basplattformar",
-    "employer": "Länsstyrelsen i Västra Götalands län",
-    "location": "Göteborg",
-    "published": "2025-04-22",
-    "deadline": "2025-05-11",
-    "url": "https://lansstyrelsen.varbi.com/what:job/jobID:820359/type:job/where:1/apply:1",
-    "description": "Länsstyrelsernas IT-avdelning är i en spännande utvecklingsfas där digitalisering, innovativa lösningar och säkerhets- och beredskapsfrågor är i fokus.\r\n\r\nVår IT-miljö är omfattande och varierande. Den innefattar allt från modern infrastruktur till system som vi utvecklar själva. Framför allt kommer våra idéer hela samhället till nytta. Det ger en alldeles speciell känsla som är svår att slå.\n\nLänsstyrelsernas verksamhet har en stor bredd och verkar inom områden som är högst aktuella i dagens sa..."
-  },
-  {
     "id": "29690299",
     "title": "Systemutvecklare med fokus på frontend",
     "employer": "Göteborgs Universitet",
@@ -88,16 +78,6 @@
     "deadline": "2025-05-14",
     "url": "https://trv.heroma.se/prod/TRVpp01/ExternWebbV2/LedigaJobb/EW2PageAnnons.aspx?arenderef=7974075265911695428&benamning=Systemspecialist+-+%c3%96vervakning+med+Zabbix",
     "description": "Är du en teknikintresserad och nyfiken person med erfarenhet av Zabbix som vill bidra till att säkra Sveriges transportsystem? Då kan du vara den vi söker!\n\r\n\r\nSystemspecialist - Övervakning med Zabbix\r\n\r\nArbetsuppgifter\n\nDitt arbete handlar om att övervaka IT-infrastruktur och telekommunikation längs vägar, broar, tunnlar och järnvägar i hela Sverige, och säkerställa att dessa system fungerar stabilt och effektivt. Vi på Övervakning IT inom Operativt Center ansvarar för implementering, utveckli..."
-  },
-  {
-    "id": "29645242",
-    "title": "Erfaren Systemutvecklare, frontend",
-    "employer": "Länsstyrelsen i Västra Götalands län",
-    "location": "Göteborg",
-    "published": "2025-04-22",
-    "deadline": "2025-05-11",
-    "url": "https://lansstyrelsen.varbi.com/what:job/jobID:820277/type:job/where:1/apply:1",
-    "description": "Länsstyrelsernas IT-avdelning är i en spännande utvecklingsfas där digitalisering, innovativa lösningar och säkerhets- och beredskapsfrågor är i fokus.\r\n\r\nVår IT-miljö är omfattande och varierande. Den innefattar allt från modern infrastruktur till system som vi utvecklar själva. Framför allt kommer våra idéer hela samhället till nytta. Det ger en alldeles speciell känsla som är svår att slå.\n\nLänsstyrelsernas verksamhet har en stor bredd och verkar inom områden som är högst aktuella i dagens sa..."
   },
   {
     "id": "29644935",
@@ -228,5 +208,15 @@
     "deadline": "2025-06-30",
     "url": "https://arbetsformedlingen.se/platsbanken/annonser/29586801",
     "description": "Vill du använda dina IT-kunskaper i uppdrag som faktiskt gör skillnad – där du både får utvecklas och jobba med teknik på riktigt? Hos oss får du arbeta som IT-tekniker i den offentliga sektorn, där du blir en nyckelperson i organisationens dagliga IT-drift.\nDet här är en perfekt möjlighet för dig som arbetat några år inom IT och nu vill ta nästa steg. Du kommer in i en miljö där dina kunskaper tas på allvar, där du får ta ansvar – men också stöd i uppdragets alla delar.\nVi ser till att du får e..."
+  },
+  {
+    "id": "29691406",
+    "title": "It-tekniker inom Windowsområdet",
+    "employer": "Migrationsverket",
+    "location": "Norrköping",
+    "published": "2025-05-09",
+    "deadline": "2025-05-30",
+    "url": "https://migrationsverket.varbi.com/what:job/jobID:811939/type:job/where:1/apply:1",
+    "description": "På Migrationsverket arbetar vi med en av vår tids stora samhällsfrågor – migrationen. Totalt är vi cirka 6 000 personer här, och vi har ett ovanligt viktigt jobb!\n\n\n\r\n\r\nMigrationsverket har inlett en resa, en digitaliseringsresa.\r\n\r\nDetta innebär att gamla system ska avvecklas, nya ska utvecklas och implementeras samtidigt som vi måste hålla gamla system igång med hög driftsäkerhet.  Det innebär också att vårt arbetssätt och kultur förändras. Migrationsverket befinner sig i en period av stora fö..."
   }
 ]
