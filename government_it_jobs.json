@@ -1,5 +1,15 @@
 [
   {
+    "id": "29699546",
+    "title": "Sektionschef inom IT!",
+    "employer": "SAAB AB",
+    "location": "Göteborg",
+    "published": "2025-05-13",
+    "deadline": "2025-06-03",
+    "url": "https://www.aplitrak.com/?adid=cC5zdmVuc3Nvbi44NzA2My4zMTAxQHNhYWIuYXBsaXRyYWsuY29t",
+    "description": "Vi tror att framsteg och möjligheter skapas bäst tillsammans. Välkommen till en plats där samarbete gör skillnad. \n\nDin roll \n\nBusiness IT jobbar med tjänster för att stödja verksamhetens omedelbara behov och därefter standardisera och automatisera skapandet, driften och förvaltningen av specialiserade IT-miljöer. Dessa miljöer kan vara allt från enkla testmiljöer till komplexa utvecklingsplattformar. Vårt arbete gör det möjligt för verksamheten att utveckla, producera och leverera produkter til..."
+  },
+  {
     "id": "29690981",
     "title": "Systemspecialist, IT Drift",
     "employer": "GÖTEBORGS KOMMUN",
@@ -8,6 +18,16 @@
     "deadline": "2025-05-23",
     "url": "https://recruit.visma.com/spa/public/apply?guidAssignment=d07b8fb4-34bc-44bf-9f6e-570fc76ea014&publishCode=AMS&TK=7143b591-94fb-4775-b077-285ed698c31a",
     "description": "Stadsmiljöförvaltningen har ett helhetsansvar för stadens offentliga rum och samlade framkomlighet. Vi arbetar för att skapa tillgängliga, attraktiva och levande stadsmiljöer och naturområden. Förvaltningen äger och förvaltar spårvagnsnätet i Göteborg. På förvaltningen arbetar cirka 900 personer.\n\nStadsmiljöförvaltningen är en del av de stadsutvecklingsförvaltningar som finns i Göteborgs Stad. Gemensamt arbetar vi med att skapa förutsättningar för en fungerande infrastruktur, bostäder och lokale..."
+  },
+  {
+    "id": "29699280",
+    "title": "Lösningsarkitekt till vår kund i Göteborg",
+    "employer": "Quest Consulting Sverige AB",
+    "location": "Göteborg",
+    "published": "2025-05-13",
+    "deadline": "2025-05-19",
+    "url": "https://pnty-apply.ponty-system.se/quest?id=6863&pnty_src=arbetsformedlingen",
+    "description": "Uppdragsbeskrivning\n\nUppdraget innebär arbete både med lösningsarkitektur och med Scrum Master-aktiviteter, systemutveckling, löpande förvaltning, felsökning, analyser och releaser. Arbetet sker genom förvaltning, nyutvecklingsuppdrag samt i samverkan med användare, verksamheten och övriga IT-avdelningen. Inom IT-avdelningen i Göteborg strävar kunden efter att hjälpa och stötta varandra, oavsett roll, i syfte att med hög kvalitet säkerställa sina leveranser.\n\nUppdraget omfattar system inom områd..."
   },
   {
     "id": "29696381",
@@ -180,6 +200,16 @@
     "description": "Om rollen\n\nSom utvecklare hos oss på Sopra Steria arbetar du med alla delar av utvecklingsprocessen, från koncept till implementation och förvaltning. Du får bryta ner komplexa problem och skapa anpassade lösningar till kunder med den allra senaste tekniken, med grund i Microsofts hela portfölj av tjänster. Som utvecklare i .NET rör vi oss över hela stacken, vilket gör att arbetsuppgifterna under en vecka kan variera. Att arbeta med Microsofts paraply av molntjänster, som dessutom ständigt utöka..."
   },
   {
+    "id": "29699284",
+    "title": "Fullstackutvecklare sökes till spännande företag!",
+    "employer": "Professionals Nord Rekrytering AB",
+    "location": "Stockholm",
+    "published": "2025-05-13",
+    "deadline": "2025-05-20",
+    "url": "https://pn.zerolime.se/show.aspx?src=AMS&id=B0CEDC21-4A8D-452B-B219-9277144D2741",
+    "description": "Vill du vara med och utveckla innovativa e-handelslösningar i framkant? Hos Partnersense får du möjligheten att arbeta i en tekniskt utmanande miljö där du är med och formar framtidens digitala upplevelser. Vi söker dig som vill ta nästa steg i din utveckling och trivs i en roll där du får kombinera backend och frontend för att skapa högkvalitativa lösningar. Här blir du en del av ett team där kunskapsdelning och samarbete står i fokus!\n\nOm Partnersense\nPartnersense utvecklar lösningar som möjli..."
+  },
+  {
     "id": "29641262",
     "title": "ServiceNow developer",
     "employer": "Skatteverket",
@@ -218,16 +248,6 @@
     "deadline": "2025-05-14",
     "url": "https://trv.heroma.se/prod/TRVpp01/ExternWebbV2/LedigaJobb/EW2PageAnnons.aspx?arenderef=7974075265911580817&benamning=Systemtekniker+-+%c3%96vervakning+med+Zabbix",
     "description": "Är du en teknikintresserad och nyfiken person med erfarenhet av Zabbix som vill bidra till att säkra Sveriges transportsystem? Då kan du vara den vi söker!\n\r\n\r\nSystemtekniker - Övervakning med Zabbix\r\n\r\nArbetsuppgifter\n\nDitt arbete handlar om att övervaka IT-infrastruktur och telekommunikation längs vägar, broar, tunnlar och järnvägar i hela Sverige, och säkerställa att dessa system fungerar stabilt och effektivt. Vi på Övervakning IT inom Operativt Center ansvarar för implementering, utveckling..."
-  },
-  {
-    "id": "29637505",
-    "title": "Integrationstekniker/specialist inom applikation",
-    "employer": "Länsstyrelsen i Västra Götalands län",
-    "location": "Göteborg",
-    "published": "2025-04-16",
-    "deadline": "2025-05-13",
-    "url": "https://lansstyrelsen.varbi.com/what:job/jobID:817015/type:job/where:1/apply:1",
-    "description": "Länsstyrelsernas IT-avdelning är i en spännande utvecklingsfas där digitalisering, innovativa lösningar och säkerhets- och beredskapsfrågor är i fokus. Vår IT-miljö är omfattande och varierande. Den innefattar allt från modern infrastruktur till system som vi utvecklar själva. Framför allt kommer våra idéer hela samhället till nytta. Det ger en alldeles speciell känsla som är svår att slå.\n\n\n\nLänsstyrelsernas verksamhet har en stor bredd och verkar inom områden som är högst aktuella i dagens sam..."
   },
   {
     "id": "29586801",
