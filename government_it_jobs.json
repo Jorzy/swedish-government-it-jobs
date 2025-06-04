@@ -1,13 +1,23 @@
 [
   {
-    "id": "29699546",
-    "title": "Sektionschef inom IT!",
-    "employer": "SAAB AB",
+    "id": "29747495",
+    "title": "Senior Utvecklare | Lernia AB | Göteborg",
+    "employer": "Lernia AB",
     "location": "Göteborg",
-    "published": "2025-05-13",
-    "deadline": "2025-06-03",
-    "url": "https://www.aplitrak.com/?adid=cC5zdmVuc3Nvbi44NzA2My4zMTAxQHNhYWIuYXBsaXRyYWsuY29t",
-    "description": "Vi tror att framsteg och möjligheter skapas bäst tillsammans. Välkommen till en plats där samarbete gör skillnad. \n\nDin roll \n\nBusiness IT jobbar med tjänster för att stödja verksamhetens omedelbara behov och därefter standardisera och automatisera skapandet, driften och förvaltningen av specialiserade IT-miljöer. Dessa miljöer kan vara allt från enkla testmiljöer till komplexa utvecklingsplattformar. Vårt arbete gör det möjligt för verksamheten att utveckla, producera och leverera produkter til..."
+    "published": "2025-06-03",
+    "deadline": "2025-07-03",
+    "url": "https://www.lernia.se/?jobid=296112&ref=platsbanken",
+    "description": "Om rollen \n\nVi söker en senior utvecklare, en skicklig och driven fullstackutvecklare som vill vara en del av ett team där kvalitet, samarbete och teknisk innovation står i fokus. \n\nSom senior systemutvecklare hos oss blir du en nyckelspelare i vårt utvecklingsteam som ansvarar för arkitektur, tekniska val och implementation av våra digitala plattformar. Vi arbetar i Microsoftstacken och bygger moderna webb- och mobilapplikationer i Azure-miljö med Umbraco CMS. Tillsammans med teamet utvecklare ..."
+  },
+  {
+    "id": "29748571",
+    "title": "Systemutvecklare",
+    "employer": "Quest Consulting Sverige AB",
+    "location": "Göteborg",
+    "published": "2025-06-03",
+    "deadline": "2025-06-09",
+    "url": "https://pnty-apply.ponty-system.se/quest?id=6938&pnty_src=arbetsformedlingen",
+    "description": "Åt vår kund söker vi en Systemutvecklare\n\nUppdragsbeskrivning\n\nEn systemutvecklare/systemintegratör sökes till ett digitaliseringsprogram med syfte att införa och integrera nya tekniska lösningar i en befintlig IT-miljö. Programmet fokuserar på att möjliggöra säkra och effektiva digitala kommunikationsvägar mellan interna verksamheter och externa samarbetsparter. Fyra delområden omfattas: e-tjänstelegitimation, säker digital kommunikation, digital signering och digital post.\n\nUppdraget innebär a..."
   },
   {
     "id": "29734097",
@@ -158,5 +168,15 @@
     "deadline": "2025-06-13",
     "url": "https://pn.zerolime.se/show.aspx?src=AMS&id=040D616F-2F0E-491D-9BA3-579F9FBC3B9C",
     "description": "Drivs du av att hjälpa kunder att optimera och effektivisera sina processer? Har du även ett stort intresse för IT-system, service och fastighetsförvaltning?\n\nProfessionals Nord söker nu för Service Works Globals räkning System- och Verksamhetspecialister som vill vara med på deras pågående tillväxtresa. Urval kommer att ske löpande, så ta chansen och sök redan idag!\n\nService Works Global:\nService Works Global utvecklar lösningar inom fastighetsbranschen för att ge fastighetsägare ett helhetsstö..."
+  },
+  {
+    "id": "29748788",
+    "title": "IT-Supporttekniker - 1:a-linjens support till Kungsbacka",
+    "employer": "Poolia AB",
+    "location": "Göteborg",
+    "published": "2025-06-03",
+    "deadline": "2025-06-11",
+    "url": "https://www.poolia.se/lediga-jobb/?jobadid=73960",
+    "description": "Om tjänsten\nOmfattning: Heltid, vardagar kl. 08:00–17:00\nPeriod: 2025-06-23 till 2025-09-30 (möjlighet till förlängning)\n\nKungsbacka kommun söker en engagerad och serviceinriktad IT-tekniker för att förstärka vår 1:a-linjens support under sommaren. Du kommer att spela en nyckelroll i att hjälpa våra användare att lösa tekniska problem och därigenom bidra till att kommunens verksamheter kan fortsätta fungera utan onödiga avbrott.\n\nVi erbjuder dig:\n\n- Ett meningsfullt uppdrag där du gör skillnad v..."
   }
 ]
