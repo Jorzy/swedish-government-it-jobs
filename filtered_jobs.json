@@ -1,5 +1,25 @@
 [
   {
+    "id": "29754063",
+    "title": "Systemingenjör inom IT infrastruktur",
+    "employer": "Luftfartsverket",
+    "location": "Göteborg",
+    "published": "2025-06-05",
+    "deadline": "2025-06-29",
+    "url": "https://go.talentech.io/xNgvi",
+    "description": "Har du erfarenhet av arbete med infrastruktur, datacenter och virtuella miljöer och vill ta nästa steg i din karriär? Vill du vara med att bidra till en växande organisation? Då har vi en fantastisk möjlighet för dig! \n \n Vi söker nu flera Systemingenjörer IT Infrastruktur till nya uppdrag inom kritisk kommunikation som omfattar drift, underhåll och övervakning av bland annat det nationella radiokommunikationssystemet Rakel.\n\nPå LFV kommer du och dina kollegor att säkerställa pålitlig och säker ..."
+  },
+  {
+    "id": "29754279",
+    "title": "Systemutvecklare till team Butler",
+    "employer": "Trafikverket",
+    "location": "Göteborg",
+    "published": "2025-06-05",
+    "deadline": "2025-06-30",
+    "url": "https://trv.heroma.se/prod/TRVpp01/ExternWebbV2/LedigaJobb/EW2PageAnnons.aspx?arenderef=8015547615929533887&benamning=Systemutvecklare+till+team+Butler",
+    "description": "Brinner du för ny teknik och användarupplevelser som gör vardagen enklare? Då är det dig vi söker som vår nya kollega i team Butler, som ansvarar för Trafikverkets beställnings- och självbetjäningsplattform.\n\r\n\r\nSystemutvecklare till team Butler\r\n\r\nArbetsuppgifter\n\nI rollen som systemutvecklare hos oss jobbar du i ett team som har ansvar för leveranser kopplade till Beställningsportalen Butler, en egenutvecklad portal som bygger på Optimizely CMS och Commerce. Under de kommande åren har vi en he..."
+  },
+  {
     "id": "29734097",
     "title": "Javautvecklare inom identitet och åtkomst",
     "employer": "GÖTEBORGS KOMMUN",
@@ -40,14 +60,24 @@
     "description": "Är du en skicklig systemutvecklare inom Java som också har erfarenhet av lösningsarkitektur, kravhantering- och/eller testautomatisering?  Tycker du om att ha ett jobb som räknas?  Då måste du läsa vidare!\n\nHos oss bidrar du till ett välfungerande samhälle för allmänhet och företag samtidigt som du får möjlighet att bidra och utveckla dina kunskaper! Kronofogden erbjuder ett modernt och hållbart arbetsliv där t.\r\n\r\nex. distansarbete är en möjlighet i den omfattning verksamheten beslutar.\n\nJust n..."
   },
   {
-    "id": "29696381",
-    "title": "Embedded Utvecklare",
-    "employer": "Nexer AB",
+    "id": "29754538",
+    "title": "Leveranskoordinator",
+    "employer": "Kriminalvården",
     "location": "Göteborg",
-    "published": "2025-05-12",
-    "deadline": "2025-06-12",
-    "url": "https://nexergroup.teamtailor.com/jobs/5918702-embedded-utvecklare?promotion=1465825-arbetsformedlingen",
-    "description": "Erfaren Embedded utvecklare \nTill en av våra kunder inom försvarsindustrin söker vi nu en erfaren Embedded Utvecklare  till Göteborg. Som en erfaren Embedded Utvecklare kommer du spela en viktig roll i vår kunds projekt. Här får du chansen att utveckla dina färdigheter som att vässa din förmåga att hantera komplexa system.\nDina arbetsuppgifter:\n Ta ansvar för helheten och kommunicerar lösningar\n Arbeta med komplexa system där målet är att ta fram effektiva lösningar\n  Analysfunktioner av data.\n ..."
+    "published": "2025-06-05",
+    "deadline": "2025-06-25",
+    "url": "https://recruit.visma.com/spa/public/apply?guidAssignment=899afb03-2bde-4c98-ac34-90492b914cb7&publishCode=AMS&TK=7fd1ab79-e677-4c70-816d-7cd19f968669",
+    "description": "Kriminalvården växer – vi bygger nytt, bygger om och bygger till och söker nu fler medarbetare. Vårt viktigaste mål är att minska återfall i brott – att bryta den onda cirkeln. Lyckas vi med det blir samhället tryggare och säkrare för alla. Vi är den myndighet som ansvarar för anstalter, frivård, häkten och klienttransporter.\n\nVill du vara med och bidra till ett tryggare samhälle? Vår IT-avdelning genomför en stor satsning med fokus på en digital Kriminalvård. Tillsammans jobbar vi för att skapa..."
+  },
+  {
+    "id": "29754023",
+    "title": "Systemingenjör inom Transmission",
+    "employer": "Luftfartsverket",
+    "location": "Göteborg",
+    "published": "2025-06-05",
+    "deadline": "2025-06-29",
+    "url": "https://go.talentech.io/11x0v",
+    "description": "Vill du ta nästa steg i din karriär och jobba med teknik som ger dig möjlighet att bidra till samhällets säkerhet och funktion?\n\nTill vår driftcentral i Göteborg söker vi Systemingenjörer inom Transmission (TRM) till nya uppdrag inom kritisk kommunikation som omfattar drift, underhåll och övervakning av bland annat det nationella radiokommunikationssystemet Rakel.\n\nPå LFV kommer du och dina kollegor att säkerställa pålitlig och säker kommunikation för samhällsviktiga funktioner inom områden som ..."
   },
   {
     "id": "29586801",
