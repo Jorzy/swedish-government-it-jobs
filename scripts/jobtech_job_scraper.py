@@ -1,16 +1,17 @@
 #!/usr/bin/env python3
 """
-JobTech Job Scraper for Swedish Jobs
+Enhanced JobTech Job Scraper for Swedish Jobs
 
 This script uses the JobTech API (Arbetsförmedlingen) to search for IT, AI, and RPA jobs
-in Gothenburg and Kungsbacka, excluding consultant positions and highlighting meaningful employers.
-It falls back to RapidAPI (Indeed) only if JobTech fails, and limits RapidAPI usage to once per week.
+in Gothenburg and Kungsbacka, with advanced contextual filtering to ensure relevance.
+It excludes consultant positions and highlights meaningful employers.
 """
 
 import requests
 import json
 import os
 import time
+import re
 from datetime import datetime, timedelta
 import logging
 
@@ -45,24 +46,86 @@ RAPIDAPI_URL = "https://indeed-jobs-api-sweden.p.rapidapi.com/indeed-se"
 # Search parameters
 LOCATIONS = ["Göteborg", "Kungsbacka"]
 
-# Job categories with search terms
+# Job categories with primary and secondary keywords for contextual matching
 JOB_CATEGORIES = {
-    "IT": [
-        "IT", "utvecklare", "systemutvecklare", "programmerare", "webbutvecklare", 
-        "IT-tekniker", "software", "developer", "programmer", "devops", "frontend", 
-        "backend", "fullstack", "system administrator", "network", "database"
-    ],
-    "AI": [
-        "AI", "artificiell intelligens", "machine learning", "maskininlärning", 
-        "deep learning", "djupinlärning", "neural networks", "neurala nätverk",
-        "data science", "datavetenskap", "NLP", "natural language processing",
-        "computer vision", "datorseende", "predictive analytics", "prediktiv analys",
-        "big data", "stordata", "data mining", "datautvinning"
-    ],
-    "RPA": [
-        "RPA", "robotic process automation", "automation", "automatisering", 
-        "process automation", "UiPath", "Blue Prism", "Automation Anywhere"
-    ]
+    "IT": {
+        "primary_keywords": [
+            "systemutvecklare", "programmerare", "mjukvaruutvecklare", "software developer",
+            "backend developer", "frontend developer", "fullstack developer", "devops engineer",
+            "system architect", "IT-arkitekt", "IT-tekniker", "system administrator",
+            "nätverkstekniker", "network engineer", "database administrator", "databasutvecklare"
+        ],
+        "secondary_keywords": [
+            "java", "python", "c#", ".net", "javascript", "typescript", "react", "angular",
+            "vue", "node.js", "php", "ruby", "go", "rust", "kotlin", "swift", "sql", "nosql",
+            "mongodb", "postgresql", "mysql", "oracle", "aws", "azure", "gcp", "docker",
+            "kubernetes", "linux", "windows server", "cisco", "juniper", "api", "rest",
+            "microservices", "agile", "scrum", "kanban", "git", "ci/cd", "jenkins", "gitlab"
+        ],
+        "exclusion_keywords": [
+            "konsult", "consultant", "bemanning", "rekrytering", "inhyrd", "postdoc",
+            "doktorand", "phd student", "forskare", "professor", "lektor"
+        ],
+        "title_patterns": [
+            r"utvecklare", r"developer", r"programmer", r"engineer", r"arkitekt", r"architect",
+            r"tekniker", r"specialist", r"expert", r"lead", r"chef", r"manager", r"admin",
+            r"administrator", r"devops", r"frontend", r"backend", r"fullstack", r"system",
+            r"network", r"database", r"data", r"security", r"säkerhet", r"support"
+        ]
+    },
+    "AI": {
+        "primary_keywords": [
+            "AI", "artificial intelligence", "artificiell intelligens", "machine learning",
+            "maskininlärning", "deep learning", "djupinlärning", "neural networks",
+            "neurala nätverk", "data scientist", "data science", "datavetenskap",
+            "NLP", "natural language processing", "computer vision", "datorseende",
+            "predictive analytics", "prediktiv analys", "big data", "stordata",
+            "data mining", "datautvinning", "AI engineer", "ML engineer"
+        ],
+        "secondary_keywords": [
+            "tensorflow", "pytorch", "keras", "scikit-learn", "pandas", "numpy",
+            "jupyter", "python", "r", "hadoop", "spark", "databricks", "kubeflow",
+            "mlops", "reinforcement learning", "förstärkningsinlärning", "supervised learning",
+            "unsupervised learning", "clustering", "classification", "regression",
+            "recommendation systems", "rekommendationssystem", "anomaly detection",
+            "anomalidetektering", "feature engineering", "model training", "model deployment",
+            "model monitoring", "data preprocessing", "data visualization", "datavisualisering"
+        ],
+        "exclusion_keywords": [
+            "konsult", "consultant", "bemanning", "rekrytering", "inhyrd", "postdoc",
+            "doktorand", "phd student", "forskare", "professor", "lektor", "assistant professor"
+        ],
+        "title_patterns": [
+            r"AI", r"ML", r"machine learning", r"deep learning", r"data scientist",
+            r"data science", r"analytics", r"analys", r"data engineer", r"NLP",
+            r"computer vision", r"neural", r"intelligence", r"intelligens"
+        ]
+    },
+    "RPA": {
+        "primary_keywords": [
+            "RPA", "robotic process automation", "robotiserad processautomation",
+            "process automation", "processautomation", "automation developer",
+            "automationsutvecklare", "UiPath", "Blue Prism", "Automation Anywhere",
+            "Microsoft Power Automate", "business process automation", "affärsprocessautomation"
+        ],
+        "secondary_keywords": [
+            "workflow automation", "arbetsflödesautomation", "process mining", "processmining",
+            "business process management", "affärsprocesshantering", "digital workforce",
+            "digital arbetskraft", "intelligent automation", "intelligent automatisering",
+            "hyperautomation", "hyperautomatisering", "task automation", "uppgiftsautomatisering",
+            "process optimization", "processoptimering", "bot", "robot", "attended automation",
+            "unattended automation", "cognitive automation", "kognitiv automatisering"
+        ],
+        "exclusion_keywords": [
+            "konsult", "consultant", "bemanning", "rekrytering", "inhyrd", "postdoc",
+            "doktorand", "phd student", "forskare", "professor", "lektor", "styr och regler",
+            "reglertekniker", "DevSecOps", "DevOps", "fullstack", "frontend", "backend"
+        ],
+        "title_patterns": [
+            r"RPA", r"automation", r"automatisering", r"robot", r"process", r"UiPath",
+            r"Blue Prism", r"Automation Anywhere", r"Power Automate"
+        ]
+    }
 }
 
 # Meaningful employers keywords
@@ -294,6 +357,85 @@ def is_meaningful_job(job):
             return True
     return False
 
+def calculate_relevance_score(job, category):
+    """
+    Calculate a relevance score for a job based on how well it matches a category
+    
+    Args:
+        job (dict): Job data
+        category (str): Category to match against (IT, AI, or RPA)
+        
+    Returns:
+        float: Relevance score between 0 and 1
+    """
+    if category not in JOB_CATEGORIES:
+        return 0.0
+    
+    # Get job text fields
+    title = job.get("title", "").lower()
+    description = job.get("description", "").lower()
+    employer = job.get("employer", "").lower()
+    
+    # Get category keywords
+    primary_keywords = JOB_CATEGORIES[category]["primary_keywords"]
+    secondary_keywords = JOB_CATEGORIES[category]["secondary_keywords"]
+    exclusion_keywords = JOB_CATEGORIES[category]["exclusion_keywords"]
+    title_patterns = JOB_CATEGORIES[category]["title_patterns"]
+    
+    # Check for exclusion keywords
+    for keyword in exclusion_keywords:
+        if keyword in title:
+            return 0.0
+    
+    # Initialize score components
+    title_score = 0.0
+    primary_score = 0.0
+    secondary_score = 0.0
+    
+    # Check title patterns (highest weight)
+    for pattern in title_patterns:
+        if re.search(pattern, title, re.IGNORECASE):
+            title_score = 1.0
+            break
+    
+    # Check primary keywords
+    primary_matches = 0
+    for keyword in primary_keywords:
+        if keyword in title:
+            primary_matches += 3  # Higher weight for title matches
+        elif keyword in description:
+            primary_matches += 1
+    primary_score = min(1.0, primary_matches / (len(primary_keywords) * 0.5))
+    
+    # Check secondary keywords
+    secondary_matches = 0
+    for keyword in secondary_keywords:
+        if keyword in title:
+            secondary_matches += 2  # Higher weight for title matches
+        elif keyword in description:
+            secondary_matches += 0.5
+    secondary_score = min(1.0, secondary_matches / (len(secondary_keywords) * 0.5))
+    
+    # Calculate final score with weights
+    final_score = (title_score * 0.5) + (primary_score * 0.35) + (secondary_score * 0.15)
+    
+    return final_score
+
+def is_job_relevant_for_category(job, category, min_score=0.3):
+    """
+    Determine if a job is relevant for a specific category
+    
+    Args:
+        job (dict): Job data
+        category (str): Category to check relevance for
+        min_score (float): Minimum relevance score threshold
+        
+    Returns:
+        bool: True if job is relevant for category, False otherwise
+    """
+    score = calculate_relevance_score(job, category)
+    return score >= min_score
+
 def scrape_jobs(category, search_terms, locations):
     """
     Scrape jobs for a specific category and search terms
@@ -329,15 +471,29 @@ def scrape_jobs(category, search_terms, locations):
             
             logger.info(f"  Found {len(jobs)} jobs for term: {term}")
             
-            # Process jobs
+            # Process jobs with advanced filtering
             for job in jobs:
-                if job["id"] not in unique_job_ids and not job["is_consultant"]:
+                # Skip if already processed
+                if job["id"] in unique_job_ids:
+                    continue
+                
+                # Skip consultant jobs
+                if job["is_consultant"]:
+                    continue
+                
+                # Apply advanced relevance filtering
+                if is_job_relevant_for_category(job, category):
+                    # Add relevance score and category
+                    job["relevance_score"] = calculate_relevance_score(job, category)
                     job["category"] = category
                     all_jobs.append(job)
                     unique_job_ids.add(job["id"])
             
             # Add a small delay to avoid rate limiting
             time.sleep(1)
+    
+    # Sort by relevance score (highest first)
+    all_jobs.sort(key=lambda x: x.get("relevance_score", 0), reverse=True)
     
     return all_jobs
 
@@ -361,23 +517,23 @@ def main():
     logger.info(f"Starting job scraping at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     
     # Scrape IT jobs
-    it_jobs = scrape_jobs("IT", JOB_CATEGORIES["IT"], LOCATIONS)
-    logger.info(f"\nFound {len(it_jobs)} IT jobs in Gothenburg and Kungsbacka")
+    it_jobs = scrape_jobs("IT", JOB_CATEGORIES["IT"]["primary_keywords"], LOCATIONS)
+    logger.info(f"\nFound {len(it_jobs)} relevant IT jobs in Gothenburg and Kungsbacka")
     save_jobs(it_jobs, IT_JOBS_OUTPUT)
     
     # Scrape AI jobs
-    ai_jobs = scrape_jobs("AI", JOB_CATEGORIES["AI"], LOCATIONS)
-    logger.info(f"\nFound {len(ai_jobs)} AI jobs in Gothenburg and Kungsbacka")
+    ai_jobs = scrape_jobs("AI", JOB_CATEGORIES["AI"]["primary_keywords"], LOCATIONS)
+    logger.info(f"\nFound {len(ai_jobs)} relevant AI jobs in Gothenburg and Kungsbacka")
     save_jobs(ai_jobs, AI_JOBS_OUTPUT)
     
     # Scrape RPA jobs
-    rpa_jobs = scrape_jobs("RPA", JOB_CATEGORIES["RPA"], LOCATIONS)
-    logger.info(f"\nFound {len(rpa_jobs)} RPA jobs in Gothenburg and Kungsbacka")
+    rpa_jobs = scrape_jobs("RPA", JOB_CATEGORIES["RPA"]["primary_keywords"], LOCATIONS)
+    logger.info(f"\nFound {len(rpa_jobs)} relevant RPA jobs in Gothenburg and Kungsbacka")
     save_jobs(rpa_jobs, RPA_JOBS_OUTPUT)
     
     # Combine all jobs
     all_jobs = it_jobs + ai_jobs + rpa_jobs
-    logger.info(f"\nFound {len(all_jobs)} total jobs in Gothenburg and Kungsbacka")
+    logger.info(f"\nFound {len(all_jobs)} total relevant jobs in Gothenburg and Kungsbacka")
     save_jobs(all_jobs, ALL_JOBS_OUTPUT)
     
     # Update last updated timestamp
