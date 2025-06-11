@@ -25,7 +25,7 @@ jobs:
           
       - name: Run job scraper
         run: |
-          python scripts/new_sources/indeed_job_scraper.py
+          python scripts/jobtech_job_scraper.py
           
       - name: Configure Git
         run: |
@@ -34,5 +34,5 @@ jobs:
           
       - name: Commit and push if changes
         run: |
-          git add filtered_jobs.json government_it_jobs.json ai_jobs_gothenburg.json meaningful_jobs_gothenburg.json last_updated.txt
+          git add it_jobs.json ai_jobs.json rpa_jobs.json all_jobs.json last_updated.txt
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update job listings: $(date +'%Y-%m-%d')" && git push)
