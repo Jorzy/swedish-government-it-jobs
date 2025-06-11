@@ -510,3 +510,623 @@ Found 303 total jobs in Gothenburg and Kungsbacka
 2025-06-10 09:22:54,403 - INFO - Updated last_updated.txt with current timestamp
 2025-06-10 09:22:54,403 - INFO - 
 Job scraping completed at 2025-06-10 09:22:54
+2025-06-10 09:49:06,793 - INFO - Starting job scraping at 2025-06-10 09:49:06
+2025-06-10 09:49:06,793 - INFO - 
+Searching for IT jobs in Göteborg...
+2025-06-10 09:49:06,793 - INFO -   Searching for term: systemutvecklare
+2025-06-10 09:49:06,793 - INFO - Searching JobTech API for 'systemutvecklare' in Göteborg
+2025-06-10 09:49:08,170 - INFO - Found 134 total hits, retrieved 100 jobs
+2025-06-10 09:49:08,188 - INFO -   Found 100 jobs for term: systemutvecklare
+2025-06-10 09:49:09,201 - INFO -   Searching for term: programmerare
+2025-06-10 09:49:09,202 - INFO - Searching JobTech API for 'programmerare' in Göteborg
+2025-06-10 09:49:10,565 - INFO - Found 134 total hits, retrieved 100 jobs
+2025-06-10 09:49:10,582 - INFO -   Found 100 jobs for term: programmerare
+2025-06-10 09:49:11,584 - INFO -   Searching for term: mjukvaruutvecklare
+2025-06-10 09:49:11,584 - INFO - Searching JobTech API for 'mjukvaruutvecklare' in Göteborg
+2025-06-10 09:49:12,865 - INFO - Found 124 total hits, retrieved 100 jobs
+2025-06-10 09:49:12,884 - INFO -   Found 100 jobs for term: mjukvaruutvecklare
+2025-06-10 09:49:13,899 - INFO -   Searching for term: software developer
+2025-06-10 09:49:13,900 - INFO - Searching JobTech API for 'software developer' in Göteborg
+2025-06-10 09:49:15,172 - INFO - Found 134 total hits, retrieved 100 jobs
+2025-06-10 09:49:15,189 - INFO -   Found 100 jobs for term: software developer
+2025-06-10 09:49:16,192 - INFO -   Searching for term: backend developer
+2025-06-10 09:49:16,192 - INFO - Searching JobTech API for 'backend developer' in Göteborg
+2025-06-10 09:49:17,083 - INFO - Found 23 total hits, retrieved 23 jobs
+2025-06-10 09:49:17,088 - INFO -   Found 23 jobs for term: backend developer
+2025-06-10 09:49:18,090 - INFO -   Searching for term: frontend developer
+2025-06-10 09:49:18,090 - INFO - Searching JobTech API for 'frontend developer' in Göteborg
+2025-06-10 09:49:18,590 - INFO - Found 2 total hits, retrieved 2 jobs
+2025-06-10 09:49:18,592 - INFO -   Found 2 jobs for term: frontend developer
+2025-06-10 09:49:19,594 - INFO -   Searching for term: fullstack developer
+2025-06-10 09:49:19,594 - INFO - Searching JobTech API for 'fullstack developer' in Göteborg
+2025-06-10 09:49:20,365 - INFO - Found 11 total hits, retrieved 11 jobs
+2025-06-10 09:49:20,368 - INFO -   Found 11 jobs for term: fullstack developer
+2025-06-10 09:49:21,370 - INFO -   Searching for term: devops engineer
+2025-06-10 09:49:21,370 - INFO - Searching JobTech API for 'devops engineer' in Göteborg
+2025-06-10 09:49:22,010 - INFO - Found 7 total hits, retrieved 7 jobs
+2025-06-10 09:49:22,012 - INFO -   Found 7 jobs for term: devops engineer
+2025-06-10 09:49:23,014 - INFO -   Searching for term: system architect
+2025-06-10 09:49:23,014 - INFO - Searching JobTech API for 'system architect' in Göteborg
+2025-06-10 09:49:24,370 - INFO - Found 603 total hits, retrieved 100 jobs
+2025-06-10 09:49:24,389 - INFO -   Found 100 jobs for term: system architect
+2025-06-10 09:49:25,405 - INFO -   Searching for term: IT-arkitekt
+2025-06-10 09:49:25,405 - INFO - Searching JobTech API for 'IT-arkitekt' in Göteborg
+2025-06-10 09:49:26,330 - INFO - Found 23 total hits, retrieved 23 jobs
+2025-06-10 09:49:26,334 - INFO -   Found 23 jobs for term: IT-arkitekt
+2025-06-10 09:49:27,337 - INFO -   Searching for term: IT-tekniker
+2025-06-10 09:49:27,337 - INFO - Searching JobTech API for 'IT-tekniker' in Göteborg
+2025-06-10 09:49:28,222 - INFO - Found 16 total hits, retrieved 16 jobs
+2025-06-10 09:49:28,225 - INFO -   Found 16 jobs for term: IT-tekniker
+2025-06-10 09:49:29,227 - INFO -   Searching for term: system administrator
+2025-06-10 09:49:29,227 - INFO - Searching JobTech API for 'system administrator' in Göteborg
+2025-06-10 09:49:29,593 - INFO - Found 1 total hits, retrieved 1 jobs
+2025-06-10 09:49:29,593 - INFO -   Found 1 jobs for term: system administrator
+2025-06-10 09:49:30,595 - INFO -   Searching for term: nätverkstekniker
+2025-06-10 09:49:30,595 - INFO - Searching JobTech API for 'nätverkstekniker' in Göteborg
+2025-06-10 09:49:31,376 - INFO - Found 16 total hits, retrieved 16 jobs
+2025-06-10 09:49:31,378 - INFO -   Found 16 jobs for term: nätverkstekniker
+2025-06-10 09:49:32,381 - INFO -   Searching for term: network engineer
+2025-06-10 09:49:32,381 - INFO - Searching JobTech API for 'network engineer' in Göteborg
+2025-06-10 09:49:33,029 - INFO - Found 4 total hits, retrieved 4 jobs
+2025-06-10 09:49:33,031 - INFO -   Found 4 jobs for term: network engineer
+2025-06-10 09:49:34,033 - INFO -   Searching for term: database administrator
+2025-06-10 09:49:34,033 - INFO - Searching JobTech API for 'database administrator' in Göteborg
+2025-06-10 09:49:34,493 - INFO - Found 1 total hits, retrieved 1 jobs
+2025-06-10 09:49:34,494 - INFO -   Found 1 jobs for term: database administrator
+2025-06-10 09:49:35,495 - INFO -   Searching for term: databasutvecklare
+2025-06-10 09:49:35,495 - INFO - Searching JobTech API for 'databasutvecklare' in Göteborg
+2025-06-10 09:49:35,849 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:49:35,850 - WARNING - JobTech API returned no results for 'databasutvecklare' in Göteborg, trying Indeed API
+2025-06-10 09:49:35,850 - INFO - Searching Indeed API for 'databasutvecklare' in Göteborg
+2025-06-10 09:49:35,850 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:49:35,850 - WARNING - No jobs found for term: databasutvecklare
+2025-06-10 09:49:35,850 - INFO - 
+Searching for IT jobs in Kungsbacka...
+2025-06-10 09:49:35,850 - INFO -   Searching for term: systemutvecklare
+2025-06-10 09:49:35,850 - INFO - Searching JobTech API for 'systemutvecklare' in Kungsbacka
+2025-06-10 09:49:36,204 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:49:36,205 - WARNING - JobTech API returned no results for 'systemutvecklare' in Kungsbacka, trying Indeed API
+2025-06-10 09:49:36,205 - INFO - Searching Indeed API for 'systemutvecklare' in Kungsbacka
+2025-06-10 09:49:36,205 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:49:36,205 - WARNING - No jobs found for term: systemutvecklare
+2025-06-10 09:49:36,205 - INFO -   Searching for term: programmerare
+2025-06-10 09:49:36,205 - INFO - Searching JobTech API for 'programmerare' in Kungsbacka
+2025-06-10 09:49:36,566 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:49:36,567 - WARNING - JobTech API returned no results for 'programmerare' in Kungsbacka, trying Indeed API
+2025-06-10 09:49:36,568 - INFO - Searching Indeed API for 'programmerare' in Kungsbacka
+2025-06-10 09:49:36,568 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:49:36,568 - WARNING - No jobs found for term: programmerare
+2025-06-10 09:49:36,568 - INFO -   Searching for term: mjukvaruutvecklare
+2025-06-10 09:49:36,568 - INFO - Searching JobTech API for 'mjukvaruutvecklare' in Kungsbacka
+2025-06-10 09:49:36,986 - INFO - Found 1 total hits, retrieved 1 jobs
+2025-06-10 09:49:36,987 - INFO -   Found 1 jobs for term: mjukvaruutvecklare
+2025-06-10 09:49:37,989 - INFO -   Searching for term: software developer
+2025-06-10 09:49:37,989 - INFO - Searching JobTech API for 'software developer' in Kungsbacka
+2025-06-10 09:49:38,349 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:49:38,349 - WARNING - JobTech API returned no results for 'software developer' in Kungsbacka, trying Indeed API
+2025-06-10 09:49:38,349 - INFO - Searching Indeed API for 'software developer' in Kungsbacka
+2025-06-10 09:49:38,350 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:49:38,350 - WARNING - No jobs found for term: software developer
+2025-06-10 09:49:38,350 - INFO -   Searching for term: backend developer
+2025-06-10 09:49:38,350 - INFO - Searching JobTech API for 'backend developer' in Kungsbacka
+2025-06-10 09:49:38,711 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:49:38,712 - WARNING - JobTech API returned no results for 'backend developer' in Kungsbacka, trying Indeed API
+2025-06-10 09:49:38,712 - INFO - Searching Indeed API for 'backend developer' in Kungsbacka
+2025-06-10 09:49:38,712 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:49:38,712 - WARNING - No jobs found for term: backend developer
+2025-06-10 09:49:38,712 - INFO -   Searching for term: frontend developer
+2025-06-10 09:49:38,712 - INFO - Searching JobTech API for 'frontend developer' in Kungsbacka
+2025-06-10 09:49:39,072 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:49:39,072 - WARNING - JobTech API returned no results for 'frontend developer' in Kungsbacka, trying Indeed API
+2025-06-10 09:49:39,072 - INFO - Searching Indeed API for 'frontend developer' in Kungsbacka
+2025-06-10 09:49:39,073 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:49:39,073 - WARNING - No jobs found for term: frontend developer
+2025-06-10 09:49:39,073 - INFO -   Searching for term: fullstack developer
+2025-06-10 09:49:39,073 - INFO - Searching JobTech API for 'fullstack developer' in Kungsbacka
+2025-06-10 09:49:39,427 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:49:39,428 - WARNING - JobTech API returned no results for 'fullstack developer' in Kungsbacka, trying Indeed API
+2025-06-10 09:49:39,428 - INFO - Searching Indeed API for 'fullstack developer' in Kungsbacka
+2025-06-10 09:49:39,428 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:49:39,428 - WARNING - No jobs found for term: fullstack developer
+2025-06-10 09:49:39,428 - INFO -   Searching for term: devops engineer
+2025-06-10 09:49:39,428 - INFO - Searching JobTech API for 'devops engineer' in Kungsbacka
+2025-06-10 09:49:39,786 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:49:39,787 - WARNING - JobTech API returned no results for 'devops engineer' in Kungsbacka, trying Indeed API
+2025-06-10 09:49:39,787 - INFO - Searching Indeed API for 'devops engineer' in Kungsbacka
+2025-06-10 09:49:39,787 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:49:39,787 - WARNING - No jobs found for term: devops engineer
+2025-06-10 09:49:39,787 - INFO -   Searching for term: system architect
+2025-06-10 09:49:39,787 - INFO - Searching JobTech API for 'system architect' in Kungsbacka
+2025-06-10 09:49:40,670 - INFO - Found 16 total hits, retrieved 16 jobs
+2025-06-10 09:49:40,673 - INFO -   Found 16 jobs for term: system architect
+2025-06-10 09:49:41,675 - INFO -   Searching for term: IT-arkitekt
+2025-06-10 09:49:41,675 - INFO - Searching JobTech API for 'IT-arkitekt' in Kungsbacka
+2025-06-10 09:49:42,035 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:49:42,036 - WARNING - JobTech API returned no results for 'IT-arkitekt' in Kungsbacka, trying Indeed API
+2025-06-10 09:49:42,036 - INFO - Searching Indeed API for 'IT-arkitekt' in Kungsbacka
+2025-06-10 09:49:42,036 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:49:42,036 - WARNING - No jobs found for term: IT-arkitekt
+2025-06-10 09:49:42,036 - INFO -   Searching for term: IT-tekniker
+2025-06-10 09:49:42,037 - INFO - Searching JobTech API for 'IT-tekniker' in Kungsbacka
+2025-06-10 09:49:42,680 - INFO - Found 5 total hits, retrieved 5 jobs
+2025-06-10 09:49:42,681 - INFO -   Found 5 jobs for term: IT-tekniker
+2025-06-10 09:49:43,682 - INFO -   Searching for term: system administrator
+2025-06-10 09:49:43,683 - INFO - Searching JobTech API for 'system administrator' in Kungsbacka
+2025-06-10 09:49:44,041 - INFO - Found 1 total hits, retrieved 1 jobs
+2025-06-10 09:49:44,042 - INFO -   Found 1 jobs for term: system administrator
+2025-06-10 09:49:45,043 - INFO -   Searching for term: nätverkstekniker
+2025-06-10 09:49:45,044 - INFO - Searching JobTech API for 'nätverkstekniker' in Kungsbacka
+2025-06-10 09:49:45,405 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:49:45,406 - WARNING - JobTech API returned no results for 'nätverkstekniker' in Kungsbacka, trying Indeed API
+2025-06-10 09:49:45,406 - INFO - Searching Indeed API for 'nätverkstekniker' in Kungsbacka
+2025-06-10 09:49:45,407 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:49:45,407 - WARNING - No jobs found for term: nätverkstekniker
+2025-06-10 09:49:45,407 - INFO -   Searching for term: network engineer
+2025-06-10 09:49:45,407 - INFO - Searching JobTech API for 'network engineer' in Kungsbacka
+2025-06-10 09:49:45,769 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:49:45,770 - WARNING - JobTech API returned no results for 'network engineer' in Kungsbacka, trying Indeed API
+2025-06-10 09:49:45,770 - INFO - Searching Indeed API for 'network engineer' in Kungsbacka
+2025-06-10 09:49:45,770 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:49:45,770 - WARNING - No jobs found for term: network engineer
+2025-06-10 09:49:45,770 - INFO -   Searching for term: database administrator
+2025-06-10 09:49:45,770 - INFO - Searching JobTech API for 'database administrator' in Kungsbacka
+2025-06-10 09:49:46,126 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:49:46,127 - WARNING - JobTech API returned no results for 'database administrator' in Kungsbacka, trying Indeed API
+2025-06-10 09:49:46,127 - INFO - Searching Indeed API for 'database administrator' in Kungsbacka
+2025-06-10 09:49:46,127 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:49:46,127 - WARNING - No jobs found for term: database administrator
+2025-06-10 09:49:46,127 - INFO -   Searching for term: databasutvecklare
+2025-06-10 09:49:46,127 - INFO - Searching JobTech API for 'databasutvecklare' in Kungsbacka
+2025-06-10 09:49:46,483 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:49:46,484 - WARNING - JobTech API returned no results for 'databasutvecklare' in Kungsbacka, trying Indeed API
+2025-06-10 09:49:46,484 - INFO - Searching Indeed API for 'databasutvecklare' in Kungsbacka
+2025-06-10 09:49:46,484 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:49:46,484 - WARNING - No jobs found for term: databasutvecklare
+2025-06-10 09:49:46,484 - INFO - 
+Found 107 relevant IT jobs in Gothenburg and Kungsbacka
+2025-06-10 09:49:46,493 - INFO - Saved 107 jobs to /home/ubuntu/job_search_project/updated_version_v3/it_jobs.json
+2025-06-10 09:49:46,494 - INFO - 
+Searching for AI jobs in Göteborg...
+2025-06-10 09:49:46,494 - INFO -   Searching for term: AI
+2025-06-10 09:49:46,494 - INFO - Searching JobTech API for 'AI' in Göteborg
+2025-06-10 09:49:47,877 - INFO - Found 94 total hits, retrieved 94 jobs
+2025-06-10 09:49:47,895 - INFO -   Found 94 jobs for term: AI
+2025-06-10 09:49:48,907 - INFO -   Searching for term: artificial intelligence
+2025-06-10 09:49:48,907 - INFO - Searching JobTech API for 'artificial intelligence' in Göteborg
+2025-06-10 09:49:50,304 - INFO - Found 94 total hits, retrieved 94 jobs
+2025-06-10 09:49:50,323 - INFO -   Found 94 jobs for term: artificial intelligence
+2025-06-10 09:49:51,329 - INFO -   Searching for term: artificiell intelligens
+2025-06-10 09:49:51,330 - INFO - Searching JobTech API for 'artificiell intelligens' in Göteborg
+2025-06-10 09:49:52,677 - INFO - Found 94 total hits, retrieved 94 jobs
+2025-06-10 09:49:52,696 - INFO -   Found 94 jobs for term: artificiell intelligens
+2025-06-10 09:49:53,702 - INFO -   Searching for term: machine learning
+2025-06-10 09:49:53,702 - INFO - Searching JobTech API for 'machine learning' in Göteborg
+2025-06-10 09:49:54,645 - INFO - Found 26 total hits, retrieved 26 jobs
+2025-06-10 09:49:54,653 - INFO -   Found 26 jobs for term: machine learning
+2025-06-10 09:49:55,655 - INFO -   Searching for term: maskininlärning
+2025-06-10 09:49:55,656 - INFO - Searching JobTech API for 'maskininlärning' in Göteborg
+2025-06-10 09:49:56,447 - INFO - Found 6 total hits, retrieved 6 jobs
+2025-06-10 09:49:56,448 - INFO -   Found 6 jobs for term: maskininlärning
+2025-06-10 09:49:57,450 - INFO -   Searching for term: deep learning
+2025-06-10 09:49:57,450 - INFO - Searching JobTech API for 'deep learning' in Göteborg
+2025-06-10 09:49:58,699 - INFO - Found 162 total hits, retrieved 100 jobs
+2025-06-10 09:49:58,721 - INFO -   Found 100 jobs for term: deep learning
+2025-06-10 09:49:59,733 - INFO -   Searching for term: djupinlärning
+2025-06-10 09:49:59,734 - INFO - Searching JobTech API for 'djupinlärning' in Göteborg
+2025-06-10 09:50:00,098 - INFO - Found 1 total hits, retrieved 1 jobs
+2025-06-10 09:50:00,099 - INFO -   Found 1 jobs for term: djupinlärning
+2025-06-10 09:50:01,100 - INFO -   Searching for term: neural networks
+2025-06-10 09:50:01,100 - INFO - Searching JobTech API for 'neural networks' in Göteborg
+2025-06-10 09:50:02,020 - INFO - Found 22 total hits, retrieved 22 jobs
+2025-06-10 09:50:02,026 - INFO -   Found 22 jobs for term: neural networks
+2025-06-10 09:50:03,029 - INFO -   Searching for term: neurala nätverk
+2025-06-10 09:50:03,029 - INFO - Searching JobTech API for 'neurala nätverk' in Göteborg
+2025-06-10 09:50:03,392 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:50:03,393 - WARNING - JobTech API returned no results for 'neurala nätverk' in Göteborg, trying Indeed API
+2025-06-10 09:50:03,393 - INFO - Searching Indeed API for 'neurala nätverk' in Göteborg
+2025-06-10 09:50:03,393 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:50:03,393 - WARNING - No jobs found for term: neurala nätverk
+2025-06-10 09:50:03,393 - INFO -   Searching for term: data scientist
+2025-06-10 09:50:03,393 - INFO - Searching JobTech API for 'data scientist' in Göteborg
+2025-06-10 09:50:03,754 - INFO - Found 1 total hits, retrieved 1 jobs
+2025-06-10 09:50:03,755 - INFO -   Found 1 jobs for term: data scientist
+2025-06-10 09:50:04,757 - INFO -   Searching for term: data science
+2025-06-10 09:50:04,757 - INFO - Searching JobTech API for 'data science' in Göteborg
+2025-06-10 09:50:06,064 - INFO - Found 61 total hits, retrieved 61 jobs
+2025-06-10 09:50:06,080 - INFO -   Found 61 jobs for term: data science
+2025-06-10 09:50:07,088 - INFO -   Searching for term: datavetenskap
+2025-06-10 09:50:07,088 - INFO - Searching JobTech API for 'datavetenskap' in Göteborg
+2025-06-10 09:50:07,850 - INFO - Found 14 total hits, retrieved 14 jobs
+2025-06-10 09:50:07,852 - INFO -   Found 14 jobs for term: datavetenskap
+2025-06-10 09:50:08,855 - INFO -   Searching for term: NLP
+2025-06-10 09:50:08,855 - INFO - Searching JobTech API for 'NLP' in Göteborg
+2025-06-10 09:50:09,212 - INFO - Found 1 total hits, retrieved 1 jobs
+2025-06-10 09:50:09,213 - INFO -   Found 1 jobs for term: NLP
+2025-06-10 09:50:10,215 - INFO -   Searching for term: natural language processing
+2025-06-10 09:50:10,215 - INFO - Searching JobTech API for 'natural language processing' in Göteborg
+2025-06-10 09:50:11,566 - INFO - Found 107 total hits, retrieved 100 jobs
+2025-06-10 09:50:11,591 - INFO -   Found 100 jobs for term: natural language processing
+2025-06-10 09:50:12,599 - INFO -   Searching for term: computer vision
+2025-06-10 09:50:12,599 - INFO - Searching JobTech API for 'computer vision' in Göteborg
+2025-06-10 09:50:12,969 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:50:12,969 - WARNING - JobTech API returned no results for 'computer vision' in Göteborg, trying Indeed API
+2025-06-10 09:50:12,969 - INFO - Searching Indeed API for 'computer vision' in Göteborg
+2025-06-10 09:50:12,970 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:50:12,970 - WARNING - No jobs found for term: computer vision
+2025-06-10 09:50:12,970 - INFO -   Searching for term: datorseende
+2025-06-10 09:50:12,970 - INFO - Searching JobTech API for 'datorseende' in Göteborg
+2025-06-10 09:50:13,329 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:50:13,329 - WARNING - JobTech API returned no results for 'datorseende' in Göteborg, trying Indeed API
+2025-06-10 09:50:13,330 - INFO - Searching Indeed API for 'datorseende' in Göteborg
+2025-06-10 09:50:13,330 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:50:13,330 - WARNING - No jobs found for term: datorseende
+2025-06-10 09:50:13,330 - INFO -   Searching for term: predictive analytics
+2025-06-10 09:50:13,330 - INFO - Searching JobTech API for 'predictive analytics' in Göteborg
+2025-06-10 09:50:13,683 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:50:13,683 - WARNING - JobTech API returned no results for 'predictive analytics' in Göteborg, trying Indeed API
+2025-06-10 09:50:13,684 - INFO - Searching Indeed API for 'predictive analytics' in Göteborg
+2025-06-10 09:50:13,684 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:50:13,684 - WARNING - No jobs found for term: predictive analytics
+2025-06-10 09:50:13,684 - INFO -   Searching for term: prediktiv analys
+2025-06-10 09:50:13,684 - INFO - Searching JobTech API for 'prediktiv analys' in Göteborg
+2025-06-10 09:50:14,067 - INFO - Found 1 total hits, retrieved 1 jobs
+2025-06-10 09:50:14,068 - INFO -   Found 1 jobs for term: prediktiv analys
+2025-06-10 09:50:15,069 - INFO -   Searching for term: big data
+2025-06-10 09:50:15,070 - INFO - Searching JobTech API for 'big data' in Göteborg
+2025-06-10 09:50:15,713 - INFO - Found 7 total hits, retrieved 7 jobs
+2025-06-10 09:50:15,716 - INFO -   Found 7 jobs for term: big data
+2025-06-10 09:50:16,718 - INFO -   Searching for term: stordata
+2025-06-10 09:50:16,719 - INFO - Searching JobTech API for 'stordata' in Göteborg
+2025-06-10 09:50:17,082 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:50:17,082 - WARNING - JobTech API returned no results for 'stordata' in Göteborg, trying Indeed API
+2025-06-10 09:50:17,083 - INFO - Searching Indeed API for 'stordata' in Göteborg
+2025-06-10 09:50:17,083 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:50:17,083 - WARNING - No jobs found for term: stordata
+2025-06-10 09:50:17,083 - INFO -   Searching for term: data mining
+2025-06-10 09:50:17,083 - INFO - Searching JobTech API for 'data mining' in Göteborg
+2025-06-10 09:50:17,576 - INFO - Found 2 total hits, retrieved 2 jobs
+2025-06-10 09:50:17,577 - INFO -   Found 2 jobs for term: data mining
+2025-06-10 09:50:18,579 - INFO -   Searching for term: datautvinning
+2025-06-10 09:50:18,579 - INFO - Searching JobTech API for 'datautvinning' in Göteborg
+2025-06-10 09:50:19,073 - INFO - Found 1 total hits, retrieved 1 jobs
+2025-06-10 09:50:19,073 - INFO -   Found 1 jobs for term: datautvinning
+2025-06-10 09:50:20,075 - INFO -   Searching for term: AI engineer
+2025-06-10 09:50:20,075 - INFO - Searching JobTech API for 'AI engineer' in Göteborg
+2025-06-10 09:50:20,965 - INFO - Found 18 total hits, retrieved 18 jobs
+2025-06-10 09:50:20,970 - INFO -   Found 18 jobs for term: AI engineer
+2025-06-10 09:50:21,972 - INFO -   Searching for term: ML engineer
+2025-06-10 09:50:21,973 - INFO - Searching JobTech API for 'ML engineer' in Göteborg
+2025-06-10 09:50:22,618 - INFO - Found 6 total hits, retrieved 6 jobs
+2025-06-10 09:50:22,621 - INFO -   Found 6 jobs for term: ML engineer
+2025-06-10 09:50:23,623 - INFO - 
+Searching for AI jobs in Kungsbacka...
+2025-06-10 09:50:23,624 - INFO -   Searching for term: AI
+2025-06-10 09:50:23,624 - INFO - Searching JobTech API for 'AI' in Kungsbacka
+2025-06-10 09:50:24,127 - INFO - Found 2 total hits, retrieved 2 jobs
+2025-06-10 09:50:24,129 - INFO -   Found 2 jobs for term: AI
+2025-06-10 09:50:25,130 - INFO -   Searching for term: artificial intelligence
+2025-06-10 09:50:25,130 - INFO - Searching JobTech API for 'artificial intelligence' in Kungsbacka
+2025-06-10 09:50:25,620 - INFO - Found 2 total hits, retrieved 2 jobs
+2025-06-10 09:50:25,622 - INFO -   Found 2 jobs for term: artificial intelligence
+2025-06-10 09:50:26,623 - INFO -   Searching for term: artificiell intelligens
+2025-06-10 09:50:26,624 - INFO - Searching JobTech API for 'artificiell intelligens' in Kungsbacka
+2025-06-10 09:50:27,118 - INFO - Found 2 total hits, retrieved 2 jobs
+2025-06-10 09:50:27,119 - INFO -   Found 2 jobs for term: artificiell intelligens
+2025-06-10 09:50:28,120 - INFO -   Searching for term: machine learning
+2025-06-10 09:50:28,121 - INFO - Searching JobTech API for 'machine learning' in Kungsbacka
+2025-06-10 09:50:28,477 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:50:28,477 - WARNING - JobTech API returned no results for 'machine learning' in Kungsbacka, trying Indeed API
+2025-06-10 09:50:28,478 - INFO - Searching Indeed API for 'machine learning' in Kungsbacka
+2025-06-10 09:50:28,478 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:50:28,478 - WARNING - No jobs found for term: machine learning
+2025-06-10 09:50:28,478 - INFO -   Searching for term: maskininlärning
+2025-06-10 09:50:28,478 - INFO - Searching JobTech API for 'maskininlärning' in Kungsbacka
+2025-06-10 09:50:28,835 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:50:28,836 - WARNING - JobTech API returned no results for 'maskininlärning' in Kungsbacka, trying Indeed API
+2025-06-10 09:50:28,836 - INFO - Searching Indeed API for 'maskininlärning' in Kungsbacka
+2025-06-10 09:50:28,836 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:50:28,837 - WARNING - No jobs found for term: maskininlärning
+2025-06-10 09:50:28,837 - INFO -   Searching for term: deep learning
+2025-06-10 09:50:28,837 - INFO - Searching JobTech API for 'deep learning' in Kungsbacka
+2025-06-10 09:50:29,192 - INFO - Found 1 total hits, retrieved 1 jobs
+2025-06-10 09:50:29,193 - INFO -   Found 1 jobs for term: deep learning
+2025-06-10 09:50:30,194 - INFO -   Searching for term: djupinlärning
+2025-06-10 09:50:30,194 - INFO - Searching JobTech API for 'djupinlärning' in Kungsbacka
+2025-06-10 09:50:30,555 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:50:30,556 - WARNING - JobTech API returned no results for 'djupinlärning' in Kungsbacka, trying Indeed API
+2025-06-10 09:50:30,556 - INFO - Searching Indeed API for 'djupinlärning' in Kungsbacka
+2025-06-10 09:50:30,556 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:50:30,556 - WARNING - No jobs found for term: djupinlärning
+2025-06-10 09:50:30,556 - INFO -   Searching for term: neural networks
+2025-06-10 09:50:30,556 - INFO - Searching JobTech API for 'neural networks' in Kungsbacka
+2025-06-10 09:50:30,912 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:50:30,912 - WARNING - JobTech API returned no results for 'neural networks' in Kungsbacka, trying Indeed API
+2025-06-10 09:50:30,912 - INFO - Searching Indeed API for 'neural networks' in Kungsbacka
+2025-06-10 09:50:30,912 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:50:30,912 - WARNING - No jobs found for term: neural networks
+2025-06-10 09:50:30,912 - INFO -   Searching for term: neurala nätverk
+2025-06-10 09:50:30,913 - INFO - Searching JobTech API for 'neurala nätverk' in Kungsbacka
+2025-06-10 09:50:31,282 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:50:31,283 - WARNING - JobTech API returned no results for 'neurala nätverk' in Kungsbacka, trying Indeed API
+2025-06-10 09:50:31,283 - INFO - Searching Indeed API for 'neurala nätverk' in Kungsbacka
+2025-06-10 09:50:31,283 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:50:31,283 - WARNING - No jobs found for term: neurala nätverk
+2025-06-10 09:50:31,283 - INFO -   Searching for term: data scientist
+2025-06-10 09:50:31,283 - INFO - Searching JobTech API for 'data scientist' in Kungsbacka
+2025-06-10 09:50:31,640 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:50:31,640 - WARNING - JobTech API returned no results for 'data scientist' in Kungsbacka, trying Indeed API
+2025-06-10 09:50:31,640 - INFO - Searching Indeed API for 'data scientist' in Kungsbacka
+2025-06-10 09:50:31,641 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:50:31,641 - WARNING - No jobs found for term: data scientist
+2025-06-10 09:50:31,641 - INFO -   Searching for term: data science
+2025-06-10 09:50:31,641 - INFO - Searching JobTech API for 'data science' in Kungsbacka
+2025-06-10 09:50:32,001 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:50:32,002 - WARNING - JobTech API returned no results for 'data science' in Kungsbacka, trying Indeed API
+2025-06-10 09:50:32,002 - INFO - Searching Indeed API for 'data science' in Kungsbacka
+2025-06-10 09:50:32,002 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:50:32,002 - WARNING - No jobs found for term: data science
+2025-06-10 09:50:32,002 - INFO -   Searching for term: datavetenskap
+2025-06-10 09:50:32,002 - INFO - Searching JobTech API for 'datavetenskap' in Kungsbacka
+2025-06-10 09:50:32,368 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:50:32,369 - WARNING - JobTech API returned no results for 'datavetenskap' in Kungsbacka, trying Indeed API
+2025-06-10 09:50:32,369 - INFO - Searching Indeed API for 'datavetenskap' in Kungsbacka
+2025-06-10 09:50:32,369 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:50:32,369 - WARNING - No jobs found for term: datavetenskap
+2025-06-10 09:50:32,369 - INFO -   Searching for term: NLP
+2025-06-10 09:50:32,369 - INFO - Searching JobTech API for 'NLP' in Kungsbacka
+2025-06-10 09:50:32,743 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:50:32,744 - WARNING - JobTech API returned no results for 'NLP' in Kungsbacka, trying Indeed API
+2025-06-10 09:50:32,744 - INFO - Searching Indeed API for 'NLP' in Kungsbacka
+2025-06-10 09:50:32,744 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:50:32,744 - WARNING - No jobs found for term: NLP
+2025-06-10 09:50:32,745 - INFO -   Searching for term: natural language processing
+2025-06-10 09:50:32,745 - INFO - Searching JobTech API for 'natural language processing' in Kungsbacka
+2025-06-10 09:50:33,253 - INFO - Found 2 total hits, retrieved 2 jobs
+2025-06-10 09:50:33,254 - INFO -   Found 2 jobs for term: natural language processing
+2025-06-10 09:50:34,256 - INFO -   Searching for term: computer vision
+2025-06-10 09:50:34,256 - INFO - Searching JobTech API for 'computer vision' in Kungsbacka
+2025-06-10 09:50:34,632 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:50:34,633 - WARNING - JobTech API returned no results for 'computer vision' in Kungsbacka, trying Indeed API
+2025-06-10 09:50:34,633 - INFO - Searching Indeed API for 'computer vision' in Kungsbacka
+2025-06-10 09:50:34,633 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:50:34,633 - WARNING - No jobs found for term: computer vision
+2025-06-10 09:50:34,633 - INFO -   Searching for term: datorseende
+2025-06-10 09:50:34,633 - INFO - Searching JobTech API for 'datorseende' in Kungsbacka
+2025-06-10 09:50:34,990 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:50:34,991 - WARNING - JobTech API returned no results for 'datorseende' in Kungsbacka, trying Indeed API
+2025-06-10 09:50:34,991 - INFO - Searching Indeed API for 'datorseende' in Kungsbacka
+2025-06-10 09:50:34,991 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:50:34,991 - WARNING - No jobs found for term: datorseende
+2025-06-10 09:50:34,991 - INFO -   Searching for term: predictive analytics
+2025-06-10 09:50:34,991 - INFO - Searching JobTech API for 'predictive analytics' in Kungsbacka
+2025-06-10 09:50:35,355 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:50:35,355 - WARNING - JobTech API returned no results for 'predictive analytics' in Kungsbacka, trying Indeed API
+2025-06-10 09:50:35,355 - INFO - Searching Indeed API for 'predictive analytics' in Kungsbacka
+2025-06-10 09:50:35,355 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:50:35,356 - WARNING - No jobs found for term: predictive analytics
+2025-06-10 09:50:35,356 - INFO -   Searching for term: prediktiv analys
+2025-06-10 09:50:35,356 - INFO - Searching JobTech API for 'prediktiv analys' in Kungsbacka
+2025-06-10 09:50:35,708 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:50:35,709 - WARNING - JobTech API returned no results for 'prediktiv analys' in Kungsbacka, trying Indeed API
+2025-06-10 09:50:35,709 - INFO - Searching Indeed API for 'prediktiv analys' in Kungsbacka
+2025-06-10 09:50:35,709 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:50:35,709 - WARNING - No jobs found for term: prediktiv analys
+2025-06-10 09:50:35,709 - INFO -   Searching for term: big data
+2025-06-10 09:50:35,709 - INFO - Searching JobTech API for 'big data' in Kungsbacka
+2025-06-10 09:50:36,071 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:50:36,071 - WARNING - JobTech API returned no results for 'big data' in Kungsbacka, trying Indeed API
+2025-06-10 09:50:36,071 - INFO - Searching Indeed API for 'big data' in Kungsbacka
+2025-06-10 09:50:36,071 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:50:36,071 - WARNING - No jobs found for term: big data
+2025-06-10 09:50:36,072 - INFO -   Searching for term: stordata
+2025-06-10 09:50:36,072 - INFO - Searching JobTech API for 'stordata' in Kungsbacka
+2025-06-10 09:50:36,436 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:50:36,436 - WARNING - JobTech API returned no results for 'stordata' in Kungsbacka, trying Indeed API
+2025-06-10 09:50:36,437 - INFO - Searching Indeed API for 'stordata' in Kungsbacka
+2025-06-10 09:50:36,437 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:50:36,437 - WARNING - No jobs found for term: stordata
+2025-06-10 09:50:36,437 - INFO -   Searching for term: data mining
+2025-06-10 09:50:36,437 - INFO - Searching JobTech API for 'data mining' in Kungsbacka
+2025-06-10 09:50:36,801 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:50:36,802 - WARNING - JobTech API returned no results for 'data mining' in Kungsbacka, trying Indeed API
+2025-06-10 09:50:36,802 - INFO - Searching Indeed API for 'data mining' in Kungsbacka
+2025-06-10 09:50:36,802 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:50:36,802 - WARNING - No jobs found for term: data mining
+2025-06-10 09:50:36,802 - INFO -   Searching for term: datautvinning
+2025-06-10 09:50:36,802 - INFO - Searching JobTech API for 'datautvinning' in Kungsbacka
+2025-06-10 09:50:37,162 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:50:37,163 - WARNING - JobTech API returned no results for 'datautvinning' in Kungsbacka, trying Indeed API
+2025-06-10 09:50:37,163 - INFO - Searching Indeed API for 'datautvinning' in Kungsbacka
+2025-06-10 09:50:37,163 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:50:37,163 - WARNING - No jobs found for term: datautvinning
+2025-06-10 09:50:37,163 - INFO -   Searching for term: AI engineer
+2025-06-10 09:50:37,164 - INFO - Searching JobTech API for 'AI engineer' in Kungsbacka
+2025-06-10 09:50:37,527 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:50:37,528 - WARNING - JobTech API returned no results for 'AI engineer' in Kungsbacka, trying Indeed API
+2025-06-10 09:50:37,528 - INFO - Searching Indeed API for 'AI engineer' in Kungsbacka
+2025-06-10 09:50:37,528 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:50:37,528 - WARNING - No jobs found for term: AI engineer
+2025-06-10 09:50:37,528 - INFO -   Searching for term: ML engineer
+2025-06-10 09:50:37,528 - INFO - Searching JobTech API for 'ML engineer' in Kungsbacka
+2025-06-10 09:50:37,894 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:50:37,894 - WARNING - JobTech API returned no results for 'ML engineer' in Kungsbacka, trying Indeed API
+2025-06-10 09:50:37,895 - INFO - Searching Indeed API for 'ML engineer' in Kungsbacka
+2025-06-10 09:50:37,895 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:50:37,895 - WARNING - No jobs found for term: ML engineer
+2025-06-10 09:50:37,895 - INFO - 
+Found 21 relevant AI jobs in Gothenburg and Kungsbacka
+2025-06-10 09:50:37,898 - INFO - Saved 21 jobs to /home/ubuntu/job_search_project/updated_version_v3/ai_jobs.json
+2025-06-10 09:50:37,899 - INFO - 
+Searching for RPA jobs in Göteborg...
+2025-06-10 09:50:37,899 - INFO -   Searching for term: RPA
+2025-06-10 09:50:37,899 - INFO - Searching JobTech API for 'RPA' in Göteborg
+2025-06-10 09:50:38,266 - INFO - Found 1 total hits, retrieved 1 jobs
+2025-06-10 09:50:38,267 - INFO -   Found 1 jobs for term: RPA
+2025-06-10 09:50:39,269 - INFO -   Searching for term: robotic process automation
+2025-06-10 09:50:39,270 - INFO - Searching JobTech API for 'robotic process automation' in Göteborg
+2025-06-10 09:50:40,205 - INFO - Found 23 total hits, retrieved 23 jobs
+2025-06-10 09:50:40,212 - INFO -   Found 23 jobs for term: robotic process automation
+2025-06-10 09:50:41,215 - INFO -   Searching for term: robotiserad processautomation
+2025-06-10 09:50:41,215 - INFO - Searching JobTech API for 'robotiserad processautomation' in Göteborg
+2025-06-10 09:50:41,574 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:50:41,575 - WARNING - JobTech API returned no results for 'robotiserad processautomation' in Göteborg, trying Indeed API
+2025-06-10 09:50:41,575 - INFO - Searching Indeed API for 'robotiserad processautomation' in Göteborg
+2025-06-10 09:50:41,575 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:50:41,575 - WARNING - No jobs found for term: robotiserad processautomation
+2025-06-10 09:50:41,575 - INFO -   Searching for term: process automation
+2025-06-10 09:50:41,575 - INFO - Searching JobTech API for 'process automation' in Göteborg
+2025-06-10 09:50:42,511 - INFO - Found 23 total hits, retrieved 23 jobs
+2025-06-10 09:50:42,516 - INFO -   Found 23 jobs for term: process automation
+2025-06-10 09:50:43,518 - INFO -   Searching for term: processautomation
+2025-06-10 09:50:43,519 - INFO - Searching JobTech API for 'processautomation' in Göteborg
+2025-06-10 09:50:43,877 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:50:43,877 - WARNING - JobTech API returned no results for 'processautomation' in Göteborg, trying Indeed API
+2025-06-10 09:50:43,877 - INFO - Searching Indeed API for 'processautomation' in Göteborg
+2025-06-10 09:50:43,877 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:50:43,877 - WARNING - No jobs found for term: processautomation
+2025-06-10 09:50:43,877 - INFO -   Searching for term: automation developer
+2025-06-10 09:50:43,878 - INFO - Searching JobTech API for 'automation developer' in Göteborg
+2025-06-10 09:50:44,662 - INFO - Found 14 total hits, retrieved 14 jobs
+2025-06-10 09:50:44,666 - INFO -   Found 14 jobs for term: automation developer
+2025-06-10 09:50:45,668 - INFO -   Searching for term: automationsutvecklare
+2025-06-10 09:50:45,668 - INFO - Searching JobTech API for 'automationsutvecklare' in Göteborg
+2025-06-10 09:50:46,028 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:50:46,028 - WARNING - JobTech API returned no results for 'automationsutvecklare' in Göteborg, trying Indeed API
+2025-06-10 09:50:46,029 - INFO - Searching Indeed API for 'automationsutvecklare' in Göteborg
+2025-06-10 09:50:46,029 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:50:46,029 - WARNING - No jobs found for term: automationsutvecklare
+2025-06-10 09:50:46,029 - INFO -   Searching for term: UiPath
+2025-06-10 09:50:46,029 - INFO - Searching JobTech API for 'UiPath' in Göteborg
+2025-06-10 09:50:46,383 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:50:46,384 - WARNING - JobTech API returned no results for 'UiPath' in Göteborg, trying Indeed API
+2025-06-10 09:50:46,384 - INFO - Searching Indeed API for 'UiPath' in Göteborg
+2025-06-10 09:50:46,384 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:50:46,384 - WARNING - No jobs found for term: UiPath
+2025-06-10 09:50:46,384 - INFO -   Searching for term: Blue Prism
+2025-06-10 09:50:46,384 - INFO - Searching JobTech API for 'Blue Prism' in Göteborg
+2025-06-10 09:50:46,742 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:50:46,743 - WARNING - JobTech API returned no results for 'Blue Prism' in Göteborg, trying Indeed API
+2025-06-10 09:50:46,743 - INFO - Searching Indeed API for 'Blue Prism' in Göteborg
+2025-06-10 09:50:46,743 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:50:46,743 - WARNING - No jobs found for term: Blue Prism
+2025-06-10 09:50:46,743 - INFO -   Searching for term: Automation Anywhere
+2025-06-10 09:50:46,743 - INFO - Searching JobTech API for 'Automation Anywhere' in Göteborg
+2025-06-10 09:50:47,105 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:50:47,105 - WARNING - JobTech API returned no results for 'Automation Anywhere' in Göteborg, trying Indeed API
+2025-06-10 09:50:47,106 - INFO - Searching Indeed API for 'Automation Anywhere' in Göteborg
+2025-06-10 09:50:47,106 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:50:47,106 - WARNING - No jobs found for term: Automation Anywhere
+2025-06-10 09:50:47,106 - INFO -   Searching for term: Microsoft Power Automate
+2025-06-10 09:50:47,106 - INFO - Searching JobTech API for 'Microsoft Power Automate' in Göteborg
+2025-06-10 09:50:48,460 - INFO - Found 186 total hits, retrieved 100 jobs
+2025-06-10 09:50:48,478 - INFO -   Found 100 jobs for term: Microsoft Power Automate
+2025-06-10 09:50:49,485 - INFO -   Searching for term: business process automation
+2025-06-10 09:50:49,485 - INFO - Searching JobTech API for 'business process automation' in Göteborg
+2025-06-10 09:50:50,463 - INFO - Found 34 total hits, retrieved 34 jobs
+2025-06-10 09:50:50,472 - INFO -   Found 34 jobs for term: business process automation
+2025-06-10 09:50:51,474 - INFO -   Searching for term: affärsprocessautomation
+2025-06-10 09:50:51,475 - INFO - Searching JobTech API for 'affärsprocessautomation' in Göteborg
+2025-06-10 09:50:51,834 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:50:51,835 - WARNING - JobTech API returned no results for 'affärsprocessautomation' in Göteborg, trying Indeed API
+2025-06-10 09:50:51,835 - INFO - Searching Indeed API for 'affärsprocessautomation' in Göteborg
+2025-06-10 09:50:51,835 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:50:51,835 - WARNING - No jobs found for term: affärsprocessautomation
+2025-06-10 09:50:51,835 - INFO - 
+Searching for RPA jobs in Kungsbacka...
+2025-06-10 09:50:51,835 - INFO -   Searching for term: RPA
+2025-06-10 09:50:51,835 - INFO - Searching JobTech API for 'RPA' in Kungsbacka
+2025-06-10 09:50:52,198 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:50:52,198 - WARNING - JobTech API returned no results for 'RPA' in Kungsbacka, trying Indeed API
+2025-06-10 09:50:52,199 - INFO - Searching Indeed API for 'RPA' in Kungsbacka
+2025-06-10 09:50:52,199 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:50:52,199 - WARNING - No jobs found for term: RPA
+2025-06-10 09:50:52,199 - INFO -   Searching for term: robotic process automation
+2025-06-10 09:50:52,199 - INFO - Searching JobTech API for 'robotic process automation' in Kungsbacka
+2025-06-10 09:50:52,561 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:50:52,562 - WARNING - JobTech API returned no results for 'robotic process automation' in Kungsbacka, trying Indeed API
+2025-06-10 09:50:52,562 - INFO - Searching Indeed API for 'robotic process automation' in Kungsbacka
+2025-06-10 09:50:52,562 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:50:52,562 - WARNING - No jobs found for term: robotic process automation
+2025-06-10 09:50:52,562 - INFO -   Searching for term: robotiserad processautomation
+2025-06-10 09:50:52,562 - INFO - Searching JobTech API for 'robotiserad processautomation' in Kungsbacka
+2025-06-10 09:50:52,923 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:50:52,923 - WARNING - JobTech API returned no results for 'robotiserad processautomation' in Kungsbacka, trying Indeed API
+2025-06-10 09:50:52,923 - INFO - Searching Indeed API for 'robotiserad processautomation' in Kungsbacka
+2025-06-10 09:50:52,923 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:50:52,923 - WARNING - No jobs found for term: robotiserad processautomation
+2025-06-10 09:50:52,924 - INFO -   Searching for term: process automation
+2025-06-10 09:50:52,924 - INFO - Searching JobTech API for 'process automation' in Kungsbacka
+2025-06-10 09:50:53,285 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:50:53,286 - WARNING - JobTech API returned no results for 'process automation' in Kungsbacka, trying Indeed API
+2025-06-10 09:50:53,287 - INFO - Searching Indeed API for 'process automation' in Kungsbacka
+2025-06-10 09:50:53,287 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:50:53,287 - WARNING - No jobs found for term: process automation
+2025-06-10 09:50:53,287 - INFO -   Searching for term: processautomation
+2025-06-10 09:50:53,287 - INFO - Searching JobTech API for 'processautomation' in Kungsbacka
+2025-06-10 09:50:53,658 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:50:53,659 - WARNING - JobTech API returned no results for 'processautomation' in Kungsbacka, trying Indeed API
+2025-06-10 09:50:53,659 - INFO - Searching Indeed API for 'processautomation' in Kungsbacka
+2025-06-10 09:50:53,659 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:50:53,659 - WARNING - No jobs found for term: processautomation
+2025-06-10 09:50:53,659 - INFO -   Searching for term: automation developer
+2025-06-10 09:50:53,659 - INFO - Searching JobTech API for 'automation developer' in Kungsbacka
+2025-06-10 09:50:54,019 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:50:54,020 - WARNING - JobTech API returned no results for 'automation developer' in Kungsbacka, trying Indeed API
+2025-06-10 09:50:54,020 - INFO - Searching Indeed API for 'automation developer' in Kungsbacka
+2025-06-10 09:50:54,020 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:50:54,020 - WARNING - No jobs found for term: automation developer
+2025-06-10 09:50:54,020 - INFO -   Searching for term: automationsutvecklare
+2025-06-10 09:50:54,020 - INFO - Searching JobTech API for 'automationsutvecklare' in Kungsbacka
+2025-06-10 09:50:54,380 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:50:54,381 - WARNING - JobTech API returned no results for 'automationsutvecklare' in Kungsbacka, trying Indeed API
+2025-06-10 09:50:54,381 - INFO - Searching Indeed API for 'automationsutvecklare' in Kungsbacka
+2025-06-10 09:50:54,381 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:50:54,381 - WARNING - No jobs found for term: automationsutvecklare
+2025-06-10 09:50:54,381 - INFO -   Searching for term: UiPath
+2025-06-10 09:50:54,381 - INFO - Searching JobTech API for 'UiPath' in Kungsbacka
+2025-06-10 09:50:54,745 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:50:54,746 - WARNING - JobTech API returned no results for 'UiPath' in Kungsbacka, trying Indeed API
+2025-06-10 09:50:54,746 - INFO - Searching Indeed API for 'UiPath' in Kungsbacka
+2025-06-10 09:50:54,746 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:50:54,746 - WARNING - No jobs found for term: UiPath
+2025-06-10 09:50:54,746 - INFO -   Searching for term: Blue Prism
+2025-06-10 09:50:54,746 - INFO - Searching JobTech API for 'Blue Prism' in Kungsbacka
+2025-06-10 09:50:55,100 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:50:55,101 - WARNING - JobTech API returned no results for 'Blue Prism' in Kungsbacka, trying Indeed API
+2025-06-10 09:50:55,101 - INFO - Searching Indeed API for 'Blue Prism' in Kungsbacka
+2025-06-10 09:50:55,101 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:50:55,101 - WARNING - No jobs found for term: Blue Prism
+2025-06-10 09:50:55,101 - INFO -   Searching for term: Automation Anywhere
+2025-06-10 09:50:55,101 - INFO - Searching JobTech API for 'Automation Anywhere' in Kungsbacka
+2025-06-10 09:50:55,462 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:50:55,462 - WARNING - JobTech API returned no results for 'Automation Anywhere' in Kungsbacka, trying Indeed API
+2025-06-10 09:50:55,462 - INFO - Searching Indeed API for 'Automation Anywhere' in Kungsbacka
+2025-06-10 09:50:55,462 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:50:55,462 - WARNING - No jobs found for term: Automation Anywhere
+2025-06-10 09:50:55,462 - INFO -   Searching for term: Microsoft Power Automate
+2025-06-10 09:50:55,463 - INFO - Searching JobTech API for 'Microsoft Power Automate' in Kungsbacka
+2025-06-10 09:50:56,056 - INFO - Found 6 total hits, retrieved 6 jobs
+2025-06-10 09:50:56,057 - INFO -   Found 6 jobs for term: Microsoft Power Automate
+2025-06-10 09:50:57,057 - INFO -   Searching for term: business process automation
+2025-06-10 09:50:57,057 - INFO - Searching JobTech API for 'business process automation' in Kungsbacka
+2025-06-10 09:50:57,422 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:50:57,423 - WARNING - JobTech API returned no results for 'business process automation' in Kungsbacka, trying Indeed API
+2025-06-10 09:50:57,423 - INFO - Searching Indeed API for 'business process automation' in Kungsbacka
+2025-06-10 09:50:57,423 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:50:57,423 - WARNING - No jobs found for term: business process automation
+2025-06-10 09:50:57,424 - INFO -   Searching for term: affärsprocessautomation
+2025-06-10 09:50:57,424 - INFO - Searching JobTech API for 'affärsprocessautomation' in Kungsbacka
+2025-06-10 09:50:57,785 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-10 09:50:57,786 - WARNING - JobTech API returned no results for 'affärsprocessautomation' in Kungsbacka, trying Indeed API
+2025-06-10 09:50:57,786 - INFO - Searching Indeed API for 'affärsprocessautomation' in Kungsbacka
+2025-06-10 09:50:57,786 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-10 09:50:57,786 - WARNING - No jobs found for term: affärsprocessautomation
+2025-06-10 09:50:57,786 - INFO - 
+Found 3 relevant RPA jobs in Gothenburg and Kungsbacka
+2025-06-10 09:50:57,787 - INFO - Saved 3 jobs to /home/ubuntu/job_search_project/updated_version_v3/rpa_jobs.json
+2025-06-10 09:50:57,787 - INFO - 
+Found 131 total relevant jobs in Gothenburg and Kungsbacka
+2025-06-10 09:50:57,800 - INFO - Saved 131 jobs to /home/ubuntu/job_search_project/updated_version_v3/all_jobs.json
+2025-06-10 09:50:57,800 - INFO - Updated last_updated.txt with current timestamp
+2025-06-10 09:50:57,801 - INFO - 
+Job scraping completed at 2025-06-10 09:50:57
