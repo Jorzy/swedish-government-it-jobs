@@ -200,6 +200,18 @@
             margin-top: -5px;
             margin-bottom: 10px;
         }
+        .empty-category-message {
+            padding: 2rem;
+            text-align: center;
+            background-color: #f8f9fa;
+            border-radius: 10px;
+            margin: 2rem 0;
+        }
+        .empty-category-icon {
+            font-size: 3rem;
+            color: #6c757d;
+            margin-bottom: 1rem;
+        }
     </style>
 </head>
 <body>
@@ -472,11 +484,26 @@
             const jobList = document.getElementById(containerId);
             
             if (jobs.length === 0) {
-                jobList.innerHTML = `
-                    <div class="col-12 alert alert-info">
-                        <p>Inga jobb hittades som matchar dina kriterier.</p>
-                    </div>
-                `;
+                // Special handling for RPA jobs tab which might be empty
+                if (containerId === 'rpaJobList') {
+                    jobList.innerHTML = `
+                        <div class="col-12 empty-category-message">
+                            <div class="empty-category-icon">
+                                <i class="bi bi-robot"></i>
+                            </div>
+                            <h3>Inga RPA-jobb hittades</h3>
+                            <p>För närvarande finns inga RPA-jobb som uppfyller våra strikta relevanskriterier.</p>
+                            <p>Vi använder avancerad filtrering för att säkerställa att endast genuina RPA-roller visas.</p>
+                            <p>Prova att söka i IT- eller AI-kategorierna, eller kom tillbaka senare när nya jobb har lagts till.</p>
+                        </div>
+                    `;
+                } else {
+                    jobList.innerHTML = `
+                        <div class="col-12 alert alert-info">
+                            <p>Inga jobb hittades som matchar dina kriterier.</p>
+                        </div>
+                    `;
+                }
                 return;
             }
             
@@ -530,7 +557,7 @@
                 
                 // Skip low relevance jobs if filter is enabled
                 const relevanceScore = job.relevance_score !== undefined ? job.relevance_score : 0.5;
-                if (document.getElementById('relevanceFilter').checked && relevanceScore < 0.4) {
+                if (document.getElementById('relevanceFilter').checked && relevanceScore < 0.6) {
                     return;
                 }
                 
@@ -606,11 +633,15 @@
                 `;
             });
             
-            jobList.innerHTML = jobsHTML || `
-                <div class="col-12 alert alert-info">
-                    <p>Inga jobb hittades som matchar dina kriterier.</p>
-                </div>
-            `;
+            if (jobsHTML === '') {
+                jobList.innerHTML = `
+                    <div class="col-12 alert alert-info">
+                        <p>Inga jobb hittades som matchar dina kriterier.</p>
+                    </div>
+                `;
+            } else {
+                jobList.innerHTML = jobsHTML;
+            }
         }
 
         function populateEmployerFilter(jobs) {
@@ -673,7 +704,7 @@
                 const matchesLocation = !selectedLocation || location.includes(selectedLocation);
                 const matchesMeaningful = !showOnlyMeaningful || isMeaningful;
                 const matchesActive = !showOnlyActive || !isExpired;
-                const matchesRelevance = !showOnlyRelevant || relevanceScore >= 0.4;
+                const matchesRelevance = !showOnlyRelevant || relevanceScore >= 0.6;
                 
                 // Show or hide based on filter results
                 if (matchesSearch && matchesEmployer && matchesLocation && matchesMeaningful && matchesActive && matchesRelevance) {
@@ -689,14 +720,14 @@
             
             // Show message if no jobs match filters
             const noJobsMessage = activeTabContent.querySelector('.alert');
-            if (visibleJobs.length === 0) {
+            if (visibleJobs.length === 0 && !activeTabContent.querySelector('.empty-category-message')) {
                 if (!noJobsMessage) {
                     const message = document.createElement('div');
                     message.className = 'col-12 alert alert-info';
                     message.innerHTML = '<p>Inga jobb hittades som matchar dina kriterier.</p>';
                     activeTabContent.querySelector('.row').appendChild(message);
                 }
-            } else if (noJobsMessage) {
+            } else if (noJobsMessage && visibleJobs.length > 0) {
                 noJobsMessage.remove();
             }
         }
