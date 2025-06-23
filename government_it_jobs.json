@@ -20,6 +20,26 @@
     "description": "Om rollen \n\nVi söker en senior utvecklare, en skicklig och driven fullstackutvecklare som vill vara en del av ett team där kvalitet, samarbete och teknisk innovation står i fokus. \n\nSom senior systemutvecklare hos oss blir du en nyckelspelare i vårt utvecklingsteam som ansvarar för arkitektur, tekniska val och implementation av våra digitala plattformar. Vi arbetar i Microsoftstacken och bygger moderna webb- och mobilapplikationer i Azure-miljö med Umbraco CMS. Tillsammans med teamet utvecklare ..."
   },
   {
+    "id": "29784180",
+    "title": "Erfaren systemutvecklare inom IT och industri",
+    "employer": "Jobnet AB",
+    "location": "Göteborg",
+    "published": "2025-06-22",
+    "deadline": "2025-07-03",
+    "url": "https://jobnet.se/systemutvecklare-programmerare-prevas-goteborg?utm_source=arbetsformedlingen",
+    "description": "Engagerad utvecklare till företag i teknisk framkant. På Prevas blir du del av ett familjärt gäng som varvar hållbart förbättringsarbete med en och annan lekfull aktivitet.\n\nDitt jobb på Prevas\n\nPå Prevas i Göteborg är det en grupp som specialiserat sig på att utveckla robusta, pålitliga och kundanpassade systemstöd för produktion. Arbetet drivs ofta i projektform och dessa kan variera i både inriktning och storlek.\n\nDin roll blir att tillsammans med andra utvecklare hitta lösningar och skapa ef..."
+  },
+  {
+    "id": "29780547",
+    "title": "Fullstack.NET utvecklare",
+    "employer": "Kronofogdemyndigheten",
+    "location": "Göteborg",
+    "published": "2025-06-19",
+    "deadline": "2025-08-22",
+    "url": "https://kronofogden.varbi.com/what:job/jobID:838724/type:job/where:1/apply:1",
+    "description": "Ett jobb som räknas! Hos oss bidrar du till ett välfungerande samhälle för all­män­het och företag.\r\n\r\nVi söker nu en fullstackutvecklare som har ett stort intresse för front-end och Angular. Just nu anställer vi medarbetare i Stockholm, Göteborg, Malmö och Kalmar. Vill du skapa samhällsnytta och bidra till att utveckla Kronofogdens it-avdelning? Vill du ha möjlighet att kombinera familjeliv/fritid med arbetsliv? Bra, läs vidare.\n\nVi är närmare 200 kollegor på Kronofogden som arbetar med IT-utve..."
+  },
+  {
     "id": "29778998",
     "title": "Javautvecklare i början av karriären",
     "employer": "Kronofogdemyndigheten",
@@ -38,16 +58,6 @@
     "deadline": "2025-08-29",
     "url": "https://kronofogden.varbi.com/what:job/jobID:837730/type:job/where:1/apply:1",
     "description": "Är du en skicklig systemutvecklare inom Java som också har erfarenhet av lösningsarkitektur, kravhantering- och/eller testautomatisering?  Tycker du om att ha ett jobb som räknas?  Då måste du läsa vidare!\n\nHos oss bidrar du till ett välfungerande samhälle för allmänhet och företag samtidigt som du får möjlighet att bidra och utveckla dina kunskaper! Kronofogden erbjuder ett modernt och hållbart arbetsliv där t.\r\n\r\nex. distansarbete är en möjlighet i den omfattning verksamheten beslutar.\n\nJust n..."
-  },
-  {
-    "id": "29773815",
-    "title": "Senior systemutvecklare",
-    "employer": "Rasulson Consulting AB",
-    "location": "Göteborg",
-    "published": "2025-06-16",
-    "deadline": "2025-06-19",
-    "url": "https://jobb.rasulson.com/jobs/6062650-senior-systemutvecklare",
-    "description": "Om rollen\nVi söker en senior systemutvecklare med djup kompetens inom ServiceNow för ett uppdrag där du kommer att utveckla funktionalitet i en plattform som stödjer både interna processer och externa leveranser. Arbetet omfattar bland annat utveckling av portaler, katalogtjänster, formulär, arbetsflöden samt systemintegrationer.\nDu blir en del av ett agilt team med god samarbetskultur och nära dialog med kravställare. Uppdraget utförs till största del på distans, men innebär även deltagande i f..."
   },
   {
     "id": "29773389",
@@ -70,16 +80,6 @@
     "description": "Brinner du för ny teknik och användarupplevelser som gör vardagen enklare? Då är det dig vi söker som vår nya kollega i team Butler, som ansvarar för Trafikverkets beställnings- och självbetjäningsplattform.\n\r\n\r\nSystemutvecklare till team Butler\r\n\r\nArbetsuppgifter\n\nI rollen som systemutvecklare hos oss jobbar du i ett team som har ansvar för leveranser kopplade till Beställningsportalen Butler, en egenutvecklad portal som bygger på Optimizely CMS och Commerce. Under de kommande åren har vi en he..."
   },
   {
-    "id": "29719328",
-    "title": "Javautvecklare till bolag inom cybersäkerhet",
-    "employer": "Jobnet AB",
-    "location": "Göteborg",
-    "published": "2025-05-21",
-    "deadline": "2025-06-20",
-    "url": "https://jobnet.se/systemutvecklare-zacco?utm_source=arbetsformedlingen&utm_medium=annons&utm_content=zacco&utm_term=systemutvecklare",
-    "description": "Är du en kommunikativ utvecklare med stort intresse för digital säkerhet och Java? Jobba tillsammans med kompetenta kollegor mot det gemensamma målet att göra Zacco Digital Trust till Europas främsta cybersäkerhetspartner.  \nZacco Digital Trust arbetar med spännande och innovativa kunder – allt ifrån nystartade företag till internationella storföretag. Här använder vi OWASP som det första steget mot säkrare kod och främjandet av en säkerhetsmedveten kultur.\nDin främsta uppgift blir att hjälpa ku..."
-  },
-  {
     "id": "29666864",
     "title": "Systemutvecklare .NET",
     "employer": "Sopra Steria Sweden AB",
@@ -98,16 +98,6 @@
     "deadline": "2025-06-30",
     "url": "https://techtalents.se/jobb/240-c-ec-utvecklare/?pnty_src=arbetsformedlingen",
     "description": "Om uppdraget\n\nVi vill jobba med dig som har arbetat ett tag med C++ eller EC++ helt enkelt 👩‍💻👨‍💻🦄\n\nHar du programmerat applikationer, jobbat med nätverkskommunikation, programmerat spel, experimenterat med Arduino, byggt mobilappar, skapat bibliotek eller ramverk, you name it, så hör av dig. Våra partners inom tech, fordon och spel med flera är i behov av din guidning, stöttning, nya synvinklar, idéer och kunskap för att driva utvecklingen framåt.\n\nVi söker dig som\n\nHar en akademisk utbildning ..."
-  },
-  {
-    "id": "29405869",
-    "title": "Erfaren systemutvecklare inom IT och industri",
-    "employer": "Jobnet AB",
-    "location": "Göteborg",
-    "published": "2025-01-23",
-    "deadline": "2025-06-19",
-    "url": "https://jobnet.se/systemutvecklare-programmerare-prevas-goteborg?utm_source=arbetsformedlingen",
-    "description": "Engagerad utvecklare till företag i teknisk framkant. På Prevas blir du del av ett familjärt gäng som varvar hållbart förbättringsarbete med en och annan lekfull aktivitet.\n\nDitt jobb på Prevas\n\nPå Prevas i Göteborg är det en grupp som specialiserat sig på att utveckla robusta, pålitliga och kundanpassade systemstöd för produktion. Arbetet drivs ofta i projektform och dessa kan variera i både inriktning och storlek.\n\nDin roll blir att tillsammans med andra utvecklare hitta lösningar och skapa ef..."
   },
   {
     "id": "29764136",
