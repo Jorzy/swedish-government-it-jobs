@@ -1,21 +1,21 @@
 #!/usr/bin/env python3
 """
-Enhanced JobTech Job Scraper with Strict Multi-layered Filtering
-
-This script uses the JobTech API (Arbetsförmedlingen) to search for IT, AI, and RPA jobs
-in Gothenburg and Kungsbacka, with strict multi-layered filtering to ensure only highly relevant jobs are included.
-It excludes consultant positions, academic positions, and other irrelevant listings.
+Enhanced Job Scraper with Advanced Filtering for IT, AI, and RPA Jobs
+Focuses on Gothenburg and Kungsbacka with strict relevance criteria
+Includes special handling for UiPath-related positions
+Excludes DevOps-related positions
 """
 
 import requests
 import json
-import os
-import time
-import re
-from datetime import datetime, timedelta
 import logging
+import os
+import re
+import time
+from datetime import datetime
+from typing import List, Dict, Any, Optional, Tuple
 
-# Set up logging
+# Configure logging
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s',
@@ -24,236 +24,138 @@ logging.basicConfig(
         logging.StreamHandler()
     ]
 )
-logger = logging.getLogger(__name__)
 
-# Configuration
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-IT_JOBS_OUTPUT = os.path.join(BASE_DIR, "it_jobs.json")
-AI_JOBS_OUTPUT = os.path.join(BASE_DIR, "ai_jobs.json")
-RPA_JOBS_OUTPUT = os.path.join(BASE_DIR, "rpa_jobs.json")
-ALL_JOBS_OUTPUT = os.path.join(BASE_DIR, "all_jobs.json")
-LAST_UPDATED_FILE = os.path.join(BASE_DIR, "last_updated.txt")
-LAST_RAPIDAPI_FILE = os.path.join(BASE_DIR, "last_rapidapi.txt")
-
-# JobTech API configuration
+# Constants
 JOBTECH_API_URL = "https://jobsearch.api.jobtechdev.se/search"
+INDEED_API_URL = "https://indeed-jobs-api.p.rapidapi.com/indeed-se/"
+RAPIDAPI_KEY = "YOUR_RAPIDAPI_KEY"  # Replace with your actual RapidAPI key if using Indeed API
+RAPIDAPI_HOST = "indeed-jobs-api.p.rapidapi.com"
 
-# RapidAPI configuration for Indeed Jobs API Sweden
-RAPIDAPI_KEY = "YOUR_RAPIDAPI_KEY"  # Replace with actual key if available
-RAPIDAPI_HOST = "indeed-jobs-api-sweden.p.rapidapi.com"
-RAPIDAPI_URL = "https://indeed-jobs-api-sweden.p.rapidapi.com/indeed-se"
+# Location codes
+GOTHENBURG_CODE = "1480"  # Göteborg kommun code
+KUNGSBACKA_CODE = "1384"  # Kungsbacka kommun code
 
-# Search parameters
-LOCATIONS = ["Göteborg", "Kungsbacka"]
-
-# Minimum relevance score threshold (0.0 to 1.0)
-MIN_RELEVANCE_SCORE = 0.6
-
-# Job categories with primary and secondary keywords for contextual matching
-JOB_CATEGORIES = {
-    "IT": {
-        "primary_keywords": [
-            "systemutvecklare", "programmerare", "mjukvaruutvecklare", "software developer",
-            "backend developer", "frontend developer", "fullstack developer", "devops engineer",
-            "system architect", "IT-arkitekt", "IT-tekniker", "system administrator",
-            "nätverkstekniker", "network engineer", "database administrator", "databasutvecklare"
-        ],
-        "secondary_keywords": [
-            "java", "python", "c#", ".net", "javascript", "typescript", "react", "angular",
-            "vue", "node.js", "php", "ruby", "go", "rust", "kotlin", "swift", "sql", "nosql",
-            "mongodb", "postgresql", "mysql", "oracle", "aws", "azure", "gcp", "docker",
-            "kubernetes", "linux", "windows server", "cisco", "juniper", "api", "rest",
-            "microservices", "agile", "scrum", "kanban", "git", "ci/cd", "jenkins", "gitlab"
-        ],
-        "exclusion_keywords": [
-            # Consultant roles
-            "konsult", "consultant", "bemanning", "rekrytering", "inhyrd", 
-            "staffing", "recruitment", "consulting",
-            
-            # Academic positions
-            "postdoc", "post-doc", "post doc", "doktorand", "phd student", "forskare", 
-            "professor", "lektor", "adjunkt", "assistant professor", "associate professor",
-            "doctoral", "postdoctoral", "post-doctoral", "forskningsassistent", "research assistant",
-            "examensarbete", "thesis", "master thesis", "master's thesis", "uppsats",
-            
-            # Unrelated positions
-            "styr och regler", "reglertekniker", "lärare", "teacher", "sjuksköterska", "nurse",
-            "läkare", "doctor", "ekonom", "accountant", "redovisning", "accounting",
-            "hr", "human resources", "personalvetare", "receptionist", "sekreterare", "secretary",
-            "administratör", "administrator", "chef", "manager", "ledare", "leader",
-            "försäljare", "sales", "säljare", "marknad", "marketing", "kommunikation", "communication"
-        ],
-        "required_title_patterns": [
-            r"utvecklare", r"developer", r"programmer", r"engineer", r"arkitekt", r"architect",
-            r"tekniker", r"specialist", r"expert", r"devops", r"frontend", r"backend", r"fullstack", 
-            r"system", r"network", r"database", r"data", r"security", r"säkerhet", r"support",
-            r"software", r"mjukvaru", r"it ", r" it", r"programmering", r"coding", r"kod", r"code"
-        ],
-        "exclusion_title_patterns": [
-            r"postdoc", r"post-doc", r"post doc", r"doktorand", r"phd", r"forskare", 
-            r"professor", r"lektor", r"adjunkt", r"doctoral", r"postdoctoral", r"post-doctoral",
-            r"examensarbete", r"thesis", r"master thesis", r"master's thesis", r"uppsats",
-            r"styr och regler", r"reglertekniker", r"lärare", r"teacher", r"sjuksköterska", r"nurse",
-            r"läkare", r"doctor", r"ekonom", r"accountant", r"redovisning", r"accounting",
-            r"hr", r"human resources", r"personalvetare", r"receptionist", r"sekreterare", r"secretary",
-            r"administratör", r"administrator", r"chef", r"manager", r"ledare", r"leader",
-            r"försäljare", r"sales", r"säljare", r"marknad", r"marketing", r"kommunikation", r"communication"
-        ]
-    },
-    "AI": {
-        "primary_keywords": [
-            "AI", "artificial intelligence", "artificiell intelligens", "machine learning",
-            "maskininlärning", "deep learning", "djupinlärning", "neural networks",
-            "neurala nätverk", "data scientist", "data science", "datavetenskap",
-            "NLP", "natural language processing", "computer vision", "datorseende",
-            "predictive analytics", "prediktiv analys", "big data", "stordata",
-            "data mining", "datautvinning", "AI engineer", "ML engineer"
-        ],
-        "secondary_keywords": [
-            "tensorflow", "pytorch", "keras", "scikit-learn", "pandas", "numpy",
-            "jupyter", "python", "r", "hadoop", "spark", "databricks", "kubeflow",
-            "mlops", "reinforcement learning", "förstärkningsinlärning", "supervised learning",
-            "unsupervised learning", "clustering", "classification", "regression",
-            "recommendation systems", "rekommendationssystem", "anomaly detection",
-            "anomalidetektering", "feature engineering", "model training", "model deployment",
-            "model monitoring", "data preprocessing", "data visualization", "datavisualisering"
-        ],
-        "exclusion_keywords": [
-            # Consultant roles
-            "konsult", "consultant", "bemanning", "rekrytering", "inhyrd", 
-            "staffing", "recruitment", "consulting",
-            
-            # Academic positions
-            "postdoc", "post-doc", "post doc", "doktorand", "phd student", "forskare", 
-            "professor", "lektor", "adjunkt", "assistant professor", "associate professor",
-            "doctoral", "postdoctoral", "post-doctoral", "forskningsassistent", "research assistant",
-            "examensarbete", "thesis", "master thesis", "master's thesis", "uppsats",
-            
-            # Unrelated positions
-            "styr och regler", "reglertekniker", "lärare", "teacher", "sjuksköterska", "nurse",
-            "läkare", "doctor", "ekonom", "accountant", "redovisning", "accounting",
-            "hr", "human resources", "personalvetare", "receptionist", "sekreterare", "secretary",
-            "administratör", "administrator", "chef", "manager", "ledare", "leader",
-            "försäljare", "sales", "säljare", "marknad", "marketing", "kommunikation", "communication"
-        ],
-        "required_title_patterns": [
-            r"AI", r"ML", r"machine learning", r"deep learning", r"data scientist",
-            r"data science", r"analytics", r"analys", r"data engineer", r"NLP",
-            r"computer vision", r"neural", r"intelligence", r"intelligens",
-            r"artificial intelligence", r"artificiell intelligens", r"maskininlärning",
-            r"djupinlärning", r"neurala nätverk", r"datavetenskap", r"datorseende",
-            r"prediktiv analys", r"stordata", r"datautvinning"
-        ],
-        "exclusion_title_patterns": [
-            r"postdoc", r"post-doc", r"post doc", r"doktorand", r"phd", r"forskare", 
-            r"professor", r"lektor", r"adjunkt", r"doctoral", r"postdoctoral", r"post-doctoral",
-            r"examensarbete", r"thesis", r"master thesis", r"master's thesis", r"uppsats",
-            r"styr och regler", r"reglertekniker", r"lärare", r"teacher", r"sjuksköterska", r"nurse",
-            r"läkare", r"doctor", r"ekonom", r"accountant", r"redovisning", r"accounting",
-            r"hr", r"human resources", r"personalvetare", r"receptionist", r"sekreterare", r"secretary",
-            r"administratör", r"administrator", r"chef", r"manager", r"ledare", r"leader",
-            r"försäljare", r"sales", r"säljare", r"marknad", r"marketing", r"kommunikation", r"communication"
-        ]
-    },
-    "RPA": {
-        "primary_keywords": [
-            "RPA", "robotic process automation", "robotiserad processautomation",
-            "process automation", "processautomation", "automation developer",
-            "automationsutvecklare", "UiPath", "Blue Prism", "Automation Anywhere",
-            "Microsoft Power Automate", "business process automation", "affärsprocessautomation"
-        ],
-        "secondary_keywords": [
-            "workflow automation", "arbetsflödesautomation", "process mining", "processmining",
-            "business process management", "affärsprocesshantering", "digital workforce",
-            "digital arbetskraft", "intelligent automation", "intelligent automatisering",
-            "hyperautomation", "hyperautomatisering", "task automation", "uppgiftsautomatisering",
-            "process optimization", "processoptimering", "bot", "robot", "attended automation",
-            "unattended automation", "cognitive automation", "kognitiv automatisering"
-        ],
-        "exclusion_keywords": [
-            # Consultant roles
-            "konsult", "consultant", "bemanning", "rekrytering", "inhyrd", 
-            "staffing", "recruitment", "consulting",
-            
-            # Academic positions
-            "postdoc", "post-doc", "post doc", "doktorand", "phd student", "forskare", 
-            "professor", "lektor", "adjunkt", "assistant professor", "associate professor",
-            "doctoral", "postdoctoral", "post-doctoral", "forskningsassistent", "research assistant",
-            "examensarbete", "thesis", "master thesis", "master's thesis", "uppsats",
-            
-            # Unrelated positions
-            "styr och regler", "reglertekniker", "lärare", "teacher", "sjuksköterska", "nurse",
-            "läkare", "doctor", "ekonom", "accountant", "redovisning", "accounting",
-            "hr", "human resources", "personalvetare", "receptionist", "sekreterare", "secretary",
-            "administratör", "administrator", "chef", "manager", "ledare", "leader",
-            "försäljare", "sales", "säljare", "marknad", "marketing", "kommunikation", "communication",
-            "DevSecOps", "DevOps", "fullstack", "frontend", "backend"
-        ],
-        "required_title_patterns": [
-            r"RPA", r"automation", r"automatisering", r"robot", r"process", r"UiPath",
-            r"Blue Prism", r"Automation Anywhere", r"Power Automate", r"robotic process",
-            r"robotiserad process", r"processautomation", r"affärsprocessautomation",
-            r"workflow automation", r"arbetsflödesautomation", r"process mining", r"processmining"
-        ],
-        "exclusion_title_patterns": [
-            r"postdoc", r"post-doc", r"post doc", r"doktorand", r"phd", r"forskare", 
-            r"professor", r"lektor", r"adjunkt", r"doctoral", r"postdoctoral", r"post-doctoral",
-            r"examensarbete", r"thesis", r"master thesis", r"master's thesis", r"uppsats",
-            r"styr och regler", r"reglertekniker", r"lärare", r"teacher", r"sjuksköterska", r"nurse",
-            r"läkare", r"doctor", r"ekonom", r"accountant", r"redovisning", r"accounting",
-            r"hr", r"human resources", r"personalvetare", r"receptionist", r"sekreterare", r"secretary",
-            r"administratör", r"administrator", r"chef", r"manager", r"ledare", r"leader",
-            r"försäljare", r"sales", r"säljare", r"marknad", r"marketing", r"kommunikation", r"communication",
-            r"DevSecOps", r"DevOps", r"fullstack", r"frontend", r"backend"
-        ]
-    }
-}
-
-# Meaningful employers keywords
-MEANINGFUL_ORGS = [
-    # Public sector
-    "försvarsmakten", "polisen", "polismyndigheten", "myndighet", "kommun", 
-    "region", "länsstyrelsen", "statlig", "staten", "government", "offentlig",
-    "förvaltning", "departement", "riksdag", "domstol", "skatteverket",
-    "arbetsförmedlingen", "försäkringskassan", "kriminalvården", "göteborgs stad",
-    "västra götalandsregionen", "trafikverket", "tullverket", "migrationsverket",
-    
-    # Healthcare
-    "sahlgrenska", "sjukhus", "vårdcentral", "folktandvården", "capio", "närhälsan",
-    
-    # Education
-    "göteborgs universitet", "chalmers", "högskola", "gymnasium", "grundskola", "förskola",
-    
-    # Non-profit/NGO
-    "röda korset", "rädda barnen", "stadsmissionen", "bris", "amnesty", "naturskyddsföreningen",
-    
-    # Research
-    "forskningsinstitut", "science park", "innovatum", "rise", "ivl", "fraunhofer"
+# Search terms for different job categories
+IT_SEARCH_TERMS = [
+    "systemutvecklare", "programmerare", "mjukvaruutvecklare", 
+    "software developer", "backend developer", "frontend developer", 
+    "fullstack developer", "system architect", "IT-arkitekt", 
+    "IT-tekniker", "system administrator", "nätverkstekniker", 
+    "network engineer", "database administrator", "databasutvecklare"
 ]
 
-# Consultant keywords to exclude
-CONSULTANT_KEYWORDS = [
-    "konsult", "consultant", "bemanning", "rekrytering", "inhyrd", 
-    "staffing", "recruitment", "consulting"
+AI_SEARCH_TERMS = [
+    "AI", "artificial intelligence", "machine learning", "deep learning", 
+    "data scientist", "data science", "ML engineer", "AI engineer", 
+    "NLP", "natural language processing", "computer vision", 
+    "neural networks", "maskininlärning", "artificiell intelligens"
 ]
 
-def search_jobtech_jobs(query, location, limit=100):
+RPA_SEARCH_TERMS = [
+    "RPA", "robotic process automation", "automation developer", 
+    "automationsutvecklare", "UiPath", "Blue Prism", "Automation Anywhere", 
+    "Microsoft Power Automate", "business process automation", 
+    "affärsprocessautomation"
+]
+
+# Exclusion patterns (jobs containing these in title or description will be filtered out)
+EXCLUSION_PATTERNS = [
+    r'\bconsult(ant)?\b', r'\bkonsult\b', r'\bpostdoc\b', r'\bpost-doc\b', 
+    r'\bphd\b', r'\bdoktorand\b', r'\bforskare\b', r'\bresearcher\b',
+    r'\bprofessor\b', r'\blecturer\b', r'\bteaching\b', r'\bundervisning\b',
+    r'\bdevops\b', r'\bdev-ops\b', r'\bdev ops\b', r'\bsite reliability\b', r'\bsre\b',
+    r'\bcloud engineer\b', r'\bcloud operations\b', r'\binfrastructure engineer\b'
+]
+
+# Required title patterns for each category (jobs must match at least one pattern to be included)
+IT_TITLE_PATTERNS = [
+    r'\bdeveloper\b', r'\butvecklare\b', r'\bprogramm(er|erare)\b', 
+    r'\bsoftware\b', r'\bmjukvaru\b', r'\bsystem\b', r'\barkitekt\b', 
+    r'\bIT\b', r'\btekniker\b', r'\badministrator\b', r'\bengine(er|ör)\b',
+    r'\bfullstack\b', r'\bfrontend\b', r'\bbackend\b', r'\bdatabas\b'
+]
+
+AI_TITLE_PATTERNS = [
+    r'\bAI\b', r'\bartificial intelligence\b', r'\bmachine learning\b', 
+    r'\bdeep learning\b', r'\bdata scien(ce|tist)\b', r'\bML\b', 
+    r'\bNLP\b', r'\bnatural language\b', r'\bcomputer vision\b', 
+    r'\bneural network\b', r'\bmaskininlärning\b', r'\bartificiell intelligens\b'
+]
+
+RPA_TITLE_PATTERNS = [
+    r'\bRPA\b', r'\brobotic process\b', r'\bautomation\b', 
+    r'\bautomations\b', r'\bUiPath\b', r'\bBlue Prism\b', 
+    r'\bAutomation Anywhere\b', r'\bPower Automate\b', 
+    r'\bprocess automation\b', r'\bprocessautomation\b'
+]
+
+# Secondary patterns (boost relevance score if these are found in description)
+IT_SECONDARY_PATTERNS = [
+    r'\bJava\b', r'\bPython\b', r'\bC#\b', r'\bJavaScript\b', r'\bTypeScript\b',
+    r'\bReact\b', r'\bAngular\b', r'\bVue\b', r'\bNode\.js\b', r'\bASP\.NET\b',
+    r'\bSQL\b', r'\bNoSQL\b', r'\bMongoDB\b', r'\bPostgreSQL\b', r'\bMySQL\b',
+    r'\bAPI\b', r'\bREST\b', r'\bGit\b', r'\bCI/CD\b', r'\bAgile\b', r'\bScrum\b',
+    r'\bkodning\b', r'\bprogrammering\b', r'\butveckling\b', r'\bsystemutveckling\b'
+]
+
+AI_SECONDARY_PATTERNS = [
+    r'\bTensorFlow\b', r'\bPyTorch\b', r'\bKeras\b', r'\bscikit-learn\b',
+    r'\bdata mining\b', r'\bpredictive model\b', r'\bprediktiv\b', r'\balgoritm\b',
+    r'\bstatistical analysis\b', r'\bstatistisk analys\b', r'\bdata processing\b',
+    r'\bfeature engineering\b', r'\bneural network\b', r'\bneurala nätverk\b',
+    r'\bGPT\b', r'\bLLM\b', r'\blarge language model\b', r'\btransformer\b',
+    r'\bcomputer vision\b', r'\bimage recognition\b', r'\bbildigenkänning\b'
+]
+
+RPA_SECONDARY_PATTERNS = [
+    r'\bUiPath\b', r'\bUiPath Studio\b', r'\bUiPath Orchestrator\b',
+    r'\bBlue Prism\b', r'\bAutomation Anywhere\b', r'\bPower Automate\b',
+    r'\bworkflow automation\b', r'\bprocess mining\b', r'\bautomatisering\b',
+    r'\bbusiness process\b', r'\baffärsprocess\b', r'\bbot\b', r'\brobot\b',
+    r'\bautomated task\b', r'\bautomatiserade uppgifter\b', r'\bscripting\b',
+    r'\bmacro\b', r'\bmakro\b', r'\bprocess efficiency\b', r'\beffektivisering\b'
+]
+
+# Meaningful employer keywords
+MEANINGFUL_EMPLOYER_PATTERNS = [
+    r'\bkommun\b', r'\bregion\b', r'\blandsting\b', r'\bstat\b', r'\bmyndighet\b',
+    r'\bförsvarsmakten\b', r'\bpolisen\b', r'\bsjukhus\b', r'\bvård\b', r'\bskola\b',
+    r'\butbildning\b', r'\bforskningsinstitut\b', r'\buniversitet\b', r'\bhögskola\b',
+    r'\bsamhäll\b', r'\bpublic service\b', r'\bstatlig\b', r'\boffentlig\b',
+    r'\bsamhällsnytta\b', r'\bhållbar\b', r'\bsustainable\b', r'\bmiljö\b',
+    r'\benvironment\b', r'\bsocial\b', r'\bwelfare\b', r'\bvälfärd\b'
+]
+
+# List of meaningful employers (exact matches)
+MEANINGFUL_EMPLOYERS = [
+    "Försvarsmakten", "Polisen", "Göteborgs Stad", "Västra Götalandsregionen",
+    "Kungsbacka kommun", "Trafikverket", "Skatteverket", "Migrationsverket",
+    "Arbetsförmedlingen", "Försäkringskassan", "Sahlgrenska", "Chalmers",
+    "Göteborgs universitet", "Länsstyrelsen", "SVT", "SR", "Naturvårdsverket",
+    "Energimyndigheten", "SMHI", "Havs- och vattenmyndigheten", "MSB",
+    "Myndigheten för digital förvaltning", "Pensionsmyndigheten", "CSN",
+    "Kronofogden", "Tullverket", "Kriminalvården", "Domstolsverket",
+    "Folkhälsomyndigheten", "Socialstyrelsen", "Skolverket", "Lantmäteriet"
+]
+
+def search_jobtech_api(search_term: str, location: str) -> List[Dict[str, Any]]:
     """
-    Search for jobs using the JobTech API
+    Search the JobTech API for jobs matching the given search term and location.
     
     Args:
-        query (str): Search term
-        location (str): Location to search in
-        limit (int): Maximum number of results to return
+        search_term: The search term to look for
+        location: The location to search in (kommun code)
         
     Returns:
-        list: List of job listings
+        A list of job dictionaries
     """
-    logger.info(f"Searching JobTech API for '{query}' in {location}")
+    logging.info(f"Searching JobTech API for '{search_term}' in {location}")
     
     params = {
-        "q": f"{query} {location}",
-        "limit": limit
+        "q": search_term,
+        "municipality": location,
+        "limit": 100,
+        "sort": "relevance"
     }
     
     try:
@@ -262,52 +164,34 @@ def search_jobtech_jobs(query, location, limit=100):
         data = response.json()
         
         total_hits = data.get("total", {}).get("value", 0)
-        hits = data.get("hits", [])
+        jobs = data.get("hits", [])
         
-        logger.info(f"Found {total_hits} total hits, retrieved {len(hits)} jobs")
-        
-        # Process and standardize job data
-        processed_jobs = []
-        for job in hits:
-            processed_job = {
-                "id": job.get("id"),
-                "title": job.get("headline"),
-                "employer": job.get("employer", {}).get("name") if job.get("employer") else "Unknown",
-                "location": job.get("workplace_address", {}).get("municipality") if job.get("workplace_address") else location,
-                "description": job.get("description", {}).get("text") if job.get("description") else "",
-                "url": job.get("application_details", {}).get("url") if job.get("application_details") else "",
-                "published": job.get("publication_date"),
-                "deadline": job.get("application_deadline"),
-                "is_consultant": is_consultant_job(job),
-                "is_meaningful": is_meaningful_job(job),
-                "source": "JobTech"
-            }
-            processed_jobs.append(processed_job)
-        
-        return processed_jobs
-    
-    except requests.exceptions.RequestException as e:
-        logger.error(f"Error searching JobTech API: {e}")
+        logging.info(f"Found {total_hits} total hits, retrieved {len(jobs)} jobs")
+        return jobs
+    except Exception as e:
+        logging.error(f"Error searching JobTech API: {e}")
         return []
 
-def search_indeed_jobs(query, location):
+def search_indeed_api(search_term: str, location: str) -> List[Dict[str, Any]]:
     """
-    Search for jobs using the Indeed API via RapidAPI
-    Only used as fallback when JobTech API fails
+    Search the Indeed API for jobs matching the given search term and location.
+    Only used as a fallback when JobTech API fails.
     
     Args:
-        query (str): Search term
-        location (str): Location to search in
+        search_term: The search term to look for
+        location: The location to search in (city name)
         
     Returns:
-        list: List of job listings
+        A list of job dictionaries
     """
-    # Check if we should use RapidAPI (only once per week)
-    if not should_use_rapidapi():
-        logger.info("Skipping RapidAPI call (used within the last week)")
+    logging.info(f"Searching Indeed API for '{search_term}' in {location}")
+    
+    if not RAPIDAPI_KEY or RAPIDAPI_KEY == "YOUR_RAPIDAPI_KEY":
+        logging.warning("No RapidAPI key provided, skipping Indeed API call")
         return []
     
-    logger.info(f"Searching Indeed API for '{query}' in {location}")
+    # Convert kommun code to city name
+    city = "Göteborg" if location == GOTHENBURG_CODE else "Kungsbacka"
     
     headers = {
         "X-RapidAPI-Key": RAPIDAPI_KEY,
@@ -315,369 +199,431 @@ def search_indeed_jobs(query, location):
     }
     
     params = {
-        "search": query,
-        "location": location
+        "search_term": search_term,
+        "location": city,
+        "page": "1",
+        "filter_job_type": "fulltime"
     }
     
     try:
-        # Skip if no API key is provided
-        if RAPIDAPI_KEY == "YOUR_RAPIDAPI_KEY":
-            logger.warning("No RapidAPI key provided, skipping Indeed API call")
-            return []
-        
-        response = requests.get(RAPIDAPI_URL, headers=headers, params=params)
+        response = requests.get(INDEED_API_URL, headers=headers, params=params)
         response.raise_for_status()
-        jobs = response.json()
+        data = response.json()
         
-        # Update last RapidAPI usage timestamp
-        update_last_rapidapi_usage()
-        
-        logger.info(f"Found {len(jobs)} jobs from Indeed API")
-        
-        # Process and standardize job data
-        processed_jobs = []
-        for job in jobs:
-            processed_job = {
-                "id": job.get("id", ""),
-                "title": job.get("title", ""),
-                "employer": job.get("employer", "Unknown"),
-                "location": job.get("location", location),
-                "description": job.get("description", ""),
-                "url": job.get("url", ""),
-                "published": job.get("published", datetime.now().strftime("%Y-%m-%d")),
-                "deadline": job.get("deadline", ""),
-                "is_consultant": is_consultant_job(job),
-                "is_meaningful": is_meaningful_job(job),
-                "source": "Indeed"
-            }
-            processed_jobs.append(processed_job)
-        
-        return processed_jobs
-    
-    except requests.exceptions.RequestException as e:
-        logger.error(f"Error searching Indeed API: {e}")
+        jobs = data.get("jobs", [])
+        logging.info(f"Found {len(jobs)} jobs from Indeed API")
+        return jobs
+    except Exception as e:
+        logging.error(f"Error searching Indeed API: {e}")
         return []
 
-def should_use_rapidapi():
+def is_consultant_position(job: Dict[str, Any]) -> bool:
     """
-    Check if we should use RapidAPI based on last usage
-    Limit to once per week to conserve API quota
-    
-    Returns:
-        bool: True if RapidAPI should be used, False otherwise
-    """
-    try:
-        if not os.path.exists(LAST_RAPIDAPI_FILE):
-            return True
-        
-        with open(LAST_RAPIDAPI_FILE, "r") as f:
-            last_usage = datetime.strptime(f.read().strip(), "%Y-%m-%d %H:%M:%S")
-        
-        # Check if it's been at least 7 days since last usage
-        return datetime.now() - last_usage >= timedelta(days=7)
-    
-    except Exception as e:
-        logger.error(f"Error checking RapidAPI usage: {e}")
-        return True
-
-def update_last_rapidapi_usage():
-    """Update the last RapidAPI usage timestamp"""
-    try:
-        os.makedirs(os.path.dirname(LAST_RAPIDAPI_FILE), exist_ok=True)
-        with open(LAST_RAPIDAPI_FILE, "w") as f:
-            f.write(datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
-        logger.info("Updated last RapidAPI usage timestamp")
-    except Exception as e:
-        logger.error(f"Error updating RapidAPI usage timestamp: {e}")
-
-def is_consultant_job(job):
-    """Check if a job is likely a consultant position"""
-    consultant_keywords = CONSULTANT_KEYWORDS
-    
-    # Handle different job formats (JobTech vs Indeed)
-    if isinstance(job, dict):
-        if "employer" in job and isinstance(job["employer"], dict):
-            # JobTech format
-            employer = job.get("employer", {}).get("name", "").lower()
-            description = job.get("description", {}).get("text", "").lower() if isinstance(job.get("description"), dict) else ""
-            title = job.get("headline", "").lower()
-        else:
-            # Indeed or processed format
-            employer = str(job.get("employer", "")).lower()
-            description = str(job.get("description", "")).lower()
-            title = str(job.get("title", "")).lower()
-    else:
-        return False
-    
-    for keyword in consultant_keywords:
-        if keyword in employer or keyword in description or keyword in title:
-            return True
-    return False
-
-def is_meaningful_job(job):
-    """Check if a job is from a meaningful organization"""
-    meaningful_keywords = MEANINGFUL_ORGS
-    
-    # Handle different job formats (JobTech vs Indeed)
-    if isinstance(job, dict):
-        if "employer" in job and isinstance(job["employer"], dict):
-            # JobTech format
-            employer = job.get("employer", {}).get("name", "").lower()
-            description = job.get("description", {}).get("text", "").lower() if isinstance(job.get("description"), dict) else ""
-            title = job.get("headline", "").lower()
-        else:
-            # Indeed or processed format
-            employer = str(job.get("employer", "")).lower()
-            description = str(job.get("description", "")).lower()
-            title = str(job.get("title", "")).lower()
-    else:
-        return False
-    
-    for keyword in meaningful_keywords:
-        if keyword in employer or keyword in description or keyword in title:
-            return True
-    return False
-
-def calculate_relevance_score(job, category):
-    """
-    Calculate a relevance score for a job based on how well it matches a category
+    Check if a job is a consultant position.
     
     Args:
-        job (dict): Job data
-        category (str): Category to match against (IT, AI, or RPA)
+        job: The job dictionary
         
     Returns:
-        float: Relevance score between 0 and 1
+        True if the job is a consultant position, False otherwise
     """
-    if category not in JOB_CATEGORIES:
+    title = job.get("headline", job.get("title", "")).lower()
+    
+    # Handle description which might be a dict or string
+    description_raw = job.get("description", "")
+    if isinstance(description_raw, dict):
+        description = description_raw.get("text", "").lower()
+    elif isinstance(description_raw, str):
+        description = description_raw.lower()
+    else:
+        description = ""
+    
+    # Handle employer which might be a dict or string
+    employer_raw = job.get("employer", "")
+    if isinstance(employer_raw, dict):
+        employer = employer_raw.get("name", "").lower()
+    elif isinstance(employer_raw, str):
+        employer = employer_raw.lower()
+    else:
+        employer = ""
+    
+    consultant_keywords = ["konsult", "consultant", "consulting"]
+    
+    # Check title
+    if any(keyword in title for keyword in consultant_keywords):
+        return True
+    
+    # Check employer name
+    if any(keyword in employer for keyword in consultant_keywords):
+        return True
+    
+    # Check for common consulting firms
+    consulting_firms = [
+        "accenture", "capgemini", "cognizant", "deloitte", "ey", "kpmg", "pwc",
+        "mckinsey", "bcg", "bain", "tcs", "infosys", "wipro", "hcl", "ibm",
+        "tieto", "evry", "sopra steria", "cgi", "sigma", "knowit", "hiq",
+        "cybercom", "b3", "consid", "softronic", "netlight", "tretton37"
+    ]
+    
+    if any(firm in employer for firm in consulting_firms):
+        return True
+    
+    # Check description for consultant indicators
+    consultant_phrases = [
+        "konsultuppdrag", "consultant assignment", "consulting assignment",
+        "konsultroll", "consultant role", "consulting role",
+        "konsulttjänst", "consultant service", "consulting service"
+    ]
+    
+    if any(phrase in description for phrase in consultant_phrases):
+        return True
+    
+    return False
+
+def is_meaningful_employer(employer_name: str, description: str) -> bool:
+    """
+    Check if an employer is considered meaningful (government, public service, etc.)
+    
+    Args:
+        employer_name: The name of the employer
+        description: The job description
+        
+    Returns:
+        True if the employer is meaningful, False otherwise
+    """
+    # Check if employer is in the list of meaningful employers
+    if any(employer.lower() in employer_name.lower() for employer in MEANINGFUL_EMPLOYERS):
+        return True
+    
+    # Check for meaningful employer patterns in the name
+    if any(re.search(pattern, employer_name.lower()) for pattern in MEANINGFUL_EMPLOYER_PATTERNS):
+        return True
+    
+    # Check for meaningful employer patterns in the description
+    if any(re.search(pattern, description.lower()) for pattern in MEANINGFUL_EMPLOYER_PATTERNS):
+        return True
+    
+    return False
+
+def calculate_relevance_score(job: Dict[str, Any], category: str) -> float:
+    """
+    Calculate a relevance score for a job based on how well it matches the category.
+    
+    Args:
+        job: The job dictionary
+        category: The job category (IT, AI, or RPA)
+        
+    Returns:
+        A relevance score between 0 and 1
+    """
+    title = job.get("headline", job.get("title", ""))
+    
+    # Handle description which might be a dict or string
+    description_raw = job.get("description", "")
+    if isinstance(description_raw, dict):
+        description = description_raw.get("text", "")
+    elif isinstance(description_raw, str):
+        description = description_raw
+    else:
+        description = ""
+    
+    # Combine title and description for pattern matching
+    text = f"{title} {description}"
+    
+    # Select the appropriate patterns based on category
+    if category == "IT":
+        title_patterns = IT_TITLE_PATTERNS
+        secondary_patterns = IT_SECONDARY_PATTERNS
+    elif category == "AI":
+        title_patterns = AI_TITLE_PATTERNS
+        secondary_patterns = AI_SECONDARY_PATTERNS
+    elif category == "RPA":
+        title_patterns = RPA_TITLE_PATTERNS
+        secondary_patterns = RPA_SECONDARY_PATTERNS
+    else:
         return 0.0
     
-    # Get job text fields
-    title = job.get("title", "").lower()
-    description = job.get("description", "").lower()
-    employer = job.get("employer", "").lower()
+    # Check for exclusion patterns
+    for pattern in EXCLUSION_PATTERNS:
+        if re.search(pattern, text, re.IGNORECASE):
+            # Special exception for UiPath in RPA category
+            if category == "RPA" and "UiPath" in title:
+                # Don't exclude UiPath jobs from RPA category even if they match exclusion patterns
+                pass
+            else:
+                return 0.0
     
-    # Get category keywords
-    primary_keywords = JOB_CATEGORIES[category]["primary_keywords"]
-    secondary_keywords = JOB_CATEGORIES[category]["secondary_keywords"]
-    exclusion_keywords = JOB_CATEGORIES[category]["exclusion_keywords"]
-    required_title_patterns = JOB_CATEGORIES[category]["required_title_patterns"]
-    exclusion_title_patterns = JOB_CATEGORIES[category]["exclusion_title_patterns"]
-    
-    # Check for exclusion keywords in title (immediate disqualification)
-    for keyword in exclusion_keywords:
-        if keyword in title:
-            return 0.0
-    
-    # Check for exclusion patterns in title (immediate disqualification)
-    for pattern in exclusion_title_patterns:
-        if re.search(pattern, title, re.IGNORECASE):
-            return 0.0
-    
-    # Check if title contains at least one required pattern
+    # Check for required title patterns
     title_match = False
-    for pattern in required_title_patterns:
+    for pattern in title_patterns:
         if re.search(pattern, title, re.IGNORECASE):
             title_match = True
             break
     
-    # If no required pattern in title, check if description contains multiple primary keywords
+    # Special case for UiPath in RPA category
+    if category == "RPA" and "UiPath" in title:
+        title_match = True
+    
+    # If no title match, the job is not relevant
     if not title_match:
-        primary_matches_in_description = sum(1 for keyword in primary_keywords if keyword in description)
-        if primary_matches_in_description < 2:  # Need at least 2 primary keywords in description
-            return 0.0
+        return 0.0
     
-    # Initialize score components
-    title_score = 0.0
-    primary_score = 0.0
-    secondary_score = 0.0
+    # Calculate base score from title match
+    score = 0.5
     
-    # Calculate title score (highest weight)
-    for pattern in required_title_patterns:
-        if re.search(pattern, title, re.IGNORECASE):
-            title_score += 0.5
-    title_score = min(1.0, title_score)
-    
-    # Calculate primary keyword score
-    primary_matches = 0
-    for keyword in primary_keywords:
-        if keyword in title:
-            primary_matches += 3  # Higher weight for title matches
-        elif keyword in description:
-            primary_matches += 1
-    primary_score = min(1.0, primary_matches / (len(primary_keywords) * 0.5))
-    
-    # Calculate secondary keyword score
+    # Add points for secondary pattern matches
     secondary_matches = 0
-    for keyword in secondary_keywords:
-        if keyword in title:
-            secondary_matches += 2  # Higher weight for title matches
-        elif keyword in description:
-            secondary_matches += 0.5
-    secondary_score = min(1.0, secondary_matches / (len(secondary_keywords) * 0.5))
+    for pattern in secondary_patterns:
+        if re.search(pattern, text, re.IGNORECASE):
+            secondary_matches += 1
     
-    # Calculate final score with weights
-    final_score = (title_score * 0.6) + (primary_score * 0.3) + (secondary_score * 0.1)
+    # Add up to 0.4 points based on secondary matches
+    score += min(secondary_matches / 10, 0.4)
     
-    return final_score
+    # Add 0.1 points if the job is from a meaningful employer
+    # Handle employer which might be a dict or string
+    employer_raw = job.get("employer", "")
+    if isinstance(employer_raw, dict):
+        employer_name = employer_raw.get("name", "")
+    elif isinstance(employer_raw, str):
+        employer_name = employer_raw
+    else:
+        employer_name = ""
+        
+    if is_meaningful_employer(employer_name, description):
+        score += 0.1
+    
+    # Special boost for UiPath in RPA category
+    if category == "RPA" and "UiPath" in text:
+        score += 0.2
+    
+    # Cap the score at 1.0
+    return min(score, 1.0)
 
-def is_job_relevant_for_category(job, category, min_score=MIN_RELEVANCE_SCORE):
+def normalize_job(job: Dict[str, Any], source: str, category: str) -> Dict[str, Any]:
     """
-    Determine if a job is relevant for a specific category using multi-layered filtering
+    Normalize job data from different sources into a consistent format.
     
     Args:
-        job (dict): Job data
-        category (str): Category to check relevance for
-        min_score (float): Minimum relevance score threshold
+        job: The job dictionary
+        source: The source of the job data (JobTech or Indeed)
+        category: The job category (IT, AI, or RPA)
         
     Returns:
-        bool: True if job is relevant for category, False otherwise
+        A normalized job dictionary
     """
-    # Get job text fields
-    title = job.get("title", "").lower()
-    description = job.get("description", "").lower()
-    
-    # Get category keywords and patterns
-    exclusion_keywords = JOB_CATEGORIES[category]["exclusion_keywords"]
-    exclusion_title_patterns = JOB_CATEGORIES[category]["exclusion_title_patterns"]
-    required_title_patterns = JOB_CATEGORIES[category]["required_title_patterns"]
-    
-    # Layer 1: Check for academic positions and other exclusions
-    for keyword in exclusion_keywords:
-        if keyword in title:
-            return False
-    
-    # Layer 2: Check for exclusion patterns in title
-    for pattern in exclusion_title_patterns:
-        if re.search(pattern, title, re.IGNORECASE):
-            return False
-    
-    # Layer 3: Check if title contains at least one required pattern
-    title_match = False
-    for pattern in required_title_patterns:
-        if re.search(pattern, title, re.IGNORECASE):
-            title_match = True
-            break
-    
-    # Layer 4: If no required pattern in title, job must have strong description relevance
-    if not title_match:
-        # Calculate relevance score
-        score = calculate_relevance_score(job, category)
+    if source == "JobTech":
+        # Extract relevant fields from JobTech API response
+        job_id = job.get("id", "")
+        title = job.get("headline", "")
         
-        # Must have very high score to compensate for no title match
-        if score < min_score + 0.2:  # Higher threshold for non-title matches
-            return False
+        # Handle employer which might be a dict or string
+        employer_raw = job.get("employer", {})
+        if isinstance(employer_raw, dict):
+            employer_name = employer_raw.get("name", "")
+        else:
+            employer_name = str(employer_raw)
+        
+        # Handle location which might be nested
+        workplace_address = job.get("workplace_address", {})
+        if isinstance(workplace_address, dict):
+            location = workplace_address.get("municipality", "")
+        else:
+            location = "Göteborg"  # Default to Göteborg if not specified
+        
+        # Handle description which might be a dict or string
+        description_raw = job.get("description", {})
+        if isinstance(description_raw, dict):
+            description = description_raw.get("text", "")
+        else:
+            description = str(description_raw)
+        
+        # Handle application details which might be nested
+        application_details = job.get("application_details", {})
+        if isinstance(application_details, dict):
+            url = application_details.get("url", "")
+        else:
+            url = ""
+        
+        published = job.get("publication_date", "")
+        deadline = job.get("application_deadline", "")
+    else:  # Indeed
+        # Extract relevant fields from Indeed API response
+        job_id = job.get("job_id", "")
+        title = job.get("job_title", "")
+        employer_name = job.get("company_name", "")
+        location = job.get("location", "")
+        description = job.get("description", "")
+        url = job.get("job_url", "")
+        published = job.get("posted_at", "")
+        deadline = ""  # Indeed doesn't provide deadline
     
-    # Layer 5: Calculate overall relevance score
-    score = calculate_relevance_score(job, category)
+    # Calculate relevance score
+    relevance_score = calculate_relevance_score(job, category)
     
-    # Final decision based on score
-    return score >= min_score
+    # Check if it's a consultant position
+    is_consultant = is_consultant_position(job)
+    
+    # Check if it's a meaningful employer
+    is_meaningful = is_meaningful_employer(employer_name, description)
+    
+    return {
+        "id": job_id,
+        "title": title,
+        "employer": employer_name,
+        "location": location,
+        "description": description,
+        "url": url,
+        "published": published,
+        "deadline": deadline,
+        "is_consultant": is_consultant,
+        "is_meaningful": is_meaningful,
+        "source": source,
+        "relevance_score": relevance_score,
+        "category": category
+    }
 
-def scrape_jobs(category, search_terms, locations):
+def search_jobs(search_terms: List[str], location: str, category: str) -> List[Dict[str, Any]]:
     """
-    Scrape jobs for a specific category and search terms
+    Search for jobs matching the given search terms and location.
     
     Args:
-        category (str): Job category (IT, AI, or RPA)
-        search_terms (list): List of search terms
-        locations (list): List of locations to search in
+        search_terms: The search terms to look for
+        location: The location to search in (kommun code)
+        category: The job category (IT, AI, or RPA)
         
     Returns:
-        list: List of jobs matching the criteria
+        A list of normalized job dictionaries
     """
     all_jobs = []
-    unique_job_ids = set()
     
-    for location in locations:
-        logger.info(f"\nSearching for {category} jobs in {location}...")
+    for term in search_terms:
+        logging.info(f"  Searching for term: {term}")
         
-        for term in search_terms:
-            logger.info(f"  Searching for term: {term}")
-            
-            # First try JobTech API
-            jobs = search_jobtech_jobs(term, location)
-            
-            # If JobTech fails, try Indeed API as fallback
-            if not jobs:
-                logger.warning(f"JobTech API returned no results for '{term}' in {location}, trying Indeed API")
-                jobs = search_indeed_jobs(term, location)
-            
-            if not jobs:
-                logger.warning(f"No jobs found for term: {term}")
-                continue
-            
-            logger.info(f"  Found {len(jobs)} jobs for term: {term}")
-            
-            # Process jobs with strict multi-layered filtering
-            for job in jobs:
-                # Skip if already processed
-                if job["id"] in unique_job_ids:
-                    continue
-                
-                # Skip consultant jobs
-                if job["is_consultant"]:
-                    continue
-                
-                # Apply strict multi-layered filtering
-                if is_job_relevant_for_category(job, category):
-                    # Add relevance score and category
-                    job["relevance_score"] = calculate_relevance_score(job, category)
-                    job["category"] = category
-                    all_jobs.append(job)
-                    unique_job_ids.add(job["id"])
-            
-            # Add a small delay to avoid rate limiting
-            time.sleep(1)
-    
-    # Sort by relevance score (highest first)
-    all_jobs.sort(key=lambda x: x.get("relevance_score", 0), reverse=True)
+        # Try JobTech API first
+        jobs = search_jobtech_api(term, location)
+        
+        # If JobTech API fails or returns no results, try Indeed API as fallback
+        if not jobs:
+            logging.warning(f"JobTech API returned no results for '{term}' in {location}, trying Indeed API")
+            jobs = search_indeed_api(term, location)
+            source = "Indeed"
+        else:
+            source = "JobTech"
+        
+        # Normalize job data
+        normalized_jobs = [normalize_job(job, source, category) for job in jobs]
+        
+        # Filter out consultant positions
+        filtered_jobs = [job for job in normalized_jobs if not job["is_consultant"]]
+        
+        # Add to all jobs
+        all_jobs.extend(filtered_jobs)
+        
+        # Add a small delay to avoid rate limiting
+        time.sleep(1)
     
     return all_jobs
 
-def save_jobs(jobs, output_file):
-    """Save jobs to a JSON file"""
-    # Create directory if it doesn't exist
-    os.makedirs(os.path.dirname(output_file), exist_ok=True)
+def filter_and_deduplicate_jobs(jobs: List[Dict[str, Any]], min_relevance: float = 0.6) -> List[Dict[str, Any]]:
+    """
+    Filter jobs by relevance score and remove duplicates.
     
-    with open(output_file, "w", encoding="utf-8") as f:
-        json.dump(jobs, f, ensure_ascii=False, indent=2)
+    Args:
+        jobs: The list of jobs to filter
+        min_relevance: The minimum relevance score to include
+        
+    Returns:
+        A filtered and deduplicated list of jobs
+    """
+    # Filter by relevance score
+    relevant_jobs = [job for job in jobs if job["relevance_score"] >= min_relevance]
     
-    logger.info(f"Saved {len(jobs)} jobs to {output_file}")
-
-def update_last_updated():
-    """Update the last_updated.txt file with current timestamp"""
-    with open(LAST_UPDATED_FILE, "w", encoding="utf-8") as f:
-        f.write(datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
-    logger.info(f"Updated last_updated.txt with current timestamp")
+    # Remove duplicates based on job ID
+    seen_ids = set()
+    deduplicated_jobs = []
+    
+    for job in relevant_jobs:
+        if job["id"] not in seen_ids:
+            seen_ids.add(job["id"])
+            deduplicated_jobs.append(job)
+    
+    return deduplicated_jobs
 
 def main():
-    logger.info(f"Starting job scraping at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+    """Main function to scrape and filter jobs."""
+    logging.info(f"\nJob scraping started at {datetime.now()}")
     
-    # Scrape IT jobs
-    it_jobs = scrape_jobs("IT", JOB_CATEGORIES["IT"]["primary_keywords"], LOCATIONS)
-    logger.info(f"\nFound {len(it_jobs)} highly relevant IT jobs in Gothenburg and Kungsbacka")
-    save_jobs(it_jobs, IT_JOBS_OUTPUT)
+    # Search for IT jobs in Gothenburg
+    logging.info("\nSearching for IT jobs in Gothenburg...")
+    it_jobs_gothenburg = search_jobs(IT_SEARCH_TERMS, GOTHENBURG_CODE, "IT")
     
-    # Scrape AI jobs
-    ai_jobs = scrape_jobs("AI", JOB_CATEGORIES["AI"]["primary_keywords"], LOCATIONS)
-    logger.info(f"\nFound {len(ai_jobs)} highly relevant AI jobs in Gothenburg and Kungsbacka")
-    save_jobs(ai_jobs, AI_JOBS_OUTPUT)
+    # Search for IT jobs in Kungsbacka
+    logging.info("\nSearching for IT jobs in Kungsbacka...")
+    it_jobs_kungsbacka = search_jobs(IT_SEARCH_TERMS, KUNGSBACKA_CODE, "IT")
     
-    # Scrape RPA jobs
-    rpa_jobs = scrape_jobs("RPA", JOB_CATEGORIES["RPA"]["primary_keywords"], LOCATIONS)
-    logger.info(f"\nFound {len(rpa_jobs)} highly relevant RPA jobs in Gothenburg and Kungsbacka")
-    save_jobs(rpa_jobs, RPA_JOBS_OUTPUT)
+    # Search for AI jobs in Gothenburg
+    logging.info("\nSearching for AI jobs in Gothenburg...")
+    ai_jobs_gothenburg = search_jobs(AI_SEARCH_TERMS, GOTHENBURG_CODE, "AI")
+    
+    # Search for AI jobs in Kungsbacka
+    logging.info("\nSearching for AI jobs in Kungsbacka...")
+    ai_jobs_kungsbacka = search_jobs(AI_SEARCH_TERMS, KUNGSBACKA_CODE, "AI")
+    
+    # Search for RPA jobs in Gothenburg
+    logging.info("\nSearching for RPA jobs in Gothenburg...")
+    rpa_jobs_gothenburg = search_jobs(RPA_SEARCH_TERMS, GOTHENBURG_CODE, "RPA")
+    
+    # Search for RPA jobs in Kungsbacka
+    logging.info("\nSearching for RPA jobs in Kungsbacka...")
+    rpa_jobs_kungsbacka = search_jobs(RPA_SEARCH_TERMS, KUNGSBACKA_CODE, "RPA")
     
     # Combine all jobs
-    all_jobs = it_jobs + ai_jobs + rpa_jobs
-    logger.info(f"\nFound {len(all_jobs)} total highly relevant jobs in Gothenburg and Kungsbacka")
-    save_jobs(all_jobs, ALL_JOBS_OUTPUT)
+    all_it_jobs = it_jobs_gothenburg + it_jobs_kungsbacka
+    all_ai_jobs = ai_jobs_gothenburg + ai_jobs_kungsbacka
+    all_rpa_jobs = rpa_jobs_gothenburg + rpa_jobs_kungsbacka
+    
+    # Filter and deduplicate jobs
+    filtered_it_jobs = filter_and_deduplicate_jobs(all_it_jobs)
+    filtered_ai_jobs = filter_and_deduplicate_jobs(all_ai_jobs)
+    filtered_rpa_jobs = filter_and_deduplicate_jobs(all_rpa_jobs)
+    
+    # Combine all filtered jobs
+    all_filtered_jobs = filtered_it_jobs + filtered_ai_jobs + filtered_rpa_jobs
+    
+    # Save jobs to JSON files
+    with open("it_jobs.json", "w", encoding="utf-8") as f:
+        json.dump(filtered_it_jobs, f, ensure_ascii=False, indent=2)
+    
+    with open("ai_jobs.json", "w", encoding="utf-8") as f:
+        json.dump(filtered_ai_jobs, f, ensure_ascii=False, indent=2)
+    
+    with open("rpa_jobs.json", "w", encoding="utf-8") as f:
+        json.dump(filtered_rpa_jobs, f, ensure_ascii=False, indent=2)
+    
+    with open("all_jobs.json", "w", encoding="utf-8") as f:
+        json.dump(all_filtered_jobs, f, ensure_ascii=False, indent=2)
     
     # Update last updated timestamp
-    update_last_updated()
+    with open("last_updated.txt", "w", encoding="utf-8") as f:
+        f.write(datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
     
-    logger.info(f"\nJob scraping completed at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+    # Log results
+    logging.info(f"\nFound {len(filtered_it_jobs)} highly relevant IT jobs in Gothenburg and Kungsbacka")
+    logging.info(f"Saved {len(filtered_it_jobs)} jobs to it_jobs.json")
+    
+    logging.info(f"\nFound {len(filtered_ai_jobs)} highly relevant AI jobs in Gothenburg and Kungsbacka")
+    logging.info(f"Saved {len(filtered_ai_jobs)} jobs to ai_jobs.json")
+    
+    logging.info(f"\nFound {len(filtered_rpa_jobs)} highly relevant RPA jobs in Gothenburg and Kungsbacka")
+    logging.info(f"Saved {len(filtered_rpa_jobs)} jobs to rpa_jobs.json")
+    
+    logging.info(f"\nFound {len(all_filtered_jobs)} total highly relevant jobs in Gothenburg and Kungsbacka")
+    logging.info(f"Saved {len(all_filtered_jobs)} jobs to all_jobs.json")
+    
+    logging.info("Updated last_updated.txt with current timestamp")
+    
+    logging.info(f"\nJob scraping completed at {datetime.now()}")
 
 if __name__ == "__main__":
     main()
