@@ -1750,3 +1750,381 @@ Found 56 total highly relevant jobs in Gothenburg and Kungsbacka
 2025-06-11 01:58:06,495 - INFO - Updated last_updated.txt with current timestamp
 2025-06-11 01:58:06,495 - INFO - 
 Job scraping completed at 2025-06-11 01:58:06
+2025-06-13 08:54:32,683 - INFO - 
+Job scraping started at 2025-06-13 08:54:32.683094
+2025-06-13 08:54:32,683 - INFO - 
+Searching for IT jobs in Gothenburg...
+2025-06-13 08:54:32,683 - INFO -   Searching for term: systemutvecklare
+2025-06-13 08:54:32,683 - INFO - Searching JobTech API for 'systemutvecklare' in 1480
+2025-06-13 08:54:34,016 - INFO - Found 121 total hits, retrieved 100 jobs
+2025-06-16 10:22:26,097 - INFO - 
+Job scraping started at 2025-06-16 10:22:26.096860
+2025-06-16 10:22:26,097 - INFO - 
+Searching for IT jobs in Gothenburg...
+2025-06-16 10:22:26,097 - INFO -   Searching for term: systemutvecklare
+2025-06-16 10:22:26,097 - INFO - Searching JobTech API for 'systemutvecklare' in 1480
+2025-06-16 10:22:27,449 - INFO - Found 114 total hits, retrieved 100 jobs
+2025-06-16 10:22:28,955 - INFO -   Searching for term: programmerare
+2025-06-16 10:22:28,955 - INFO - Searching JobTech API for 'programmerare' in 1480
+2025-06-16 10:22:30,306 - INFO - Found 114 total hits, retrieved 100 jobs
+2025-06-16 10:22:31,854 - INFO -   Searching for term: mjukvaruutvecklare
+2025-06-16 10:22:31,855 - INFO - Searching JobTech API for 'mjukvaruutvecklare' in 1480
+2025-06-16 10:22:33,213 - INFO - Found 120 total hits, retrieved 100 jobs
+2025-06-16 10:22:34,748 - INFO -   Searching for term: software developer
+2025-06-16 10:22:34,748 - INFO - Searching JobTech API for 'software developer' in 1480
+2025-06-16 10:22:36,177 - INFO - Found 115 total hits, retrieved 100 jobs
+2025-06-16 10:22:37,663 - INFO -   Searching for term: backend developer
+2025-06-16 10:22:37,663 - INFO - Searching JobTech API for 'backend developer' in 1480
+2025-06-16 10:22:38,464 - INFO - Found 18 total hits, retrieved 18 jobs
+2025-06-16 10:22:39,534 - INFO -   Searching for term: frontend developer
+2025-06-16 10:22:39,535 - INFO - Searching JobTech API for 'frontend developer' in 1480
+2025-06-16 10:22:39,897 - INFO - Found 1 total hits, retrieved 1 jobs
+2025-06-16 10:22:40,907 - INFO -   Searching for term: fullstack developer
+2025-06-16 10:22:40,908 - INFO - Searching JobTech API for 'fullstack developer' in 1480
+2025-06-16 10:22:41,698 - INFO - Found 11 total hits, retrieved 11 jobs
+2025-06-16 10:22:42,748 - INFO -   Searching for term: system architect
+2025-06-16 10:22:42,748 - INFO - Searching JobTech API for 'system architect' in 1480
+2025-06-16 10:22:44,104 - INFO - Found 560 total hits, retrieved 100 jobs
+2025-06-16 10:22:45,679 - INFO -   Searching for term: IT-arkitekt
+2025-06-16 10:22:45,679 - INFO - Searching JobTech API for 'IT-arkitekt' in 1480
+2025-06-16 10:22:46,605 - INFO - Found 19 total hits, retrieved 19 jobs
+2025-06-16 10:22:47,713 - INFO -   Searching for term: IT-tekniker
+2025-06-16 10:22:47,713 - INFO - Searching JobTech API for 'IT-tekniker' in 1480
+2025-06-16 10:22:48,500 - INFO - Found 12 total hits, retrieved 12 jobs
+2025-06-16 10:22:49,558 - INFO -   Searching for term: system administrator
+2025-06-16 10:22:49,558 - INFO - Searching JobTech API for 'system administrator' in 1480
+2025-06-16 10:22:49,918 - INFO - Found 1 total hits, retrieved 1 jobs
+2025-06-16 10:22:50,922 - INFO -   Searching for term: nätverkstekniker
+2025-06-16 10:22:50,922 - INFO - Searching JobTech API for 'nätverkstekniker' in 1480
+2025-06-16 10:22:51,714 - INFO - Found 14 total hits, retrieved 14 jobs
+2025-06-16 10:22:52,764 - INFO -   Searching for term: network engineer
+2025-06-16 10:22:52,764 - INFO - Searching JobTech API for 'network engineer' in 1480
+2025-06-16 10:22:53,402 - INFO - Found 5 total hits, retrieved 5 jobs
+2025-06-16 10:22:54,433 - INFO -   Searching for term: database administrator
+2025-06-16 10:22:54,434 - INFO - Searching JobTech API for 'database administrator' in 1480
+2025-06-16 10:22:54,849 - INFO - Found 1 total hits, retrieved 1 jobs
+2025-06-16 10:22:55,864 - INFO -   Searching for term: databasutvecklare
+2025-06-16 10:22:55,864 - INFO - Searching JobTech API for 'databasutvecklare' in 1480
+2025-06-16 10:22:56,275 - INFO - Found 1 total hits, retrieved 1 jobs
+2025-06-16 10:22:57,280 - INFO - 
+Searching for IT jobs in Kungsbacka...
+2025-06-16 10:22:57,280 - INFO -   Searching for term: systemutvecklare
+2025-06-16 10:22:57,280 - INFO - Searching JobTech API for 'systemutvecklare' in 1384
+2025-06-16 10:22:57,646 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-16 10:22:57,647 - WARNING - JobTech API returned no results for 'systemutvecklare' in 1384, trying Indeed API
+2025-06-16 10:22:57,647 - INFO - Searching Indeed API for 'systemutvecklare' in 1384
+2025-06-16 10:22:57,647 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-16 10:22:58,648 - INFO -   Searching for term: programmerare
+2025-06-16 10:22:58,649 - INFO - Searching JobTech API for 'programmerare' in 1384
+2025-06-16 10:22:59,009 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-16 10:22:59,009 - WARNING - JobTech API returned no results for 'programmerare' in 1384, trying Indeed API
+2025-06-16 10:22:59,010 - INFO - Searching Indeed API for 'programmerare' in 1384
+2025-06-16 10:22:59,010 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-16 10:23:00,011 - INFO -   Searching for term: mjukvaruutvecklare
+2025-06-16 10:23:00,011 - INFO - Searching JobTech API for 'mjukvaruutvecklare' in 1384
+2025-06-16 10:23:00,475 - INFO - Found 1 total hits, retrieved 1 jobs
+2025-06-16 10:23:01,482 - INFO -   Searching for term: software developer
+2025-06-16 10:23:01,483 - INFO - Searching JobTech API for 'software developer' in 1384
+2025-06-16 10:23:01,850 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-16 10:23:01,851 - WARNING - JobTech API returned no results for 'software developer' in 1384, trying Indeed API
+2025-06-16 10:23:01,852 - INFO - Searching Indeed API for 'software developer' in 1384
+2025-06-16 10:23:01,852 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-16 10:23:02,853 - INFO -   Searching for term: backend developer
+2025-06-16 10:23:02,854 - INFO - Searching JobTech API for 'backend developer' in 1384
+2025-06-16 10:23:03,221 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-16 10:23:03,222 - WARNING - JobTech API returned no results for 'backend developer' in 1384, trying Indeed API
+2025-06-16 10:23:03,222 - INFO - Searching Indeed API for 'backend developer' in 1384
+2025-06-16 10:23:03,223 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-16 10:23:04,224 - INFO -   Searching for term: frontend developer
+2025-06-16 10:23:04,225 - INFO - Searching JobTech API for 'frontend developer' in 1384
+2025-06-16 10:23:04,586 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-16 10:23:04,587 - WARNING - JobTech API returned no results for 'frontend developer' in 1384, trying Indeed API
+2025-06-16 10:23:04,587 - INFO - Searching Indeed API for 'frontend developer' in 1384
+2025-06-16 10:23:04,587 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-16 10:23:05,588 - INFO -   Searching for term: fullstack developer
+2025-06-16 10:23:05,589 - INFO - Searching JobTech API for 'fullstack developer' in 1384
+2025-06-16 10:23:05,953 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-16 10:23:05,953 - WARNING - JobTech API returned no results for 'fullstack developer' in 1384, trying Indeed API
+2025-06-16 10:23:05,953 - INFO - Searching Indeed API for 'fullstack developer' in 1384
+2025-06-16 10:23:05,953 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-16 10:23:06,955 - INFO -   Searching for term: system architect
+2025-06-16 10:23:06,955 - INFO - Searching JobTech API for 'system architect' in 1384
+2025-06-16 10:23:07,738 - INFO - Found 11 total hits, retrieved 11 jobs
+2025-06-16 10:23:08,772 - INFO -   Searching for term: IT-arkitekt
+2025-06-16 10:23:08,772 - INFO - Searching JobTech API for 'IT-arkitekt' in 1384
+2025-06-16 10:23:09,125 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-16 10:23:09,126 - WARNING - JobTech API returned no results for 'IT-arkitekt' in 1384, trying Indeed API
+2025-06-16 10:23:09,126 - INFO - Searching Indeed API for 'IT-arkitekt' in 1384
+2025-06-16 10:23:09,126 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-16 10:23:10,128 - INFO -   Searching for term: IT-tekniker
+2025-06-16 10:23:10,128 - INFO - Searching JobTech API for 'IT-tekniker' in 1384
+2025-06-16 10:23:10,631 - INFO - Found 2 total hits, retrieved 2 jobs
+2025-06-16 10:23:11,643 - INFO -   Searching for term: system administrator
+2025-06-16 10:23:11,643 - INFO - Searching JobTech API for 'system administrator' in 1384
+2025-06-16 10:23:12,004 - INFO - Found 1 total hits, retrieved 1 jobs
+2025-06-16 10:23:13,013 - INFO -   Searching for term: nätverkstekniker
+2025-06-16 10:23:13,013 - INFO - Searching JobTech API for 'nätverkstekniker' in 1384
+2025-06-16 10:23:13,380 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-16 10:23:13,380 - WARNING - JobTech API returned no results for 'nätverkstekniker' in 1384, trying Indeed API
+2025-06-16 10:23:13,381 - INFO - Searching Indeed API for 'nätverkstekniker' in 1384
+2025-06-16 10:23:13,381 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-16 10:23:14,382 - INFO -   Searching for term: network engineer
+2025-06-16 10:23:14,382 - INFO - Searching JobTech API for 'network engineer' in 1384
+2025-06-16 10:23:14,755 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-16 10:23:14,756 - WARNING - JobTech API returned no results for 'network engineer' in 1384, trying Indeed API
+2025-06-16 10:23:14,756 - INFO - Searching Indeed API for 'network engineer' in 1384
+2025-06-16 10:23:14,756 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-16 10:23:15,757 - INFO -   Searching for term: database administrator
+2025-06-16 10:23:15,757 - INFO - Searching JobTech API for 'database administrator' in 1384
+2025-06-16 10:23:16,119 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-16 10:23:16,120 - WARNING - JobTech API returned no results for 'database administrator' in 1384, trying Indeed API
+2025-06-16 10:23:16,120 - INFO - Searching Indeed API for 'database administrator' in 1384
+2025-06-16 10:23:16,120 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-16 10:23:17,121 - INFO -   Searching for term: databasutvecklare
+2025-06-16 10:23:17,122 - INFO - Searching JobTech API for 'databasutvecklare' in 1384
+2025-06-16 10:23:17,489 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-16 10:23:17,490 - WARNING - JobTech API returned no results for 'databasutvecklare' in 1384, trying Indeed API
+2025-06-16 10:23:17,490 - INFO - Searching Indeed API for 'databasutvecklare' in 1384
+2025-06-16 10:23:17,490 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-16 10:23:18,492 - INFO - 
+Searching for AI jobs in Gothenburg...
+2025-06-16 10:23:18,492 - INFO -   Searching for term: AI
+2025-06-16 10:23:18,492 - INFO - Searching JobTech API for 'AI' in 1480
+2025-06-16 10:23:20,080 - INFO - Found 91 total hits, retrieved 91 jobs
+2025-06-16 10:23:21,390 - INFO -   Searching for term: artificial intelligence
+2025-06-16 10:23:21,390 - INFO - Searching JobTech API for 'artificial intelligence' in 1480
+2025-06-16 10:23:22,771 - INFO - Found 90 total hits, retrieved 90 jobs
+2025-06-16 10:23:24,090 - INFO -   Searching for term: machine learning
+2025-06-16 10:23:24,090 - INFO - Searching JobTech API for 'machine learning' in 1480
+2025-06-16 10:23:25,149 - INFO - Found 28 total hits, retrieved 28 jobs
+2025-06-16 10:23:26,231 - INFO -   Searching for term: deep learning
+2025-06-16 10:23:26,232 - INFO - Searching JobTech API for 'deep learning' in 1480
+2025-06-16 10:23:27,634 - INFO - Found 157 total hits, retrieved 100 jobs
+2025-06-16 10:23:28,931 - INFO -   Searching for term: data scientist
+2025-06-16 10:23:28,932 - INFO - Searching JobTech API for 'data scientist' in 1480
+2025-06-16 10:23:29,450 - INFO - Found 2 total hits, retrieved 2 jobs
+2025-06-16 10:23:30,457 - INFO -   Searching for term: data science
+2025-06-16 10:23:30,457 - INFO - Searching JobTech API for 'data science' in 1480
+2025-06-16 10:23:31,745 - INFO - Found 64 total hits, retrieved 64 jobs
+2025-06-16 10:23:32,931 - INFO -   Searching for term: ML engineer
+2025-06-16 10:23:32,931 - INFO - Searching JobTech API for 'ML engineer' in 1480
+2025-06-16 10:23:33,574 - INFO - Found 6 total hits, retrieved 6 jobs
+2025-06-16 10:23:34,615 - INFO -   Searching for term: AI engineer
+2025-06-16 10:23:34,615 - INFO - Searching JobTech API for 'AI engineer' in 1480
+2025-06-16 10:23:35,449 - INFO - Found 18 total hits, retrieved 18 jobs
+2025-06-16 10:23:36,529 - INFO -   Searching for term: NLP
+2025-06-16 10:23:36,532 - INFO - Searching JobTech API for 'NLP' in 1480
+2025-06-16 10:23:36,901 - INFO - Found 1 total hits, retrieved 1 jobs
+2025-06-16 10:23:37,916 - INFO -   Searching for term: natural language processing
+2025-06-16 10:23:37,917 - INFO - Searching JobTech API for 'natural language processing' in 1480
+2025-06-16 10:23:39,283 - INFO - Found 95 total hits, retrieved 95 jobs
+2025-06-16 10:23:40,529 - INFO -   Searching for term: computer vision
+2025-06-16 10:23:40,529 - INFO - Searching JobTech API for 'computer vision' in 1480
+2025-06-16 10:23:40,900 - INFO - Found 1 total hits, retrieved 1 jobs
+2025-06-16 10:23:41,904 - INFO -   Searching for term: neural networks
+2025-06-16 10:23:41,904 - INFO - Searching JobTech API for 'neural networks' in 1480
+2025-06-16 10:23:42,770 - INFO - Found 25 total hits, retrieved 25 jobs
+2025-06-16 10:23:43,861 - INFO -   Searching for term: maskininlärning
+2025-06-16 10:23:43,862 - INFO - Searching JobTech API for 'maskininlärning' in 1480
+2025-06-16 10:23:44,651 - INFO - Found 6 total hits, retrieved 6 jobs
+2025-06-16 10:23:45,667 - INFO -   Searching for term: artificiell intelligens
+2025-06-16 10:23:45,667 - INFO - Searching JobTech API for 'artificiell intelligens' in 1480
+2025-06-16 10:23:47,036 - INFO - Found 90 total hits, retrieved 90 jobs
+2025-06-16 10:23:48,330 - INFO - 
+Searching for AI jobs in Kungsbacka...
+2025-06-16 10:23:48,330 - INFO -   Searching for term: AI
+2025-06-16 10:23:48,330 - INFO - Searching JobTech API for 'AI' in 1384
+2025-06-16 10:23:48,832 - INFO - Found 2 total hits, retrieved 2 jobs
+2025-06-16 10:23:49,838 - INFO -   Searching for term: artificial intelligence
+2025-06-16 10:23:49,839 - INFO - Searching JobTech API for 'artificial intelligence' in 1384
+2025-06-16 10:23:50,337 - INFO - Found 2 total hits, retrieved 2 jobs
+2025-06-16 10:23:51,344 - INFO -   Searching for term: machine learning
+2025-06-16 10:23:51,344 - INFO - Searching JobTech API for 'machine learning' in 1384
+2025-06-16 10:23:51,702 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-16 10:23:51,702 - WARNING - JobTech API returned no results for 'machine learning' in 1384, trying Indeed API
+2025-06-16 10:23:51,703 - INFO - Searching Indeed API for 'machine learning' in 1384
+2025-06-16 10:23:51,703 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-16 10:23:52,704 - INFO -   Searching for term: deep learning
+2025-06-16 10:23:52,705 - INFO - Searching JobTech API for 'deep learning' in 1384
+2025-06-16 10:23:53,067 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-16 10:23:53,068 - WARNING - JobTech API returned no results for 'deep learning' in 1384, trying Indeed API
+2025-06-16 10:23:53,068 - INFO - Searching Indeed API for 'deep learning' in 1384
+2025-06-16 10:23:53,068 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-16 10:23:54,070 - INFO -   Searching for term: data scientist
+2025-06-16 10:23:54,070 - INFO - Searching JobTech API for 'data scientist' in 1384
+2025-06-16 10:23:54,434 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-16 10:23:54,435 - WARNING - JobTech API returned no results for 'data scientist' in 1384, trying Indeed API
+2025-06-16 10:23:54,435 - INFO - Searching Indeed API for 'data scientist' in 1384
+2025-06-16 10:23:54,435 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-16 10:23:55,437 - INFO -   Searching for term: data science
+2025-06-16 10:23:55,437 - INFO - Searching JobTech API for 'data science' in 1384
+2025-06-16 10:23:55,804 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-16 10:23:55,805 - WARNING - JobTech API returned no results for 'data science' in 1384, trying Indeed API
+2025-06-16 10:23:55,805 - INFO - Searching Indeed API for 'data science' in 1384
+2025-06-16 10:23:55,805 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-16 10:23:56,806 - INFO -   Searching for term: ML engineer
+2025-06-16 10:23:56,807 - INFO - Searching JobTech API for 'ML engineer' in 1384
+2025-06-16 10:23:57,168 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-16 10:23:57,168 - WARNING - JobTech API returned no results for 'ML engineer' in 1384, trying Indeed API
+2025-06-16 10:23:57,169 - INFO - Searching Indeed API for 'ML engineer' in 1384
+2025-06-16 10:23:57,169 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-16 10:23:58,170 - INFO -   Searching for term: AI engineer
+2025-06-16 10:23:58,170 - INFO - Searching JobTech API for 'AI engineer' in 1384
+2025-06-16 10:23:58,541 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-16 10:23:58,541 - WARNING - JobTech API returned no results for 'AI engineer' in 1384, trying Indeed API
+2025-06-16 10:23:58,541 - INFO - Searching Indeed API for 'AI engineer' in 1384
+2025-06-16 10:23:58,541 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-16 10:23:59,543 - INFO -   Searching for term: NLP
+2025-06-16 10:23:59,543 - INFO - Searching JobTech API for 'NLP' in 1384
+2025-06-16 10:23:59,897 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-16 10:23:59,898 - WARNING - JobTech API returned no results for 'NLP' in 1384, trying Indeed API
+2025-06-16 10:23:59,898 - INFO - Searching Indeed API for 'NLP' in 1384
+2025-06-16 10:23:59,898 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-16 10:24:00,899 - INFO -   Searching for term: natural language processing
+2025-06-16 10:24:00,899 - INFO - Searching JobTech API for 'natural language processing' in 1384
+2025-06-16 10:24:01,421 - INFO - Found 2 total hits, retrieved 2 jobs
+2025-06-16 10:24:02,429 - INFO -   Searching for term: computer vision
+2025-06-16 10:24:02,429 - INFO - Searching JobTech API for 'computer vision' in 1384
+2025-06-16 10:24:02,792 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-16 10:24:02,793 - WARNING - JobTech API returned no results for 'computer vision' in 1384, trying Indeed API
+2025-06-16 10:24:02,794 - INFO - Searching Indeed API for 'computer vision' in 1384
+2025-06-16 10:24:02,794 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-16 10:24:03,795 - INFO -   Searching for term: neural networks
+2025-06-16 10:24:03,795 - INFO - Searching JobTech API for 'neural networks' in 1384
+2025-06-16 10:24:04,159 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-16 10:24:04,160 - WARNING - JobTech API returned no results for 'neural networks' in 1384, trying Indeed API
+2025-06-16 10:24:04,160 - INFO - Searching Indeed API for 'neural networks' in 1384
+2025-06-16 10:24:04,160 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-16 10:24:05,161 - INFO -   Searching for term: maskininlärning
+2025-06-16 10:24:05,162 - INFO - Searching JobTech API for 'maskininlärning' in 1384
+2025-06-16 10:24:05,528 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-16 10:24:05,528 - WARNING - JobTech API returned no results for 'maskininlärning' in 1384, trying Indeed API
+2025-06-16 10:24:05,529 - INFO - Searching Indeed API for 'maskininlärning' in 1384
+2025-06-16 10:24:05,529 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-16 10:24:06,530 - INFO -   Searching for term: artificiell intelligens
+2025-06-16 10:24:06,530 - INFO - Searching JobTech API for 'artificiell intelligens' in 1384
+2025-06-16 10:24:07,027 - INFO - Found 2 total hits, retrieved 2 jobs
+2025-06-16 10:24:08,034 - INFO - 
+Searching for RPA jobs in Gothenburg...
+2025-06-16 10:24:08,034 - INFO -   Searching for term: RPA
+2025-06-16 10:24:08,034 - INFO - Searching JobTech API for 'RPA' in 1480
+2025-06-16 10:24:08,400 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-16 10:24:08,401 - WARNING - JobTech API returned no results for 'RPA' in 1480, trying Indeed API
+2025-06-16 10:24:08,401 - INFO - Searching Indeed API for 'RPA' in 1480
+2025-06-16 10:24:08,401 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-16 10:24:09,403 - INFO -   Searching for term: robotic process automation
+2025-06-16 10:24:09,403 - INFO - Searching JobTech API for 'robotic process automation' in 1480
+2025-06-16 10:24:10,482 - INFO - Found 26 total hits, retrieved 26 jobs
+2025-06-16 10:24:11,609 - INFO -   Searching for term: automation developer
+2025-06-16 10:24:11,610 - INFO - Searching JobTech API for 'automation developer' in 1480
+2025-06-16 10:24:12,399 - INFO - Found 16 total hits, retrieved 16 jobs
+2025-06-16 10:24:13,451 - INFO -   Searching for term: automationsutvecklare
+2025-06-16 10:24:13,451 - INFO - Searching JobTech API for 'automationsutvecklare' in 1480
+2025-06-16 10:24:13,810 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-16 10:24:13,811 - WARNING - JobTech API returned no results for 'automationsutvecklare' in 1480, trying Indeed API
+2025-06-16 10:24:13,811 - INFO - Searching Indeed API for 'automationsutvecklare' in 1480
+2025-06-16 10:24:13,811 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-16 10:24:14,812 - INFO -   Searching for term: UiPath
+2025-06-16 10:24:14,813 - INFO - Searching JobTech API for 'UiPath' in 1480
+2025-06-16 10:24:15,169 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-16 10:24:15,170 - WARNING - JobTech API returned no results for 'UiPath' in 1480, trying Indeed API
+2025-06-16 10:24:15,170 - INFO - Searching Indeed API for 'UiPath' in 1480
+2025-06-16 10:24:15,170 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-16 10:24:16,171 - INFO -   Searching for term: Blue Prism
+2025-06-16 10:24:16,172 - INFO - Searching JobTech API for 'Blue Prism' in 1480
+2025-06-16 10:24:16,534 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-16 10:24:16,534 - WARNING - JobTech API returned no results for 'Blue Prism' in 1480, trying Indeed API
+2025-06-16 10:24:16,534 - INFO - Searching Indeed API for 'Blue Prism' in 1480
+2025-06-16 10:24:16,534 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-16 10:24:17,535 - INFO -   Searching for term: Automation Anywhere
+2025-06-16 10:24:17,535 - INFO - Searching JobTech API for 'Automation Anywhere' in 1480
+2025-06-16 10:24:17,890 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-16 10:24:17,891 - WARNING - JobTech API returned no results for 'Automation Anywhere' in 1480, trying Indeed API
+2025-06-16 10:24:17,891 - INFO - Searching Indeed API for 'Automation Anywhere' in 1480
+2025-06-16 10:24:17,891 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-16 10:24:18,893 - INFO -   Searching for term: Microsoft Power Automate
+2025-06-16 10:24:18,893 - INFO - Searching JobTech API for 'Microsoft Power Automate' in 1480
+2025-06-16 10:24:20,235 - INFO - Found 164 total hits, retrieved 100 jobs
+2025-06-16 10:24:21,572 - INFO -   Searching for term: business process automation
+2025-06-16 10:24:21,572 - INFO - Searching JobTech API for 'business process automation' in 1480
+2025-06-16 10:24:22,667 - INFO - Found 41 total hits, retrieved 41 jobs
+2025-06-16 10:24:23,859 - INFO -   Searching for term: affärsprocessautomation
+2025-06-16 10:24:23,859 - INFO - Searching JobTech API for 'affärsprocessautomation' in 1480
+2025-06-16 10:24:24,221 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-16 10:24:24,222 - WARNING - JobTech API returned no results for 'affärsprocessautomation' in 1480, trying Indeed API
+2025-06-16 10:24:24,223 - INFO - Searching Indeed API for 'affärsprocessautomation' in 1480
+2025-06-16 10:24:24,223 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-16 10:24:25,224 - INFO - 
+Searching for RPA jobs in Kungsbacka...
+2025-06-16 10:24:25,225 - INFO -   Searching for term: RPA
+2025-06-16 10:24:25,225 - INFO - Searching JobTech API for 'RPA' in 1384
+2025-06-16 10:24:25,587 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-16 10:24:25,588 - WARNING - JobTech API returned no results for 'RPA' in 1384, trying Indeed API
+2025-06-16 10:24:25,588 - INFO - Searching Indeed API for 'RPA' in 1384
+2025-06-16 10:24:25,588 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-16 10:24:26,589 - INFO -   Searching for term: robotic process automation
+2025-06-16 10:24:26,590 - INFO - Searching JobTech API for 'robotic process automation' in 1384
+2025-06-16 10:24:26,978 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-16 10:24:26,979 - WARNING - JobTech API returned no results for 'robotic process automation' in 1384, trying Indeed API
+2025-06-16 10:24:26,979 - INFO - Searching Indeed API for 'robotic process automation' in 1384
+2025-06-16 10:24:26,979 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-16 10:24:27,981 - INFO -   Searching for term: automation developer
+2025-06-16 10:24:27,981 - INFO - Searching JobTech API for 'automation developer' in 1384
+2025-06-16 10:24:28,338 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-16 10:24:28,338 - WARNING - JobTech API returned no results for 'automation developer' in 1384, trying Indeed API
+2025-06-16 10:24:28,338 - INFO - Searching Indeed API for 'automation developer' in 1384
+2025-06-16 10:24:28,338 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-16 10:24:29,340 - INFO -   Searching for term: automationsutvecklare
+2025-06-16 10:24:29,341 - INFO - Searching JobTech API for 'automationsutvecklare' in 1384
+2025-06-16 10:24:29,731 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-16 10:24:29,732 - WARNING - JobTech API returned no results for 'automationsutvecklare' in 1384, trying Indeed API
+2025-06-16 10:24:29,732 - INFO - Searching Indeed API for 'automationsutvecklare' in 1384
+2025-06-16 10:24:29,732 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-16 10:24:30,734 - INFO -   Searching for term: UiPath
+2025-06-16 10:24:30,734 - INFO - Searching JobTech API for 'UiPath' in 1384
+2025-06-16 10:24:31,096 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-16 10:24:31,097 - WARNING - JobTech API returned no results for 'UiPath' in 1384, trying Indeed API
+2025-06-16 10:24:31,097 - INFO - Searching Indeed API for 'UiPath' in 1384
+2025-06-16 10:24:31,097 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-16 10:24:32,098 - INFO -   Searching for term: Blue Prism
+2025-06-16 10:24:32,099 - INFO - Searching JobTech API for 'Blue Prism' in 1384
+2025-06-16 10:24:32,456 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-16 10:24:32,457 - WARNING - JobTech API returned no results for 'Blue Prism' in 1384, trying Indeed API
+2025-06-16 10:24:32,457 - INFO - Searching Indeed API for 'Blue Prism' in 1384
+2025-06-16 10:24:32,457 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-16 10:24:33,459 - INFO -   Searching for term: Automation Anywhere
+2025-06-16 10:24:33,459 - INFO - Searching JobTech API for 'Automation Anywhere' in 1384
+2025-06-16 10:24:33,901 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-16 10:24:33,902 - WARNING - JobTech API returned no results for 'Automation Anywhere' in 1384, trying Indeed API
+2025-06-16 10:24:33,902 - INFO - Searching Indeed API for 'Automation Anywhere' in 1384
+2025-06-16 10:24:33,902 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-16 10:24:34,904 - INFO -   Searching for term: Microsoft Power Automate
+2025-06-16 10:24:34,904 - INFO - Searching JobTech API for 'Microsoft Power Automate' in 1384
+2025-06-16 10:24:35,547 - INFO - Found 4 total hits, retrieved 4 jobs
+2025-06-16 10:24:36,562 - INFO -   Searching for term: business process automation
+2025-06-16 10:24:36,562 - INFO - Searching JobTech API for 'business process automation' in 1384
+2025-06-16 10:24:36,924 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-16 10:24:36,925 - WARNING - JobTech API returned no results for 'business process automation' in 1384, trying Indeed API
+2025-06-16 10:24:36,925 - INFO - Searching Indeed API for 'business process automation' in 1384
+2025-06-16 10:24:36,925 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-16 10:24:37,927 - INFO -   Searching for term: affärsprocessautomation
+2025-06-16 10:24:37,927 - INFO - Searching JobTech API for 'affärsprocessautomation' in 1384
+2025-06-16 10:24:38,289 - INFO - Found 0 total hits, retrieved 0 jobs
+2025-06-16 10:24:38,289 - WARNING - JobTech API returned no results for 'affärsprocessautomation' in 1384, trying Indeed API
+2025-06-16 10:24:38,289 - INFO - Searching Indeed API for 'affärsprocessautomation' in 1384
+2025-06-16 10:24:38,289 - WARNING - No RapidAPI key provided, skipping Indeed API call
+2025-06-16 10:24:39,463 - INFO - 
+Found 92 highly relevant IT jobs in Gothenburg and Kungsbacka
+2025-06-16 10:24:39,463 - INFO - Saved 92 jobs to it_jobs.json
+2025-06-16 10:24:39,463 - INFO - 
+Found 6 highly relevant AI jobs in Gothenburg and Kungsbacka
+2025-06-16 10:24:39,463 - INFO - Saved 6 jobs to ai_jobs.json
+2025-06-16 10:24:39,463 - INFO - 
+Found 4 highly relevant RPA jobs in Gothenburg and Kungsbacka
+2025-06-16 10:24:39,463 - INFO - Saved 4 jobs to rpa_jobs.json
+2025-06-16 10:24:39,463 - INFO - 
+Found 102 total highly relevant jobs in Gothenburg and Kungsbacka
+2025-06-16 10:24:39,463 - INFO - Saved 102 jobs to all_jobs.json
+2025-06-16 10:24:39,463 - INFO - Updated last_updated.txt with current timestamp
+2025-06-16 10:24:39,463 - INFO - 
+Job scraping completed at 2025-06-16 10:24:39.463876
