@@ -1,20 +1,5 @@
 [
   {
-    "id": "29192430",
-    "title": "Senior Software/DevOps Engineer",
-    "employer": "Baronit AB",
-    "location": "Göteborg",
-    "description": "Shaping the Future with Brilliant Minds\nAt Baronit, we connect brilliant minds to shape the future of technology. As a passionate team of tech experts, we lead with innovation, expertise, and curiosity to help businesses grow and adapt to new opportunities. Our experts blend technical excellence, industry insight, and a strong commitment to delivering exceptional results across sectors such as Airline, Fintech, Healthcare, Telecom, E-commerce, and more.\nWe are an IT consultancy company based in Gothenburg looking for an experienced Senior DevOps Engineer to join our client’s team. This role requires a strong foundation in in cloud platforms and DevOps practices. You will collaborate closely with cross-functional teams to deliver scalable, reliable solutions that align with our client’s goals.\nHere's what we’re looking for in an ideal candidate:\nAcademic degree in Computer Science, Engineering, or a related field.\n6+ years of experience in a DevOps, or/and Software Engineering role.\nProven expertise in CI/CD automation using tools like Jenkins, Git, GitOps, Github , GitLab and Gerrit.\nStrong hands-on experience with AWS\nProficiency in Python, Bash/Shell scripting\nExperience with containerization and orchestration tools like Docker and Kubernetes.\nDeep understanding of monitoring and observability using Grafana, Prometheus, ElasticStack\nSolid background in Infrastructure as Code (IaC) with tools like Terraform.\nKnowledge of backend development with Java, JavaScript, and frameworks such as Spring Boot.\nExperience with database technologies such as PostgreSQL, MongoDB, and Redis.\nExpertise in security aspects, especially in CI/CD pipelines and cloud deployments.\nExperience with Agile/Scrum methodologies and working in a fast-paced, collaborative environment.\nExcellent communication and problem-solving skills, with a focus on continuous improvement and innovation.\n\nPreferred Qualifications:\nExposure to Site Reliability Engineering (SRE) principles.\n\nIn addition to exciting projects, we also offer:\nFlexible salary model – choose between a fixed salary or a revenue-based model where you receive X% of your client rate, with full transparency\nTechnical forums for continuous learning and knowledge sharing\nSports and social activities to stay connected and engaged\nAnnual offsite conference for team bonding and inspiration\nAnd above all – a great team spirit and a focus on enjoying the journey together",
-    "url": null,
-    "published": "2024-10-20T18:16:33",
-    "deadline": "2025-06-28T23:59:59",
-    "is_consultant": false,
-    "is_meaningful": false,
-    "source": "JobTech",
-    "relevance_score": 0.6934451219512194,
-    "category": "IT"
-  },
-  {
     "id": "29784180",
     "title": "Erfaren systemutvecklare inom IT och industri",
     "employer": "Jobnet AB",
@@ -765,21 +750,6 @@
     "category": "IT"
   },
   {
-    "id": "29744946",
-    "title": "Senior Java Engineer",
-    "employer": "Explipro Group AB",
-    "location": "Göteborg",
-    "description": "We are currently looking for skilled engineers to join our team and work with Java and cloud technologies, focusing on delivering high-quality solutions to our clients.\nAbout the role\nAs a Javaengineer at Explipro, you will be responsible for developing, maintaining, and enhancing cloud-based applications. Your main tasks will include working with Java, Spring Boot, and cloud platforms (primarily AWS or Azure). This is an exciting opportunity to work in a dynamic and supportive environment that promotes a healthy work-life balance, embracing the best of Swedish work culture.\nKey Responsibilities Designing and developing scalable cloud-based solutions using Java and Spring Boot.\n Implementing and managing CI/CD pipelines.\n Collaborating with cross-functional teams to define, design, and deploy new features.\n Troubleshooting and resolving complex technical issues.\n Participating in code reviews to maintain high code quality.\n Requirements Minimum 7 years of professional experience in Java development.\n Knowledge of CI/CD processes and tools.\n Experience with cloud platforms like AWS, Azure or Google Cloud.\n Proficiency in English, both spoken and written.\n Bachelor's degree in Computer Science, Information Technology, or a related field.\n Strong problem-solving skills and attention to detail.\n   Why Join Explipro?\nExplipro values helpfulness and simplicity in the workplace. We are looking for individuals who share our commitment to integrity, transparency, and caring for each other. By joining us, you will be part of a supportive team that values continuous learning and personal growth. We offer competitive salaries, flexible working conditions, and numerous benefits to support your professional journey.\nApply today and let's explore what we can achieve together!",
-    "url": "https://career.explipro.com/jobs/6001702-senior-java-engineer?promotion=1495689-arbetsformedlingen",
-    "published": "2025-06-02T15:47:53",
-    "deadline": "2025-06-28T23:59:59",
-    "is_consultant": false,
-    "is_meaningful": false,
-    "source": "JobTech",
-    "relevance_score": 0.5292682926829269,
-    "category": "IT"
-  },
-  {
     "id": "29796251",
     "title": "Software and System Developer",
     "employer": "ArinaSoft AB",
@@ -1373,6 +1343,21 @@
     "url": "https://wabtec.teamtailor.com/jobs/5760877-faltservicetekniker-till-wabtec-placering-goteborg-eller-tillberga?promotion=1410226-arbetsformedlingen",
     "published": "2025-04-02T09:33:56",
     "deadline": "2025-09-19T23:59:59",
+    "is_consultant": false,
+    "is_meaningful": true,
+    "source": "JobTech",
+    "relevance_score": 0.5073170731707317,
+    "category": "IT"
+  },
+  {
+    "id": "29721105",
+    "title": "Drifttekniker - Göteborg",
+    "employer": "Ecareer AB",
+    "location": "Göteborg",
+    "description": "Dela din erfarenhet av teknisk drift – undervisa framtidens drifttekniker i Göteborg\nHar du arbetat med tekniska system i fastigheter, energieffektivisering eller underhållsplanering? Då har du chansen att göra verklig skillnad. Vi söker nu yrkesverksamma personer som vill undervisa i kursen Driftteknik (35 YH-poäng) – en central kurs inom en teknisk utbildning som ges på plats i Göteborg.\nDu behöver inte vara utbildare i grunden – det är din erfarenhet, yrkeskunnande och problemlösningsförmåga vi vill ta till vara på.\n Om kursen – Driftteknik\nSyftet med kursen är att ge de studerande en bred förståelse för hur tekniska installationer fungerar i praktiken – med fokus på drift, underhåll och felsökning.\nDu kommer att undervisa i följande ämnesområden:\nTekniska installationer & fastighetssystem\n \nHur installationer påverkar hyresgästers komfort, energianvändning och vattenförbrukning\n\n \nGrundläggande tekniska system inom värme, ventilation, el och vatten\n\n \nDriftövervakning och felhantering\n \nRutiner för driftövervakning och dokumentation\n\n \nVanliga felorsaker och hantering av felanmälningar\n\n \nTerminologi inom driftteknik – även på engelska\n\n \nUnderhåll och besiktning\n \nFörebyggande och avhjälpande underhåll med hjälp av ritningar, scheman, manualer och mätinstrument\n\n \nPlanering och genomförande av besiktningar\n\n \nUnderhållsplanering och uppföljning\n\n \nFelsökning och problemlösning\n \nSjälvständigt identifiera, analysera och lösa driftproblem\n\n \nTillämpa olika tekniker och metoder för felsökning och reparation\n\n \nArbeta med fastighetsteknikens helhet och dess koppling till energiprestanda\n\n  Du bör ha erfarenhet av: \nDrift och underhåll av tekniska installationer i fastigheter eller industri\n\n \nSystem för VVS, el, styr och övervakning\n\n \nPlanering och utförande av service och besiktningar\n\n \nTekniska ritningar, manualer och felsökningsinstrument\n\n \nKommunikation med hyresgäster, tekniker och leverantörer\n\n  Vem passar för uppdraget?\nVi söker dig som:\n \nHar minst ett par års erfarenhet inom teknisk drift, underhåll eller fastighetsteknik\n\n \nÄr bekväm med att arbeta praktiskt och kan förklara tekniska lösningar på ett pedagogiskt sätt\n\n \nGillar att dela med dig av dina erfarenheter till andra\n\n \nHar god struktur och kan planera moment i samråd med utbildningsansvarig\n\n \nHar möjlighet att undervisa på plats i Göteborg\n\n  Därför är detta uppdrag unikt:  Du stärker branschen med din kunskap\n  Du gör teknisk kunskap tillgänglig och konkret för nästa generation\n  Du får stor frihet att lägga upp innehållet utifrån praktiska exempel\n  Du får arbeta i ett relevant och verklighetsnära utbildningssammanhang\n  Du undervisar i ett område där efterfrågan på kompetens växer snabbt\n \n\nRedo att inspirera och bygga kompetens – på riktigt? Då är det här ett uppdrag för dig. Hör av dig till oss så berättar vi mer om kursens upplägg, omfattning och möjligheter till samarbete.",
+    "url": "https://jobb.ecareer.se/jobs/5959771-drifttekniker-goteborg?promotion=1480937-arbetsformedlingen",
+    "published": "2025-05-21T16:15:33",
+    "deadline": "2025-11-07T23:59:59",
     "is_consultant": false,
     "is_meaningful": true,
     "source": "JobTech",
