@@ -7,7 +7,7 @@
     "description": "Engagerad utvecklare till företag i teknisk framkant. På Prevas blir du del av ett familjärt gäng som varvar hållbart förbättringsarbete med en och annan lekfull aktivitet.\n\nDitt jobb på Prevas\n\nPå Prevas i Göteborg är det en grupp som specialiserat sig på att utveckla robusta, pålitliga och kundanpassade systemstöd för produktion. Arbetet drivs ofta i projektform och dessa kan variera i både inriktning och storlek.\n\nDin roll blir att tillsammans med andra utvecklare hitta lösningar och skapa effektiva stöd för industriella processer. Här tar du hjälp av dina kunskaper i .NET och din förståelse för systemintegration för att identifiera behov och fastställa kravspecifikationer. Du deltar i allt ifrån tekniska förstudier, design, utveckling och installation till support, underhåll och vidareutveckling samt förvaltning av mjukvara för effektiv produktion. I stora drag kan man säga att du kommer jobba med både systemering och programmering.\n\nI ditt arbete får du uppbackning av kollegor som Olle, Björn, Martin, Robert, Elisabeth och Helena.\n\nÄr det här du?\n\nFör att passa i rollen behöver du ha en civilingenjör/högskoleingenjörsexamen och minst fem års erfarenhet av utveckling och leverans av IT-lösningar inom kritisk drift. Du får gärna ha känsla för både .NET, SQL Server och Oracle Server. Om du dessutom förstår det här med systemintegration och kan tillämpa olika datautbytesmetoder är det ett stort plus.\n\nDitt engagemang och stora intresse för teknik är vad som sporrar dig att hitta nya lösningar och effektiva stöd. Det är bra om du har lätt för att kommunicera, interagera med andra och känner igen dig i egenskaper som kundorienterad och lösningsorienterad Känner du dig dessutom som en kreativ person med förmågan att vara analytisk och ha ett öga för detaljer så har du hamnat rätt.\n\n***\n\nGå in direkt och gör en anonym lönematchning: \nhttps://jobnet.se/systemutvecklare-programmerare-prevas-goteborg?utm_source=arbetsformedlingen\n\n***\n\nVia länken hittar du bilder, förmåner och mer information om tjänsten på Prevas. Det är viktigt att klargöra att rollen är för Prevas och att Jobnet endast fungerar som plattform för din ansökan.",
     "url": "https://jobnet.se/systemutvecklare-programmerare-prevas-goteborg?utm_source=arbetsformedlingen",
     "published": "2025-06-22T20:15:31",
-    "deadline": "2025-07-03T23:59:59",
+    "deadline": "2025-07-10T23:59:59",
     "is_consultant": false,
     "is_meaningful": true,
     "source": "JobTech",
@@ -352,7 +352,7 @@
     "description": "Bli en del av Yoin Technologies, ett ungt och snabbväxande techbolag som erbjuder IT-tjänster. Vi söker en engagerad systemutvecklare med kunskaper inom Java. Kom och bli en del av vårt team.\n\nDitt jobb på Yoin Technologies\n\nDitt främsta uppdrag blir att assistera kunder och ta deras tekniska miljöer till nästa nivå. Beroende på din erfarenhetsnivå kommer du antingen hantera uppdateringar och vidareutveckling av kunders miljöer eller få ett större ansvar och sköta processen när kunden byter från en klassisk driftsmiljö till en modernare cloud/azure-miljö. Oavsett vilken del av processen du tar dig an kommer du att stötta kundens utvecklingsteam med best practices för deployment, migrering av applikationer och tjänster samt miljöuppsättning.\n\nDå Yoin Technologies bedriver inkubatorverksamhet kan du se fram emot en hel del spännande projekt. Genom sina breda kunskaper och sitt stora nätverk gör man det möjligt för drivna entreprenörer att förverkliga sina idéer. Här blir du en viktig pusselbit i arbetet med att testa gångbarheten och ta fram prototyper för att se om idén har bärkraft. \n\nI dagsläget består Yoin Technologies av 20 stycken erfarna utvecklare och du kommer jobba tätt ihop med alla. Vilket team du jobbar i beror på projektet, men målet är att alltid arbeta i ett team om minst 3-4 personer som tillsammans jobbar mot samma projekt och kund. \nFrån start kommer några av dina närmsta kollegor bli Marcus, Peter och Fredrik.\n\nÄr det här du?\n\nFör att lyckas i den här rollen har du minst en 3-årig akademisk utbildning och 5 års erfarenhet inom utveckling i Java efter examen. Du behöver också behärska svenska flytande i tal och skrift.\n\nPå Yoin Technologies är vi övertygade om att en stark laganda och samarbete är nyckeln till framgång. Som systemutvecklare hos oss kommer du att vara en del av en engagerad och hjälpsam grupp som stöttar varandra. Vi tror på din förmåga att vara självgående och ta egna initiativ. Här får du inte bara möjlighet att utveckla dina tekniska färdigheter, utan också vara en del av en trivsam arbetsmiljö där vi värdesätter arbetsglädje och social sammanhållning.\n\n***\n\nGå in direkt och gör en anonym lönematchning: \nhttps://jobnet.se/systemutvecklare-programmerare-yoin-technologies-goteborg-2?utm_source=arbetsformedlingen\n\n***\n\nVia länken hittar du bilder, förmåner och mer information om tjänsten på Yoin Technologies. Det är viktigt att klargöra att rollen är för Yoin Technologies och att Jobnet endast fungerar som plattform för din ansökan.",
     "url": "https://jobnet.se/systemutvecklare-programmerare-yoin-technologies-goteborg-2?utm_source=arbetsformedlingen",
     "published": "2025-06-22T20:15:33",
-    "deadline": "2025-06-30T23:59:59",
+    "deadline": "2025-07-07T23:59:59",
     "is_consultant": false,
     "is_meaningful": false,
     "source": "JobTech",
@@ -417,21 +417,6 @@
     "is_meaningful": true,
     "source": "JobTech",
     "relevance_score": 0.5876524390243902,
-    "category": "IT"
-  },
-  {
-    "id": "29372954",
-    "title": "Senior Cloud Developer - Fullstack (.Net, C#, React, AWS)",
-    "employer": "Professional Galaxy AB",
-    "location": "Göteborg",
-    "description": "Assignment description\nFor our client we are looking for a SeniorCloud Developer.Our client is delivering the complete charging experience and solutions to make life easier for electric vehicle owners. They are at the forefront of optimizing distributed energy resources and smart devices through advanced algorithms, forecasting, and innovative management strategies. These teams also develop APIs for the partners and connect hardware such as wallboxes and home batteries to the cloud, enabling integration and management of energy resources. The mission is to enhance energy efficiency at multiple levels—ranging from individual homes to local grids, and up to the national grid—ultimately benefiting customers, the energy system, and the planet.\nWhat will you do?\nAs a cloud developer with a focus on device integration and cloud infrastructure management, you will play a key role in contributing to the future of the energy ecosystem. There are five collaborative teams, each offering a creative, self-organizing environment where your tasks will align with your skills and experience.\nFour of their teams focus on backend development, working on optimizing charging sessions, building backends for wallboxes and home batteries, aggregating vehicle fleets, and creating third-party APIs, while the fifth team—your prospective team—specializes in full-stack development, focusing on web portals and support tools that simplify issue identification and resolution, such as tools for customer care agents and wallbox installers.\nIn this role, they encourage you to take ownership of your work while maintaining clear communication and contributing to a supportive team environment. Whether working on backend solutions or full-stack projects, you’ll have the chance to grow and learn as part of a company making strides in the evolving energy landscape.\nDo you fit the profile?\nYou are an experienced cloud developer with expertise in .NET, C#, AWS, Kubernetes, MongoDB, Terraform, Grafana, Kafka, React, Remix, Tailwind, GraphQL and related technologies. You have a proven history of integrating complex systems in cloud environments, with strong skills in AWS management, DevOps practices, and optimizing system performance. Familiarity with cloud security in distributed systems is important, along with experience in event-driven architecture and using Infrastructure as Code (IaC) to automate and manage cloud infrastructure.\nOur client values experience in energy systems, and a general understanding of vehicle technology is a bonus. You are passionate about sustainability, have a strong analytical mindset, and work in an organized, structured way. Driven by curiosity, you continuously seek improvement, challenge the status quo, and explore new technologies. You communicate well, thrive in collaborative, fast-paced environments, and embrace working in diverse teams.\nYou have over 4 years of experience and a bachelor’s degree (or equivalent knowledge). A driver’s license (level B) is helpful but not required.\nWe offer continuously. That means that we sometimes remove the assignments before deadline. If you are interested we recommend that you apply immediately.\nPlease note! All CV’s must be in English.\nRequired skills:IAC, Devops, GraphQL, Kafka, Terraform, C#, Grafana, MongoDB, React, Cloud Security, AWS, Kubernetes, cloud infrastructure management, .Net\nPreferred skills:Driver’s license B\nLanguages: English (Proficient)Location: Gothenburg (SE)\nRemote: 25%\nAssignment period:20 Jan 2025- 31 Dec 2025\nApplication deadline:14 Jan 2025",
-    "url": "https://careers.progalaxy.se/jobs/5419478-senior-cloud-developer-fullstack-net-c-react-aws?promotion=1294776-arbetsformedlingen",
-    "published": "2025-01-10T15:47:13",
-    "deadline": "2025-06-29T23:59:59",
-    "is_consultant": false,
-    "is_meaningful": false,
-    "source": "JobTech",
-    "relevance_score": 0.5768292682926829,
     "category": "IT"
   },
   {
@@ -1275,21 +1260,6 @@
     "category": "IT"
   },
   {
-    "id": "29740282",
-    "title": "Embeddedutvecklare på Syntronic i Göteborg!",
-    "employer": "Syntronic AB",
-    "location": "Göteborg",
-    "description": "Syntronic utvecklar framtidens häftigaste teknologi och vi verkar inom flertalet olika branscher, exempelvis inom telekom, fordon och försvar.\nVi satsar alltid stort på Syntronic och letar nu efter fler seniora embeddedutvecklare. Som embeddedutvecklare kommer du att spela en avgörande roll i att driva och utveckla projekt gentemot våra kunder. \nVi söker seniora embeddedutvecklare som har:\n Civil- eller högskoleutbildning inom Elektro, Data, teknisk fysik eller liknande\n Minst 3 års erfarenhet av embeddedutveckling\n God kunskap inom C/C++ eller andra relevanta programmeringsspråk\n Djup förståelse för hårdvarunära programmering\n Förmåga att kommunicera flytande på både svenska och engelska i tal och skrift.\n \nSyntronic erbjuder en trygg anställning i en dynamisk och framåtriktad miljö. Att vi är ett team är vår styrka, därför ser vi att du arbetar tillsammans på plats med oss på kontoret – när du inte behövs hos någon av våra kunder förstås!\nPersonliga egenskaper\nFör att lyckas i rollen som embeddedutvecklare tror vi att du har en god förmåga att kommunicera med andra, vara självgående i ditt arbete och kan ta dig an olika problemställningar på jobbet. \nTillsammans med dina kollegor har du fokus på att leverera de bästa lösningarna till vår kund, att vara kreativ och idérik kan vara en bra egenskap. Självklart har du ett stort teknikintresse och en vilja att utmana det som är tekniskt möjligt.\nVi erbjuder\nPå Syntronic blir du en del av en härlig gemenskap där din röst hörs och dina idéer välkomnas. Vi erbjuder flexibla arbetstider, balans mellan arbete och fritid samt regelbundna karriärutvecklingssamtal och interna workshops för din utveckling. Utöver detta får du förmånliga förmåner och försäkringar. Hos oss får du inte bara ett jobb - du får en plats att växa och trivas både personligt och professionellt. \nVälkommen till Syntronic! \nAnsökan\nVi ser fram emot din ansökan, som ska vara oss tillhanda senast 29 juni. Vi arbetar med löpande urval. \nAv kommunikation- och kvalitetssäkringsskäl ber vi dig att skicka in din ansökan digitalt via vårt system och inte via e-post.",
-    "url": "https://jobsemea.syntronic.com/jobs/5733077-embeddedutvecklare-pa-syntronic-i-goteborg?promotion=1493076-arbetsformedlingen",
-    "published": "2025-05-30T11:04:43",
-    "deadline": "2025-06-29T23:59:59",
-    "is_consultant": false,
-    "is_meaningful": true,
-    "source": "JobTech",
-    "relevance_score": 0.5073170731707317,
-    "category": "IT"
-  },
-  {
     "id": "29709489",
     "title": "Automotive Functional Safety Engineers",
     "employer": "AFRY AB",
@@ -1420,21 +1390,6 @@
     "deadline": "2025-11-09T23:59:59",
     "is_consultant": false,
     "is_meaningful": true,
-    "source": "JobTech",
-    "relevance_score": 0.5036585365853659,
-    "category": "IT"
-  },
-  {
-    "id": "29729955",
-    "title": "Verkstadstekniker",
-    "employer": "HydraSpecma Component AB",
-    "location": "Kungsbacka",
-    "description": "🛠 Dina arbetsuppgifter\nSom verkstadstekniker hos HydraSpecma Component i Kungsbacka kommer du att arbeta i en modern verkstadsmiljö tillsammans med ett engagerat team med hög teknisk kompetens. Du kommer att ha en varierad roll där du bland annat ansvarar för:\nMontage och bestyckning av hydraulsystem och komponenter\nFelsökning och reparation av hydraulsystem och komponenter\nTillverkning och anpassning av detaljer och tillbehör\nProvning och tester av hydraulsystem\nSlangtillverkning vid behov\nAktivt deltagande i vårt arbete med ständiga förbättringar\n\n👤 Vi söker dig som:\nHar dokumenterad erfarenhet inom hydraulik, el eller VVS\nHar erfarenhet av reparation och underhåll\nHar god förståelse för tekniska ritningar och funktioner\nHar kännedom inom provning och testning av tekniska system\nHar erfarenhet av slangtillverkning\nHar erfarenhet av arbete i fält\nÄr självgående, noggrann och lösningsorienterad\nInnehar B-körkort (krav)\n\n💼 Vi erbjuder dig:\nEn trygg och utvecklande arbetsplats i ett marknadsledande företag\nMöjlighet att arbeta med avancerad teknik och innovativa lösningar\nKompetensutveckling\nEtt engagerat team med hög teknisk kompetens\nEn kultur som präglas av teamwork, kvalitet och ständiga förbättringar\n\n📆Start: enligt överenskommelse\n📍Ort: Kungsbacka\n📝Anställning: tillsvidareanställning, heltid\n🕛Arbetstider: dagtid, visst övertidsarbete kan förekomma\n💰Lön: månadslön, individuell lönesättning\n🏁Sista ansökningsdag: 2025-06-29",
-    "url": "https://careers.hydraspecma.com/sv/jobs/5959949-verkstadstekniker",
-    "published": "2025-05-26T11:14:13",
-    "deadline": "2025-06-29T23:59:59",
-    "is_consultant": false,
-    "is_meaningful": false,
     "source": "JobTech",
     "relevance_score": 0.5036585365853659,
     "category": "IT"
