@@ -64,12 +64,13 @@ JOB_CATEGORIES = {
         ],
         "exclusion_keywords": [
             "konsult", "consultant", "bemanning", "rekrytering", "inhyrd", "postdoc",
-            "doktorand", "phd student", "forskare", "professor", "lektor"
+            "doktorand", "phd student", "forskare", "professor", "lektor",
+            "DevSecOps", "DevOps", "fullstack", "frontend", "backend"
         ],
         "title_patterns": [
             r"utvecklare", r"developer", r"programmer", r"engineer", r"arkitekt", r"architect",
             r"tekniker", r"specialist", r"expert", r"lead", r"chef", r"manager", r"admin",
-            r"administrator", r"devops", r"frontend", r"backend", r"fullstack", r"system",
+            r"administrator", r"system",
             r"network", r"database", r"data", r"security", r"säkerhet", r"support"
         ]
     },
@@ -152,8 +153,13 @@ MEANINGFUL_ORGS = [
 
 # Consultant keywords to exclude
 CONSULTANT_KEYWORDS = [
-    "konsult", "consultant", "bemanning", "rekrytering", "inhyrd", 
-    "staffing", "recruitment", "consulting"
+    "konsult", "consultant", "consulting", "konsultbolag", "konsultföretag",
+    "konsultuppdrag", "konsultation", "bemanning", "rekrytering",
+    "interim", "inhyrd", "resurskonsult", "underkonsult", "staffing",
+    "konsulttjänst", "konsultchef", "konsultledare",
+    "till vår kund", "hos kund", "till våra kunder", 
+    "consultant role", "konsultroll", "konsultuppdrag",
+    "för kunds räkning", "placerad hos", "placering hos"
 ]
 
 def search_jobtech_jobs(query, location, limit=100):
@@ -168,7 +174,7 @@ def search_jobtech_jobs(query, location, limit=100):
     Returns:
         list: List of job listings
     """
-    logger.info(f"Searching JobTech API for '{query}' in {location}")
+    logger.info(f"Searching JobTech API for \'{query}\' in {location}")
     
     params = {
         "q": f"{query} {location}",
@@ -226,7 +232,7 @@ def search_indeed_jobs(query, location):
         logger.info("Skipping RapidAPI call (used within the last week)")
         return []
     
-    logger.info(f"Searching Indeed API for '{query}' in {location}")
+    logger.info(f"Searching Indeed API for \'{query}\' in {location}")
     
     headers = {
         "X-RapidAPI-Key": RAPIDAPI_KEY,
@@ -292,7 +298,7 @@ def should_use_rapidapi():
         with open(LAST_RAPIDAPI_FILE, "r") as f:
             last_usage = datetime.strptime(f.read().strip(), "%Y-%m-%d %H:%M:%S")
         
-        # Check if it's been at least 7 days since last usage
+        # Check if it\'s been at least 7 days since last usage
         return datetime.now() - last_usage >= timedelta(days=7)
     
     except Exception as e:
@@ -300,7 +306,9 @@ def should_use_rapidapi():
         return True
 
 def update_last_rapidapi_usage():
-    """Update the last RapidAPI usage timestamp"""
+    """
+    Update the last RapidAPI usage timestamp
+    """
     try:
         os.makedirs(os.path.dirname(LAST_RAPIDAPI_FILE), exist_ok=True)
         with open(LAST_RAPIDAPI_FILE, "w") as f:
@@ -310,9 +318,9 @@ def update_last_rapidapi_usage():
         logger.error(f"Error updating RapidAPI usage timestamp: {e}")
 
 def is_consultant_job(job):
-    """Check if a job is likely a consultant position"""
-    consultant_keywords = CONSULTANT_KEYWORDS
-    
+    """
+    Check if a job is likely a consultant position with improved detection
+    """
     # Handle different job formats (JobTech vs Indeed)
     if isinstance(job, dict):
         if "employer" in job and isinstance(job["employer"], dict):
@@ -328,13 +336,19 @@ def is_consultant_job(job):
     else:
         return False
     
-    for keyword in consultant_keywords:
-        if keyword in employer or keyword in description or keyword in title:
+    text_to_check = (title + " " + description + " " + employer).lower()
+    
+    # Direct consultant indicators
+    for pattern in CONSULTANT_KEYWORDS:
+        if pattern in text_to_check:
             return True
+            
     return False
 
 def is_meaningful_job(job):
-    """Check if a job is from a meaningful organization"""
+    """
+    Check if a job is from a meaningful organization
+    """
     meaningful_keywords = MEANINGFUL_ORGS
     
     # Handle different job formats (JobTech vs Indeed)
@@ -384,7 +398,7 @@ def calculate_relevance_score(job, category):
     
     # Check for exclusion keywords
     for keyword in exclusion_keywords:
-        if keyword in title:
+        if keyword in title or keyword in description:
             return 0.0
     
     # Initialize score components
@@ -392,154 +406,147 @@ def calculate_relevance_score(job, category):
     primary_score = 0.0
     secondary_score = 0.0
     
-    # Check title patterns (highest weight)
+    # Title pattern matching (strongest indicator)
     for pattern in title_patterns:
-        if re.search(pattern, title, re.IGNORECASE):
-            title_score = 1.0
+        if re.search(pattern, title):
+            title_score = 0.8 # High score for title match
             break
-    
-    # Check primary keywords
-    primary_matches = 0
+            
+    # Primary keyword matching
     for keyword in primary_keywords:
         if keyword in title:
-            primary_matches += 3  # Higher weight for title matches
+            primary_score += 0.4
         elif keyword in description:
-            primary_matches += 1
-    primary_score = min(1.0, primary_matches / (len(primary_keywords) * 0.5))
-    
-    # Check secondary keywords
-    secondary_matches = 0
+            primary_score += 0.2
+            
+    # Secondary keyword matching
     for keyword in secondary_keywords:
         if keyword in title:
-            secondary_matches += 2  # Higher weight for title matches
+            secondary_score += 0.2
         elif keyword in description:
-            secondary_matches += 0.5
-    secondary_score = min(1.0, secondary_matches / (len(secondary_keywords) * 0.5))
+            secondary_score += 0.1
+            
+    # Combine scores, cap at 1.0
+    relevance = min(1.0, title_score + primary_score + secondary_score)
     
-    # Calculate final score with weights
-    final_score = (title_score * 0.5) + (primary_score * 0.35) + (secondary_score * 0.15)
-    
-    return final_score
+    return relevance
 
-def is_job_relevant_for_category(job, category, min_score=0.3):
+def filter_and_categorize_jobs(all_jobs):
     """
-    Determine if a job is relevant for a specific category
+    Filter and categorize jobs into IT, AI, and RPA
     
     Args:
-        job (dict): Job data
-        category (str): Category to check relevance for
-        min_score (float): Minimum relevance score threshold
+        all_jobs (list): List of all job listings
         
     Returns:
-        bool: True if job is relevant for category, False otherwise
+        tuple: (it_jobs, ai_jobs, rpa_jobs, all_filtered_jobs)
     """
-    score = calculate_relevance_score(job, category)
-    return score >= min_score
+    it_jobs = []
+    ai_jobs = []
+    rpa_jobs = []
+    all_filtered_jobs = []
+    
+    for job in all_jobs:
+        # Exclude consultant positions first
+        if is_consultant_job(job):
+            continue
+            
+        # Calculate relevance for each category
+        it_relevance = calculate_relevance_score(job, "IT")
+        ai_relevance = calculate_relevance_score(job, "AI")
+        rpa_relevance = calculate_relevance_score(job, "RPA")
+        
+        # Determine the best category and assign score
+        best_category = None
+        max_relevance = 0.0
+        
+        if it_relevance >= 0.6 and it_relevance > max_relevance:
+            best_category = "IT"
+            max_relevance = it_relevance
+        if ai_relevance >= 0.6 and ai_relevance > max_relevance:
+            best_category = "AI"
+            max_relevance = ai_relevance
+        if rpa_relevance >= 0.6 and rpa_relevance > max_relevance:
+            best_category = "RPA"
+            max_relevance = rpa_relevance
+            
+        if best_category:
+            job["category"] = best_category
+            job["relevance_score"] = int(max_relevance * 100) # Convert to percentage
+            all_filtered_jobs.append(job)
+            
+            if best_category == "IT":
+                it_jobs.append(job)
+            elif best_category == "AI":
+                ai_jobs.append(job)
+            elif best_category == "RPA":
+                rpa_jobs.append(job)
+                
+    return it_jobs, ai_jobs, rpa_jobs, all_filtered_jobs
 
-def scrape_jobs(category, search_terms, locations):
+def save_jobs_to_json(jobs, filename):
     """
-    Scrape jobs for a specific category and search terms
+    Save job listings to a JSON file
     
     Args:
-        category (str): Job category (IT, AI, or RPA)
-        search_terms (list): List of search terms
-        locations (list): List of locations to search in
-        
-    Returns:
-        list: List of jobs matching the criteria
+        jobs (list): List of job listings
+        filename (str): Name of the JSON file
     """
-    all_jobs = []
-    unique_job_ids = set()
-    
-    for location in locations:
-        logger.info(f"\nSearching for {category} jobs in {location}...")
-        
-        for term in search_terms:
-            logger.info(f"  Searching for term: {term}")
-            
-            # First try JobTech API
-            jobs = search_jobtech_jobs(term, location)
-            
-            # If JobTech fails, try Indeed API as fallback
-            if not jobs:
-                logger.warning(f"JobTech API returned no results for '{term}' in {location}, trying Indeed API")
-                jobs = search_indeed_jobs(term, location)
-            
-            if not jobs:
-                logger.warning(f"No jobs found for term: {term}")
-                continue
-            
-            logger.info(f"  Found {len(jobs)} jobs for term: {term}")
-            
-            # Process jobs with advanced filtering
-            for job in jobs:
-                # Skip if already processed
-                if job["id"] in unique_job_ids:
-                    continue
-                
-                # Skip consultant jobs
-                if job["is_consultant"]:
-                    continue
-                
-                # Apply advanced relevance filtering
-                if is_job_relevant_for_category(job, category):
-                    # Add relevance score and category
-                    job["relevance_score"] = calculate_relevance_score(job, category)
-                    job["category"] = category
-                    all_jobs.append(job)
-                    unique_job_ids.add(job["id"])
-            
-            # Add a small delay to avoid rate limiting
-            time.sleep(1)
-    
-    # Sort by relevance score (highest first)
-    all_jobs.sort(key=lambda x: x.get("relevance_score", 0), reverse=True)
-    
-    return all_jobs
-
-def save_jobs(jobs, output_file):
-    """Save jobs to a JSON file"""
-    # Create directory if it doesn't exist
-    os.makedirs(os.path.dirname(output_file), exist_ok=True)
-    
-    with open(output_file, "w", encoding="utf-8") as f:
-        json.dump(jobs, f, ensure_ascii=False, indent=2)
-    
-    logger.info(f"Saved {len(jobs)} jobs to {output_file}")
-
-def update_last_updated():
-    """Update the last_updated.txt file with current timestamp"""
-    with open(LAST_UPDATED_FILE, "w", encoding="utf-8") as f:
-        f.write(datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
-    logger.info(f"Updated last_updated.txt with current timestamp")
+    try:
+        with open(filename, "w", encoding="utf-8") as f:
+            json.dump(jobs, f, ensure_ascii=False, indent=4)
+        logger.info(f"Saved {len(jobs)} jobs to {filename}")
+    except Exception as e:
+        logger.error(f"Error saving jobs to {filename}: {e}")
 
 def main():
-    logger.info(f"Starting job scraping at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+    logger.info("Starting job scraping process...")
     
-    # Scrape IT jobs
-    it_jobs = scrape_jobs("IT", JOB_CATEGORIES["IT"]["primary_keywords"], LOCATIONS)
-    logger.info(f"\nFound {len(it_jobs)} relevant IT jobs in Gothenburg and Kungsbacka")
-    save_jobs(it_jobs, IT_JOBS_OUTPUT)
+    all_fetched_jobs = []
     
-    # Scrape AI jobs
-    ai_jobs = scrape_jobs("AI", JOB_CATEGORIES["AI"]["primary_keywords"], LOCATIONS)
-    logger.info(f"\nFound {len(ai_jobs)} relevant AI jobs in Gothenburg and Kungsbacka")
-    save_jobs(ai_jobs, AI_JOBS_OUTPUT)
+    # Search for IT jobs
+    for location in LOCATIONS:
+        all_fetched_jobs.extend(search_jobtech_jobs("IT-utvecklare", location))
+        all_fetched_jobs.extend(search_jobtech_jobs("programmerare", location))
+        all_fetched_jobs.extend(search_jobtech_jobs("systemutvecklare", location))
+        all_fetched_jobs.extend(search_jobtech_jobs("mjukvaruutvecklare", location))
+        
+    # Search for AI jobs
+    for location in LOCATIONS:
+        all_fetched_jobs.extend(search_jobtech_jobs("AI", location))
+        all_fetched_jobs.extend(search_jobtech_jobs("maskininlärning", location))
+        all_fetched_jobs.extend(search_jobtech_jobs("data scientist", location))
+        
+    # Search for RPA jobs (with UiPath focus)
+    for location in LOCATIONS:
+        all_fetched_jobs.extend(search_jobtech_jobs("RPA", location))
+        all_fetched_jobs.extend(search_jobtech_jobs("UiPath", location))
+        all_fetched_jobs.extend(search_jobtech_jobs("automationsutvecklare", location))
+        
+    # Deduplicate jobs
+    unique_jobs = {job["id"]: job for job in all_fetched_jobs}.values()
+    logger.info(f"Found {len(unique_jobs)} unique jobs before filtering")
     
-    # Scrape RPA jobs
-    rpa_jobs = scrape_jobs("RPA", JOB_CATEGORIES["RPA"]["primary_keywords"], LOCATIONS)
-    logger.info(f"\nFound {len(rpa_jobs)} relevant RPA jobs in Gothenburg and Kungsbacka")
-    save_jobs(rpa_jobs, RPA_JOBS_OUTPUT)
+    # Filter and categorize jobs
+    it_jobs, ai_jobs, rpa_jobs, all_filtered_jobs = filter_and_categorize_jobs(list(unique_jobs))
     
-    # Combine all jobs
-    all_jobs = it_jobs + ai_jobs + rpa_jobs
-    logger.info(f"\nFound {len(all_jobs)} total relevant jobs in Gothenburg and Kungsbacka")
-    save_jobs(all_jobs, ALL_JOBS_OUTPUT)
+    # Save categorized jobs
+    save_jobs_to_json(it_jobs, IT_JOBS_OUTPUT)
+    save_jobs_to_json(ai_jobs, AI_JOBS_OUTPUT)
+    save_jobs_to_json(rpa_jobs, RPA_JOBS_OUTPUT)
+    save_jobs_to_json(all_filtered_jobs, ALL_JOBS_OUTPUT)
     
     # Update last updated timestamp
-    update_last_updated()
-    
-    logger.info(f"\nJob scraping completed at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+    try:
+        with open(LAST_UPDATED_FILE, "w") as f:
+            f.write(datetime.now().strftime("%Y-%m-%d %H:%M"))
+        logger.info("Updated last updated timestamp")
+    except Exception as e:
+        logger.error(f"Error updating last updated timestamp: {e}")
+        
+    logger.info("Job scraping process completed.")
 
 if __name__ == "__main__":
     main()
+
+
