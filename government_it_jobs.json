@@ -1,15 +1,5 @@
 [
   {
-    "id": "29754063",
-    "title": "Systemingenjör inom IT infrastruktur",
-    "employer": "Luftfartsverket",
-    "location": "Göteborg",
-    "published": "2025-06-05",
-    "deadline": "2025-06-29",
-    "url": "https://go.talentech.io/xNgvi",
-    "description": "Har du erfarenhet av arbete med infrastruktur, datacenter och virtuella miljöer och vill ta nästa steg i din karriär? Vill du vara med att bidra till en växande organisation? Då har vi en fantastisk möjlighet för dig! \n \n Vi söker nu flera Systemingenjörer IT Infrastruktur till nya uppdrag inom kritisk kommunikation som omfattar drift, underhåll och övervakning av bland annat det nationella radiokommunikationssystemet Rakel.\n\nPå LFV kommer du och dina kollegor att säkerställa pålitlig och säker ..."
-  },
-  {
     "id": "29747495",
     "title": "Senior Utvecklare | Lernia AB | Göteborg",
     "employer": "Lernia AB",
@@ -20,6 +10,16 @@
     "description": "Om rollen \n\nVi söker en senior utvecklare, en skicklig och driven fullstackutvecklare som vill vara en del av ett team där kvalitet, samarbete och teknisk innovation står i fokus. \n\nSom senior systemutvecklare hos oss blir du en nyckelspelare i vårt utvecklingsteam som ansvarar för arkitektur, tekniska val och implementation av våra digitala plattformar. Vi arbetar i Microsoftstacken och bygger moderna webb- och mobilapplikationer i Azure-miljö med Umbraco CMS. Tillsammans med teamet utvecklare ..."
   },
   {
+    "id": "29802424",
+    "title": "Fullstackutvecklare med känsla för UX och grafisk form",
+    "employer": "Gröna gårdar AB",
+    "location": "Göteborg",
+    "published": "2025-06-30",
+    "deadline": "2025-08-29",
+    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29802424",
+    "description": "Vill du vara med och utmana livsmedelsbranschen – tekniskt, visuellt och affärsmässigt?\nGröna gårdar är ett innovativt e-handelsföretag som tror på hållbar matproduktion, där djuren är en del av ett större kretslopp. Nu tar vi nästa steg mot att bli ett renodlat digitalt bolag – och söker dig som vill bidra till en bättre framtid genom teknik, design och smarta lösningar.\nVi är ett litet team med stora ambitioner – här får du vara med från idé till verklighet. Gillar du att jobba nära besluten, ..."
+  },
+  {
     "id": "29796260",
     "title": "Mjukvaru-/Systemutvecklare till våra Utvecklingsteam",
     "employer": "Combitech AB",
@@ -28,16 +28,6 @@
     "deadline": "2025-08-14",
     "url": "https://www.aplitrak.com/?adid=dGNvbGxpbi43MDA0My4zMTAxQHNhYWIuYXBsaXRyYWsuY29t",
     "description": "Enheten Kritiska System på Combitech i Göteborg arbetar idag i huvudsak med in-houseteam och teamleveranser. Hos oss är du en del av ett dynamiskt team som ansvarar för hela leveransen, planeringen och problemlösning gentemot våra kunder. \n\n \n\nIdag har vi ett flertal team som behöver utöka med nya engagerade systemutvecklare eller mjukvaruutvecklare. Vi hoppas att du kommer hitta spännande utmaningar i något av dem! \n\n \n\nTeam Alfa fokuserar på radarplattformar och -system inom försvarsindustrin,..."
-  },
-  {
-    "id": "29788156",
-    "title": "Mjukvaruutvecklare med intresse för AI",
-    "employer": "Knightec Group AB",
-    "location": "Göteborg",
-    "published": "2025-06-24",
-    "deadline": "2025-06-30",
-    "url": "https://career.knightecgroup.com/jobs/5708860-mjukvaruutvecklare-med-intresse-for-ai?promotion=1525436-arbetsformedlingen",
-    "description": "Därför är detta jobb för dig För oss är det viktigt att du gillar programmering. De språk vi använder varierar från projekt till projekt, så vare sig du är en mästare på Java, Kotlin, C, C++, C# eller Python, tror vi att du har stora möjligheter hos oss. \nVi kan erbjuda uppdrag inhouse i våra egna lokaler där du blir en del av ett utvecklingsteam.\nDu kommer att arbeta inom affärsområdet Software & Cloud, där vi hjälper kunder att utveckla framtidssäkra, storskaliga dator- och mjukvarusystem – fr..."
   },
   {
     "id": "29786070",
@@ -55,7 +45,7 @@
     "employer": "Jobnet AB",
     "location": "Göteborg",
     "published": "2025-06-22",
-    "deadline": "2025-07-03",
+    "deadline": "2025-07-10",
     "url": "https://jobnet.se/systemutvecklare-programmerare-prevas-goteborg?utm_source=arbetsformedlingen",
     "description": "Engagerad utvecklare till företag i teknisk framkant. På Prevas blir du del av ett familjärt gäng som varvar hållbart förbättringsarbete med en och annan lekfull aktivitet.\n\nDitt jobb på Prevas\n\nPå Prevas i Göteborg är det en grupp som specialiserat sig på att utveckla robusta, pålitliga och kundanpassade systemstöd för produktion. Arbetet drivs ofta i projektform och dessa kan variera i både inriktning och storlek.\n\nDin roll blir att tillsammans med andra utvecklare hitta lösningar och skapa ef..."
   },
@@ -100,16 +90,6 @@
     "description": "Riksarkivet har särskilt ansvar för den statliga arkivverksamheten och för arkivvården i landet. Vi ska kontrollera den offentliga arkivverksamheten och ha nationell överblick över arkivfrågorna. Vi tar emot statliga myndigheters arkiv och arkiv från andra typer av organisationer.\n\nVi säkrar samhällets långsiktiga informationsförsörjning och garanterar innehåll, sammanhang och äkthet. Vi fokuserar på användarnas behov när vi beskriver och vårdar arkiven, när vi gör dem tillgängliga och när vi re..."
   },
   {
-    "id": "29754279",
-    "title": "Systemutvecklare till team Butler",
-    "employer": "Trafikverket",
-    "location": "Göteborg",
-    "published": "2025-06-05",
-    "deadline": "2025-06-30",
-    "url": "https://trv.heroma.se/prod/TRVpp01/ExternWebbV2/LedigaJobb/EW2PageAnnons.aspx?arenderef=8015547615929533887&benamning=Systemutvecklare+till+team+Butler",
-    "description": "Brinner du för ny teknik och användarupplevelser som gör vardagen enklare? Då är det dig vi söker som vår nya kollega i team Butler, som ansvarar för Trafikverkets beställnings- och självbetjäningsplattform.\n\r\n\r\nSystemutvecklare till team Butler\r\n\r\nArbetsuppgifter\n\nI rollen som systemutvecklare hos oss jobbar du i ett team som har ansvar för leveranser kopplade till Beställningsportalen Butler, en egenutvecklad portal som bygger på Optimizely CMS och Commerce. Under de kommande åren har vi en he..."
-  },
-  {
     "id": "29666864",
     "title": "Systemutvecklare .NET",
     "employer": "Sopra Steria Sweden AB",
@@ -120,26 +100,6 @@
     "description": "Vi söker .NET-utvecklare till Stockholm, Malmö, Östersund och Göteborg! 💻\n\n  Vill du vara en del av ett av Sveriges bästa arbetsgivare och hjälpa våra kunder att ta nästa steg i sin digitala resa? Sopra Steria söker fler .NET-utvecklare till våra agila team – här möts trygghet, flexibilitet och en kultur präglad av kunskapsdelning. Vi kallar det Power of Sharing!\nOm rollen\n\n  Som .NET-utvecklare hos oss kommer du att bli en viktig del av våra kunders digitala transformation. Du arbetar nära både..."
   },
   {
-    "id": "29494205",
-    "title": "C++ / EC++ utvecklare",
-    "employer": "Tech Talents Consulting i Sverige AB",
-    "location": "Göteborg",
-    "published": "2025-02-25",
-    "deadline": "2025-06-30",
-    "url": "https://techtalents.se/jobb/240-c-ec-utvecklare/?pnty_src=arbetsformedlingen",
-    "description": "Om uppdraget\n\nVi vill jobba med dig som har arbetat ett tag med C++ eller EC++ helt enkelt 👩‍💻👨‍💻🦄\n\nHar du programmerat applikationer, jobbat med nätverkskommunikation, programmerat spel, experimenterat med Arduino, byggt mobilappar, skapat bibliotek eller ramverk, you name it, så hör av dig. Våra partners inom tech, fordon och spel med flera är i behov av din guidning, stöttning, nya synvinklar, idéer och kunskap för att driva utvecklingen framåt.\n\nVi söker dig som\n\nHar en akademisk utbildning ..."
-  },
-  {
-    "id": "29764136",
-    "title": "Service Reliability Engineer",
-    "employer": "Ecareer AB",
-    "location": "",
-    "published": "2025-06-11",
-    "deadline": "2025-07-09",
-    "url": "https://jobb.ecareer.se/jobs/6027681-service-reliability-engineer?promotion=1508965-arbetsformedlingen",
-    "description": "Har du erfarenhet av operativ support, 24/7-drift och processutveckling? Trivs du i gränslandet mellan teknik, support och förbättringsarbete? Då kan detta vara uppdraget för dig!\nVi söker en Service Reliability Engineer (SRE) som vill arbeta med att säkerställa tillgänglighet och stabilitet i moderna digitala tjänster. Du kommer ingå i ett dedikerat team med fokus på både reaktiv servicehantering och proaktiva förbättringar i nära samarbete med utvecklings- och driftteam. Rollen innefattar ocks..."
-  },
-  {
     "id": "29721626",
     "title": "IT-tekniker till bolag i Göteborg!",
     "employer": "Academic Work Sweden AB",
@@ -148,26 +108,6 @@
     "deadline": "2025-07-13",
     "url": "http://www.academicwork.se/jobad/it-tekniker-till-bolag-i-goteborg/15112564?apply=1",
     "description": "Vill du bidra med teknisk kompetens och ett trevligt kundbemötande har vi en passande tjänst för dig! Just nu söker vi på Academic Work en IT-tekniker som kommer arbeta kundnära i tekniska miljöer och hjälpa kunder att hitta smarta lösningar. Välkommen med din ansökan redan idag - vi tillämpar löpande urval!\n\nOM TJÄNSTEN \nVår kund är ett IT-företag som arbetar med helhetsansvar för sina kunders IT-funktioner, infrastruktur och säkerhet. Det vill säga support, drift och underhåll av såväl datakom..."
-  },
-  {
-    "id": "29754023",
-    "title": "Systemingenjör inom Transmission",
-    "employer": "Luftfartsverket",
-    "location": "Göteborg",
-    "published": "2025-06-05",
-    "deadline": "2025-06-29",
-    "url": "https://go.talentech.io/11x0v",
-    "description": "Vill du ta nästa steg i din karriär och jobba med teknik som ger dig möjlighet att bidra till samhällets säkerhet och funktion?\n\nTill vår driftcentral i Göteborg söker vi Systemingenjörer inom Transmission (TRM) till nya uppdrag inom kritisk kommunikation som omfattar drift, underhåll och övervakning av bland annat det nationella radiokommunikationssystemet Rakel.\n\nPå LFV kommer du och dina kollegor att säkerställa pålitlig och säker kommunikation för samhällsviktiga funktioner inom områden som ..."
-  },
-  {
-    "id": "29586801",
-    "title": "IT-tekniker med koll på drift och nätverk? Vi har jobbet för dig!",
-    "employer": "Studieinst Sverige AB",
-    "location": "Göteborg",
-    "published": "2025-03-29",
-    "deadline": "2025-06-30",
-    "url": "https://arbetsformedlingen.se/platsbanken/annonser/29586801",
-    "description": "Vill du använda dina IT-kunskaper i uppdrag som faktiskt gör skillnad – där du både får utvecklas och jobba med teknik på riktigt? Hos oss får du arbeta som IT-tekniker i den offentliga sektorn, där du blir en nyckelperson i organisationens dagliga IT-drift.\nDet här är en perfekt möjlighet för dig som arbetat några år inom IT och nu vill ta nästa steg. Du kommer in i en miljö där dina kunskaper tas på allvar, där du får ta ansvar – men också stöd i uppdragets alla delar.\nVi ser till att du får e..."
   },
   {
     "id": "29560444",
