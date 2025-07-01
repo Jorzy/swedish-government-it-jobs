@@ -3,222 +3,301 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>IT, AI och RPA Jobbsökning - Göteborg & Kungsbacka</title>
+    <title>IT, AI och RPA Jobb i Göteborg och Kungsbacka</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             background-color: #f8f9fa;
+            color: #212529;
         }
-        .navbar {
-            background-color: #0d6efd;
-        }
-        .navbar-brand {
-            font-weight: bold;
-            color: white !important;
-        }
-        .nav-link {
-            color: rgba(255, 255, 255, 0.85) !important;
-        }
-        .nav-link.active {
-            color: white !important;
-            font-weight: bold;
+        .header {
+            background-color: #343a40;
+            color: white;
+            padding: 2rem 0;
+            margin-bottom: 2rem;
         }
         .job-card {
-            transition: transform 0.2s;
-            border-left: 4px solid #0d6efd;
-            margin-bottom: 15px;
+            border: 1px solid #dee2e6;
+            border-radius: 0.5rem;
+            padding: 1.5rem;
+            margin-bottom: 1.5rem;
+            background-color: white;
+            box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+            transition: transform 0.2s, box-shadow 0.2s;
         }
         .job-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            transform: translateY(-3px);
+            box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
         }
         .job-card.meaningful {
-            border-left: 4px solid #198754;
+            border-left: 5px solid #28a745;
         }
-        .badge-location {
-            background-color: #6c757d;
-            color: white;
+        .job-title {
+            font-size: 1.25rem;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
         }
-        .badge-category {
+        .job-employer {
+            font-size: 1rem;
+            color: #495057;
+            margin-bottom: 0.5rem;
+        }
+        .job-location {
+            font-size: 0.875rem;
+            color: #6c757d;
+            margin-bottom: 1rem;
+        }
+        .job-badges {
+            margin-bottom: 1rem;
+        }
+        .badge {
+            margin-right: 0.5rem;
+        }
+        .badge-it {
             background-color: #0d6efd;
-            color: white;
+        }
+        .badge-ai {
+            background-color: #6610f2;
+        }
+        .badge-rpa {
+            background-color: #fd7e14;
         }
         .badge-meaningful {
             background-color: #198754;
-            color: white;
         }
-        .relevance-bar {
-            height: 5px;
+        .badge-location {
+            background-color: #6c757d;
+        }
+        .job-deadline {
+            font-size: 0.875rem;
+            color: #dc3545;
+            margin-top: 0.5rem;
+        }
+        .job-link {
+            margin-top: 1rem;
+        }
+        .filters {
+            background-color: white;
+            border-radius: 0.5rem;
+            padding: 1.5rem;
+            margin-bottom: 2rem;
+            box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+        }
+        .update-section {
             background-color: #e9ecef;
-            margin-top: 10px;
-            border-radius: 2px;
+            border-radius: 0.5rem;
+            padding: 1.5rem;
+            margin-bottom: 2rem;
+        }
+        .update-status {
+            margin-top: 1rem;
+            padding: 1rem;
+            border-radius: 0.5rem;
+            display: none;
+        }
+        .update-loading {
+            background-color: #cfe2ff;
+            color: #084298;
+        }
+        .update-success {
+            background-color: #d1e7dd;
+            color: #0f5132;
+        }
+        .update-error {
+            background-color: #f8d7da;
+            color: #842029;
+        }
+        .footer {
+            background-color: #343a40;
+            color: white;
+            padding: 2rem 0;
+            margin-top: 3rem;
+        }
+        .footer a {
+            color: #8ed8f8;
+        }
+        .nav-tabs {
+            margin-bottom: 1.5rem;
+        }
+        .relevance-indicator {
+            height: 0.5rem;
+            border-radius: 0.25rem;
+            margin-bottom: 1rem;
+            background-color: #e9ecef;
             overflow: hidden;
         }
-        .relevance-fill {
+        .relevance-bar {
             height: 100%;
             background-color: #0d6efd;
         }
-        .high-relevance .relevance-fill {
+        .relevance-high .relevance-bar {
             background-color: #198754;
         }
-        .medium-relevance .relevance-fill {
-            background-color: #ffc107;
+        .relevance-medium .relevance-bar {
+            background-color: #fd7e14;
         }
-        .low-relevance .relevance-fill {
+        .relevance-low .relevance-bar {
             background-color: #dc3545;
         }
-        .last-updated {
-            font-size: 0.8rem;
+        .relevance-text {
+            font-size: 0.75rem;
             color: #6c757d;
+            margin-bottom: 1rem;
         }
-        .filter-section {
-            background-color: #f1f3f5;
-            padding: 15px;
-            border-radius: 5px;
-            margin-bottom: 20px;
-        }
-        .empty-state {
-            text-align: center;
-            padding: 40px 20px;
+        .github-update-info {
             background-color: #f8f9fa;
-            border-radius: 5px;
-            margin: 20px 0;
+            border: 1px solid #dee2e6;
+            border-radius: 0.5rem;
+            padding: 1rem;
+            margin-top: 1rem;
         }
-        .empty-state i {
-            font-size: 48px;
-            color: #adb5bd;
-            margin-bottom: 15px;
-        }
-        .empty-state h4 {
-            color: #495057;
-            margin-bottom: 10px;
-        }
-        .empty-state p {
-            color: #6c757d;
-        }
-        .update-button {
-            margin-top: 10px;
-        }
-        @media (max-width: 768px) {
-            .filter-section {
-                padding: 10px;
-            }
+        .github-update-info code {
+            background-color: #e9ecef;
+            padding: 0.2rem 0.4rem;
+            border-radius: 0.25rem;
         }
     </style>
 </head>
 <body>
-    <nav class="navbar navbar-expand-lg navbar-dark mb-4">
+    <div class="header">
         <div class="container">
-            <a class="navbar-brand" href="#">IT, AI & RPA Jobbsökning</a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav ms-auto">
-                    <li class="nav-item">
-                        <a class="nav-link active" href="#" data-category="all">Alla jobb</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#" data-category="IT">IT-jobb</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#" data-category="AI">AI-jobb</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#" data-category="RPA">RPA-jobb</a>
-                    </li>
-                </ul>
-            </div>
+            <h1>IT, AI och RPA Jobb i Göteborg och Kungsbacka</h1>
+            <p class="lead">Exklusive konsultuppdrag</p>
         </div>
-    </nav>
+    </div>
 
     <div class="container">
-        <div class="row mb-4">
-            <div class="col-md-12">
-                <div class="filter-section">
-                    <div class="row">
-                        <div class="col-md-6 mb-3 mb-md-0">
-                            <div class="input-group">
-                                <span class="input-group-text"><i class="bi bi-search"></i></span>
-                                <input type="text" id="searchInput" class="form-control" placeholder="Sök jobb...">
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="row">
-                                <div class="col-6">
-                                    <select id="locationFilter" class="form-select">
-                                        <option value="all">Alla platser</option>
-                                        <option value="Göteborg">Göteborg</option>
-                                        <option value="Kungsbacka">Kungsbacka</option>
-                                    </select>
-                                </div>
-                                <div class="col-6">
-                                    <select id="employerFilter" class="form-select">
-                                        <option value="all">Alla arbetsgivare</option>
-                                        <option value="meaningful">Endast meningsfulla arbetsgivare</option>
-                                    </select>
-                                </div>
-                            </div>
-                        </div>
+        <div class="update-section">
+            <div class="row">
+                <div class="col-md-6">
+                    <h4>Senast uppdaterad</h4>
+                    <p><i class="bi bi-clock"></i> <span id="lastUpdated">Laddar...</span></p>
+                </div>
+                <div class="col-md-6 text-end">
+                    <button id="updateButton" class="btn btn-primary">
+                        <i class="bi bi-arrow-clockwise"></i> Uppdatera nu
+                    </button>
+                </div>
+            </div>
+            <div id="updateStatus" class="update-status"></div>
+            
+            <!-- New GitHub Actions update instructions -->
+            <div class="github-update-info">
+                <h5><i class="bi bi-github"></i> Hur du uppdaterar jobblistan</h5>
+                <p>Uppdateringsknappen ovan simulerar en uppdatering på din webbläsare, men för att faktiskt uppdatera jobblistan behöver du:</p>
+                <ol>
+                    <li>Gå till ditt GitHub repository</li>
+                    <li>Klicka på fliken "Actions"</li>
+                    <li>Välj "Update Job Listings" workflow</li>
+                    <li>Klicka på "Run workflow" knappen</li>
+                </ol>
+                <p>Jobblistan uppdateras också automatiskt varje dag kl. 03:00 UTC.</p>
+            </div>
+        </div>
+
+        <div class="filters">
+            <div class="row">
+                <div class="col-md-4 mb-3">
+                    <label for="searchInput" class="form-label">Sök</label>
+                    <input type="text" class="form-control" id="searchInput" placeholder="Sök efter jobb...">
+                </div>
+                <div class="col-md-3 mb-3">
+                    <label for="employerFilter" class="form-label">Arbetsgivare</label>
+                    <select class="form-select" id="employerFilter">
+                        <option value="">Alla arbetsgivare</option>
+                    </select>
+                </div>
+                <div class="col-md-2 mb-3">
+                    <label for="locationFilter" class="form-label">Ort</label>
+                    <select class="form-select" id="locationFilter">
+                        <option value="">Alla orter</option>
+                        <option value="Göteborg">Göteborg</option>
+                        <option value="Kungsbacka">Kungsbacka</option>
+                    </select>
+                </div>
+                <div class="col-md-3 mb-3">
+                    <label for="sortOrder" class="form-label">Sortera efter</label>
+                    <select class="form-select" id="sortOrder">
+                        <option value="relevance">Relevans</option>
+                        <option value="date">Publiceringsdatum</option>
+                        <option value="deadline">Sista ansökningsdag</option>
+                    </select>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4 mb-3">
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" id="meaningfulFilter">
+                        <label class="form-check-label" for="meaningfulFilter">
+                            Visa endast meningsfulla arbetsgivare
+                        </label>
                     </div>
-                    <div class="row mt-3">
-                        <div class="col-md-6">
-                            <div class="form-check form-switch">
-                                <input class="form-check-input" type="checkbox" id="activeJobsOnly" checked>
-                                <label class="form-check-label" for="activeJobsOnly">Visa endast aktiva jobb</label>
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="form-check form-switch">
-                                <input class="form-check-input" type="checkbox" id="highRelevanceOnly">
-                                <label class="form-check-label" for="highRelevanceOnly">Visa endast högst relevanta jobb</label>
-                            </div>
-                        </div>
+                </div>
+                <div class="col-md-4 mb-3">
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" id="relevanceFilter">
+                        <label class="form-check-label" for="relevanceFilter">
+                            Visa endast högst relevanta jobb
+                        </label>
                     </div>
+                </div>
+                <div class="col-md-4 text-end">
+                    <span id="jobCount" class="text-muted">Laddar jobb...</span>
                 </div>
             </div>
         </div>
 
-        <div class="row">
-            <div class="col-md-12">
-                <div class="d-flex justify-content-between align-items-center mb-3">
-                    <h2 id="categoryTitle">Alla jobb</h2>
-                    <div>
-                        <span class="last-updated">Senast uppdaterad: <span id="lastUpdated">Laddar...</span></span>
-                        <button id="updateButton" class="btn btn-sm btn-outline-primary ms-2 update-button">
-                            <i class="bi bi-arrow-clockwise"></i> Uppdatera nu
-                        </button>
-                    </div>
+        <ul class="nav nav-tabs" id="jobTabs" role="tablist">
+            <li class="nav-item" role="presentation">
+                <button class="nav-link active" id="all-tab" data-bs-toggle="tab" data-bs-target="#all-jobs" type="button" role="tab" aria-controls="all-jobs" aria-selected="true">Alla jobb</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="it-tab" data-bs-toggle="tab" data-bs-target="#it-jobs" type="button" role="tab" aria-controls="it-jobs" aria-selected="false">IT-jobb</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="ai-tab" data-bs-toggle="tab" data-bs-target="#ai-jobs" type="button" role="tab" aria-controls="ai-jobs" aria-selected="false">AI-jobb</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="rpa-tab" data-bs-toggle="tab" data-bs-target="#rpa-jobs" type="button" role="tab" aria-controls="rpa-jobs" aria-selected="false">RPA-jobb</button>
+            </li>
+        </ul>
+
+        <div class="tab-content" id="jobTabsContent">
+            <div class="tab-pane fade show active" id="all-jobs" role="tabpanel" aria-labelledby="all-tab">
+                <div id="allJobList" class="row">
+                    <!-- All jobs will be loaded here -->
                 </div>
-                <div id="jobCount" class="mb-3">Laddar jobb...</div>
-                <div id="jobList" class="mb-4">
-                    <!-- Jobs will be loaded here -->
-                    <div class="text-center">
-                        <div class="spinner-border text-primary" role="status">
-                            <span class="visually-hidden">Laddar...</span>
-                        </div>
-                    </div>
+            </div>
+            <div class="tab-pane fade" id="it-jobs" role="tabpanel" aria-labelledby="it-tab">
+                <div id="itJobList" class="row">
+                    <!-- IT jobs will be loaded here -->
+                </div>
+            </div>
+            <div class="tab-pane fade" id="ai-jobs" role="tabpanel" aria-labelledby="ai-tab">
+                <div id="aiJobList" class="row">
+                    <!-- AI jobs will be loaded here -->
+                </div>
+            </div>
+            <div class="tab-pane fade" id="rpa-jobs" role="tabpanel" aria-labelledby="rpa-tab">
+                <div id="rpaJobList" class="row">
+                    <!-- RPA jobs will be loaded here -->
                 </div>
             </div>
         </div>
     </div>
 
-    <!-- Job Details Modal -->
-    <div class="modal fade" id="jobModal" tabindex="-1" aria-hidden="true">
-        <div class="modal-dialog modal-lg">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h5 class="modal-title" id="jobModalTitle"></h5>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+    <div class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <p>Denna sida visar IT, AI och RPA jobb i Göteborg och Kungsbacka.</p>
+                    <p>Konsultuppdrag är exkluderade från resultaten.</p>
                 </div>
-                <div class="modal-body">
-                    <div id="jobModalContent"></div>
-                </div>
-                <div class="modal-footer">
-                    <a id="jobModalLink" href="#" target="_blank" class="btn btn-primary">Gå till annonsen</a>
-                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Stäng</button>
+                <div class="col-md-6 text-end">
+                    <p>Uppdateras dagligen med nya jobbannonser.</p>
+                    <p><a href="https://github.com/Jorzy/swedish-government-it-jobs" target="_blank">GitHub Repository</a></p>
                 </div>
             </div>
         </div>
@@ -226,246 +305,262 @@
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
     <script>
-        // Global variables
-        let allJobs = [];
-        let itJobs = [];
-        let aiJobs = [];
-        let rpaJobs = [];
-        let currentCategory = 'all';
-        let jobModal;
-
-        // DOM elements
-        const jobList = document.getElementById('jobList');
-        const categoryTitle = document.getElementById('categoryTitle');
-        const jobCount = document.getElementById('jobCount');
-        const lastUpdatedElement = document.getElementById('lastUpdated');
-        const searchInput = document.getElementById('searchInput');
-        const locationFilter = document.getElementById('locationFilter');
-        const employerFilter = document.getElementById('employerFilter');
-        const activeJobsOnly = document.getElementById('activeJobsOnly');
-        const highRelevanceOnly = document.getElementById('highRelevanceOnly');
-        const updateButton = document.getElementById('updateButton');
-        const navLinks = document.querySelectorAll('.nav-link');
-
-        // Initialize when DOM is loaded
-        document.addEventListener('DOMContentLoaded', () => {
-            // Initialize Bootstrap modal
-            jobModal = new bootstrap.Modal(document.getElementById('jobModal'));
+        document.addEventListener('DOMContentLoaded', function() {
+            const updateButton = document.getElementById('updateButton');
+            const updateStatus = document.getElementById('updateStatus');
+            const relevanceFilter = document.getElementById('relevanceFilter');
+            const sortOrder = document.getElementById('sortOrder');
             
-            // Load job data
-            loadJobData();
+            // Set last updated date from the data file
+            fetch('last_updated.txt')
+                .then(response => response.text())
+                .then(timestamp => {
+                    document.getElementById('lastUpdated').textContent = timestamp;
+                })
+                .catch(error => {
+                    const now = new Date();
+                    document.getElementById('lastUpdated').textContent = now.toLocaleDateString('sv-SE') + ' ' + 
+                        now.toLocaleTimeString('sv-SE', {hour: '2-digit', minute:'2-digit'});
+                });
             
-            // Set up event listeners
-            setupEventListeners();
-        });
-
-        // Load job data from JSON files
-        async function loadJobData() {
-            try {
-                // Load last updated timestamp
-                const lastUpdatedResponse = await fetch('last_updated.txt');
-                if (lastUpdatedResponse.ok) {
-                    const lastUpdated = await lastUpdatedResponse.text();
-                    lastUpdatedElement.textContent = lastUpdated;
-                }
+            // Load jobs
+            loadAllJobs();
+            
+            // Set up update button
+            updateButton.addEventListener('click', function() {
+                updateJobs();
+            });
+            
+            // Set up relevance filter and sort order
+            relevanceFilter.addEventListener('change', applyFilters);
+            sortOrder.addEventListener('change', applyFilters);
+                        function updateJobs() {
+                // Show loading status
+                updateStatus.className = 'update-status update-loading';
+                updateStatus.style.display = 'block';
+                updateStatus.innerHTML = '<div class="spinner-border" role="status"></div> Simulerar uppdatering...';
                 
-                // Load all jobs
-                const [allJobsResponse, itJobsResponse, aiJobsResponse, rpaJobsResponse] = await Promise.all([
-                    fetch('all_jobs.json'),
-                    fetch('it_jobs.json'),
-                    fetch('ai_jobs.json'),
-                    fetch('rpa_jobs.json')
-                ]);
-                
-                if (allJobsResponse.ok) {
-                    allJobs = await allJobsResponse.json();
-                }
-                
-                if (itJobsResponse.ok) {
-                    itJobs = await itJobsResponse.json();
-                }
-                
-                if (aiJobsResponse.ok) {
-                    aiJobs = await aiJobsResponse.json();
-                }
-                
-                if (rpaJobsResponse.ok) {
-                    rpaJobs = await rpaJobsResponse.json();
-                }
-                
-                // Display jobs
-                displayJobs(currentCategory);
-                
-                // Populate employer filter
-                populateEmployerFilter();
-            } catch (error) {
-                console.error('Error loading job data:', error);
-                jobList.innerHTML = `
-                    <div class="alert alert-danger">
-                        <i class="bi bi-exclamation-triangle"></i> Ett fel uppstod vid laddning av jobbdata.
+                // For GitHub Pages, manual updates are triggered via GitHub Actions workflow_dispatch.
+                // This button now provides instructions on how to do that.
+                setTimeout(function() {
+                    // Update the last updated timestamp
+                    const now = new Date();
+                    const formattedDate = now.toISOString().replace('T', ' ').substring(0, 19);
+                    document.getElementById('lastUpdated').textContent = formattedDate;
+                    
+                    // Show success message
+                    updateStatus.className = 'update-status update-success';
+                    updateStatus.innerHTML = '<i class="bi bi-check-circle"></i> Simulerad uppdatering slutförd! För att faktiskt uppdatera jobblistan, följ instruktionerna ovanför denna knapp.';
+                    
+                    // Hide the message after 10 seconds
+                    setTimeout(function() {
+                        updateStatus.style.display = 'none';
+                    }, 10000);
+                    
+                    // Reload jobs
+                    loadAllJobs();
+                }, 2000);
+            }
+            
+            function loadAllJobs() {
+                // Show loading indicators
+                document.getElementById('allJobList').innerHTML = `
+                    <div class="col-12 text-center py-5">
+                        <div class="spinner-border text-primary" role="status">
+                            <span class="visually-hidden">Laddar...</span>
+                        </div>
+                        <p class="mt-2">Laddar jobb...</p>
                     </div>
                 `;
-            }
-        }
-
-        // Set up event listeners
-        function setupEventListeners() {
-            // Category navigation
-            navLinks.forEach(link => {
-                link.addEventListener('click', (e) => {
-                    e.preventDefault();
-                    navLinks.forEach(l => l.classList.remove('active'));
-                    link.classList.add('active');
-                    currentCategory = link.dataset.category;
-                    displayJobs(currentCategory);
+                
+                // Load all job types
+                Promise.all([
+                    fetch('data/it_jobs.json').then(response => response.json()).catch(() => []),
+                    fetch('data/ai_jobs.json').then(response => response.json()).catch(() => []),
+                    fetch('data/rpa_jobs.json').then(response => response.json()).catch(() => []),
+                    fetch('data/all_jobs.json').then(response => response.json()).catch(() => [])
+                ])
+                .then(([itJobs, aiJobs, rpaJobs, allJobs]) => {
+                    // If all_jobs.json exists and has data, use it
+                    if (allJobs && allJobs.length > 0) {
+                        // Filter jobs by category
+                        const itJobsFiltered = allJobs.filter(job => job.category === 'IT');
+                        const aiJobsFiltered = allJobs.filter(job => job.category === 'AI');
+                        const rpaJobsFiltered = allJobs.filter(job => job.category === 'RPA');
+                        
+                        // Display jobs in their respective tabs
+                        displayJobs(allJobs, 'allJobList');
+                        displayJobs(itJobsFiltered, 'itJobList');
+                        displayJobs(aiJobsFiltered, 'aiJobList');
+                        displayJobs(rpaJobsFiltered, 'rpaJobList');
+                        
+                        // Set up filters
+                        populateEmployerFilter(allJobs);
+                        setupFilters(allJobs);
+                        
+                        // Update job count
+                        document.getElementById('jobCount').textContent = `Totalt ${allJobs.length} jobb hittades`;
+                    } else {
+                        // Use individual job files
+                        // Display jobs in their respective tabs
+                        displayJobs([...itJobs, ...aiJobs, ...rpaJobs], 'allJobList');
+                        displayJobs(itJobs, 'itJobList');
+                        displayJobs(aiJobs, 'aiJobList');
+                        displayJobs(rpaJobs, 'rpaJobList');
+                        
+                        // Set up filters
+                        populateEmployerFilter([...itJobs, ...aiJobs, ...rpaJobs]);
+                        setupFilters([...itJobs, ...aiJobs, ...rpaJobs]);
+                        
+                        // Update job count
+                        document.getElementById('jobCount').textContent = `Totalt ${itJobs.length + aiJobs.length + rpaJobs.length} jobb hittades`;
+                    }
+                })
+                .catch(error => {
+                    document.getElementById('allJobList').innerHTML = `
+                        <div class="col-12 alert alert-danger">
+                            <p>Det gick inte att ladda jobben. Försök igen senare.</p>
+                            <p>Felmeddelande: ${error.message}</p>
+                        </div>
+                    `;
                 });
-            });
-            
-            // Search input
-            searchInput.addEventListener('input', () => {
-                displayJobs(currentCategory);
-            });
-            
-            // Filters
-            locationFilter.addEventListener('change', () => displayJobs(currentCategory));
-            employerFilter.addEventListener('change', () => displayJobs(currentCategory));
-            activeJobsOnly.addEventListener('change', () => displayJobs(currentCategory));
-            highRelevanceOnly.addEventListener('change', () => displayJobs(currentCategory));
-            
-            // Update button
-            updateButton.addEventListener('click', handleUpdate);
+            }
+        });
+
+        function getRelevanceClass(score) {
+            if (score >= 0.7) {
+                return 'relevance-high';
+            } else if (score >= 0.4) {
+                return 'relevance-medium';
+            } else {
+                return 'relevance-low';
+            }
         }
 
-        // Display jobs based on current category and filters
-        function displayJobs(category) {
-            // Set category title
-            switch(category) {
-                case 'IT':
-                    categoryTitle.textContent = 'IT-jobb';
-                    break;
-                case 'AI':
-                    categoryTitle.textContent = 'AI-jobb';
-                    break;
-                case 'RPA':
-                    categoryTitle.textContent = 'RPA-jobb';
-                    break;
-                default:
-                    categoryTitle.textContent = 'Alla jobb';
+        function displayJobs(jobs, containerId) {
+            const jobList = document.getElementById(containerId);
+            
+            if (jobs.length === 0) {
+                jobList.innerHTML = `
+                    <div class="col-12 alert alert-info">
+                        <p>Inga jobb hittades som matchar dina kriterier.</p>
+                        <p>För RPA-jobb: Vi letar specifikt efter UiPath och andra RPA-relaterade positioner. Dessa är sällsynta i Göteborg/Kungsbacka-området, men kommer att visas här när de blir tillgängliga.</p>
+                    </div>
+                `;
+                return;
             }
             
-            // Get jobs for current category
-            let jobs;
-            switch(category) {
-                case 'IT':
-                    jobs = [...itJobs];
-                    break;
-                case 'AI':
-                    jobs = [...aiJobs];
-                    break;
-                case 'RPA':
-                    jobs = [...rpaJobs];
-                    break;
-                default:
-                    jobs = [...allJobs];
+            // Apply current sort order
+            const sortOrderValue = document.getElementById('sortOrder').value;
+            
+            if (sortOrderValue === 'relevance') {
+                // Sort by relevance score (highest first)
+                jobs.sort((a, b) => {
+                    const scoreA = a.relevance_score !== undefined ? a.relevance_score : 0;
+                    const scoreB = b.relevance_score !== undefined ? b.relevance_score : 0;
+                    return scoreB - scoreA;
+                });
+            } else if (sortOrderValue === 'date') {
+                // Sort by publication date (newest first)
+                jobs.sort((a, b) => {
+                    const dateA = a.published ? new Date(a.published) : new Date(0);
+                    const dateB = b.published ? new Date(b.published) : new Date(0);
+                    return dateB - dateA;
+                });
+            } else if (sortOrderValue === 'deadline') {
+                // Sort by deadline (soonest first)
+                jobs.sort((a, b) => {
+                    // Handle jobs without deadlines (put them at the end)
+                    if (!a.deadline && !b.deadline) return 0;
+                    if (!a.deadline) return 1;
+                    if (!b.deadline) return -1;
+                    
+                    const dateA = new Date(a.deadline);
+                    const dateB = new Date(b.deadline);
+                    return dateA - dateB;
+                });
             }
             
             // Apply filters
-            jobs = applyFilters(jobs);
+            const searchTerm = document.getElementById('searchInput').value.toLowerCase();
+            const employerFilter = document.getElementById('employerFilter').value;
+            const locationFilter = document.getElementById('locationFilter').value;
+            const meaningfulFilter = document.getElementById('meaningfulFilter').checked;
+            const relevanceFilterValue = document.getElementById('relevanceFilter').checked;
             
-            // Update job count
-            jobCount.textContent = `Visar ${jobs.length} jobb`;
-            
-            // Display jobs or empty state
-            if (jobs.length === 0) {
-                displayEmptyState(category);
-            } else {
-                displayJobCards(jobs);
-            }
-        }
-
-        // Apply all filters to jobs
-        function applyFilters(jobs) {
-            const searchTerm = searchInput.value.toLowerCase();
-            const location = locationFilter.value;
-            const employerType = employerFilter.value;
-            const activeOnly = activeJobsOnly.checked;
-            const highRelevanceOnly = document.getElementById('highRelevanceOnly').checked;
-            
-            // Current date for active jobs filter
-            const currentDate = new Date();
-            
-            return jobs.filter(job => {
-                // Search filter
-                const matchesSearch = 
+            const filteredJobs = jobs.filter(job => {
+                // Search term filter
+                const matchesSearch = !searchTerm || 
                     job.title.toLowerCase().includes(searchTerm) || 
-                    job.employer.toLowerCase().includes(searchTerm) ||
-                    job.description.toLowerCase().includes(searchTerm);
-                
-                // Location filter
-                const matchesLocation = location === 'all' || job.location.includes(location);
+                    job.employer.toLowerCase().includes(searchTerm) || 
+                    (job.description && job.description.toLowerCase().includes(searchTerm));
                 
                 // Employer filter
-                const matchesEmployer = employerType === 'all' || (employerType === 'meaningful' && job.is_meaningful);
+                const matchesEmployer = !employerFilter || job.employer === employerFilter;
                 
-                // Active jobs filter
-                let isActive = true;
-                if (activeOnly && job.deadline) {
-                    const deadlineDate = new Date(job.deadline);
-                    isActive = deadlineDate > currentDate;
-                }
+                // Location filter
+                const matchesLocation = !locationFilter || job.location === locationFilter;
+                
+                // Meaningful filter
+                const matchesMeaningful = !meaningfulFilter || job.is_meaningful;
                 
                 // Relevance filter
-                const hasHighRelevance = !highRelevanceOnly || job.relevance_score >= 0.7;
+                const matchesRelevance = !relevanceFilterValue || (job.relevance_score && job.relevance_score >= 0.7);
                 
-                return matchesSearch && matchesLocation && matchesEmployer && isActive && hasHighRelevance;
+                return matchesSearch && matchesEmployer && matchesLocation && matchesMeaningful && matchesRelevance;
             });
-        }
-
-        // Display job cards
-        function displayJobCards(jobs) {
-            // Sort jobs by relevance score (descending)
-            jobs.sort((a, b) => b.relevance_score - a.relevance_score);
+            
+            if (filteredJobs.length === 0) {
+                jobList.innerHTML = `
+                    <div class="col-12 alert alert-info">
+                        <p>Inga jobb hittades som matchar dina filterkriterier.</p>
+                        <p>Försök med andra söktermer eller ta bort några filter.</p>
+                    </div>
+                `;
+                return;
+            }
             
             let html = '';
             
-            jobs.forEach(job => {
-                // Determine relevance class
-                let relevanceClass = '';
-                if (job.relevance_score >= 0.8) {
-                    relevanceClass = 'high-relevance';
-                } else if (job.relevance_score >= 0.6) {
-                    relevanceClass = 'medium-relevance';
-                } else {
-                    relevanceClass = 'low-relevance';
-                }
+            filteredJobs.forEach(job => {
+                const relevanceClass = getRelevanceClass(job.relevance_score);
+                const relevanceScore = job.relevance_score ? Math.round(job.relevance_score * 100) : 0;
+                const relevanceWidth = `${relevanceScore}%`;
                 
-                // Format deadline
-                let deadline = '';
-                if (job.deadline) {
-                    const deadlineDate = new Date(job.deadline);
-                    deadline = deadlineDate.toLocaleDateString('sv-SE');
-                }
+                const categoryBadge = job.category === 'IT' ? 
+                    '<span class="badge bg-primary">IT</span>' : 
+                    job.category === 'AI' ? 
+                    '<span class="badge bg-purple">AI</span>' : 
+                    '<span class="badge bg-orange">RPA</span>';
                 
-                // Create job card
+                const locationBadge = `<span class="badge bg-secondary">${job.location}</span>`;
+                
+                const meaningfulBadge = job.is_meaningful ? 
+                    '<span class="badge bg-success">Meningsfull arbetsgivare</span>' : '';
+                
+                const deadline = job.deadline ? 
+                    `<div class="job-deadline">Sista ansökningsdag: ${new Date(job.deadline).toLocaleDateString('sv-SE')}</div>` : '';
+                
                 html += `
-                    <div class="card job-card ${job.is_meaningful ? 'meaningful' : ''}" data-job-id="${job.id}">
-                        <div class="card-body">
-                            <div class="d-flex justify-content-between align-items-start">
-                                <h5 class="card-title">${job.title}</h5>
-                                <div>
-                                    <span class="badge badge-location">${job.location}</span>
-                                    <span class="badge badge-category">${job.category}</span>
-                                    ${job.is_meaningful ? '<span class="badge badge-meaningful">Meningsfull arbetsgivare</span>' : ''}
-                                </div>
+                    <div class="col-md-6">
+                        <div class="job-card ${job.is_meaningful ? 'meaningful' : ''}">
+                            <div class="relevance-indicator ${relevanceClass}">
+                                <div class="relevance-bar" style="width: ${relevanceWidth}"></div>
                             </div>
-                            <h6 class="card-subtitle mb-2 text-muted">${job.employer}</h6>
-                            <p class="card-text">${truncateText(job.description, 150)}</p>
-                            <div class="d-flex justify-content-between align-items-center">
-                                <small class="text-muted">Publicerad: ${formatDate(job.published)}</small>
-                                ${deadline ? `<small class="text-muted">Sista ansökningsdag: ${deadline}</small>` : ''}
+                            <div class="relevance-text">Relevans: ${relevanceScore}%</div>
+                            <div class="job-badges">
+                                ${categoryBadge}
+                                ${locationBadge}
+                                ${meaningfulBadge}
                             </div>
-                            <div class="relevance-bar ${relevanceClass}">
-                                <div class="relevance-fill" style="width: ${job.relevance_score * 100}%"></div>
+                            <h3 class="job-title">${job.title}</h3>
+                            <div class="job-employer">${job.employer}</div>
+                            <div class="job-location">${job.location}</div>
+                            ${deadline}
+                            <div class="job-link">
+                                <a href="${job.url}" class="btn btn-outline-primary btn-sm" target="_blank">
+                                    <i class="bi bi-box-arrow-up-right"></i> Visa annons
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -473,149 +568,15 @@
             });
             
             jobList.innerHTML = html;
-            
-            // Add click event to job cards
-            document.querySelectorAll('.job-card').forEach(card => {
-                card.addEventListener('click', () => {
-                    const jobId = card.dataset.jobId;
-                    const job = jobs.find(j => j.id === jobId);
-                    if (job) {
-                        showJobDetails(job);
-                    }
-                });
-            });
         }
 
-        // Display empty state message
-        function displayEmptyState(category) {
-            let message = '';
-            let icon = 'bi-search';
+        function populateEmployerFilter(jobs) {
+            const employerFilter = document.getElementById('employerFilter');
+            const employers = [...new Set(jobs.map(job => job.employer))].sort();
             
-            switch(category) {
-                case 'IT':
-                    message = 'Inga IT-jobb hittades som matchar dina filter.';
-                    break;
-                case 'AI':
-                    message = 'Inga AI-jobb hittades som matchar dina filter.';
-                    break;
-                case 'RPA':
-                    message = 'Inga RPA-jobb hittades som matchar dina filter. UiPath-relaterade jobb visas här när de blir tillgängliga.';
-                    icon = 'bi-robot';
-                    break;
-                default:
-                    message = 'Inga jobb hittades som matchar dina filter.';
-            }
-            
-            jobList.innerHTML = `
-                <div class="empty-state">
-                    <i class="bi ${icon}"></i>
-                    <h4>Inga jobb hittades</h4>
-                    <p>${message}</p>
-                    <p>Prova att ändra dina sökfilter eller uppdatera jobblistan.</p>
-                </div>
-            `;
-        }
-
-        // Show job details in modal
-        function showJobDetails(job) {
-            const modalTitle = document.getElementById('jobModalTitle');
-            const modalContent = document.getElementById('jobModalContent');
-            const modalLink = document.getElementById('jobModalLink');
-            
-            modalTitle.textContent = job.title;
-            
-            // Format deadline
-            let deadline = 'Ej angivet';
-            if (job.deadline) {
-                const deadlineDate = new Date(job.deadline);
-                deadline = deadlineDate.toLocaleDateString('sv-SE');
-            }
-            
-            // Format description with paragraphs
-            const formattedDescription = job.description.replace(/\n/g, '<br>');
-            
-            modalContent.innerHTML = `
-                <div class="mb-3">
-                    <div class="d-flex justify-content-between">
-                        <h6>Arbetsgivare:</h6>
-                        <div>
-                            <span class="badge badge-location">${job.location}</span>
-                            <span class="badge badge-category">${job.category}</span>
-                            ${job.is_meaningful ? '<span class="badge badge-meaningful">Meningsfull arbetsgivare</span>' : ''}
-                        </div>
-                    </div>
-                    <p>${job.employer}</p>
-                </div>
-                <div class="mb-3">
-                    <h6>Beskrivning:</h6>
-                    <p>${formattedDescription}</p>
-                </div>
-                <div class="row mb-3">
-                    <div class="col-md-6">
-                        <h6>Publicerad:</h6>
-                        <p>${formatDate(job.published)}</p>
-                    </div>
-                    <div class="col-md-6">
-                        <h6>Sista ansökningsdag:</h6>
-                        <p>${deadline}</p>
-                    </div>
-                </div>
-                <div class="mb-3">
-                    <h6>Relevans:</h6>
-                    <div class="progress">
-                        <div class="progress-bar" role="progressbar" style="width: ${job.relevance_score * 100}%" 
-                            aria-valuenow="${job.relevance_score * 100}" aria-valuemin="0" aria-valuemax="100">
-                            ${Math.round(job.relevance_score * 100)}%
-                        </div>
-                    </div>
-                </div>
-            `;
-            
-            modalLink.href = job.url;
-            
-            jobModal.show();
-        }
-
-        // Handle update button click
-        function handleUpdate() {
-            updateButton.disabled = true;
-            updateButton.innerHTML = '<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span> Uppdaterar...';
-            
-            // Simulate update process (in a real scenario, this would call a backend API)
-            setTimeout(() => {
-                loadJobData().then(() => {
-                    updateButton.disabled = false;
-                    updateButton.innerHTML = '<i class="bi bi-arrow-clockwise"></i> Uppdatera nu';
-                    
-                    // Show success message
-                    const alert = document.createElement('div');
-                    alert.className = 'alert alert-success alert-dismissible fade show';
-                    alert.innerHTML = `
-                        <i class="bi bi-check-circle"></i> Jobblistan har uppdaterats.
-                        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
-                    `;
-                    
-                    document.querySelector('.container').insertBefore(alert, document.querySelector('.row'));
-                    
-                    // Auto-dismiss after 3 seconds
-                    setTimeout(() => {
-                        const bsAlert = bootstrap.Alert.getOrCreateInstance(alert);
-                        bsAlert.close();
-                    }, 3000);
-                });
-            }, 1000);
-        }
-
-        // Populate employer filter with unique employers
-        function populateEmployerFilter() {
-            const employers = new Set();
-            allJobs.forEach(job => employers.add(job.employer));
-            
-            const employerSelect = document.getElementById('employerFilter');
-            
-            // Clear existing options except first two
-            while (employerSelect.options.length > 2) {
-                employerSelect.remove(2);
+            // Clear existing options (except the first one)
+            while (employerFilter.options.length > 1) {
+                employerFilter.remove(1);
             }
             
             // Add employer options
@@ -623,21 +584,58 @@
                 const option = document.createElement('option');
                 option.value = employer;
                 option.textContent = employer;
-                employerSelect.appendChild(option);
+                employerFilter.appendChild(option);
             });
         }
 
-        // Helper function to truncate text
-        function truncateText(text, maxLength) {
-            if (text.length <= maxLength) return text;
-            return text.substring(0, maxLength) + '...';
+        function setupFilters(jobs) {
+            const searchInput = document.getElementById('searchInput');
+            const employerFilter = document.getElementById('employerFilter');
+            const locationFilter = document.getElementById('locationFilter');
+            const meaningfulFilter = document.getElementById('meaningfulFilter');
+            const relevanceFilter = document.getElementById('relevanceFilter');
+            
+            // Set up event listeners for filters
+            searchInput.addEventListener('input', applyFilters);
+            employerFilter.addEventListener('change', applyFilters);
+            locationFilter.addEventListener('change', applyFilters);
+            meaningfulFilter.addEventListener('change', applyFilters);
+            relevanceFilter.addEventListener('change', applyFilters);
         }
 
-        // Helper function to format date
-        function formatDate(dateString) {
-            if (!dateString) return 'Ej angivet';
-            const date = new Date(dateString);
-            return date.toLocaleDateString('sv-SE');
+        function applyFilters() {
+            // Get current active tab
+            const activeTab = document.querySelector('.nav-link.active');
+            const tabId = activeTab.getAttribute('id');
+            
+            // Load appropriate jobs based on active tab
+            if (tabId === 'all-tab') {
+                Promise.all([
+                    fetch('data/it_jobs.json').then(response => response.json()).catch(() => []),
+                    fetch('data/ai_jobs.json').then(response => response.json()).catch(() => []),
+                    fetch('data/rpa_jobs.json').then(response => response.json()).catch(() => []),
+                    fetch('data/all_jobs.json').then(response => response.json()).catch(() => [])
+                ])
+                .then(([itJobs, aiJobs, rpaJobs, allJobs]) => {
+                    if (allJobs && allJobs.length > 0) {
+                        displayJobs(allJobs, 'allJobList');
+                    } else {
+                        displayJobs([...itJobs, ...aiJobs, ...rpaJobs], 'allJobList');
+                    }
+                });
+            } else if (tabId === 'it-tab') {
+                fetch('data/it_jobs.json')
+                    .then(response => response.json())
+                    .then(jobs => displayJobs(jobs, 'itJobList'));
+            } else if (tabId === 'ai-tab') {
+                fetch('data/ai_jobs.json')
+                    .then(response => response.json())
+                    .then(jobs => displayJobs(jobs, 'aiJobList'));
+            } else if (tabId === 'rpa-tab') {
+                fetch('data/rpa_jobs.json')
+                    .then(response => response.json())
+                    .then(jobs => displayJobs(jobs, 'rpaJobList'));
+            }
         }
     </script>
 </body>
