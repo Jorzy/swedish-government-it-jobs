@@ -1,5 +1,20 @@
 [
     {
+        "id": "29815282",
+        "title": "Solutions Engineer",
+        "employer": "CarbonCloud AB",
+        "location": "Göteborg",
+        "description": "We are looking for a passionate Solutions Engineer who will take ownership of building and maintaining the data pipeline infrastructure that powers our carbon footprint platform.\nYou will design, develop, and optimize Python-based systems that transform customer data (CSV files, spreadsheets, and other formats) into our API, enabling seamless integration of complex carbon calculations into food producers' workflows.\n\n\nKey Responsibilities\nBuild, maintain, and optimize Python data pipelines that convert customer data formats (CSV, Excel, JSON) into our carbon footprint API.\nDesign robust data transformation workflows that handle various supply chain data structures and ensure data quality and validation.\nDevelop automated systems for data ingestion, processing, and API integration that scale with customer needs.\nProvide technical problem-solving support for customers implementing data integrations and troubleshoot pipeline issues.\nBuild proof-of-concepts and technical demos showcasing seamless data transformation capabilities to prospective clients.\nCreate and maintain comprehensive documentation for data pipeline architecture, API endpoints, and integration processes.\nRespond to customer support questions about system functionality, data processing, and troubleshoot technical issues with integrations.\nCollaborate with engineering teams to relay customer feedback and drive product improvements based on real-world usage patterns.\n\n\n\nQualifications\nStrong Python programming skills with extensive experience in data pipeline development and data processing systems.\nProven experience working with various data formats (CSV, Excel, JSON, XML) and data transformation libraries (pandas, numpy, etc.).\nExperience building and maintaining production data pipelines, preferably with cloud platforms and containerization.\nSolid understanding of RESTful APIs, data validation, and error handling in data processing systems.\nExperience with database systems and data warehousing concepts.\nKnowledge of additional programming languages is a plus.\nAbility to communicate technical concepts clearly to both technical and non-technical stakeholders.\nAbility to communicate effectively in English (Swedish language skills are a plus).\nFamiliarity with agile workflows and working in cross-functional teams.\nA passion for sustainability and desire to make a meaningful impact in climate technology.",
+        "url": "https://careers.carboncloud.com/jobs/6110420-solutions-engineer",
+        "published": "2025-07-06T07:25:25",
+        "deadline": "2025-08-05T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
         "id": "29810846",
         "title": "Embeddedutvecklare och redo för nästa steg i karriären?",
         "employer": "SAAB AB",
@@ -338,21 +353,6 @@
         "url": "https://www.autonomousvision.se",
         "published": "2025-06-26T23:11:10",
         "deadline": "2025-07-26T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
-        "id": "29793204",
-        "title": "ADAS Function Developer",
-        "employer": "Volvo Business Services AB",
-        "location": "Göteborg",
-        "description": "Transport is at the core of modern society. Imagine using your expertise to shape sustainable transport and infrastructure solutions for the future? If you seek to make a difference on a global scale, working with next-gen technologies and the sharpest collaborative teams, then we could be a perfect match. \nWhat you will do\nAs a member of the Driver Support Function group, your main tasks will be:\nAlgorithm development for decision and control, path planning, situation assessment and more.\nTrouble shooting and integration.\nWriting use cases, requirements and test cases on different levels as well as defining KPIs and participating in developing data-driven evaluation methods.\n\n \nYour future team\nWe have the responsibility to develop and maintain Advanced Driver Assistance Systems (ADAS) for the full life cycle for commercial trucks.\n \nExamples of features being developed by our team are Driver Alert Support (driver monitoring, distraction warnings), Pilot Assist, as well as other Lane Keeping features (such as Lane Keeping Assist, Emergency Steering).\nWho are you?\nWe don’t know you yet, but we believe that you are a structured and analytical person with a ‘can-do’ attitude. You are solution-oriented and thrive in a collaborative environment, where you can build strong relationships and work cross-functionally. Your clear communication and ability to create trust make you an appreciated team player. You enjoy exchanging ideas, discussing solutions, and sharing knowledge with colleagues to drive progress. With curiosity and adaptability, you embrace change with a positive mindset and always strive for continuous improvement.\n \nAs for educational background, you have a master’s degree in engineering physics, automation, signal processing, electronics, mechatronics, computer science or similar. You have several years of experience as an Automotive Function Developer, preferably within ADAS.\n \nAdditionally, you have experience and interest in several of the following areas:\nEmbedded systems and software development in C++, MATLAB and Simulink.\nSoftware Architecture and system design.\nSystems modeling and simulation.\nSensor Data Fusion.\nControl systems, algorithms, signal processing and filter design.\nVehicle dynamics and control.\nFunctional safety and ISO 26262.\nAgile development.\n\n\n\nReady for the next move?\nLocation: Gothenburg, Sweden.\n Positions: Two (2).\nLast application date: July 6th 2025.",
-        "url": "https://career55.sapsf.eu/sfcareer/jobreqcareerpvt?jobId=19529&company=volvoinfor&st=C153AE32EDADE5F11070288A4995D3441336BAC9",
-        "published": "2025-06-25T17:45:05",
-        "deadline": "2025-07-06T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
         "source": "JobTech",
