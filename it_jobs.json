@@ -450,6 +450,21 @@
         "relevance_score": 100
     },
     {
+        "id": "29759256",
+        "title": "Software Developer  with C++ experience",
+        "employer": "Göteborg int8 Technology AB",
+        "location": "Göteborg",
+        "description": "Location: Göteborg\nEmployment Type: Full-time \nDepartment: Embedded Software Development\nJob Summary:\nWe are seeking a skilled and motivated Software Developer with strong experience in C++ to join our development team. The ideal candidate will have experience working in a Linux environment, using Gtest for unit testing, and managing code with Git. \nThe role also requires hands-on experience testing software on Hardware-in-the-Loop (HIL) systems and actual vehicles, making it essential to have both software development expertise and a solid understanding of embedded systems and testing frameworks.\nKey Responsibilities:\nDesign, develop, and maintain high-quality C++ software for embedded systems.\nWrite and maintain unit tests using Gtest to ensure software reliability and correctness.\nWork in a Linux-based development environment.\nUse Git for version control and collaboration.\nConduct and support software testing on HIL setups and real vehicles to validate domain-specific functionalities.\nCollaborate with cross-functional teams including hardware engineers, test engineers, and system architects.\nParticipate in code reviews and contribute to continuous improvement of software development practices.\nRequirements:\nStrong   Experience in C++ development.\nExperience working in a Linux environment.\nSolid understanding of unit testing using Gtest.\nProficiency with git for source control and workflow management.\nHands-on experience with Hardware-in-the-Loop (HIL) systems and in-vehicle software testing.\nFamiliarity with embedded systems, control systems, or automotive domains is a plus.\nStrong problem-solving skills and the ability to work independently and in a team environment.\nPreferred Qualifications:\nBachelor’s or Master’s degree in Computer Science, Electrical Engineering, or a related field.\nExperience in automotive or aerospace domains.\n\n\nFamiliarity with software development lifecycle (Agile/Scrum).",
+        "url": null,
+        "published": "2025-06-09T22:18:48",
+        "deadline": "2025-07-09T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
         "id": "29793570",
         "title": "Syntronic i Göteborg söker fler mjukvaruutvecklare",
         "employer": "Syntronic AB",
@@ -460,6 +475,21 @@
         "deadline": "2025-07-24T23:59:59",
         "is_consultant": false,
         "is_meaningful": true,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
+        "id": "29818976",
+        "title": "Embedded Software Engineer within the Automotive Industry",
+        "employer": "SiNIX Embedded AB",
+        "location": "Göteborg",
+        "description": "Are you an experienced embedded software developer looking to work with cutting-edge technology in the automotive domain?\nWe are looking for an experience Embedded Software Engineer to join our team!\nAs part of our embedded software team, you'll contribute to a variety of development projects—ranging from system architecture and software design to implementation, integration, and validation of embedded systems. The work is both technically challenging and rewarding, often involving modern platforms and real-world problem-solving in the fast-evolving automotive industry.\nWe offer a workplace where your voice is heard, your skills are developed, and where we have fun while solving challenging technical problems together.\nQualifications for this position\nSeveral years of experience in embedded software development\nM.Sc or B.Sc. in Computer Science Electronics, Mechatronics or related technical field\nProficiency C++ and embedded systems programming\nExperience with Linux, QNX and Yocto\nEnsure compliance with AUTOSAR, ISO 26262, and MISRA C++ guidelines\nFamilarity with tools such as GIT, JIRA, Vector tools (CANoe, CANalyzer)\nExperience working within the automotive industry\nIt’s a plus if you have experience working closely with suppliers and have been involved in cybersecurity-related aspects of embedded development\n\n\n\nAbout you\nWe believe that you are curious, driven and solution-oriented. You have a mindset of continuous learning and like to share knowledge with those around you. We value individuals who take ownership, enjoy working in teams, and actively contribute to a positive and open atmosphere.\nWho we are\nAt SiNIX, we prioritize the value of our colleagues by creating memorable experiences and sharing skills. We empower our employees with choices in training, vacation time, and flexible salaries, fostering a supportive and thriving work environment. Our aim is to inspire ongoing growth and development, making success a shared journey.",
+        "url": "https://jobs.sinix.se/jobs/6026679-embedded-software-engineer-within-the-automotive-industry",
+        "published": "2025-07-08T10:28:45",
+        "deadline": "2025-09-30T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 100
@@ -645,21 +675,6 @@
         "relevance_score": 100
     },
     {
-        "id": "29759256",
-        "title": "Software Developer  with C++ experience",
-        "employer": "Göteborg int8 Technology AB",
-        "location": "Göteborg",
-        "description": "Location: Göteborg\nEmployment Type: Full-time \nDepartment: Embedded Software Development\nJob Summary:\nWe are seeking a skilled and motivated Software Developer with strong experience in C++ to join our development team. The ideal candidate will have experience working in a Linux environment, using Gtest for unit testing, and managing code with Git. \nThe role also requires hands-on experience testing software on Hardware-in-the-Loop (HIL) systems and actual vehicles, making it essential to have both software development expertise and a solid understanding of embedded systems and testing frameworks.\nKey Responsibilities:\nDesign, develop, and maintain high-quality C++ software for embedded systems.\nWrite and maintain unit tests using Gtest to ensure software reliability and correctness.\nWork in a Linux-based development environment.\nUse Git for version control and collaboration.\nConduct and support software testing on HIL setups and real vehicles to validate domain-specific functionalities.\nCollaborate with cross-functional teams including hardware engineers, test engineers, and system architects.\nParticipate in code reviews and contribute to continuous improvement of software development practices.\nRequirements:\nStrong   Experience in C++ development.\nExperience working in a Linux environment.\nSolid understanding of unit testing using Gtest.\nProficiency with git for source control and workflow management.\nHands-on experience with Hardware-in-the-Loop (HIL) systems and in-vehicle software testing.\nFamiliarity with embedded systems, control systems, or automotive domains is a plus.\nStrong problem-solving skills and the ability to work independently and in a team environment.\nPreferred Qualifications:\nBachelor’s or Master’s degree in Computer Science, Electrical Engineering, or a related field.\nExperience in automotive or aerospace domains.\n\n\nFamiliarity with software development lifecycle (Agile/Scrum).",
-        "url": null,
-        "published": "2025-06-09T22:18:48",
-        "deadline": "2025-07-09T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "29738651",
         "title": "R&D Manager",
         "employer": "Cpac Systems AB",
@@ -818,6 +833,21 @@
         "url": "https://careers.progalaxy.se/jobs/5674587-senior-mjukvaruutvecklare?promotion=1381054-arbetsformedlingen",
         "published": "2025-03-12T18:39:32",
         "deadline": "2025-08-29T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
+        "id": "29819017",
+        "title": "High Performance Computing (HPC) Engineer",
+        "employer": "Astrazeneca AB",
+        "location": "Göteborg",
+        "description": "HPC engineer Embark on a significant journey where your expertise in high-performance computing accelerates scientific discovery and impacts patient outcomes worldwide. \n\nWe are currently seeking a passionate, HPC engineer to join AstraZeneca's vibrant site in Gothenburg, Sweden. The ideal candidate will have extensive hands-on experience making an impact with HPC technology, delivering HPC services to a high quality, and able to relate to the scientific community and work closely with users to make the best use of research computing services. \n\nAbout the Role:  \n\nAt AstraZeneca, our Research Data & Analytics Team is at the cutting edge of transforming how we discover and develop medicine. As an HPC Engineer within the Scientific Computing Platform, you'll be crucial in delivering HPC services and solutions that drive progress in computational chemistry, imaging, multi-OMICs, AI and more. We're combining modern HPC with leading DevOps and cloud-native technologies to push the boundaries of biopharmaceutical research. \n\nThe HPC landscape is continually evolving. You will need the skills to help build and operate industry-leading capabilities, including application build frameworks, containerized applications and cloud software-as-a-service. Automated deployment is a key feature and you will need to be comfortable with DevOps processes and delivering consistency through automation and infrastructure-as-code. \n\nYour Impact:  \n\nBe part of a global team where your skills in high-performance computing empower innovative scientific solutions. Engage and collaborate with researchers and engineers to optimize workflows and deploy HPC capabilities that facilitate new discoveries. Your contribution will directly enhance the development of innovative medicines, improving patient outcomes globally. \n\nKey Responsibilities: \n\n * \n\nDevelop and operate cutting-edge research computing services and applications \n\n * \n\nAdopt Site Reliability Engineering principles to manage end-to-end HPC service operations, monitoring, and incident response \n\n * \n\nOptimize and solve complex technical problems in the HPC infrastructure and the cloud, collaborating closely with scientific users to enhance system utilization \n\nWhat You Bring: \n\n * \n\nProficiency in Linux environments for administration and programming \n\n * \n\nSolid skills in Python programming and bash scripting \n\n * \n\nHighly customer-focused, with the ability to communicate complex IT concepts to non-experts \n\n * \n\nExperience in working within a DevOps team using agile methodologies \n\n * \n\nExperience of building and operating services in the cloud \n\nDesired Skills and Expertise: \n\n * \n\nBackground in a scientific field or experience with computationally intensive scientific data analysis \n\n * \n\nExperience in large-scale HPC environments, parallel filesystems, and with tools such as SLURM and OpenStack \n\n * \n\nFamiliarity with configuration automation, software distribution frameworks, and cloud deployment, especially AWS \n\n * \n\nExpertise in AI/ML tools, parallel programming, and containerization technologies \n\n * \n\nUnderstanding of domain-specific applications like bioinformatics tools, simulation software, or high-performance data visualisation packages \n\n \n\nJoin AstraZeneca and play a pivotal role in advancing HPC technology to accelerate scientific breakthroughs. \n\nApply now to be a leader in HPC innovation at AstraZeneca! \n\n \n\nABOUT ASTRAZENECA \n\nAstraZeneca is a global, innovation-driven biopharmaceutical business that focuses on the discovery, development, and commercialisation of prescription medicines for some of the world's most serious diseases. But we're more than one of the world's leading pharmaceutical companies. At AstraZeneca, we're proud to have a unique workplace culture that inspires innovation and collaboration. Here, employees are empowered to express diverse perspectives and are made to feel valued, energised and rewarded for their ideas and creativity. \n\n \n\nWhere can I find out more? \n\nAstraZeneca Gothenburg site: https://www.astrazeneca.com/our-company/our-locations/gothenburg.html \n\nLife in Gothenburg: https://www.astrazeneca.se/om-oss/verksamheten-i-sverige/goteborg/relocate-to-gothenburg.htm",
+        "url": "https://www.aplitrak.com/?adid=aGFubmEuc3RyYW5kYmVyZy4zMTY5Mi4zMTAxQGFzdHJhemVuZWNhLmFwbGl0cmFrLmNvbQ",
+        "published": "2025-07-08T10:34:57",
+        "deadline": "2025-07-22T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
         "source": "JobTech",
