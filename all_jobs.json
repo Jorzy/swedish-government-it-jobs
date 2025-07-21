@@ -75,36 +75,6 @@
         "relevance_score": 100
     },
     {
-        "id": "29796204",
-        "title": "AI Engineer",
-        "employer": "Baronit AB",
-        "location": "Göteborg",
-        "description": "About Baronit:\nAt Baronit, we connect brilliant minds to shape the future of technology. As a passionate team of tech experts, we lead with innovation, expertise, and curiosity to help businesses grow and adapt to new opportunities. Our experts blend technical excellence, industry insight, and a strong commitment to delivering exceptional results across sectors such as Automotive, Airline, Fintech, Healthcare, Retail, Telecom, E-commerce, and more.\nWe are an IT consultancy company based in Gothenburg looking for an experienced AI Engineer to join our team.\nKey Responsibilities:\nBuild and deploy LLM-powered agents for business process automation (e.g., using LangChain, AutoGen, OpenAI).\nImplement Retrieval-Augmented Generation (RAG) pipelines integrating with internal knowledge sources (e.g., Confluence, Google Drive).\nDevelop multi-step reasoning chains, function calling, and agent memory for complex workflows.\nIntegrate agents with third-party APIs (Salesforce, GitHub, Jira, Slack, etc.).\nDefine best practices around prompt engineering, tool usage, and secure API communication.\nCollaborate with cross-functional teams to understand and prioritize automation opportunities.\nTrack AI reliability, hallucination risks, and ethical use across deployed solutions.\nDesign evaluation strategies for agent performance, reliability, and business impact.\nSupport fine-tuning or embedding optimization to improve agent accuracy and task alignment.\n\nIdeal candidate profile:\nAcademic degree in Computer Science, Engineering, or a related field.\n7+ years of experience in Software Development/DevOps or related field.\nStrong software engineering background- Python a must; experience with Bash, JavaScript or Golang is a plus.\nHands-on experience with LLM frameworks (LangChain, LlamaIndex) and APIs (OpenAI, Gemini, Claude).\nProficient in integrating external APIs using REST/GraphQL and managing agent workflows.\nComfortable with cloud platforms (preferably GCP/Vertex AI or Azure OpenAI) and containerized environments.\nExperience with RAG, semantic search, vector databases (e.g., Pinecone, FAISS), and prompt templating.\nStrong understanding of security, privacy, and responsible AI practices.\nCurious, experimental, and fast learner with excellent communication skills in English. \nFamiliarity with orchestration frameworks (e.g., CrewAI, MetaGPT, AutoGen) is a strong advantage.\n\nIn addition to exciting projects, we also offer:\nFlexible salary model – choose between a fixed salary or a revenue-based model where you receive X% of your client rate, with full transparency\nTechnical forums for continuous learning and knowledge sharing\nSocial activities to stay connected and engaged\nAnnual offsite conference for team bonding and inspiration\nAnd above all – a great team spirit and a focus on enjoying the journey together",
-        "url": "baronit.se",
-        "published": "2025-06-26T21:30:40",
-        "deadline": "2025-12-22T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
-        "id": "29796221",
-        "title": "Machine Learning Engineer",
-        "employer": "Baronit AB",
-        "location": "Göteborg",
-        "description": "About Baronit:\nAt Baronit, we connect brilliant minds to shape the future of technology. As a passionate team of tech experts, we lead with innovation, expertise, and curiosity to help businesses grow and adapt to new opportunities. Our experts blend technical excellence, industry insight, and a strong commitment to delivering exceptional results across sectors such as Automotive, Airline, Fintech, Healthcare, Retail, Telecom, E-commerce, and more.\nWe are an IT consultancy company based in Gothenburg looking for an experienced Machine Learning Engineer to join our team.\nKey Responsibilities:\nEstablish MLOps best practices and patterns for scalable ML deployment.\nDesign and build reproducible ML pipelines and model-serving infrastructure.\nManage and automate CI/CD for ML using GitHub Actions or Azure DevOps.\nOperate in cloud-first environments (GCP, Azure, AWS), using tools like Vertex AI, DBT, Airflow, or Kubeflow.\nImplement observability (model monitoring, drift detection) and infrastructure-as-code (Terraform, Helm).\nCollaborate with Data Scientists, Engineers, and Analysts to move models from notebooks to production.\nEnsure ML workflows align with data governance, security, and compliance standards.\nContribute to LLM-based model serving and fine-tuning pipelines where applicable.\n\nIdeal candidate profile:\nAcademic degree in Computer Science, Engineering, or a related field.\n7+ years of experience in Software Development/DevOps or related field.\n4+ years of experience in ML engineering or MLOps in production settings.\nProficient in Python (OOP, testing, clean code, package management).\nExperienced in cloud platforms - GCP, Azure, AWS.\nExperienced with AWS services for ML deployment and infrastructure management, including SageMaker, CloudWatch, and IAM.\nExperience developing RESTful APIs using FastAPI for model serving and inference endpoints, including integration with CI/CD and auth middleware.\nHands-on with CI/CD pipelines, Containerization (Docker, Kubernetes), Infrastructure as Code (Terraform, ArgoCD, etc.), MLFlow, DBT, and Airflow.\nExperience in monitoring/observability strategies for production ML systems, including latency tracking, drift detection, and model version health using Prometheus, Grafana, or Vertex AI Model Monitoring.\nStrong skills in SQL, data modeling, and scalable data pipelines.\nAble to work in agile, cross-functional teams with clear communication and ownership mindset.\nStrong analytical problem-solving skills and love for clean, maintainable systems.\nCurious, experimental, and fast learner with excellent communication skills in English.\nExperience with large language models and LLMOps pipelines is a plus.\nWorking knowledge aligned with GCP/AWS ML certification standards (Vertex AI, IAM, Dataflow) is a plus.\n\nIn addition to exciting projects, we also offer:\nFlexible salary model – choose between a fixed salary or a revenue-based model where you receive X% of your client rate, with full transparency\nTechnical forums for continuous learning and knowledge sharing\nSocial activities to stay connected and engaged\nAnnual offsite conference for team bonding and inspiration\nAnd above all – a great team spirit and a focus on enjoying the journey together",
-        "url": "baronit.se",
-        "published": "2025-06-26T21:27:10",
-        "deadline": "2025-12-22T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "29795902",
         "title": "Game Engineer (AI Team)",
         "employer": "Mindark Pe AB (Publ)",
