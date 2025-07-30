@@ -60,21 +60,6 @@
         "relevance_score": 100
     },
     {
-        "id": "29815282",
-        "title": "Solutions Engineer",
-        "employer": "CarbonCloud AB",
-        "location": "Göteborg",
-        "description": "We are looking for a passionate Solutions Engineer who will take ownership of building and maintaining the data pipeline infrastructure that powers our carbon footprint platform.\nYou will design, develop, and optimize Python-based systems that transform customer data (CSV files, spreadsheets, and other formats) into our API, enabling seamless integration of complex carbon calculations into food producers' workflows.\n\n\nKey Responsibilities\nBuild, maintain, and optimize Python data pipelines that convert customer data formats (CSV, Excel, JSON) into our carbon footprint API.\nDesign robust data transformation workflows that handle various supply chain data structures and ensure data quality and validation.\nDevelop automated systems for data ingestion, processing, and API integration that scale with customer needs.\nProvide technical problem-solving support for customers implementing data integrations and troubleshoot pipeline issues.\nBuild proof-of-concepts and technical demos showcasing seamless data transformation capabilities to prospective clients.\nCreate and maintain comprehensive documentation for data pipeline architecture, API endpoints, and integration processes.\nRespond to customer support questions about system functionality, data processing, and troubleshoot technical issues with integrations.\nCollaborate with engineering teams to relay customer feedback and drive product improvements based on real-world usage patterns.\n\n\n\nQualifications\nStrong Python programming skills with extensive experience in data pipeline development and data processing systems.\nProven experience working with various data formats (CSV, Excel, JSON, XML) and data transformation libraries (pandas, numpy, etc.).\nExperience building and maintaining production data pipelines, preferably with cloud platforms and containerization.\nSolid understanding of RESTful APIs, data validation, and error handling in data processing systems.\nExperience with database systems and data warehousing concepts.\nKnowledge of additional programming languages is a plus.\nAbility to communicate technical concepts clearly to both technical and non-technical stakeholders.\nAbility to communicate effectively in English (Swedish language skills are a plus).\nFamiliarity with agile workflows and working in cross-functional teams.\nA passion for sustainability and desire to make a meaningful impact in climate technology.",
-        "url": "https://careers.carboncloud.com/jobs/6110420-solutions-engineer",
-        "published": "2025-07-06T07:25:25",
-        "deadline": "2025-08-05T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "29806984",
         "title": "DevOps Engineer",
         "employer": "Opera Sweden AB",
@@ -713,6 +698,21 @@
         "url": "https://www.hellstengears.com/en/jobba-hos-oss",
         "published": "2025-07-16T18:21:50",
         "deadline": "2025-08-15T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
+        "id": "29865247",
+        "title": "Data Protection and Compliance Officer (Senior or Lead)",
+        "employer": "Jeppesen Systems AB",
+        "location": "Göteborg",
+        "description": "Jeppesen, Planning and Operations is seeking a Data Protection and Compliance Officer (Senior or Lead). We offer world leading digital solutions for Flight Operations to major airlines across the globe, saving customers time, money, and resources across the entire airline ecosystem. These software and data analytics powered solutions help customers navigate and operate more efficiently, reduce fuel consumption, optimize crew utilization, minimize disruption impact.\nData privacy is an important aspect of our business, not the least in Planning & Operations where our solutions hold a lot of airline crew data. Therefore, we are now strengthening our team with a Data Protection and Compliance Officer, at senior or lead level.  The position is based in our centrally located office in Gothenburg, with five hundred colleagues of more than fifty nationalities. For a communicative, international minded and positive person this is a great opportunity to join a cutting edge IT company and drive our data privacy questions.\nPosition Responsibilities:\nEnsure our compliance with data privacy regulations, in EU and globally\nThe primary scope is client data but also employee and other data\nEnsure privacy by designing new initiatives, projects, and processes\nSupport in privacy risk and impact assessment\nAdvice on data privacy related contract language\nHave contact with clients and partners in data transfer matters, including negotiating data processing agreements\nTrain teams and spread awareness in the privacy area\nRecord management and advice on how to apply privacy principles\n\nBasic Qualifications (Required Skills/Experience):\nYou have a relevant degree at least on Bachelor level, preferably in law\nYou have 3+ years of experience from working with data privacy\nYou are fluent in English both orally and in writing\nExisting rights to work in Sweden\n\nThis position is hybrid and flexible. This means that you can work partly from home, but at least 2 days per week in the office. \n​Preferred Qualifications (Desired Skills/Experience):\nSenior (Level 4):\nYou have 3+ years of experience from working with data privacy\nYou are well known with EU data privacy regulations and have knowledge of regulations outside the EU.\nYou have working experience from legal and/or compliance in the IT industry\nPreferably you have knowledge of AI regulation related compliance\n\nLead (Level 5):\nYou have 5+ years of experience from working with data privacy\nYou are well known with EU data privacy regulations and have some knowledge of regulations outside the EU.\nYou have working experience from legal and compliance in the IT industry\nYou have knowledge of AI regulation related compliance\n\nRelocation: This position does not offer relocation. Candidates must live on commute distance or relocate at their own expense.\nVisa: If visa is required, the employer will initiate the visa application; however, the successful candidate will cover the cost of visa.",
+        "url": "https://jobs.boeing.com/job/gothenburg/product-owner-airline-applications-ops-control/185/83578343312",
+        "published": "2025-07-29T16:28:50",
+        "deadline": "2025-08-10T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
         "source": "JobTech",
