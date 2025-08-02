@@ -1,5 +1,20 @@
 [
     {
+        "id": "29872373",
+        "title": "System Developer / Programmer",
+        "employer": "ArinaSoft AB",
+        "location": "Göteborg",
+        "description": "About ArinaSoft AB\n ArinaSoft AB is a forward-thinking technology company at the forefront of automotive innovation. We specialize in delivering high-performance software systems, embedded solutions, and AI-powered safety technologies to leading automotive OEMs and Tier-1 suppliers. Through our commitment to quality, safety, and technological advancement, we are driving the future of mobility toward smarter, safer, and more sustainable roads.\nAt ArinaSoft, we foster a collaborative and knowledge-sharing environment where curiosity is encouraged, expertise is valued, and impact is real.\n\n\nAbout the Role\nAs a System Developer at ArinaSoft AB, you will work on the development of advanced software solutions for the automotive industry. You’ll be involved in the entire development lifecycle—from requirements analysis to implementation, testing, and integration.\n\n\nKey Responsibilities:\nDesign and develop software in C/C++ and/or Python\n\n\nWork with embedded systems and real-time applications (RTOS)\n\n\nIntegrate systems and perform troubleshooting in automotive electronic environments\n\n\nDevelop applications in Linux-based environments\n\n\nWork with vehicle communication protocols such as CAN, LIN, Ethernet\n\n\nUse industry-standard tools like Vector CANoe/CANalyzer\n\n\nCollaborate closely with cross-functional teams in hardware, software, and testing\n\n\n\nYour Profile\nWe are looking for candidates with:\nA Master’s or Bachelor’s degree in Computer Engineering, Electrical Engineering, Mechatronics, or a related field\n\n\nMinimum 3 years of professional experience in system development within the automotive or industrial domain\n\n\nStrong knowledge of C/C++, Git, and scripting (e.g., Bash, Python)\n\n\nExperience with Autosar (Classic or Adaptive) is a strong plus\n\n\nFamiliarity with ISO 26262 (Functional Safety) is highly valued\n\n\nProficiency in English or Swedish, both spoken and written\n\n\nA valid Category B driver’s license\n\n\n\nWhat We Offer\nPermanent employment with a competitive salary\n\n\nFlexible working hours and a hybrid work model\n\n\nWellness allowance and health insurance\n\n\nStrong opportunities for professional development and certifications\n\n\nA safe, inclusive, and technology-driven work environment\n\nÖppen för alla\nVi fokuserar på din kompetens, inte dina övriga förutsättningar. Vi är öppna för att anpassa rollen eller arbetsplatsen efter dina behov.",
+        "url": null,
+        "published": "2025-08-01T23:58:30",
+        "deadline": "2025-08-15T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
         "id": "29869715",
         "title": "Founding Data Scientist",
         "employer": "Cerve Holding AB",
@@ -613,21 +628,6 @@
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 100
-    },
-    {
-        "id": "29709549",
-        "title": "Join our Software Team within Automotive Infotainment!",
-        "employer": "AFRY AB",
-        "location": "Göteborg",
-        "description": "Company Description\nAFRY provides engineering, design, digital and advisory services. We are devoted experts in industry, energy and infrastructure sectors, creating impact for generations to come. AFRY has Nordic roots with a global reach. Join us in accelerating the transition towards a sustainable society.\n\n\nJob Description\nAs SW Developer/System Engineer/SW Test Developer/Scrum Master within Infotainment you will work at one of our clients to develop and maintain the functionality of Personalization, Vehicle Functions , Positioning & Maps, Core HMI , Camera, BT Telephony, Security, Base Tech , vehicle power modes, SW Download and Diagnostics/OTA.\nYou will join a team with valuable knowledge from all infotainment domains. The daily work includes Infotainment development with end to end responsibility including design, architecture, documentation, implementation and automated tested case.\n\n\nQualifications\nWe believe that you have:\nM.Sc in Software Engineering or similar relevant experience\nAt least 3 years of software development in Java and/or C++ in a Linux environment\nGood English skills (written and spoken)\nGood understanding in working according to Agile principles\nEuropean driving license (B) \n\nOne or several of the below:\nExperience and good understanding of android stack development including knowledge within platform area\nExperience in test driven development\nExperience in developing automated unit or integration test in C++/Java and Python\nExperience from automotive environment\n\n\n\nAdditional Information\nWelcome with your application! Last date to apply: 6/7. \nDaniel Sletteberg Loveryd - Section Manager\n\ndaniel.slettebergloveryd@afry.com\n\nAt AFRY, we engineer change in everything we do. Change happens when brave ideas come together. When we collaborate, innovate technology, and embrace challenging points of view. That’s how we're making future. We are actively looking for qualified candidates to join our inclusive and diverse teams across the globe. Join us in accelerating the transition towards a sustainable future.",
-        "url": "https://jobs.smartrecruiters.com/AFRY/744000059723035-join-our-software-team-within-automotive-infotainment-?oga=true&trid=4de896fd-3759-406c-8d07-8a7da8844ce0",
-        "published": "2025-05-16T14:32:33",
-        "deadline": "2025-08-01T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 70
     },
     {
         "id": "29690348",
