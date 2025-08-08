@@ -285,6 +285,21 @@
         "relevance_score": 100
     },
     {
+        "id": "29887068",
+        "title": "Software Flow Developer",
+        "employer": "SiNIX Flow AB",
+        "location": "Göteborg",
+        "description": "We are now looking for more colleagues who has previously taken an active part in building and improving CI/CD systems and are familiar with some related practices such as provisioning, delivery flows, build systems, repository management, data management and data visualization. We learn, share knowledge and always strive to create and deliver the best solutions to our customer.\nAs we have a great range of customers demanding our skills it gives a good opportunity for you to discover many different solutions and technologies. Most of the time, you will be working together with colleagues from SiNIX, at the customer or in one of our teams.\nOur customers trust in us and we work very closely with them. In the partnership, we guide them to the solutions that supports them in the best possible way.\nOur mission in SiNIX Flow -  is to make software development smooth and efficient. An environment where you as a developer get fast feedback through intuitive built pipelines and continuous integration.\nWe are looking for persons with a few years of year's experience in CI/CD, DevOps etc BUT most importantly - are interested in making software development smooth and efficient.\nIt´s good if you have:\nA Bachelor or Master's degree in Computer Science or equivalent.\nExperience in CI/CD pipeline design.\nExperience in IaC.\nExperience in working with Docker and Kubernetes.\nExperience with different cloud providers.\nScripting/coding in for example Python, but good to have C++, Golang etc.\nWe offer:\nInteresting assignments\nGreat and skilled colleagues\nLots of fun and learning\nWe are a Göteborg based company, but have customers outside the region.\nAt SiNIX, we prioritize the value of our colleagues by creating memorable experiences and sharing skills. We empower our employees with choices in training, vacation time, and flexible salaries, fostering a supportive and thriving work environment. Our aim is to inspire ongoing growth and development, making success a shared journey.",
+        "url": "https://jobs.sinix.se/",
+        "published": "2025-08-07T13:13:40",
+        "deadline": "2026-01-31T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": true,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
         "id": "29868713",
         "title": "System Configuration Developer",
         "employer": "Jeppesen Systems AB",
@@ -775,21 +790,6 @@
         "deadline": "2025-11-28T23:59:59",
         "is_consultant": false,
         "is_meaningful": true,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
-        "id": "29476672",
-        "title": "Supplier Quality Engineer with experience in Software",
-        "employer": "Qamcom Research And Technology AB",
-        "location": "Göteborg",
-        "description": "You now have the chance to join us, the Standards & Methods team at Qamcom! \nWe are a central team of highly skilled and motivated persons driving multiple aspects for multiple technologies for the complete life cycle of our global range of products. Competences of the team include System Safety, Quality and Security and typical industries are automotive, medical, aero and rail. \nAbout the role: As an SQE, you will have a full end-to-end ownership of your portfolio. Your input is key to selecting the most suitable supplier for a sourcing award. In this role you will work mainly in the field of connectivity and the suppliers you will assess will mainly come from software and electronics. Your work continues throughout the project to secure a quality assured project launch. Risk management skills will be important through all steps: sourcing, project and running production. The job requires frequent travels during certain periods. \n \nYour Background In this recruitment, we will have a high focus on the mindset and personality. We are looking for someone that embraces problems and sees it as learning opportunities. You have a collaborational mindset and willingness to share ideas.\nFurther you have a great interest in the quality area with a good knowledge of automotive quality standards. Customer satisfaction is important for you while remaining structured and organized. \nQualifications \n  MSc or BSc in Engineering or equivalent, and 6 years of work experience needed \n Good knowledge and practice of automotive quality standards and tools, such as IATF 16949, VDA, APQP, PPAP, ISO 9001.\n Knowledge in ASPCE and ISO 26262\n Experience in assessing suppliers in the software and hardware domains\n Experience from supplier quality work\n Good English communication skills, both orally and in writing\n Drivers licence\n Meriting with engineering work\n Qamcom offers\nWe are proud to offer a work environment with highly competent and experienced colleagues. We create teams with a unique blend of high academic competence and rich industry experience. In our in-house projects we often create cutting-edge system solutions that encompass hardware, software, and algorithms tailored for industrial and medtech applications. Hence, we provide the possibility to apply advanced technology in various product development projects focusing on a variety of business segments like medtech, industry 4.0 and Industrial IoT and AI. \nAdditionally, a sample of general benefits are listed below:\n Competitive insurance and pension program.\n Generous parental leave (90% of the salary).\n Wellness policy (up to 5000 SEK/year).\n Leasing of a bicycle and option for an employee car (electric or hybrid).\n \nJoin us at Qamcom, where your expertise will contribute to shaping the future of technology and innovation.",
-        "url": "https://career.qamcom.com/jobs/5358781-supplier-quality-engineer-with-experience-in-software?promotion=1348393-arbetsformedlingen",
-        "published": "2025-02-18T15:11:38",
-        "deadline": "2025-08-07T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 100
