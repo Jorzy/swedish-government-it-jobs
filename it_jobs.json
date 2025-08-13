@@ -1,5 +1,20 @@
 [
     {
+        "id": "29901704",
+        "title": "Junior software developer",
+        "employer": "Ericsson AB",
+        "location": "Göteborg",
+        "description": "Ericsson AB\r\n\r\nJoin our Team\n\nAbout this opportunity:\nToday we stand at the forefront of agile software development, using methods like Lean and Scrum to create a product that excels. Early customer and stakeholder feedback is a key element in our development process which is based on Continuous Integration SW practices. Our product, tools and infrastructure places high technical requirements on the team, including high-performance application development, low latency requirements, multi-threaded/multi-process troubleshooting, and embedded system development in an environment with huge amounts of data.\n\n\nIn the role of Software Developer, you will get the opportunity to work closely with your Product Owner and stakeholders in a collaborative environment, requiring both maturity and a strong ‘team first’ approach. Here, we embrace a culture of collective responsibility, ensuring that all tasks are completed according to the established backlog priority. \nTo expand our organization’s capacity, we are looking for ambitious, intelligent, creative and inspiring individuals who are in the early stage of their career. We provide a dynamic, fun and challenging environment where you can grow and help to inspire your colleagues to further growth. With us, you’ll be joining a small cross-functional development team working with feature development.  \n\n\nResponsibilities & Tasks\nThe team will design, implement and test the feature, product and system from requirements to production and commercial deployment. Each team has life cycle responsibility for a part of the product.\nAmong other things, Unit/Component Test, Refactoring and Continuous Delivery are defining concepts and we are constantly improving our ways of working. We are not perfect and not afraid to say so. We are on a journey, and we know we have many problems to solve, and we need to learn new things on the way. We believe in trying new things connected to, e.g:\n\n  *  Software Craftsmanship\n  *  Analyze requirements and propose a software design\n  *  Analyze verification needs and develop test cases validating your design\n  *  Develop test case automation\n  *  Execute tests, troubleshoot, and correct faults found\n  *  Reserved time for improvements and innovations, Hackathons\nKnowledge sharing from external channels\n\n\nQualifications\n  *  MSc level in Computer Science or the equivalent level of knowledge\n  *  0 - 2 years of related experience in SW development\n  *  Fluent in English, written and oral\nSkills in software development, preferably using Erlang, python or other functional languages\n\n\nMeritorious qualifications\n  *  Experience from verification, troubleshoot and debug software issues to ensure optimal performance\n  *  Experience of agile development and the Scrum framework.\n  *  Knowledge of Git, Gerrit, Jenkins, HTTP2, TCP/IP, Linux, Containers\n\n\nThe characteristics we hope to see in you\n\nWe are looking for a person who enjoys working with software and product development in an environment driven by close collaboration. We work together to reach and even exceed our goals and continuously strive to improve ourselves and our output. We believe that you with your structured and disciplined approach, are not just ready to learn but eager to tackle complex challenges and redefine the boundaries of innovation alongside your team. You can communicate in a clear and effective way. With a focus on solutions, you bring a can-do attitude to challenges, working well both independently and with the team.\n\n\nWorking at Ericsson\nEricsson Packet Core products are at the core of the mobile network, connecting radio networks with the internet and enabling seamless connectivity. In our development unit, you’ll be part of the next step of our transformation: developing 5G networks with cloud native software for telecom operators around the world.\nAt Packet Core you’ll work with hundreds of talented developers, giving you plenty of opportunities to learn from senior colleagues and develop your own competence. We take pride in our commitment to innovation and regularly set aside time for Hackathons, allowing you to pursue your own ideas or work with new friends on the next big thing.\nWe’re next to Chalmers and the University of Gothenburg, with other cutting-edge tech companies as our closest neighbors in a buzzing area. There are plenty of opportunities for learning and networking at Lindholmen Science Park, and there is a wide range of restaurants for your \nconvenience.\nDo you want to join a great team? Please send us your application today!",
+        "url": "https://ericsson-ab.contactrh.com/jobs/9669/43585137",
+        "published": "2025-08-12T17:25:07",
+        "deadline": "2025-08-23T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": true,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
         "id": "29891558",
         "title": "Software Developer",
         "employer": "Ericsson AB",
@@ -135,21 +150,6 @@
         "relevance_score": 100
     },
     {
-        "id": "29786070",
-        "title": "Linux och Open Source entusiast",
-        "employer": "Combitech AB",
-        "location": "Göteborg",
-        "description": "Vi söker Linux och open source entusiaster till Combitech i Göteborg. Hos oss får du möjlighet att växa i en företagskultur som uppmuntrar både professionell och personlig utveckling samt anställningstrygghet och balans i livet. Som medarbetare på Combitech i Göteborg är du med och utvecklar framtidens digitaliseringslösningar för industri och samhälle.\n\n \n\n \n\nDin roll som utvecklare\n\nDu kommer att vara en del av ett team som tillsammans utvecklar mjukvarulösningar för datainsamling, datalagring, analys, automation, AI samt flera typer av visualiseringar. Lösningarna teamet bygger används i stora projekt inom t.ex. offentlig verksamhet, processindustri och industri 4.0. Målet är att kunderna (baserat på data) ska få djupare insikt i sin verksamhet och därigenom effektivisera sina processer. Teknik- och komponent-stacken baseras på olika Open Source Communities, så som CNCF, som vi kompletterar med egenutvecklade applikationer.\n\n \n\nVåra uppdrag innebär att man bygger moderna system för att skapa lösningar som är innovativa och framtidssäkra för våra uppdragsgivare. Vi jobbar både med infrastruktur och applikationsutveckling vilket gör att våra medarbetare får både en bredd och djup inom olika relevanta mjukvaruteknologier. Exempel på ramverk, verktyg och tekniker som används är Docker, Kubernetes och Helm som grund vilka kompletteras med t.ex. Kafka, Quarkus med NodeJS och React. Programmeringsspråk som oftast används är TypeScript, Python, Java och Go.\n\n \n\n \n\nVem är du?\n\nVi söker dig som är kreativ och drivs av att ligga i teknikens framkant vad gäller verktyg och koncept. Du har ett stort intresse för FOSS (t.ex. CNCF, LF) och följer med i dess nyheter och diskussioner. Vi ser gärna att du är en daglig användare av Linux sedan något år tillbaka (antingen från skolan, tidigare tjänst eller fritiden). Som person trivs du med att vara en lagspelare i ett effektivt team som hjälper kunderna att skapa nya möjligheter.\n\n \n\nLämplig utbildningsprofil är Civilingenjör eller Högskoleingenjör med inriktning i Datateknik eller Informationsteknik eller annan Civilingenjör/Universitetsutbildning med inriktning inom programvaruutveckling och IT infrastruktur. Vi välkomnar både erfarna ingenjörer och ingenjörer som är i början av sin karriär.\n\n \n\nDå tjänsten innebär arbete som kan omfattas av försvarssekretess krävs det att du genomför och godkänns i en säkerhetsprövning. \n\nUrval sker i Augusti. Vi ser fram emot din ansökan!\n\n \n\n \n\nKom & gör skillnad\n\nVi tror att man gör ett bättre jobb om man kan fokusera på rätt saker, därför gör vi det lätt att kombinera jobbet med vardagen. Vi satsar på våra medarbetare, de utgör kärnan, hjärnan och hjärtat i vår verksamhet. Dessutom står vi på en stadig grund av högteknologi, forskning och anställningstrygghet med försvars- och säkerhetskoncernen Saab som ägare.\n\n \n\nFör oss handlar det om hållbarhet - vi vill bli branschens mest hållbara företag; och för att vara ett hållbart företag i en hållbar framtid behöver vi investera i våra medarbetare. För oss är din återhämtning, dina utvecklingsmöjligheter och din trygghet lika viktigt som företagets framgång - utan våra medarbetare står vi stilla.\n\n \n\nVill du veta mer om hur det är att arbeta hos oss? Kolla in våra karriärsidor!\n\n \n\nKontaktpersoner: Ingvar Andersson ingvar.andersson (@) combitech.com",
-        "url": "https://www.aplitrak.com/?adid=am9sc3Nvbi4wMzczMi4zMTAxQHNhYWIuYXBsaXRyYWsuY29t",
-        "published": "2025-06-23T14:00:47",
-        "deadline": "2025-08-12T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": true,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 99
-    },
-    {
         "id": "29784165",
         "title": "Java-utvecklare till innovativt företag",
         "employer": "Jobnet AB",
@@ -250,21 +250,6 @@
         "deadline": "2025-09-01T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
-        "id": "29817376",
-        "title": "Microsoft Power Platform-utvecklare – Göteborg",
-        "employer": "Ecareer AB",
-        "location": null,
-        "description": "Vill du vara med och förbättra affärskritiska processer med hjälp av Power Platform? Vi söker en senior utvecklare eller lösningsarkitekt som brinner för att skapa robusta, effektiva och användarvänliga appar i en Microsoft-miljö.\n\nOm rollenDu kommer in i ett befintligt utvecklingsteam där fokus ligger på att vidareutveckla interna verktyg för hantering av personalflöden – främst onboarding och offboarding. Ditt uppdrag blir att analysera, förbättra och optimera lösningar byggda i Power Platform, både tekniskt och funktionellt.\nUppdraget passar dig som gillar att arbeta nära verksamheten, samtidigt som du har koll på tekniska detaljer som påverkar prestanda, användarupplevelse och underhåll. Du förväntas bidra med både problemlösning och nyutveckling i en miljö som kräver kvalitet och långsiktighet.\n\nI rollen kommer du bland annat att:  Vidareutveckla och optimera lösningar i Power Apps och Power Automate\n Utreda och åtgärda tekniska fel och prestandaproblem\n Arbeta med datamodellering, logik och integrationer (t.ex. med Azure AD, MS Graph eller interna API:er)\n Samarbeta med andra utvecklare, verksamhet och supportteam\n Dokumentera lösningar och bidra till att höja den tekniska standarden\n \n\nVi söker dig som har:  Minst 5 års erfarenhet av arbete med Microsoft Power Platform (Power Apps, Power Automate, Power BI)\n God kunskap om Dataverse, SharePoint, Azure AD och relaterade Microsoft 365-tjänster\n Erfarenhet av att felsöka och förbättra befintliga lösningar\n Stark förmåga att arbeta strukturerat med krav, logik och användarflöden\n Vana av att arbeta i team och kommunicera med olika typer av intressenter\n \n\nMeriterande erfarenheter:  Erfarenhet av lösningsarkitektur eller teknisk lead-roll\n Kunskap om CI/CD i Power Platform-miljöer (t.ex. med Azure DevOps)\n Tidigare arbete med processautomation inom HR eller liknande områden\n Certifiering som PL-100, PL-400 eller PL-600\n \n\nÖvrig information:Placeringsort: Göteborg",
-        "url": "https://jobb.ecareer.se/jobs/6143695-microsoft-power-platform-utvecklare-goteborg?promotion=1544415-arbetsformedlingen",
-        "published": "2025-07-07T15:25:28",
-        "deadline": "2025-08-12T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": true,
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 100
@@ -517,7 +502,7 @@
         "description": "About the job\nAre you a skilled Cyber Security Engineer with a talent for finding gaps in the most secure systems? We’re looking for someone to perform in-depth penetration testing across various technologies, including Windows and Linux environments, Citrix Workspaces, Cloud infrastructures, and APIs. You will use the latest tools and techniques to uncover vulnerabilities and work alongside our development and security teams to address and fix them. If you're ready to tackle complex security challenges, we want to hear from you!\nThe ideal profile\nThe perfect candidate is a highly skilled and detail-oriented Cyber Security Engineer with genuine hands-on experience in penetration testing and vulnerability analysis. You have excellent written and verbal communication skills and are a strong problem-solver. You thrive both working independently and collaborating within a team, always ready to tackle challenges with analytical precision.\nQualifications:\nYou have a strong understanding of network protocols, both Windows and Linux operating systems, application architectures and Red Hat\nIn-depth knowledge of common vulnerabilities and exploits (CVEs)\nProficiency in using various penetration testing tools such as Metasploit, Nmap, Burp Suite and/or Nessus\n\nAdditional skills:\nExperience with cloud security, particularly AWS.\nKnowledge of scripting languages (e.g., Python, PowerShell).\nFamiliarity with source code review techniques.\nUnderstanding of frameworks like ISO 27001, NIST, CIS\nSecurity certifications such as OSCP, CEH, PEN TEST+",
         "url": null,
         "published": "2025-06-16T12:25:38",
-        "deadline": "2025-08-16T23:59:59",
+        "deadline": "2025-09-16T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
         "source": "JobTech",
