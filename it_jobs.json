@@ -45,21 +45,6 @@
         "relevance_score": 100
     },
     {
-        "id": "29872373",
-        "title": "System Developer / Programmer",
-        "employer": "ArinaSoft AB",
-        "location": "Göteborg",
-        "description": "About ArinaSoft AB\n ArinaSoft AB is a forward-thinking technology company at the forefront of automotive innovation. We specialize in delivering high-performance software systems, embedded solutions, and AI-powered safety technologies to leading automotive OEMs and Tier-1 suppliers. Through our commitment to quality, safety, and technological advancement, we are driving the future of mobility toward smarter, safer, and more sustainable roads.\nAt ArinaSoft, we foster a collaborative and knowledge-sharing environment where curiosity is encouraged, expertise is valued, and impact is real.\n\n\nAbout the Role\nAs a System Developer at ArinaSoft AB, you will work on the development of advanced software solutions for the automotive industry. You’ll be involved in the entire development lifecycle—from requirements analysis to implementation, testing, and integration.\n\n\nKey Responsibilities:\nDesign and develop software in C/C++ and/or Python\n\n\nWork with embedded systems and real-time applications (RTOS)\n\n\nIntegrate systems and perform troubleshooting in automotive electronic environments\n\n\nDevelop applications in Linux-based environments\n\n\nWork with vehicle communication protocols such as CAN, LIN, Ethernet\n\n\nUse industry-standard tools like Vector CANoe/CANalyzer\n\n\nCollaborate closely with cross-functional teams in hardware, software, and testing\n\n\n\nYour Profile\nWe are looking for candidates with:\nA Master’s or Bachelor’s degree in Computer Engineering, Electrical Engineering, Mechatronics, or a related field\n\n\nMinimum 3 years of professional experience in system development within the automotive or industrial domain\n\n\nStrong knowledge of C/C++, Git, and scripting (e.g., Bash, Python)\n\n\nExperience with Autosar (Classic or Adaptive) is a strong plus\n\n\nFamiliarity with ISO 26262 (Functional Safety) is highly valued\n\n\nProficiency in English or Swedish, both spoken and written\n\n\nA valid Category B driver’s license\n\n\n\nWhat We Offer\nPermanent employment with a competitive salary\n\n\nFlexible working hours and a hybrid work model\n\n\nWellness allowance and health insurance\n\n\nStrong opportunities for professional development and certifications\n\n\nA safe, inclusive, and technology-driven work environment\n\nÖppen för alla\nVi fokuserar på din kompetens, inte dina övriga förutsättningar. Vi är öppna för att anpassa rollen eller arbetsplatsen efter dina behov.",
-        "url": null,
-        "published": "2025-08-01T23:58:30",
-        "deadline": "2025-08-15T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "29862918",
         "title": "HIL Developer - Automotive",
         "employer": "SkillHuset Sweden AB",
@@ -285,21 +270,6 @@
         "relevance_score": 100
     },
     {
-        "id": "29868713",
-        "title": "System Configuration Developer",
-        "employer": "Jeppesen Systems AB",
-        "location": "Göteborg",
-        "description": "Jeppesen, a subsidiary of The Boeing Company, is one of the largest software development companies in Gothenburg. We develop and implement innovative Crew and Operations management products for the world’s leading airlines.\nThe Digital Solutions & Analytics implementation department is responsible for the configuration and delivery of these systems to ensure airlines all over the world can optimize their crew members’ work schedules and aircraft utilization.\nAt Jeppesen’s office in central Gothenburg you will work in a one-of-a-kind software development organization with solutions that make a real difference to people around the world. You will work in an agile environment that fosters continuous improvement. You’ll be surrounded by a team of talented, creative, and highly motivated colleagues. You will learn and broaden your perspective by working with 400 professionals from more than 50 different nations but also be part of a global organization allowing for collaboration with customers and colleagues across the world.\nAt Jeppesen work life balance is important. We offer a comprehensive benefits package that includes a pension plan, health care insurance, Wellness contribution and winter break (off between 23 December and 2 January).\nJeppesen is looking for a System Configuration Developer for our Digital Solutions & Analytics implementation department based in Gothenburg, Sweden.\nAs System Configuration Developer you will be a key member of a dynamic team of 5-10, you will actively tailor innovative solutions to meet our clients' unique crew and aircraft planning needs. You will work closely with the client to handle expectations, building long-term relations and ensure our solution brings the customer optimal value. You will collaborate with your team and other departments to solve technical challenges and programming tasks in an efficient way.\nWe are looking for solution-oriented team members with expertise in software implementation. We put great emphasis on your personal characteristics and value individuals who have an analytical approach to problem solving, strong communication and collaboration skills both within and outside your team, an interest in technology as well as human relations and a curiosity to learn and explore new ways of doing things. For this position it is vital that you are passionate about learning the airline business and that you see yourself as a team player ready to contribute in workshops and communicating with different stakeholders as part of the requirements gathering and implementation process.\nBasic Qualifications (Required Skills/Experience): :\n2+ years of working experience\nExperience working with Python\nAdvanced knowledge of the English language in both verbal and written communications\n\n\n\nPreferred Qualifications (Education/Experience):\nMSc or BSc in Computer Science / Software Engineering or equivalent\nAirline and specifically Crew and / or Operations planning\nRave knowledge\nWorking with clients and their end users\nManaging a codebase using a tool such as Git and GitLab/GitHub, or equivalent\nDevelopment and administration in Linux systems\nSoftware testing\nFunctional Programming\n\n\n\nIf you're ready to make a difference in the aviation industry, we encourage you to apply by sending your CV in English. We are continuously scanning CVs and would love to hear from you soon!\nJoin us if you want to:\nBe part of implement a new application that improves the life of thousands of airline crew members \nHave the opportunity to work with the most well-known companies in the aviation world\nLearn new things every day\nWork together with highly motivated and skilled team mates\nWork with new technologies and cloud deployments\nHave Private Medical Insurance (Skandia)\nEnjoy additional days off for Christmas break (December 24th-January 1st)\nParticipate in employee recognition program (Boeing PridePoints)",
-        "url": "https://jobs.boeing.com/job/gothenburg/software-application-developer-product-application-development/185/79522281360",
-        "published": "2025-07-31T12:49:10",
-        "deadline": "2025-08-15T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "29815930",
         "title": "Experienced Machine Learning Developer for International Company!",
         "employer": "Friday Väst AB",
@@ -360,6 +330,21 @@
         "relevance_score": 100
     },
     {
+        "id": "29914881",
+        "title": "Software Engineer",
+        "employer": "Ecareer AB",
+        "location": "Göteborg",
+        "description": "At Aveer, we’re looking for an Embedded Software Integration Engineer to take ownership of managing and configuring our software platform, integrating application components into complete node software, and ensuring our platforms are rock-solid before release. What you’ll do:\nDevelop the embedded software technologies and the software platform.\nManage and configure the software platform and integrate application SW components. Verify the platform, including build environment and CI/CD pipelines. Lead Embedded Software (ESW) integration in a technical team. Integrate deliveries from multiple teams and secure quality before release. Contribute in early-phase development, defining technical roadmaps. Collaborate and influence across global sites. Mentor and coach team members, driving continuous learning. What we’re looking for: 8+ years of relevant embedded software integration experience. Strong AUTOSAR or similar integration expertise. Solid T-shaped profile — broad toolkit with deep technical mastery. Experience leading complex projects and developing team members. Skilled influencer, networker, and value creator beyond your immediate team.",
+        "url": "https://jobb.ecareer.se/jobs/6311314-software-engineer?promotion=1590472-arbetsformedlingen",
+        "published": "2025-08-15T17:30:45",
+        "deadline": "2026-02-01T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 90
+    },
+    {
         "id": "29905201",
         "title": "Software Engineer",
         "employer": "Evo Truck SDV AB",
@@ -405,21 +390,6 @@
         "relevance_score": 100
     },
     {
-        "id": "29874930",
-        "title": "Applied AI & Data Scientist",
-        "employer": "Alpha Leap AB",
-        "location": "Göteborg",
-        "description": "Role Overview\n We are seeking an Applied AI & Data Scientist to join our growing team. You will work across the full lifecycle of AI and data projects – from data analysis and modeling to implementation and evaluation – delivering solutions that create tangible business value. This role is perfect for someone who enjoys combining technical skills with problem-solving and thrives in a collaborative environment.\n\n\nKey Responsibilities\nDevelop and apply AI- and data-driven solutions for both client and internal projects.\n\n\nPerform advanced data analysis, build predictive models, and deploy AI applications.\n\n\nCollaborate cross-functionally with technology, product, and operations teams.\n\n\nEnsure solutions are impactful, scalable, and aligned with business goals.\n\n\nStay up-to-date with the latest developments in AI, data science, and related technologies.\n\n\n\nWhat We’re Looking For\nStrong background in AI, machine learning, and data science methodologies.\n\n\nProficiency in Python, relevant data science libraries, and cloud platforms.\n\n\nExperience with end-to-end project delivery, from concept to deployment.\n\n\nExcellent problem-solving skills and ability to work independently.\n\n\nStrong communication and collaboration skills.\n\n\n\nÖppen för alla\nVi fokuserar på din kompetens, inte dina övriga förutsättningar. Vi är öppna för att anpassa rollen eller arbetsplatsen efter dina behov.",
-        "url": null,
-        "published": "2025-08-04T11:53:40",
-        "deadline": "2025-08-15T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "29866181",
         "title": "Mjukvaruutvecklare – Utveckla framtidens avancerade system!",
         "employer": "Syntronic AB",
@@ -443,21 +413,6 @@
         "url": "https://enfrench-equans.icims.com/jobs/75022/embedded-developer/login",
         "published": "2025-07-28T10:26:00",
         "deadline": "2025-08-27T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
-        "id": "29840825",
-        "title": "Software Engineer ",
-        "employer": "Tata Technologies Nordics AB",
-        "location": "Göteborg",
-        "description": "At Tata Technologies we make product development dreams a reality by designing, engineering and validating the products of tomorrow for the world’s leading manufacturers. Due to our continued growth we are now recruiting for a Software Developer (Unity) to be based at our office in Gothenburg\n Responsibilities\nAUTOSAR Domain Knowledge (Classic or Adaptive)\nConfigure and integrate AUTOSAR Basic Software (BSW) modules using tools like DaVinci Developer/Configurator, EB Tresos, ETAS or Vector.\n\nScripting & Programming Automation\nDevelop and maintain automation scripts for continuous build, integration, and testing processes using Python, CAPL, Shell, or other relevant languages, Jenkinson, PyBuilder, SCons\n\nRelease Activities & Support\nManage software release cycles including versioning, documentation, and delivery by coordinating with cross-functional team\nPost release activities support in helping the issue fix\n\nSoftware Testing & Validation -> Unit and Functional Test\nDesign and execute unit, integration/functional tests\nUse tools like CANoe, CANalyzer, and VectorCAST for testing and validation.\nEnsure compliance with automotive standards such as ISO 26262 and ASPICE.\n\nFault Tracing & Debugging\nAnalyze and trace software faults using debugging tools and logs like T32 or INCA\nCollaborate with development team to get the issue fixed on time\n\n \nKnowledge/Experience\n5+ years of experience in automotive embedded software development.\nCAN or LIN or Flexray communication protocol knowledge\nStrong knowledge of AUTOSAR architecture and tools chains\nProficiency in C, Python, CAPL and embedded systems programming.\nExperience with software integration and configuration tools (e.g., DaVinci, EB Tresos, ETAS etc).\nHands-on experience with testing tools (CANoe, CANalyzer, etc.).\nHanda-on programming experience with Embedded C, C++\nKnowledge of version control systems (Git, SVN) and CI/CD pipelines.\nProblem-solving and debugging skills.\n\n \nIf you are passionate about bringing innovation to the projects you work on then we would love to hear from you.\n \nTata Technologies: Engineering a better world.\n \nTata Technologies would like to thank all applicants for their interest, each application will be reviewed against the set criteria for the role. We would like to advise that only candidates under consideration will be contacted. If you do not hear from us within 10 working days following the closing date it will mean that unfortunately your application has not been successful. We will however retain your details for any suitable future opportunities.",
-        "url": null,
-        "published": "2025-07-16T15:25:05",
-        "deadline": "2025-08-15T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
         "source": "JobTech",
@@ -540,21 +495,6 @@
         "relevance_score": 100
     },
     {
-        "id": "29690348",
-        "title": "AUTOSAR (Classic and Adaptive) Architect",
-        "employer": "VHR SOLUTIONS AB",
-        "location": "Göteborg",
-        "description": "1. AUTOSAR (Classic and Adaptive) architecture and concepts.\n2. Understanding of AUTOSAR development methodology and workflow.\n3. Knowledge of AUTOSAR configuration tools, such as DaVinci.\n4. Experience in classic AUTOSAR, preferably the Vector stack.\n5. Experience with AUTOSAR communication stacks (e.g., Ethernet, CAN, FlexRay).\n6. Understanding of AUTOSAR software components, including Basic Software (BSW) modules and Application Software (ASW).\n7. Familiarity with AUTOSAR development standards and guidelines.\n8. Proficiency in software development tools (e.g., Eclipse, Git, JIRA).\n9. Software development using C#\n10. Development of test cases using CANoe and C#.\n11. Automotive knowledge.\n12. Automotive embedded systems: strong understanding of in-vehicle ECU development\n13. Swedish Language (Swedish local Engineers preferred)",
-        "url": null,
-        "published": "2025-05-09T10:11:19",
-        "deadline": "2025-08-15T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "29662150",
         "title": "Senior Java Developer",
         "employer": "Etraveli Group AB",
@@ -600,14 +540,14 @@
         "relevance_score": 100
     },
     {
-        "id": "29841188",
-        "title": "Lead Software Developer",
-        "employer": "Hellsten Gears AB",
-        "location": "Kungsbacka",
-        "description": "Hellsten Gears AB is looking for a Lead Developer who will take technical ownership of our web-based systems – both internal and customer-facing. You will be hands-on in development while being responsible for the overall system architecture, code quality, security, and future development. This role works closely with the CEO and the operations team – but does not include personnel management.\nWe are looking for someone with many years of experience as a full stack developer. Our codebase ranges from modern frameworks to legacy systems over 20 years old. Broad experience with different types of technologies, architectures, and system environments is highly meriting.\nWe actively collaborate with developers and businesses in Thailand, so experience with Thai work culture or fluency in the Thai language is mandatory. English language and experience of European/Swedish work culture is also highly valued. \nYour responsibilities will include\n·       Maintaining and developing our custom web systems\n·       Acting as a technical advisor to the organization\n·       Ensuring a modern, secure, and scalable codebase\n·       Introducing new tools and frameworks when needed\n·       Making technical decisions and handling deployments\n\n\nOur current tech stack includes\n·       Ruby (Ruby on Rails)\n·       PHP5 (Laravel)\n·       Node.js (Vue.js, React.js, Express.js, Fastify)\n·       Elasticsearch\n·       MySQL\n·       Docker\n·       Git (GitHub)\n·       DigitalOcean\n·       Kubernetes\n·       Jenkins\n\n\nMeriting experience includes\n·       CI/CD pipelines\n·       Automated testing\n·       IT security\n·       UX/UI design\n·       Database relational design\n·       API integrations\n·       Legacy system architecture (monoliths, micro services in-house platforms)\n·       Experience with Thai work culture\n·       Fluency in the Thai language\n \nAbout you\nYou are a skilled full stack developer with at least 15 years of experience in web development and have ideally had technical ownership in one or more projects. You are comfortable working independently but also enjoy collaborating with non-technical colleagues. You are pragmatic, solution-oriented, and curious.\nYou must be able to communicate fluently in English and Thai, both written and spoken.\nAbout Hellsten Gears AB\nHellsten Gears AB is a Swedish company that develops, repairs, and sells gearboxes for vehicles and machines. We are a team of 20 people working with both private and commercial customers in Sweden and internationally. Our workshop is located in Fjärås, Halland County, near Gothenburg.\nWe are an innovative company combining traditional mechanical work with digital solutions. We build and maintain our own internal systems to streamline operations – from customer communication to logistics, spare parts management, and invoicing.\nTerms of employment\n·       Type of employment: Permanent (probationary period may apply)\n·       Scope: Full-time\n·       Working hours: Weekdays, office hours\n·       Location: Fjärås, Kungsbacka municipality, Sweden (onsite; partial remote possible)\n·       Start date: As agreed\n·       Salary: Monthly salary, individual agreement",
-        "url": "https://www.hellstengears.com/en/jobba-hos-oss",
-        "published": "2025-07-16T18:21:50",
-        "deadline": "2025-08-15T23:59:59",
+        "id": "29911800",
+        "title": "Data Engineer Insight",
+        "employer": "Nexer AB",
+        "location": "Göteborg",
+        "description": "Data Engineer\nDo you want to build the next datamodels för AI, ML and datawarehouse empowered solutions?\nNexer Insight, a Microsoft partner, invites you to embark on a journey as a Data Engineer where you'll be part of an extraordinary team, engage in exciting activities, work with fascinating clients, tackle varied and challenging tasks, and enjoy exceptional benefits. We are committed to leveraging cutting-edge technologies such as Databricks to drive innovation and excellence in everything we do.\nDo you want to be our next ”Data Ninja”?\nJoining Nexer Insight means becoming a vital part of a company that embodies entrepreneurship and innovation. Here, you'll have the chance to engage with cutting-edge technology from Microsoft, Databricks, and DBT Labs, as we proudly partner with them. We're committed to investing in our employees, empowering them to excel in their fields through professional growth and development opportunities. Collaboration is at the heart of our approach, as we value teamwork and foster a vibrant community spirit. Dive into the exciting intersection of data engineering and data science, where you'll have the chance to make a meaningful impact.\nKey Responsibilities:\n Develop and operate scalable and robust analytical models.\n Set up data platforms and build data models and pipelines.\n Innovate and collaborate with customers to learn and find new business opportunities.\n Become a champion in best practices regarding architecture, data quality, reliability, and performance.\n Be at the forefront of the latest data engineering technology.\n Leveraging Microsoft Azure services for data processing, transformation, and storage.\n You propel progress and ensure delivery by constructing top-tier cloud solutions, empowering our customers to adopt a data-driven approach.\n \nBased on our criteria för the role, we expect you to have:\n Hands-on project experience of working with cloud solutions (Azure, AWS or GCP)\n Experience working with ETL tools such as Azure Data Factory, Databricks, DBT, Snowflake\n Experience with Data Lakes or Lakehouse Architecture\n In-depth knowledge of SQL syntax\n Experience in information and dimensional modelling\n Good knowledge of DevOps processes with git version control and CI/CD methodology\n Speaks English and Swedish fluently\n \nMeritorious experience:\n Platform modernisation\n Tabular cubes and DAX\n Data Vault modelling\n Experience in setting up Azure, AWS or GCP Infrastructure",
+        "url": "https://nexergroup.teamtailor.com/jobs/3229885-data-engineer-insight?promotion=1590007-arbetsformedlingen",
+        "published": "2025-08-15T10:06:45",
+        "deadline": "2025-08-31T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
         "source": "JobTech",
@@ -640,21 +580,6 @@
         "deadline": "2025-08-17T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
-        "id": "29816907",
-        "title": "IT Security & Risk Officer",
-        "employer": "Volvo Business Services AB",
-        "location": "Göteborg",
-        "description": "Transport is at the core of modern society. Imagine using your expertise to shape sustainable transport and infrastructure solutions for the future? If you seek to make a difference on a global scale, working with next-gen technologies and the sharpest collaborative teams, then we could be a perfect match. \n\n\n\n\nWe are at a pivotal moment where digitalization is key to our future success, presenting an exciting opportunity to make a significant impact. \n \nIn an environment of change, with exciting new technologies and evolving customer needs, Group Trucks Technology (GTT) continues to invest in digitalization supporting our strategy, strengthen our core engineering functions, and prepare us for future goals. \n \nAs part of this strategic transformation, we are seeking a proactive and insightful IT Security & Risk Officer for GTT Digital Operations to help drive our digital ambitions securely and effectively.\n \nAbout us \n \nOur 100-person team across Gothenburg, Lyon, Greensboro, and Bangalore drives digital transformation for GTT, fostering collaboration, synergies, and effectiveness. We are responsible for managing the IT strategy, initiatives and budget, leading the alignment of strategy work including AI, data, and simulation. We foster innovation and performance, promoting an innovative culture while balancing technical, operational, and relational aspects of the business \n \nWhat will you do? \n \nAs IT Security and Risk Officer you will identify, assess, and mitigates information security risks within an organization. You play a crucial role in safeguarding an organization's information systems and data by establishing policies, monitoring compliance, and implementing risk management strategies. \nWho are you?\n \n \nCapability Building & Change Enablement \n \nLead the development and execution of enterprise security capability programs within GTT, ensuring the engagement and buy-in from senior management, aligning operations to security directives, policies and guidelines. \n\n \nFacilitate cross-functional forums (e.g., Security Workgroups with business representatives) to drive collaboration, knowledge-sharing and business-aligned requirements gathering to further strengthen and enable desired security behaviors. \n\n \nSupport operational teams with vulnerability management processes and tools \n\n \nAwareness & Culture Change \n \nDesign and deliver tailored awareness activities, supporting the strategic roadmap. Follow up on awareness KPI’s, such as phishing email results or training completion, and implement risk mitigation plans. \n\n \nTranslate technical content into business-relevant messaging to engage non-technical stakeholders and drive behavior change \n\n \nCross-functional collaboration & representation \n \nRepresent GTT in forums connected to vulnerability and security awareness collaborating with Information Security Officers and BISO’s from other TD/BA’s and geographical regions.\n\n \nData-driven communication & Insight development.\n\n \nCompile and interpret technical data to visualize security data, enhancing clarity and impact during executive and operational presentations. \n\nWho are you\nAs an enthusiastic security expert with a solid track record, you’re eager to advance your career while working with amazing people around the world. You excel in communication, and lead through networks, and you embody the Volvo Group Values with integrity and trust. You help foster a positive work environment based on meaningful work, diversity, supportive colleagues and management, and a growth mindset. \n \nTo succeed in this role, we believe you have: \n \n \nA degree in engineering, IT, or cybersecurity, or equivalent experience and several years of professional experience in Cyber Security, IT Security, or Information Security, preferably within Enterprise Information Security. \n\n \nUnderstanding and proven experience in Information Security best practices, process design, and implementation. \n\n \nCertifications in CISSP, CISM, CISA, CRISC, or similar are preferred \n\n \nExperience with relevant standards (e.g., ISO27001) and data protection regulations (e.g., GDPR) are a merit. \n\n \nLeadership experience and familiarity with the manufacturing industry is a plus. \n\n \nProficiency in English, both verbal and written. \n\nWhat's in it for you?\nWe offer a solid package of compensation and benefits, plus you will enjoy: \nworking global company taking the maximum advantage of the strength inherent to differences in knowledge, experience, age, gender, and nationality, among others \nWe offer a stimulating environment where you’ll work with committed colleagues, influence strategic decisions, and grow in your professional role. We encourage initiative, innovation, and continuous development—both professionally and personally. \n \nThe last date to submit your application is August 15th, 2025. \n \nWe’d love to hear from you and don’t hesitate to call us if you have any question! \n \nMagnus Nilsson, Director CDO Office via mail: magnus.a.nilsson@volvo.com \n \nKindly note that due to GDPR, we will not accept applications via mail. Please use our career site",
-        "url": "https://jobs.volvogroup.com/job-invite/22977/",
-        "published": "2025-07-07T13:13:25",
-        "deadline": "2025-08-15T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": true,
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 100

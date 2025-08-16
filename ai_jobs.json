@@ -1,20 +1,5 @@
 [
     {
-        "id": "29817659",
-        "title": "Senior Data Engineer – Göteborg",
-        "employer": "Ecareer AB",
-        "location": null,
-        "description": "Vill du vara med och bygga en dataplattform i teknikens framkant inom Life Science? Vi söker en erfaren Data Engineer som vill bidra med sin tekniska bredd och djupa kunskap inom databehandling, molnlösningar och storskalig pipelineutveckling.\nOm rollenDu blir en viktig del av ett tvärfunktionellt utvecklingsteam som arbetar med att konsolidera och vidareutveckla en plattform där flera produkter integreras i en enhetlig lösning. Fokus ligger på effektiv hantering och bearbetning av stora datamängder, med hjälp av moderna ramverk och en väl utbyggd cloud-miljö i AWS.\nDet här är en roll för dig som är trygg i din tekniska kompetens, van att arbeta i komplexa system och gillar att ta ett helhetsgrepp om dataflöden – från insamling till bearbetning och tillgängliggörande.\nI rollen kommer du bland annat att:Utveckla och optimera dataprocesser i Apache Spark\nSkriva robust och effektiv backendkod i Java (och till viss del Scala)\nHantera och modellera data i PostgreSQL och ElasticSearch\nJobba med batch- och schemalagda flöden i Apache Airflow\nBygga pipelines i molnmiljö (AWS) och automatisera dataleveranser\nSamarbeta med produktteam, utvecklare och data scientists\nVi söker dig som har:Minst 8 års erfarenhet som Data Engineer i komplexa miljöer\nDjup kunskap i Apache Spark och Java (krav)\nVana att arbeta i molnbaserad infrastruktur, gärna AWS\nErfarenhet av Python för scripting och datahantering\nGod förståelse för databaser (PostgreSQL), sökindex (ElasticSearch) och Unix-system\nErfarenhet av workflowhantering, t.ex. med Apache Airflow\nMeriterande erfarenheter:Bakgrund inom Life Science, medicinteknik eller andra datatunga branscher\nErfarenhet av skalbara plattformar och distribuerad databehandling\nCI/CD-kunskaper och erfarenhet av containerlösningar som Docker/Kubernetes\nÖvrig information:Placeringsort: Göteborg",
-        "url": "https://jobb.ecareer.se/jobs/6144176-senior-data-engineer-goteborg?promotion=1544597-arbetsformedlingen",
-        "published": "2025-07-07T16:21:37",
-        "deadline": "2025-08-15T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "AI",
-        "relevance_score": 100
-    },
-    {
         "id": "29795245",
         "title": "Machine Learning Engineer - Computer Vision",
         "employer": "Repli5 AB",
