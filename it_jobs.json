@@ -1,5 +1,20 @@
 [
     {
+        "id": "29931022",
+        "title": "Software Developer",
+        "employer": "Volvo Business Services AB",
+        "location": "Göteborg",
+        "description": "Transport is at the core of modern society. Imagine using your expertise to shape sustainable transport and infrastructure solutions for the future? If you seek to make a difference on a global scale, working with next-gen technologies and the sharpest collaborative teams, then we could be a perfect match. \n \nWho are we? \nVolvo Autonomous Solutions (VAS) is the business area within Volvo Group that accelerates the development, commercialization, and sales of autonomous solutions. The vision for Volvo Group is to be the most desired and successful transport and infrastructure solution provider in the world. We don’t sell trucks and machines: we operate the solutions through the full life cycle to maximize the improvements achievable through autonomy.\n \nThat goes hand in hand with our long-term ambitions: 100% Safe, 100% Fossil free and 100% more productive. The automation of our vehicles is seen as a natural step towards reaching that goal. Joining the Volvo Group means contributing to a large global company that is transforming itself towards these ambitions. We are committed to diversity and inclusion, fostering a team culture where differences are seen as a stepping-stone to better results.\n \nWe are now looking for innovative, committed individuals to join us in our endeavor to create customer solutions that enhance safety, flexibility and productivity.\n \nThe Vehicle Control and Motion Models team, part of the V.A.S. Technology organization, is responsible for developing core functionalities and providing simulation models for various applications, including autonomous customer solutions. Our work spans the entire product lifecycle—from early specification and development to maintenance and quality assurance during customer operations.\n \nWe collaborate closely with colleagues at Group Trucks Technology (GTT) and Volvo Construction Equipment (VCE) to ensure base vehicle and machine readiness. Once prepared, we develop and integrate onboard autonomous driving systems, ensuring that vehicles and machines operate safely and efficiently under autonomous control.\n \nThis is a view of the products that we work on: https://www.youtube.com/watch?v=T-TOCGC6Uuc \n \nPosition description \nImagine a future where trucks and machines are driving around without a physical operator in the cab. Normal operation is completely autonomous, and vehicles are stopping automatically for electrical charging. Everything is under surveillance from a central control tower, where operators can teleoperate vehicles based on video feedback when needed. This will change people’s daily work environment and eliminate dangerous work conditions. \nSounds fantastic, doesn’t it? You now have the chance to join our team and make this a reality!\n\n\nAs a Software Developer in the V.A.S. Technology Vehicle team, you will be responsible for developing core functionalities for both trucks and machines. In this role, you will collaborate closely with Volvo’s product companies, including GTT and VCE. You'll also have the opportunity to work hands-on with vehicles and machines. Most of our development is done using C programming.\n\n\nYou can look forward to an inspiring journey alongside enthusiastic and skilled colleagues across the Volvo Group organization. If you enjoy working with new technology and strive to continuously improve ways of working, you’ll feel right at home. We also value a strong team spirit and look forward to your contribution in fostering a positive and collaborative environment.\n\n\nQualifications\nYou will have the opportunity to work with different cultures cross functionally, with internal as well as external stakeholders and therefore we see that you have good interpersonal and communication skills. Being fluent in English, spoken and written, is also important to succeed in this position. Other requirements that we also see as beneficiary but not limited to for the role are:\n \nExperience in embedded Software development\nExperience from setting up test strategies and automate test as part of release process for embedded software system\nExperience from Interface communication such as CAN, Ethernet, DDS, UDS\nExperience within the automotive industry\n\n \nWhat's in it for you?\nAt Volvo Autonomous Solutions, you'll be part of a pioneering team shaping the future of autonomous transport. You’ll work with cutting-edge technology, collaborate with industry experts, and have hands-on opportunities to develop innovative solutions. We offer a dynamic and inclusive work environment, continuous learning, and the chance to make a real impact in transforming mobility. Join us and drive the future of autonomy!",
+        "url": null,
+        "published": "2025-08-20T16:31:55",
+        "deadline": "2025-09-03T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
         "id": "29909554",
         "title": "Associate Principal AI Data Scientist",
         "employer": "Astrazeneca AB",
@@ -25,21 +40,6 @@
         "deadline": "2025-08-23T23:59:59",
         "is_consultant": false,
         "is_meaningful": true,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
-        "id": "29891558",
-        "title": "Software Developer",
-        "employer": "Ericsson AB",
-        "location": "Göteborg",
-        "description": "Ericsson AB\r\n\r\nJoin our Team\n\nAbout the Opportunity:\nHere at Ericsson we are on a mission to develop 5G and beyond - creating telecom solutions that empower billions of people worldwide. We are not just imagining the future, we are building it! Our team consists of highly dedicated, self-motivated engineers who thrive in an environment of collaboration and creativity. Located in our lively office at Lindholmen in Gothenburg, we blend technical expertise with a dedication to improving the world.\n\nWhat You Will Do:\n\n\nWe are currently looking for a Software Developer to join our cross-functional team and contribute to make our world-class telecom products even better. This is your chance to work on something meaningful and be part of a high-impact, fast-paced, and innovative department. In this role you will need to have a passion for feature development taking ownership from initial study through implementation, testing, and delivery. In collaboration with the team, you will challenge the status quo, and dive into advanced software engineering challenges, aiming to set new world records in mobile packet switching.\n\nWhat You Bring:\n\n  *  Education: BSc or MSc in Computer Science (or equivalent experience).\n  *  1-3 years of experience from C programming for product development.\n  *  Experience from working with Packet Core and IP protocols or with relevant Ericsson products and other telecom technologies related to our solutions.\n  *  A passion for software development, solving challenging problems and digging into complex issues and finding innovative solutions.\nProficiency in English.\n\n\nMeritorious qualifications that we will be looking for:\n  *  Familiarity with using Golang for function testing, and Java and Python for system testing.\n  *  Experience from Linux-based development environment, Jenkins.\n  *  Experience from cloud & containers: Docker, Kubernetes, GCP, Amazon EKS, OpenStack, VMware.\nNetworking: L2/L3 protocols, VPN, 3GPP standards, TCP, UDP, L2TP, TLS.\n\n\nWhy Join Us?\n\n\n  *  Challenge Yourself: Work on complex, high-performance systems that push your knowledge to the limit through continuous learning.\n  *  Make a Global Impact: Your work will influence millions of users and create new possibilities for how people live and work.\n  *  Working in a transformation unit: We are in the forefront of change, collaborating with brilliant minds and engaging in impactful projects.\n  *  Be Part of a Visionary Team: Collaborate with some of the best software developers in Sweden on projects that make a real difference, setting industry standards for network speed and low latency.",
-        "url": "https://ericsson-ab.contactrh.com/jobs/9669/43578762",
-        "published": "2025-08-08T17:25:08",
-        "deadline": "2025-08-20T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 100
@@ -400,21 +400,6 @@
         "deadline": "2025-12-27T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
-        "id": "29794481",
-        "title": ".Net-utvecklare till AFRY Göteborg",
-        "employer": "AFRY AB",
-        "location": "Göteborg",
-        "description": "Företagsbeskrivning\nAFRY är ett ledande europeiskt företag med global räckvidd inom teknik, design och rådgivning. \n\nVi är hängivna experter inom digitalisering, infrastruktur, industri och energi som skapar hållbara lösningar för kommande generationer. Tillsammans accelererar vi omställningen mot ett hållbart samhälle.\n\n\nJobbeskrivning\nVill du arbeta med andra duktiga kollegor som är lika tekniskt intresserade som du? Hos AFRY får du möjlighet att arbeta på ett företag som sätter sina anställda först och som alltid strävar efter att ligga i framkant när det kommer till teknisk innovation med hållbarhet i fokus.\nVi söker dig som har minst 5 års erfarenhet av mjukvaruutveckling och som vill arbeta med mjukvara för uppkopplade enheter exempelvis inom fordonsindustrin.\nDu gillar att arbeta enligt agila principer i ett skickligt och engagerat scrumteam som täcker alla aspekter av produkterna: design, implementering och testlösning. Vi kommunicerar direkt med intressenter för att hitta gemensamma och återanvändbara lösningar som säkrar kundernas framgång.\nVem är du?\nDu är en lagspelare; för oss är det viktigaste teamets leverans och våra anställda. Vi stöttar varandra för att komma fram till bästa lösningen för de utmaningar vi som team ställs infor. Du är riktigt duktig på C#, men ännu viktigare är att du är en person som gillar att få saker gjorda och tillhandahålla lösningar från design till support och acceptanstestning.\nFörutom programmering i C# är erfarenhet av kommunikationsprotokoll (design/implementering) meriterande. Du kommer definitivt att kunna välja din personliga målgrupp, men vår grundidé är att alla ska kunna göra allt, i enlighet med ett självorganiserande scrum-team.\n\n\nKvalifikationer\nUtmärkta kunskaper inom mjukvaruutveckling i C# och .NET Core (minst 5 år)\nMS Visual Studio, GIT\nErfarenhet av att arbeta med MAUI/Xamrin/iOS/Android-utveckling\nErfarenhet av att arbeta med DevOps, multitrådad programmering\nErfarenhet av SCRUM/Agila-metoder\n\nYtterligare färdigheter ses som meriterande:\nErfarenhet av diagnostiska kommunikationsprotokoll, till exempel ISO14229, SAEJ1587\nErfarenhet av .NET-applikationer med moln (Azure/AWS)\n\n\n\nYtterligare information\nOmfattning: Heltid\n\nStart: Enligt överenskommelse\n\nVi tar emot ansökningar löpande.\nVälkommen med din ansökan, sista ansökningsdag är 2025-08-18. \n\nVi ber om överseende, på grund av semestertider så kan återkoppling dröja något.\n\n\n\nKontaktuppgifter vid frågor:\n\n\n\nRekryterande chef\n\nLars Jakobsson – lars.jakobsson@afry.com\n\n \n\nVi ber er respektera att vi inte tar emot ansökningar via mail. \n\nPå AFRY driver vi förändring i allt vi gör. Vi anser att förändring sker när modiga idéer möts, när vi samarbetar, skapar innovation och omfamnar kreativa lösningar, det är så vi skapar framtiden. Vi söker konstant kvalificerade kandidater som vill ansluta sig till våra inkluderande  team runt om i världen. Bli en del av oss och påskynda den gröna omställningen",
-        "url": "https://jobs.smartrecruiters.com/AFRY/744000067195474--net-utvecklare-till-afry-goteborg?oga=true&trid=4de896fd-3759-406c-8d07-8a7da8844ce0",
-        "published": "2025-06-26T11:22:07",
-        "deadline": "2025-08-20T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": true,
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 100
