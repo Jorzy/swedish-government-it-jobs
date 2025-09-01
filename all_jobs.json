@@ -90,21 +90,6 @@
         "relevance_score": 100
     },
     {
-        "id": "29795902",
-        "title": "Game Engineer (AI Team)",
-        "employer": "Mindark Pe AB (Publ)",
-        "location": "Göteborg",
-        "description": "Join Our AI Team as a Game Engineer for Entropia Universe! Are you passionate about integrating advanced AI technologies into immersive gaming experiences? Are you interested in building the next generation of MMORPG games?\nMindark is seeking a Game Engineer to join our team in revolutionizing the virtual universe of Entropia. As a leading developer in the gaming industry, we are committed to pushing boundaries and delivering cutting-edge experiences to our dedicated community of players.\nAbout Us:\nMindark is the pioneering force behind Entropia Universe, a dynamic and evolving virtual world where players engage in a vast array of activities, from commerce to exploration and beyond. With a strong emphasis on player-driven economies and real cash economy integration, we're at the forefront of shaping the future of MMORPG games. We value diversity and strive to create an inclusive workplace where everyone's contributions are recognized and appreciated.\nRole Overview: \nAs a Game Engineer, you'll play a pivotal role in developing and enhancing game features to take Entropia Universe to the next level. Your responsibilities will include designing, implementing, and optimizing game systems. A key aspect of this role is working extensively with new AI technologies inside our dedicated AI Team. This includes Transformer tech, large language models, and agentic frameworks, as well as current gamesystems. Your interest and expertise in these cutting-edge AI technologies and games will be crucial as you collaborate closely with multidisciplinary teams, to deliver high-quality features and advancements.\n\n\nResponsibilities: \nWork extensively with advanced AI technologies, such as Transformers and agentic frameworks, to innovate and improve current and new AI features in the game.\nDevelop and integrate current and new game systems to support and enhance gameplay features and functionalities.\nParticipate in code reviews and contribute to maintaining high coding standards.\nCollaborate with cross-functional teams to integrate new game mechanics and features.\nImplement security protocols and measures to safeguard game-related data.\nTroubleshoot and resolve technical issues related to game systems.\nBe flexible and open to work with all parts of the technical ecosystem.\n\n\n\nWhat we value:\nBachelor’s degree in Computer Science, Game Development, or a related field.\nA few years of experience within the field. \nCreative thinker with a passion for games and a drive to innovate within the gaming space.\nProficiency in C++.\nProficiency in Python is a strong plus. \nStrong interest or knowledge in Transformer tech, large language models, and agentic frameworks.\nKnowledge of game development principles and methodologies.\nProblem-solving and communication skills.\nBeing flexible and able to work with a larger technical ecosystem.\n\n\n\nWhy Join Mindark: \nWork on a massively multiplayer online role-playing game with active players from around the globe.\nCollaborate with a talented and diverse team of gaming enthusiasts.\nCompetitive compensation package with opportunities for growth and development.\nA dynamic work environment that fosters creativity and innovation.\nAn inclusive work culture that values diversity and innovation.\nBeing able to work with cutting edge technologies that have not even hit the MMORPG games field yet.\nIf you're passionate about pushing the boundaries of gaming and AI technologies and want to be part of a team shaping the future of virtual worlds, we'd love to hear from you! Join us on our quest to create unforgettable experiences within the Entropia Universe.\nLocation: We would like you to be able to come into the office two days a week to Mindark Headquarters in Gothenburg, Sweden.",
-        "url": "https://career.mindark.com/?_gl=1*16vi2so*_ga*Nzk2ODkxMjAwLjE3NDQzMDA4NzE.*_ga_7CLV8P4CHW*czE3NTA5NDY5NDkkbzEwJGcwJHQxNzUwOTQ2OTQ5JGo2MCRsMCRoMA..",
-        "published": "2025-06-26T16:17:35",
-        "deadline": "2025-08-31T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "29787419",
         "title": "Product, System & PLM Engineer",
         "employer": "Capgemini Engineering Sverige AB",
@@ -625,21 +610,6 @@
         "deadline": "2025-09-26T23:59:59",
         "is_consultant": false,
         "is_meaningful": true,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
-        "id": "29911800",
-        "title": "Data Engineer Insight",
-        "employer": "Nexer AB",
-        "location": "Göteborg",
-        "description": "Data Engineer\nDo you want to build the next datamodels för AI, ML and datawarehouse empowered solutions?\nNexer Insight, a Microsoft partner, invites you to embark on a journey as a Data Engineer where you'll be part of an extraordinary team, engage in exciting activities, work with fascinating clients, tackle varied and challenging tasks, and enjoy exceptional benefits. We are committed to leveraging cutting-edge technologies such as Databricks to drive innovation and excellence in everything we do.\nDo you want to be our next ”Data Ninja”?\nJoining Nexer Insight means becoming a vital part of a company that embodies entrepreneurship and innovation. Here, you'll have the chance to engage with cutting-edge technology from Microsoft, Databricks, and DBT Labs, as we proudly partner with them. We're committed to investing in our employees, empowering them to excel in their fields through professional growth and development opportunities. Collaboration is at the heart of our approach, as we value teamwork and foster a vibrant community spirit. Dive into the exciting intersection of data engineering and data science, where you'll have the chance to make a meaningful impact.\nKey Responsibilities:\n Develop and operate scalable and robust analytical models.\n Set up data platforms and build data models and pipelines.\n Innovate and collaborate with customers to learn and find new business opportunities.\n Become a champion in best practices regarding architecture, data quality, reliability, and performance.\n Be at the forefront of the latest data engineering technology.\n Leveraging Microsoft Azure services for data processing, transformation, and storage.\n You propel progress and ensure delivery by constructing top-tier cloud solutions, empowering our customers to adopt a data-driven approach.\n \nBased on our criteria för the role, we expect you to have:\n Hands-on project experience of working with cloud solutions (Azure, AWS or GCP)\n Experience working with ETL tools such as Azure Data Factory, Databricks, DBT, Snowflake\n Experience with Data Lakes or Lakehouse Architecture\n In-depth knowledge of SQL syntax\n Experience in information and dimensional modelling\n Good knowledge of DevOps processes with git version control and CI/CD methodology\n Speaks English and Swedish fluently\n \nMeritorious experience:\n Platform modernisation\n Tabular cubes and DAX\n Data Vault modelling\n Experience in setting up Azure, AWS or GCP Infrastructure",
-        "url": "https://nexergroup.teamtailor.com/jobs/3229885-data-engineer-insight?promotion=1590007-arbetsformedlingen",
-        "published": "2025-08-15T10:06:45",
-        "deadline": "2025-08-31T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 100
