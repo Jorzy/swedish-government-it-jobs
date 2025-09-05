@@ -1,5 +1,20 @@
 [
     {
+        "id": "29988634",
+        "title": "Systemutvecklare",
+        "employer": "Zcelero AB",
+        "location": "Göteborg",
+        "description": "Din profil och kvalifikationer\n \nDu är en passionerad mjukvaruutvecklare som strävar efter kontinuerlig professionell utveckling, omfamnar innovation och ständig förbättring. Att dela din kunskap med dina erfarna kollegor är en central del av Zceleros arbetskultur. Som mjukvaruutvecklare i vårt team kommer du att använda de senaste teknikerna för att skapa innovativa lösningar och tjänster som gynnar våra kunder.\n \n \nC#/.NET \n \nI den här tjänsten behöver du ha:  \n·      Universitetsexamen inom software engineering, computer science eller liknande\n·      Minst 6 års erfarenhet\n·      Flytande svenska samt engelska både i tal och skrift\n·      C#/.NET\n·      TDD (Test Driven Development) eller BDD (Behavior Driven Development)\n·      Microsoft Azure eller Amazon Web Services (AWS)\n·      Erfarenhet av Azure DevOps och Azure Pipelines eller liknande\n·      Best practices som SOLID och Clean Code\n JAVA \n \nI den här tjänsten behöver du ha:  \n·      Universitetsexamen inom software engineering, computer science eller liknande\n·      Minst 4 års erfarenhet\n·      Flytande svenska samt engelska både i tal och skrift\n·      Java (senaste version)\n·      Spring och Spring Boot\n·      Docker och Kubernetes\n·      TDD (Test Driven Development) eller BDD (Behavior Driven Development)\n·      Amazon Web Services (AWS) eller Microsoft Azure\n·      Best practices som SOLID och Clean Code\n \nMeriterande om du har erfarenhet av\n·      Kafka, PostgreSQL, DynamoDB, Elastic search, Microservices arkitektur på AWS\n·      DevOps, Cloud Ops, CI/CD pipeline\n·      Container technologies (Docker, Cloud Formation, TerraForm, osv)",
+        "url": null,
+        "published": "2025-09-04T13:27:25",
+        "deadline": "2026-01-31T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
         "id": "29984060",
         "title": "Linux och Cloud Native entusiast",
         "employer": "Combitech AB",
@@ -188,6 +203,21 @@
         "url": "https://career.fellowmind.se/jobs/5927477-lead-developer-dynamics-365-customer-engagement?promotion=1468872-arbetsformedlingen",
         "published": "2025-05-14T09:30:15",
         "deadline": "2025-10-31T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
+        "id": "29988496",
+        "title": "Software Developer",
+        "employer": "SPEEDY TYRES SWEDEN AB",
+        "location": "Göteborg",
+        "description": "The role involves setting up and maintaining workshop computers, networks, and servers\nCreate/review & maintain item definition, hazard analysis and risk assessment\nDevelop/review Functional Safety concept & Technical safety concept\nAnalyse and define Safety requirements (Functional Safety requirements and Technical safety requirements)\nSupport Functional Safety audits and assessments\nImplementing data backup and cybersecurity measures, gathering requirements from various customers, and defining software process frameworks in alignment with industry standards.\nSystem Safety deliverables for different vehicle variants.\nDevelopment of ASIL D requirements according to ISO26262.",
+        "url": null,
+        "published": "2025-09-04T13:31:00",
+        "deadline": "2025-12-17T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
         "source": "JobTech",
@@ -598,6 +628,21 @@
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 100
+    },
+    {
+        "id": "29987849",
+        "title": "IT-specialist- Biljettsystem",
+        "employer": "TechServices IT Modica AB",
+        "location": null,
+        "description": "Techservices IT söker nu en erfaren specialist inom biljettsystem för ett spännande uppdrag i Göteborgsregionen. Vi erbjuder en arbetsplats där du får utvecklas i rollen samtidigt som du bidrar till att stärka kollektivtrafiken i Västsverige genom innovativa och säkra lösningar.\nArbetsuppgifter:\nKoordinera planering och genomförande av beställningar för förändringar i biljettsystemet Vix.\nDelta i planering och utförande av tester för Vix-systemet, resekort och kontaktlösa betalningar (cEMV).\nTillsammans med testansvarig driva strategiska frågor kopplade till test och kvalitetssäkring.\nUtforma testfall baserat på krav och ta fram relevanta testdata.\nMedverka i koordinering kring beställningar och leveranser av systemförändringar.\nStödja felsökning i samarbete med leverantör vid incidenter.\nDelta i utbildnings- och uppföljningsaktiviteter kopplat till biljettsystem och regelsystem, exempelvis PCI-DSS.\n\nKrav:\nMinst 5 års erfarenhet av arbete med biljettsystem, både front-office och back-office i card-centric system (Mifare classic).\nMinst 5 års erfarenhet av acceptanstestning och end-to-end-testning för card-centric system.\nDjupgående kunskaper om Vix-biljettsystem.\nGod kunskap inom cEMV i kollektivtrafik (MTT och Pay-As-You-Go).\nMycket goda kunskaper i kravinsamling och test.\nGoda erfarenheter av försäljningsautomater (TVM).\nErfarenhet av testning av kassakopplade betalkortsterminaler till biljettsystem.\nFörmåga att snabbt sätta sig in i komplexa systemlösningar.\nKunskap om PCI-DSS för “card present”-system.\nMycket goda kunskaper i engelska, både skriftligt och muntligt.\nTillgänglighet att arbeta på plats i Göteborg vid behov.\n\nMeriterande:\nErfarenhet av verktygen Jira och Reqtest.\nTidigare arbete med id-baserade biljettsystem.\n\n\n\nDetta uppdrag är deltid (0–50% per månad) och sträcker sig från oktober 2025 till oktober 2027.\nFör att bli aktuell är det viktigt att du tydligt visar i ditt CV hur du uppfyller kraven och gärna kompletterar med referenser.",
+        "url": null,
+        "published": "2025-09-04T11:53:40",
+        "deadline": "2025-09-09T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": true,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 90
     },
     {
         "id": "29961652",
