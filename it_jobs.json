@@ -1,5 +1,20 @@
 [
     {
+        "id": "30005234",
+        "title": "Software Developer - Mobile Networks",
+        "employer": "Ericsson AB",
+        "location": "Göteborg",
+        "description": "Ericsson AB\r\n\r\nJoin our Team\n\n\nAbout this Opportunity:\nWe are looking for 6 curious and creative Software Developers (both recent graduates and candidates with a few years experience are welcome) to join our team and help build a product that millions of people use every day for one of our most profound needs as human beings – communication. You will play an important part in our team of brilliant software developers, implementing new features, improving performance, and building elegant solutions for our customers.\nWe work with radio base stations, at the core of mobile communication, enablers of emerging technologies, such as 5G and IoT. Our products are involved in anything from streaming video, listening to music while on the move, to old-school voice communication like calling grandma.\n\nWhat you will do:\n  *  Develop functionality in a complex system, enabling every day communication for millions of people around the globe.\n  *  Collaborate closely with other developers.\n  *  Write clear, maintainable code that will scale across several projects and distributed development teams that is released on many hardware platforms.\n  *  Become a valued member of an autonomous, cross-functional team.\n  *  Work from our awesome office in Gothenburg at the river waterfront.\n\n\nDesign: Participate in and lead the design of software solutions, ensuring architecture meets both current and future needs.\n\n\nRequirements Analysis: Analyze and interpret requirements to ensure that software solutions are aligned with business objectives.\n\n\nDevelopment: Develop robust, efficient, and scalable software for embedded systems.\n\n\nTesting: Create and implement comprehensive test plans to ensure software reliability and performance.\n\n\nCI/CD: Implement and manage continuous integration and continuous deployment pipelines to streamline development and deployment processes.\n\n\nTroubleshooting: Diagnose, debug, and resolve complex software issues in both development and production environments.\n\n\nDocumentation: Produce clear, concise documentation that supports development, maintenance, and user understanding of the software.\n\nSkills you bring:\nYou are a newly graduated developer (or have a few years of experience) with a passion for technology and software development. You are curious about new technologies and thrive in a fast-paced agile environment, and understand what it means to ship high-quality code and are committed to excellence in software delivery. If you're passionate about contributing to all aspects of software development from conception to delivery, we want to hear from you.\n\n\nKey qualifications:\n  *  You have a Bachelor´s or Master´s degree (e.g in Electrical Engineering, Data Communication, Computer Science and Engineering, Software Engineering of Distributed Systems, Engineering Physics) or equivalent formal education.\n  *  Some experience in embedded software development.\n  *  Proficiency in C++ and Java: Capable of writing readable, maintainable code while adhering to established coding guidelines and workflows.\n  *  Quality Focus: You understand what it means to ship high-quality code and are committed to excellence in software delivery.\n\n\nAdditional skills:\n  *  Understanding of system architecture and embedded systems principles.\n  *  Experience with version control systems like Git.\n  *  Familiarity with agile methodologies, including Scrum or Kanban.\n  *  Ability to work collaboratively in a team environment, valuing team success over personal achievements.",
+        "url": "https://ericsson-ab.contactrh.com/jobs/9669/43639465",
+        "published": "2025-09-09T10:25:06",
+        "deadline": "2025-09-19T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
         "id": "29988634",
         "title": "Systemutvecklare",
         "employer": "Zcelero AB",
@@ -255,21 +270,6 @@
         "relevance_score": 100
     },
     {
-        "id": "29962546",
-        "title": "Sr Audio Developer Automotive",
-        "employer": "GlobalLogic Sweden AB",
-        "location": "Göteborg",
-        "description": "Job Description\nExtensive experience in C/C++ development for embedded systems Linux/QNX environment.\nExperience with software design methodologies and latest software quality standards.\nFamiliarity with microcontrollers, System-on-a-Chip.\nHands-on experience with Android, Linux • Experience from Qualcomm, QNX\nAndroid Automotive/AOSP, Audio HAL Layer\nProficiency in Object Oriented Programming and Design principles.\nExperience in Automotive Android OS based Infotainment Audio domain.\nKnowledge of Android OS, AOSP, Android compatibility xTS (CTS, VTS, ATS)\nGood understanding and debugging skills of Android startup and initialization sequences.\nGood Team player and should follow agile development methodologies and ASPICE practices as part of SW development life cycle.\nGood to have:\nExperience in working with Qualcomm Audio Reach Framework\nKnowledge of MOST BUS\nExperience in Automotive Audio\nExpiriance in DSP\nJob Responsibilities\nYou will be part of a team that work with audio SW component, test cases and CI environment.\nThe team will be responsible for quality assurance in Audio area during yearly Android version update.\nMaintenance of the Audi component and test cases in Audio area for the platform including Google xTS test.\n\n\nKernel programming\nBoard bring-up\nLinux device tree configuration, Linux device drivers development\nAndroid HAL development\nVirtualization experience, virtio-based device drivers development, hypervisor integration\nC/C++ language programming\nTake part in the system requirements and customer requests analysis\nCooperate with other teams to follow up product development and integration with other solutions\nKnowledge of Agile methodology for software / product development.\nStrong verbal and written communication skills; ability to produce high-quality documentation.\nSkill Category\nC++\nKeyskills - Must Have\nC C++-Linux Android (AOSP)\n\n\n\nAdditional Skills\nAudio HAL Layer, ALSA Drivers, CTS/VTS/ATS Testing, Qualcomm Audio Reach Framework",
-        "url": null,
-        "published": "2025-08-28T16:37:25",
-        "deadline": "2025-09-09T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "29954294",
         "title": "Software Developer / Mjukvaruutvecklare C++",
         "employer": "Syntronic AB",
@@ -418,6 +418,21 @@
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 100
+    },
+    {
+        "id": "30008479",
+        "title": "Experienced Systems Engineer ",
+        "employer": "SAAB AB",
+        "location": "Göteborg",
+        "description": "Want to influence the bigger picture? At Saab, you can realise amazing innovations that keep people and societies safe. Together, we can truly make an impact - and your part matters.\n\n Your role\n\nYou will be a crucial part of the Saab G1X system engineering team which is highly associated with a cross functional collaboration between customers, product managers, project managers, development and verification engineers. In this role, Systems Engineering is the foundation of everything you do. You will take ownership of system-level work from requirements through to delivery - with a strong focus on interpreting customer needs, ensuring alignment with our base product, and coordinating across disciplines such as integration, structure, and architecture rather than detailed component design.\n\n \n\nA key part of the role is to break down and interpret customer project requirements and apply them to our existing technical base product. This means translating customer-specific needs into structured system requirements, ensuring they align with our platform architecture and technical capabilities - while maintaining traceability and supporting reuse across projects.\n\n \n\nYour profile\n\n * Solid experience in Systems Engineering, preferably using the V-model, and a strong educational background in engineering.\n * Broad system understanding - you think in terms of structure, interfaces, and complete solutions rather than subsystems or individual components.\n * Proven ability to work requirements-driven: trace, break down, author, and manage requirements - translating customer project needs into system-level requirements aligned with our platform and product standards.\n * Experience in process-oriented development and coordination of roles such as Integration and Verification lead and other sub system leads.\n * A holistic mindset, with the ability to balance customer, user, and environmental perspectives.\n * Excellent communication skills, including technical writing in both Swedish and English.\n * Comfort working in an international technical environment - you navigate cross-cultural collaboration with ease.\n * Strong business understanding and leadership skills - you take ownership, drive initiatives, and lead task forces when needed.\n * A genuine interest in learning new things - and sharing your knowledge to support others.\n * Willingness to travel when required.\n \n\nThis position requires that you pass a security vetting based on the current regulations around/of security protection. For positions requiring security clearance additional obligations on citizenship may apply. The role is based in Mölnlycke.\n \n\nWhat you will be part of\n\nExplore a wealth of possibilities. Take on challenges, create smart inventions, and grow beyond. This is a place for curious minds, brave pioneers, and everyone in between. Together, we achieve the extraordinary, each bringing our unique perspectives. Your part matters.\n \n\nSaab is a leading defence and security company with an enduring mission, to help nations keep their people and society safe. Empowered by its 26,000 talented people, Saab constantly pushes the boundaries of technology to create a safer and more sustainable world.\n\n \n\nSaab designs, manufactures and maintains advanced systems in aeronautics, weapons, command and control, sensors and underwater systems. Saab is headquartered in Sweden. It has major operations all over the world and is part of the domestic defence capability of several nations. Read more about us here",
+        "url": "https://www.aplitrak.com/?adid=YS5vYmVyZy45NDEwNS4zMTAxQHNhYWIuYXBsaXRyYWsuY29t",
+        "published": "2025-09-09T15:57:35",
+        "deadline": "2025-09-23T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 90
     },
     {
         "id": "29995984",
@@ -658,21 +673,6 @@
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 100
-    },
-    {
-        "id": "29987849",
-        "title": "IT-specialist- Biljettsystem",
-        "employer": "TechServices IT Modica AB",
-        "location": null,
-        "description": "Techservices IT söker nu en erfaren specialist inom biljettsystem för ett spännande uppdrag i Göteborgsregionen. Vi erbjuder en arbetsplats där du får utvecklas i rollen samtidigt som du bidrar till att stärka kollektivtrafiken i Västsverige genom innovativa och säkra lösningar.\nArbetsuppgifter:\nKoordinera planering och genomförande av beställningar för förändringar i biljettsystemet Vix.\nDelta i planering och utförande av tester för Vix-systemet, resekort och kontaktlösa betalningar (cEMV).\nTillsammans med testansvarig driva strategiska frågor kopplade till test och kvalitetssäkring.\nUtforma testfall baserat på krav och ta fram relevanta testdata.\nMedverka i koordinering kring beställningar och leveranser av systemförändringar.\nStödja felsökning i samarbete med leverantör vid incidenter.\nDelta i utbildnings- och uppföljningsaktiviteter kopplat till biljettsystem och regelsystem, exempelvis PCI-DSS.\n\nKrav:\nMinst 5 års erfarenhet av arbete med biljettsystem, både front-office och back-office i card-centric system (Mifare classic).\nMinst 5 års erfarenhet av acceptanstestning och end-to-end-testning för card-centric system.\nDjupgående kunskaper om Vix-biljettsystem.\nGod kunskap inom cEMV i kollektivtrafik (MTT och Pay-As-You-Go).\nMycket goda kunskaper i kravinsamling och test.\nGoda erfarenheter av försäljningsautomater (TVM).\nErfarenhet av testning av kassakopplade betalkortsterminaler till biljettsystem.\nFörmåga att snabbt sätta sig in i komplexa systemlösningar.\nKunskap om PCI-DSS för “card present”-system.\nMycket goda kunskaper i engelska, både skriftligt och muntligt.\nTillgänglighet att arbeta på plats i Göteborg vid behov.\n\nMeriterande:\nErfarenhet av verktygen Jira och Reqtest.\nTidigare arbete med id-baserade biljettsystem.\n\n\n\nDetta uppdrag är deltid (0–50% per månad) och sträcker sig från oktober 2025 till oktober 2027.\nFör att bli aktuell är det viktigt att du tydligt visar i ditt CV hur du uppfyller kraven och gärna kompletterar med referenser.",
-        "url": null,
-        "published": "2025-09-04T11:53:40",
-        "deadline": "2025-09-09T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": true,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 90
     },
     {
         "id": "29998687",
