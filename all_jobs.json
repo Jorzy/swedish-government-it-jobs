@@ -285,21 +285,6 @@
         "relevance_score": 100
     },
     {
-        "id": "29996401",
-        "title": "Audio Developer Automotive IRC275404",
-        "employer": "GlobalLogic Sweden AB",
-        "location": "Göteborg",
-        "description": "Client is working with impresive infotainment system, powered by Android Automotive, is certainly one best infotainment systems on the market. While we developed our infotainment system together with Google, we want to spread the joy to others as well.\nRequirements\nExtensive experience in C/C++ development for embedded systems Linux/QNX environment.\nExperience with software design methodologies and latest software quality standards.\nFamiliarity with microcontrollers, System-on-a-Chip.\nHands-on experience with Android, Linux • Experience from Qualcomm, QNX\nAndroid Automotive/AOSP, Audio HAL Layer\nProficiency in Object Oriented Programming and Design principles.\nExperience in Automotive Android OS based Infotainment Audio domain.\nKnowledge of Android OS, AOSP, Android compatibility xTS (CTS, VTS, ATS)\nGood understanding and debugging skills of Android startup and initialization sequences.\nGood Team player and should follow agile development methodologies and ASPICE practices as part of SW development life cycle.\n\nGood to have:\nExperience in working with Qualcomm Audio Reach Framework\nKnowledge of MOST BUS\nExperience in Automotive Audio\nExpiriance in DSP\n\nJob responsibilities\nYou will be part of a team that work with audio SW component, test cases and CI environment.\nThe team will be responsible for quality assurance in Audio area during yearly Android version update.\nMaintenance of the Audi component and test cases in Audio area for the platform including Google xTS test.\nKernel programming\nBoard bring-up\nLinux device tree configuration, Linux device drivers development\nAndroid HAL development\nVirtualization experience, virtio-based device drivers development, hypervisor integration\nC/C++ language programming\nTake part in the system requirements and customer requests analysis\nCooperate with other teams to follow up product development and integration with other solutions\nKnowledge of Agile methodology for software / product development.\nStrong verbal and written communication skills; ability to produce high-quality documentation.",
-        "url": "https://www.globallogic.com/se/careers/audio-developer-automotive-irc275404/",
-        "published": "2025-09-05T16:10:50",
-        "deadline": "2025-09-17T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "29988496",
         "title": "Software Developer",
         "employer": "SPEEDY TYRES SWEDEN AB",
@@ -445,6 +430,36 @@
         "deadline": "2025-09-25T23:59:59",
         "is_consultant": false,
         "is_meaningful": true,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
+        "id": "30040995",
+        "title": "Software Engineer with CAD experience",
+        "employer": "Smart Eye AB (publ)",
+        "location": "Göteborg",
+        "description": "Smart Eye is leading the global market for Driver Monitoring Systems, which will soon be a standard component in every car. Monitoring the driver behavior is safety critical both for normal driving as well as for autonomous driving. Smart Eye record a lot of data live, but also use synthetic data to test and validate our algorithms. We are looking for a Software Engineer with special interest and experience from CAD who wants to join our team of highly skilled and passionate engineers.\n\nCOME JOIN US\n\nSmart Eye’s Syntethic Data team is expanding and looking for a software engineer interested in simulating and validating data in CAD and creating synthetic data, videos and images, as well as analyzing the data. You will work closely to both customers and development team and easily understand the customers needs. This is a new role and you will be forming the working tasks and processes together with the team.\n\nWe provide a high tech working environment in an exciting and expanding business.\n\nYou will have great opportunities to personal development, challenges and great fun. You will work with highly talented people and join our spirit of an open, inclusive and creative culture. We believe in true teamwork where everyone is important. You find us in modern premises at Järntorget, in the city-center of Gothenburg, with convenient access by bus, bike, tram, boat, and car. And on top of that; the best coffee in town! \n\n\n\nWork description\n\nYou will work with rendering images and videos that simulate the output of driver and cabin monitoring cameras, using Smart Eye’s in-house developed vehicle cabin simulator. Your tasks may include importing and modifying CAD files from automotive customers, writing Python scripts to generate batch render jobs, and analyzing or validating the resulting data through our KPI pipeline.\n\nIn this role, you will collaborate closely with our development teams and subject-matter experts in optics and driver monitoring systems. You will support our sales team and participate in customer meetings, demonstrating the simulator and gathering feedback to better understand customer needs. By working alongside the cabin simulator development team, you will actively contribute to the development process by reporting bugs and suggesting improvements.\n\nWe work in an international environment with colleagues in Boston (US) Cairo (Egypt) and Tokyo (Japan).\n\n\n\nReporting to: Chief Engineer/Data Management\n\nLocation: Smart Eye AB, Headquarters (Gothenburg) \n\n\r\n​ Must-have-skills:\n\n\n - Post secondary education, or University degree, Bachelor or similar, with a technical focus.\n\n - 1+ years of experience with 3D software (Blender preferred; other tools such as Maya, 3ds Max, CATIA, or SolidWorks are also acceptable).\n - 1+ years of experience in Python development.\n - Strong communication and collaboration skills in English and preferably Swedish.\n\nGood-to-have-skills:\n\n\n - Experience in one or more of the following fields: image processing or graphics programming (Unity or similar).\n - Previous experience in the automotive industry.\n - Knowledge of validation, software testing, and KPI analysis.\n - Understanding of camera systems (e.g., focal length, shutter speed, etc.).\n\nWho are you?\n\nWe welcome all personalities and believe diversity creates a dynamic and innovative work environment.\n\n - You can work independently in a fast-changing environment.\n - You bring a positive, enthusiastic, and open attitude, with an entrepreneurial mindset.\n - You are comfortable working closely with customers and cross-functional teams within Smart Eye.\n - You have strong analytical and creative skills, and a genuine interest in new technologies.\n\n\nSmart Eye is the global leader in Human Insight AI, technology that understands, supports and predicts human behavior in complex environments. Together with our subsidiaries Affectiva and iMotions, we are bridging the gap between humans and machines for a safe and sustainable future. \n\nToday, our technology is embedded in next-generation vehicles, leading the way towards human-centric mobility through Driver Monitoring Systems and Interior Sensing solutions. Our Research Instruments offer unparalleled insights into automotive, aviation, assistive technology, behavioral science and many more fields. \n\nOur subsidiary Affectiva is humanizing technology by pioneering Emotion AI, helping companies gain a deeper understanding of how consumers engage with their content, products and services, in automotive, media & entertainment, market research and beyond. \n\nOur subsidiary iMotions provides the world’s leading biosensor software platform, that synchronizes data streams in real time from multiple sensors. \n\nSmart Eye was founded in 1999 and is headquartered in Sweden with offices in the US, UK, Germany, Denmark, Egypt, Japan, Singapore and China. A publicly traded company since 2016, our customers include NASA, Nissan, Boeing, Honeywell, Volvo, GM, BMW, Geely, Harvard University, over 1,300 research organizations around the world, 70% of the world’s largest advertisers and 28% of the Fortune Global 500 companies. \n\nVisit www.smarteye.ai for more information.",
+        "url": "https://emp.jobylon.com/applications/jobs/309600/create/?utm_source=ams&utm_medium=promotionserializer",
+        "published": "2025-09-17T15:59:11",
+        "deadline": "2025-10-31T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
+        "id": "30040664",
+        "title": "Software Engineer",
+        "employer": "Tata Technologies Nordics AB",
+        "location": "Göteborg",
+        "description": "At Tata Technologies we make product development dreams a reality by designing, engineering and validating the products of tomorrow for the world’s leading manufacturers. Due to our continued growth, we are now recruiting for a Software Engineer to strengthen our team in Gothenburg.\nResponsibilities\nAs a software engineer within release team, you will be responsible for releasing software and promoting day-to-day deliveries upwards in the stream making sure our deliveries are quality assured, verified and documented. To manage this successfully you need to be working cross-functionally with your team-colleagues and other teams. \nWho are you?\nWe want to work with you who have a keen interest in modern computing technologies and want to work in an evolving industry. You like solving problems together with others. You are communicative, collaborative, and comfortable with working within a challenging environment. You enjoy being part of a team where you take own initiatives and take pride in your own and the team’s deliveries.\nRequirements \n• University degree\n• Fluent in spoken and written English\n• Proven ability in coordinating, release planning, collaborating on multiple streams of work and cross-team collaboration documenting & reviewing.\n• Experience working in CI&CD and with tool such as Gerrit, Jenkins to support build, integration, and deployment pipelines.\n• Knowledge of build systems such as Make, Bazel.\n• Meritorious: Knowledge of the BSW configuration (Autosar), Knowledge of Artifactory and Conan packaging.\n• Being a networker with great communication skills\n• You are result-oriented, with a high level of engagement and a strong enthusiasm\n• You have been working successfully in an agile or lean environment\n• Your “think-outside-of-the-box-attitude” is valued by your co-workers\nIf you are passionate about bringing innovation to the projects you work on then we would love to hear from you.\nTata Technologies: Engineering a better world.\nTata Technologies would like to thank all applicants for their interest, each application will be reviewed against the set criteria for the role. We would like to advise that only candidates under consideration will be contacted. If you do not hear from us within 10 working days following the closing date it will mean that unfortunately your application has not been successful. We will however retain your details for any suitable future opportunities.",
+        "url": "http://www.tatatechnologies.com",
+        "published": "2025-09-17T15:23:10",
+        "deadline": "2025-10-17T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 100
