@@ -330,21 +330,6 @@
         "relevance_score": 100
     },
     {
-        "id": "29887068",
-        "title": "Software Flow Developer",
-        "employer": "SiNIX Flow AB",
-        "location": "Göteborg",
-        "description": "We are now looking for more colleagues who has previously taken an active part in building and improving CI/CD systems and are familiar with some related practices such as provisioning, delivery flows, build systems, repository management, data management and data visualization. We learn, share knowledge and always strive to create and deliver the best solutions to our customer.\nAs we have a great range of customers demanding our skills it gives a good opportunity for you to discover many different solutions and technologies. Most of the time, you will be working together with colleagues from SiNIX, at the customer or in one of our teams.\nOur customers trust in us and we work very closely with them. In the partnership, we guide them to the solutions that supports them in the best possible way.\nOur mission in SiNIX Flow -  is to make software development smooth and efficient. An environment where you as a developer get fast feedback through intuitive built pipelines and continuous integration.\nWe are looking for persons with a few years of year's experience in CI/CD, DevOps etc BUT most importantly - are interested in making software development smooth and efficient.\nIt´s good if you have:\nA Bachelor or Master's degree in Computer Science or equivalent.\nExperience in CI/CD pipeline design.\nExperience in IaC.\nExperience in working with Docker and Kubernetes.\nExperience with different cloud providers.\nScripting/coding in for example Python, but good to have C++, Golang etc.\nWe offer:\nInteresting assignments\nGreat and skilled colleagues\nLots of fun and learning\nWe are a Göteborg based company, but have customers outside the region.\nAt SiNIX, we prioritize the value of our colleagues by creating memorable experiences and sharing skills. We empower our employees with choices in training, vacation time, and flexible salaries, fostering a supportive and thriving work environment. Our aim is to inspire ongoing growth and development, making success a shared journey.",
-        "url": "https://jobs.sinix.se/",
-        "published": "2025-08-07T13:13:40",
-        "deadline": "2026-01-31T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": true,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "30076109",
         "title": "Software Engineering Analyst",
         "employer": "Volvo Personvagnar Aktiebolag",
@@ -570,21 +555,6 @@
         "relevance_score": 100
     },
     {
-        "id": "29961119",
-        "title": "Senior DevOps Engineer",
-        "employer": "Explipro Group AB",
-        "location": "Göteborg",
-        "description": "We are looking for an experienced DevOps engineer who wants to enhance security and performance through reliable and scalable solutions.\nYou will work closely with architects and engineers to run applications and services on AWS, build and maintain integrations in our CI/CD ecosystem, and support product teams in effectively utilizing the platform. You will also identify bottlenecks, drive improvements, and shape how we deliver critical services at enterprise scale.\n\nAbout You\nYou are a customer-focused DevOps engineer with a strong background in AWS and modern CI/CD practices. You enjoy simplifying complex problems, thrive in collaborative environments, and take ownership of solutions from design to delivery.\n\nRequirements:\n- 7+ years of experience with AWS cloud architecture and operations\n- Solid background in CI/CD pipelines, automation, and monitoring\n- Hands-on experience with containerization and Kubernetes\n- Knowledge of Infrastructure as Code (Terraform, CloudFormation, CDK, or similar)\n- Good understanding of secure and reliable system design\n- Fluent English, spoken and written \n\nWe are looking for individuals who are passionate about technology and want to improve our ways of working and solutions. With us, you will have the opportunity to work with leading technology companies and explore new technologies in a supportive and innovative environment.\nWe look forward to hearing from you!",
-        "url": "https://career.explipro.com/jobs/6361033-senior-devops-engineer?promotion=1604837-arbetsformedlingen",
-        "published": "2025-08-28T13:39:16",
-        "deadline": "2025-09-27T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": true,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "29914881",
         "title": "Software Engineer",
         "employer": "Ecareer AB",
@@ -610,6 +580,21 @@
         "deadline": "2025-09-30T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
+        "id": "29887068",
+        "title": "Software Flow Developer",
+        "employer": "SiNIX Flow AB",
+        "location": "Göteborg",
+        "description": "We are now looking for more colleagues who has previously taken an active part in building and improving CI/CD systems and are familiar with some related practices such as provisioning, delivery flows, build systems, repository management, data management and data visualization. We learn, share knowledge and always strive to create and deliver the best solutions to our customer.\nAs we have a great range of customers demanding our skills it gives a good opportunity for you to discover many different solutions and technologies. Most of the time, you will be working together with colleagues from SiNIX, at the customer or in one of our teams.\nOur customers trust in us and we work very closely with them. In the partnership, we guide them to the solutions that supports them in the best possible way.\nOur mission in SiNIX Flow -  is to make software development smooth and efficient. An environment where you as a developer get fast feedback through intuitive built pipelines and continuous integration.\nWe are looking for persons with a few years of year's experience in CI/CD, DevOps etc BUT most importantly - are interested in making software development smooth and efficient.\nIt´s good if you have:\nA Bachelor or Master's degree in Computer Science or equivalent.\nExperience in CI/CD pipeline design.\nExperience in IaC.\nExperience in working with Docker and Kubernetes.\nExperience with different cloud providers.\nScripting/coding in for example Python, but good to have C++, Golang etc.\nWe offer:\nInteresting assignments\nGreat and skilled colleagues\nLots of fun and learning\nWe are a Göteborg based company, but have customers outside the region.\nAt SiNIX, we prioritize the value of our colleagues by creating memorable experiences and sharing skills. We empower our employees with choices in training, vacation time, and flexible salaries, fostering a supportive and thriving work environment. Our aim is to inspire ongoing growth and development, making success a shared journey.",
+        "url": "https://jobs.sinix.se/",
+        "published": "2025-08-07T13:13:40",
+        "deadline": "2026-01-31T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": true,
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 100
