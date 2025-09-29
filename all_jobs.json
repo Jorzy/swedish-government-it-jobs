@@ -330,6 +330,21 @@
         "relevance_score": 100
     },
     {
+        "id": "29887068",
+        "title": "Software Flow Developer",
+        "employer": "SiNIX Flow AB",
+        "location": "Göteborg",
+        "description": "We are now looking for more colleagues who has previously taken an active part in building and improving CI/CD systems and are familiar with some related practices such as provisioning, delivery flows, build systems, repository management, data management and data visualization. We learn, share knowledge and always strive to create and deliver the best solutions to our customer.\nAs we have a great range of customers demanding our skills it gives a good opportunity for you to discover many different solutions and technologies. Most of the time, you will be working together with colleagues from SiNIX, at the customer or in one of our teams.\nOur customers trust in us and we work very closely with them. In the partnership, we guide them to the solutions that supports them in the best possible way.\nOur mission in SiNIX Flow -  is to make software development smooth and efficient. An environment where you as a developer get fast feedback through intuitive built pipelines and continuous integration.\nWe are looking for persons with a few years of year's experience in CI/CD, DevOps etc BUT most importantly - are interested in making software development smooth and efficient.\nIt´s good if you have:\nA Bachelor or Master's degree in Computer Science or equivalent.\nExperience in CI/CD pipeline design.\nExperience in IaC.\nExperience in working with Docker and Kubernetes.\nExperience with different cloud providers.\nScripting/coding in for example Python, but good to have C++, Golang etc.\nWe offer:\nInteresting assignments\nGreat and skilled colleagues\nLots of fun and learning\nWe are a Göteborg based company, but have customers outside the region.\nAt SiNIX, we prioritize the value of our colleagues by creating memorable experiences and sharing skills. We empower our employees with choices in training, vacation time, and flexible salaries, fostering a supportive and thriving work environment. Our aim is to inspire ongoing growth and development, making success a shared journey.",
+        "url": "https://jobs.sinix.se/",
+        "published": "2025-08-07T13:13:40",
+        "deadline": "2026-01-31T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": true,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
         "id": "30076109",
         "title": "Software Engineering Analyst",
         "employer": "Volvo Personvagnar Aktiebolag",
@@ -615,21 +630,6 @@
         "relevance_score": 100
     },
     {
-        "id": "29887068",
-        "title": "Software Flow Developer",
-        "employer": "SiNIX Flow AB",
-        "location": "Göteborg",
-        "description": "We are now looking for more colleagues who has previously taken an active part in building and improving CI/CD systems and are familiar with some related practices such as provisioning, delivery flows, build systems, repository management, data management and data visualization. We learn, share knowledge and always strive to create and deliver the best solutions to our customer.\nAs we have a great range of customers demanding our skills it gives a good opportunity for you to discover many different solutions and technologies. Most of the time, you will be working together with colleagues from SiNIX, at the customer or in one of our teams.\nOur customers trust in us and we work very closely with them. In the partnership, we guide them to the solutions that supports them in the best possible way.\nOur mission in SiNIX Flow -  is to make software development smooth and efficient. An environment where you as a developer get fast feedback through intuitive built pipelines and continuous integration.\nWe are looking for persons with a few years of year's experience in CI/CD, DevOps etc BUT most importantly - are interested in making software development smooth and efficient.\nIt´s good if you have:\nA Bachelor or Master's degree in Computer Science or equivalent.\nExperience in CI/CD pipeline design.\nExperience in IaC.\nExperience in working with Docker and Kubernetes.\nExperience with different cloud providers.\nScripting/coding in for example Python, but good to have C++, Golang etc.\nWe offer:\nInteresting assignments\nGreat and skilled colleagues\nLots of fun and learning\nWe are a Göteborg based company, but have customers outside the region.\nAt SiNIX, we prioritize the value of our colleagues by creating memorable experiences and sharing skills. We empower our employees with choices in training, vacation time, and flexible salaries, fostering a supportive and thriving work environment. Our aim is to inspire ongoing growth and development, making success a shared journey.",
-        "url": "https://jobs.sinix.se/",
-        "published": "2025-08-07T13:13:40",
-        "deadline": "2026-01-31T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": true,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "29818976",
         "title": "Embedded Software Engineer within the Automotive Industry",
         "employer": "SiNIX Embedded AB",
@@ -833,21 +833,6 @@
         "url": "https://volvo-information-technology-ab.contactrh.com/jobs/9669/43655687",
         "published": "2025-09-16T12:25:12",
         "deadline": "2025-10-03T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
-        "id": "30021273",
-        "title": "AI Growth Engineer",
-        "employer": "Mindark Pe AB (Publ)",
-        "location": "Göteborg",
-        "description": "Ride the AI Wave: Become MindArk’s AI Growth Engineer!\nThe AI revolution isn’t waiting for your graduation. If you’ve completed two years of a technical degree (with top grades in math and physics) and find yourself questioning the value of a traditional diploma in a world about to be upended by AI, this is your moment. \nMindArk – the creative force behind Entropia Universe – is hiring an AI Growth Engineer in Gothenburg to help market our virtual universe using cutting-edge AI tools. We want brilliant minds like yours on board now to ride the wave of AI transformation with us.\nStep off the academic treadmill and into a real-world impact role. \nAs our AI Growth Engineer, you’ll apply your technical skills to engineer explosive growth for Entropia Universe. Forget the old marketing playbook – you’ll write new rules, using data, code, and creativity to turn bold ideas into global success stories.\nThis is your chance to work at the crossroads of advanced tech and creative marketing, where marketing is treated as an engineering challenge. You’ll run experiments powered by AI and turn them into real results, helping transform a pioneering virtual world into a global phenomenon.\nWhy Join MindArk?\n• Accelerated Learning: Work with state-of-the-art AI tools on live projects and level up faster than any classroom can offer.\n• Real Impact: See your ideas drive the growth of Entropia Universe in real time and shape a vibrant online community on a global stage.\n• Ahead of the Curve: Be at the forefront of AI-driven marketing in gaming, outpacing what’s taught in textbooks and setting trends instead of following them.\nWe’re looking for ambitious, creative problem-solvers who refuse to settle for “good enough.” If you thrive on innovation and want to be ahead of the curve, join us and make your mark now. Don’t watch the AI revolution from the sidelines – become the engineer driving it.\nReady to launch your career and make history? Apply today to join MindArk’s mission and help us engineer the future of digital marketing. Let’s ride this wave together.",
-        "url": "https://career.mindark.com/jobs/6262447-ai-growth-engineer",
-        "published": "2025-09-12T11:23:25",
-        "deadline": "2025-09-28T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
         "source": "JobTech",
