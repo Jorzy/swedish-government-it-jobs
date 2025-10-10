@@ -1,5 +1,20 @@
 [
     {
+        "id": "30123730",
+        "title": "Utvecklare - Fullstack react python",
+        "employer": "Textual AB",
+        "location": "Göteborg",
+        "description": "textual.ai utvecklar AI-drivna lösningar som hjälper e-handelsföretag att automatisera innehållsproduktion, översättningar och marknadsföring. Våra verktyg kombinerar språkmodeller, dataanalys och smart design för att skapa effektiva system som används av stora e-handlare i Sverige och utomlands.\nOm rollen\nVi söker en fullstackutvecklare med erfarenhet av React och Python som vill arbeta med nästa generation av AI-baserade verktyg för digital handel. Du kommer att vara en del av ett litet, tekniskt starkt team som arbetar agilt och nära produkten – från idé till lansering.\nDina arbetsuppgifter\nUtveckla webbaserade applikationer och interna verktyg med React (frontend) och Python (backend).\nIntegrera språkmodeller och API:er för AI-funktionalitet.\nDelta i planering, design och tekniska beslut.\n\nKvalifikationer\nMinst 2 års erfarenhet av fullstackutveckling.\nGoda kunskaper i React, TypeScript och Python (t.ex. Django eller Flask).\nErfarenhet av API-utveckling och databaser.\nVan att arbeta med Git och moderna utvecklingsflöden.\nAnvända AI-assisterade utvecklingsverktyg som Cursor\nFörmåga att arbeta både självständigt och i team.\n\nMeriterande\nErfarenhet av AI eller maskininlärning (t.ex. LLM).\nErfarenhet av molnplattformar (AWS, GCP).\nIntresse för e-handel, språk och automatisering.\n\nÖppen för alla\nVi fokuserar på din kompetens, inte dina övriga förutsättningar. Vi är öppna för att anpassa rollen eller arbetsplatsen efter dina behov.",
+        "url": null,
+        "published": "2025-10-09T07:56:40",
+        "deadline": "2025-11-30T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "AI",
+        "relevance_score": 60
+    },
+    {
         "id": "30092160",
         "title": "Machine Learning Engineer - Computer Vision",
         "employer": "Repli5 AB",
@@ -10,6 +25,21 @@
         "deadline": "2026-03-20T23:59:59",
         "is_consultant": false,
         "is_meaningful": true,
+        "source": "JobTech",
+        "category": "AI",
+        "relevance_score": 100
+    },
+    {
+        "id": "30124725",
+        "title": "Data Engineer",
+        "employer": "Volvo Personvagnar Aktiebolag",
+        "location": "Göteborg",
+        "description": "Who are we?\nVolvo Cars is a company on a mission; to bring traditional car manufacturing into a connected, sustainable and smart future.\n\nSince 1927, we have been a brand known for our commitment to safety, creating innovative cars that make life less complicated for our consumers. In 2010, we decided to transform our business, resulting in a totally new generation of cars and technologies, as well as steady growth and record sales. Today, we’re expanding our global footprint in Europe, China and the US, and we’re on the lookout for new talent.\n\nWe are constantly pushing our own skills and abilities to drive change in the automobile industry like never before. We are looking for innovative, committed people to join us in this endeavour and create safe, sustainable and connected cars. We believe in the power of people and will challenge and support you to reach your full potential. Join us and be part of Volvo Cars’ journey into the future.\r\n\r\nLet's introduce ourselves\n\nAt Research and Development within Product and Quality, you will be a key contributor to the next generation outstanding luxury cars from Volvo. Together with other engineers around the world, you and your team will create innovative human-centric car technology that makes life less complicated and more enjoyable for people. Are you interested in design and connected car technology? Do you share our passion for people, the environment and our urge to create a superior driving experience? Product and Quality is the place for you to prosper.\n\n\nInfotainment is one of the fastest growing areas within automotive technology today. Competition is not only limited to traditional automotive competitors. Innovative and fast-moving companies like Apple and our collaboration partner Google have a strong influence on competition. Volvo Cars successfully launched cutting-edge driver interaction and infotainment solutions and is committed to continuous success.\n\nWhat you'll do\n\nThe group is part of the software factory for Infotainment. We’re the team that opens the window into the software factory, making its inner workings clear and accessible.\n\nThrough monitoring and visualization of CI/CD, environment and product, we turn raw data into stories that teams can act on.\n\nIn this role, you will drive the data models and designs to ensure overreaching synergies within the organization. You and the team will be improve system observability by identifying monitoring gaps and implementing metrics that provide meaningful visibility into CI system health and performance. You will automate monitoring, alerting, and operational workflows to reduce manual effort and improve reliability. You are to collect, analyse, and manage operational data to identify trends, bottlenecks, and areas for improvement. You will build and maintain dashboards and visualizations that make reliability and performance data accessible to developers and stakeholders. You will ensure data quality, consistency, and accuracy across monitoring and observability systems.\n\n\nWhat you'll bring\n\nIn this role you would carry a Bachelor's Degree in Data Engineering, Computer Science, or related field. You would carry strong proficiency in SQL (querying, optimization, database management). You have proven experience with Python for data processing and automation. You have hands-on experience building and maintaining data pipelines / ETL workflows. You bring practical experience with data modeling, database design, and data administration. You have familiarity with CI/CD practices and tools and experience working with visualization tools such as Grafana or Power BI. You would also bring experience with cloud-based data platforms such as Snowflake, experience with monitoring and logging tools such as Prometheus and ElasticSearch as well as in backend development for data applications or services. Furthermore you would also have familiarity with data control practices, including data governance, quality, and access management.\n\nSome of the required qualification include but not limited to:\n  *  2–4 years of experience in Site Reliability Engineering, DevOps, or Data management\n  *  Experience with observability and monitoring tools (e.g., Prometheus, Grafana)\n  *  Experience with databases relevant to observability and CI/CD (e.g. Prometheus/InfluxDB, PostgreSQL/MySQL and Elasticsearch)\n  *  Fluent in English (written and spoken)\n\n\nWe believe that you would also bring behavioural qualities such as effective communication, ownership, collaborative and engaged.\n\n#LI-DNI\n#LI-DNP",
+        "url": "https://volvo-car-corporation.contactrh.com/jobs/9669/43705484",
+        "published": "2025-10-09T10:25:01",
+        "deadline": "2025-10-18T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
         "source": "JobTech",
         "category": "AI",
         "relevance_score": 100
