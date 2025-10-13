@@ -390,36 +390,6 @@
         "relevance_score": 100
     },
     {
-        "id": "29943074",
-        "title": "Developer",
-        "employer": "Synteda AB",
-        "location": "Göteborg",
-        "description": "Synteda AB specializes in helping companies effectively embrace the era of artificial intelligence and computer vision. By delivering innovative solutions, we empower businesses to take full advantage of the vast possibilities presented by these cutting-edge technologies. We firmly believe in the potential of AI and computer vision to benefit society, and we’re committed to leveraging our expertise to facilitate businesses in their journey towards this exciting new era. Our close collaboration with top universities in Sweden enables us to work with clients across a broad range of industry fields.\nWe’re actively engaged in developing several unique products and solutions, using a work process that we call “dream-innovate-create.” This approach involves subjecting our ideas to rigorous scrutiny and feasibility testing, using agile methodologies to refine our solutions until we’ve achieved a full-scale product.\nWe’re proud to have a core team of highly qualified experts who excel at providing assessment services to identify business challenges and develop customized algorithms to overcome them. We’re guided by our commitment to ethical awareness, curiosity, transparency, respect, participation and science.\nAs we continue to grow, we’re actively seeking talented developers to join our team of experts. If you’re passionate about advanced technologies and want to be part of an exciting and dynamic organization, we encourage you to apply today.\n\n\nResponsibilities\nDevelop efficient applications that meet our quality standards.\nConduct system testing to ensure accurate results and optimal performance.\nDetermine most efficient and accurate way to accomplish tasks.\nDeployment of quality products.\nAdopt best practices and share them across the team.\n\nRequired skills and qualifications\nStrong knowledge and experience in C#/.NET/Java.\nPrevious experience in Python, C/C++/R/Matlab/Scala.\nWorking proficiency in databases, e.g. SQL, MySQL.\nExperience in cloud services, e.g. Azure, AWS, Go Cloud.\nKnowledge of Javascript/Typescript and HTML5/CSS.\nReact (or Angular or Vue.js with the ability to adapt).\nKnowledge of systems analysis, system design and database architecture.\nStrong analytical and problem-solving.\nAbility to work independently and as a team member.\nExperience of agile development methodologies.\nFluent in English, both spoken and written is required.\nAdvantage with Swedish.",
-        "url": "https://synteda.com/jobs/developer/",
-        "published": "2025-08-25T09:05:40",
-        "deadline": "2025-10-31T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
-        "id": "29887068",
-        "title": "Software Flow Developer",
-        "employer": "SiNIX Flow AB",
-        "location": "Göteborg",
-        "description": "We are now looking for more colleagues who has previously taken an active part in building and improving CI/CD systems and are familiar with some related practices such as provisioning, delivery flows, build systems, repository management, data management and data visualization. We learn, share knowledge and always strive to create and deliver the best solutions to our customer.\nAs we have a great range of customers demanding our skills it gives a good opportunity for you to discover many different solutions and technologies. Most of the time, you will be working together with colleagues from SiNIX, at the customer or in one of our teams.\nOur customers trust in us and we work very closely with them. In the partnership, we guide them to the solutions that supports them in the best possible way.\nOur mission in SiNIX Flow -  is to make software development smooth and efficient. An environment where you as a developer get fast feedback through intuitive built pipelines and continuous integration.\nWe are looking for persons with a few years of year's experience in CI/CD, DevOps etc BUT most importantly - are interested in making software development smooth and efficient.\nIt´s good if you have:\nA Bachelor or Master's degree in Computer Science or equivalent.\nExperience in CI/CD pipeline design.\nExperience in IaC.\nExperience in working with Docker and Kubernetes.\nExperience with different cloud providers.\nScripting/coding in for example Python, but good to have C++, Golang etc.\nWe offer:\nInteresting assignments\nGreat and skilled colleagues\nLots of fun and learning\nWe are a Göteborg based company, but have customers outside the region.\nAt SiNIX, we prioritize the value of our colleagues by creating memorable experiences and sharing skills. We empower our employees with choices in training, vacation time, and flexible salaries, fostering a supportive and thriving work environment. Our aim is to inspire ongoing growth and development, making success a shared journey.",
-        "url": "https://jobs.sinix.se/",
-        "published": "2025-08-07T13:13:40",
-        "deadline": "2026-01-31T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": true,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "30097905",
         "title": "Senior mjukvaruutvecklare till Syntronic i Göteborg",
         "employer": "Syntronic AB",
@@ -735,6 +705,21 @@
         "relevance_score": 100
     },
     {
+        "id": "29943074",
+        "title": "Developer",
+        "employer": "Synteda AB",
+        "location": "Göteborg",
+        "description": "Synteda AB specializes in helping companies effectively embrace the era of artificial intelligence and computer vision. By delivering innovative solutions, we empower businesses to take full advantage of the vast possibilities presented by these cutting-edge technologies. We firmly believe in the potential of AI and computer vision to benefit society, and we’re committed to leveraging our expertise to facilitate businesses in their journey towards this exciting new era. Our close collaboration with top universities in Sweden enables us to work with clients across a broad range of industry fields.\nWe’re actively engaged in developing several unique products and solutions, using a work process that we call “dream-innovate-create.” This approach involves subjecting our ideas to rigorous scrutiny and feasibility testing, using agile methodologies to refine our solutions until we’ve achieved a full-scale product.\nWe’re proud to have a core team of highly qualified experts who excel at providing assessment services to identify business challenges and develop customized algorithms to overcome them. We’re guided by our commitment to ethical awareness, curiosity, transparency, respect, participation and science.\nAs we continue to grow, we’re actively seeking talented developers to join our team of experts. If you’re passionate about advanced technologies and want to be part of an exciting and dynamic organization, we encourage you to apply today.\n\n\nResponsibilities\nDevelop efficient applications that meet our quality standards.\nConduct system testing to ensure accurate results and optimal performance.\nDetermine most efficient and accurate way to accomplish tasks.\nDeployment of quality products.\nAdopt best practices and share them across the team.\n\nRequired skills and qualifications\nStrong knowledge and experience in C#/.NET/Java.\nPrevious experience in Python, C/C++/R/Matlab/Scala.\nWorking proficiency in databases, e.g. SQL, MySQL.\nExperience in cloud services, e.g. Azure, AWS, Go Cloud.\nKnowledge of Javascript/Typescript and HTML5/CSS.\nReact (or Angular or Vue.js with the ability to adapt).\nKnowledge of systems analysis, system design and database architecture.\nStrong analytical and problem-solving.\nAbility to work independently and as a team member.\nExperience of agile development methodologies.\nFluent in English, both spoken and written is required.\nAdvantage with Swedish.",
+        "url": "https://synteda.com/jobs/developer/",
+        "published": "2025-08-25T09:05:40",
+        "deadline": "2025-10-31T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
         "id": "29914881",
         "title": "Software Engineer",
         "employer": "Ecareer AB",
@@ -760,6 +745,21 @@
         "deadline": "2025-10-30T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
+        "id": "29887068",
+        "title": "Software Flow Developer",
+        "employer": "SiNIX Flow AB",
+        "location": "Göteborg",
+        "description": "We are now looking for more colleagues who has previously taken an active part in building and improving CI/CD systems and are familiar with some related practices such as provisioning, delivery flows, build systems, repository management, data management and data visualization. We learn, share knowledge and always strive to create and deliver the best solutions to our customer.\nAs we have a great range of customers demanding our skills it gives a good opportunity for you to discover many different solutions and technologies. Most of the time, you will be working together with colleagues from SiNIX, at the customer or in one of our teams.\nOur customers trust in us and we work very closely with them. In the partnership, we guide them to the solutions that supports them in the best possible way.\nOur mission in SiNIX Flow -  is to make software development smooth and efficient. An environment where you as a developer get fast feedback through intuitive built pipelines and continuous integration.\nWe are looking for persons with a few years of year's experience in CI/CD, DevOps etc BUT most importantly - are interested in making software development smooth and efficient.\nIt´s good if you have:\nA Bachelor or Master's degree in Computer Science or equivalent.\nExperience in CI/CD pipeline design.\nExperience in IaC.\nExperience in working with Docker and Kubernetes.\nExperience with different cloud providers.\nScripting/coding in for example Python, but good to have C++, Golang etc.\nWe offer:\nInteresting assignments\nGreat and skilled colleagues\nLots of fun and learning\nWe are a Göteborg based company, but have customers outside the region.\nAt SiNIX, we prioritize the value of our colleagues by creating memorable experiences and sharing skills. We empower our employees with choices in training, vacation time, and flexible salaries, fostering a supportive and thriving work environment. Our aim is to inspire ongoing growth and development, making success a shared journey.",
+        "url": "https://jobs.sinix.se/",
+        "published": "2025-08-07T13:13:40",
+        "deadline": "2026-01-31T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": true,
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 100
@@ -943,21 +943,6 @@
         "source": "JobTech",
         "category": "RPA",
         "relevance_score": 80
-    },
-    {
-        "id": "30067087",
-        "title": "Data Privacy & AI Compliance Counsel, Volvo Group",
-        "employer": "Volvo Business Services AB",
-        "location": "Göteborg",
-        "description": "The Data Privacy and AI Compliance Counsel reports directly to the Volvo Group Chief Privacy Officer and is responsible for legal advice (including to the Group Privacy Office) and further developing and driving the implementation of certain parts of the Volvo Group’s global data privacy and AI compliance program.\r\n\r\nWhat you will do\n\nAct as a subject-matter expert on Privacy and AI in the Volvo Group and advice on legal and compliance matters including interacting with the Group Privacy Office as and when needed to support on matters of high complexity and high risk.\n\nBe first point of contact for the Group Privacy Office when it comes to legal questions related to data privacy and AI, including GDPR.\n\nDrive and secure the commercial implementation strategy for data privacy and AI requirements across the organization, such as contracting strategies, customer or driver interaction including identifying and engaging with key vendors to the Volvo Group. You will also provide support to the negotiation of complex agreements (including conveying a negotiation strategy).\n\nIdentify and evaluate Privacy and AI projects that are of strategic importance to the Volvo Group, such as data transfer, data management agreements or equivalent (including internationally).\n\nOversee legislative developments and develop a strategic position for Volvo Group.\n\nInteract with authorities and industry stakeholders for best practice and policy developments.\n\nParticipate when needed in meetings with Legal Lobbying Networks to secure internal alignment on data privacy matters of Group wide importance and how to address this in the different lobbying forums (including ACEA and Svenskt Näringsliv).\n\nParticipate when needed in the Data Privacy Steering Committee and other Steering Committees as well Legal Data Committee.\n\nAssist and support local teams across the Volvo Group when implementing the Volvo Group directives, guidelines and instructions, and identifying deviations.\n\nCollaborating and interact with Group Security and other stakeholders and provide legal advice on cybersecurity and personal data breach issues, including incident response.\nAssist in developing, enhancing, scaling, and running the existing global Data Privacy and AI Compliance Program, including ensuring the program’s ongoing, consistent, and efficient operation.\n\nKeep up to date with latest legal and regulatory developments in Privacy and AI as far of importance for the Volvo Group\n\nAll the above tasks will require intensive collaboration and alignment with Volvo Group’s Truck Divisions, Business Areas and other Group Functions. The Data Privacy and AI Compliance Counsel will work with other members of the Group Compliance team to address overlapping compliance topics and lift synergies.\r\n\r\nWe are looking for a talented lawyer with:\nAbility to work independently and take ownership of projects, with excellent self-motivation and time management skills.\nStrong analytical and problem-solving abilities, with a pragmatic approach to compliance challenges.\nExcellent communication and interpersonal skills, with the ability to effectively collaborate and influence stakeholders at all levels of the organization.\nA proactive attitude and a passion for continuous learning and professional growth in the field of Privacy and AI compliance.\nYou have strong knowledge of Privacy regulation such as GDPR, AI Act and other (global) regulations affecting data protection, AI and their practical applications\nKnowledge of information security principles and practice\nKnowledge of information risk analysis and risk management\nAny certificate from IAPP (CIPM, CIPP/E, CAIGP or other) and knowledge of automotive regulations is preferred\nLast application date is October 12, 2025",
-        "url": "https://volvo-information-technology-ab.contactrh.com/jobs/9669/43673612",
-        "published": "2025-09-24T14:25:11",
-        "deadline": "2025-10-12T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 90
     },
     {
         "id": "29787427",
