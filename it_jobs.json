@@ -330,36 +330,6 @@
         "relevance_score": 100
     },
     {
-        "id": "29943074",
-        "title": "Developer",
-        "employer": "Synteda AB",
-        "location": "Göteborg",
-        "description": "Synteda AB specializes in helping companies effectively embrace the era of artificial intelligence and computer vision. By delivering innovative solutions, we empower businesses to take full advantage of the vast possibilities presented by these cutting-edge technologies. We firmly believe in the potential of AI and computer vision to benefit society, and we’re committed to leveraging our expertise to facilitate businesses in their journey towards this exciting new era. Our close collaboration with top universities in Sweden enables us to work with clients across a broad range of industry fields.\nWe’re actively engaged in developing several unique products and solutions, using a work process that we call “dream-innovate-create.” This approach involves subjecting our ideas to rigorous scrutiny and feasibility testing, using agile methodologies to refine our solutions until we’ve achieved a full-scale product.\nWe’re proud to have a core team of highly qualified experts who excel at providing assessment services to identify business challenges and develop customized algorithms to overcome them. We’re guided by our commitment to ethical awareness, curiosity, transparency, respect, participation and science.\nAs we continue to grow, we’re actively seeking talented developers to join our team of experts. If you’re passionate about advanced technologies and want to be part of an exciting and dynamic organization, we encourage you to apply today.\n\n\nResponsibilities\nDevelop efficient applications that meet our quality standards.\nConduct system testing to ensure accurate results and optimal performance.\nDetermine most efficient and accurate way to accomplish tasks.\nDeployment of quality products.\nAdopt best practices and share them across the team.\n\nRequired skills and qualifications\nStrong knowledge and experience in C#/.NET/Java.\nPrevious experience in Python, C/C++/R/Matlab/Scala.\nWorking proficiency in databases, e.g. SQL, MySQL.\nExperience in cloud services, e.g. Azure, AWS, Go Cloud.\nKnowledge of Javascript/Typescript and HTML5/CSS.\nReact (or Angular or Vue.js with the ability to adapt).\nKnowledge of systems analysis, system design and database architecture.\nStrong analytical and problem-solving.\nAbility to work independently and as a team member.\nExperience of agile development methodologies.\nFluent in English, both spoken and written is required.\nAdvantage with Swedish.",
-        "url": "https://synteda.com/jobs/developer/",
-        "published": "2025-08-25T09:05:40",
-        "deadline": "2025-10-31T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
-        "id": "29887068",
-        "title": "Software Flow Developer",
-        "employer": "SiNIX Flow AB",
-        "location": "Göteborg",
-        "description": "We are now looking for more colleagues who has previously taken an active part in building and improving CI/CD systems and are familiar with some related practices such as provisioning, delivery flows, build systems, repository management, data management and data visualization. We learn, share knowledge and always strive to create and deliver the best solutions to our customer.\nAs we have a great range of customers demanding our skills it gives a good opportunity for you to discover many different solutions and technologies. Most of the time, you will be working together with colleagues from SiNIX, at the customer or in one of our teams.\nOur customers trust in us and we work very closely with them. In the partnership, we guide them to the solutions that supports them in the best possible way.\nOur mission in SiNIX Flow -  is to make software development smooth and efficient. An environment where you as a developer get fast feedback through intuitive built pipelines and continuous integration.\nWe are looking for persons with a few years of year's experience in CI/CD, DevOps etc BUT most importantly - are interested in making software development smooth and efficient.\nIt´s good if you have:\nA Bachelor or Master's degree in Computer Science or equivalent.\nExperience in CI/CD pipeline design.\nExperience in IaC.\nExperience in working with Docker and Kubernetes.\nExperience with different cloud providers.\nScripting/coding in for example Python, but good to have C++, Golang etc.\nWe offer:\nInteresting assignments\nGreat and skilled colleagues\nLots of fun and learning\nWe are a Göteborg based company, but have customers outside the region.\nAt SiNIX, we prioritize the value of our colleagues by creating memorable experiences and sharing skills. We empower our employees with choices in training, vacation time, and flexible salaries, fostering a supportive and thriving work environment. Our aim is to inspire ongoing growth and development, making success a shared journey.",
-        "url": "https://jobs.sinix.se/",
-        "published": "2025-08-07T13:13:40",
-        "deadline": "2026-01-31T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": true,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "30097905",
         "title": "Senior mjukvaruutvecklare till Syntronic i Göteborg",
         "employer": "Syntronic AB",
@@ -385,6 +355,21 @@
         "deadline": "2025-11-01T23:59:59",
         "is_consultant": false,
         "is_meaningful": true,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
+        "id": "30159751",
+        "title": "Embedded Infotainment Platform Software Engineer (C++)",
+        "employer": "GlobalLogic Sweden AB",
+        "location": "Göteborg",
+        "description": "Description\nSW development is focused on:\n• Infotainment Head Unit Platform (IHU/DHU/UXC) on Android Automotive (both for iCUP and SPA platforms)\nSW development within company is developed in-house with collaboration with our partners Google, Aptiv, Qualcomm and QNX.\nDevelopment of the next generation of SPA Infotainment solution based on Android Automotive OS with QNX hypervisor as the foundation.\nRequirements\n• C++ Proficiency: High proficiency in C++, particularly for embedded and automotive systems, with experience adhering to modern coding standards.\n• QNX, AAOS, AOSP and AOSP Build Process: Build systems such as CMake, Makefiles, Bazel.\n• Operating Systems Expertise: Knowledge of Real-Time Operating Systems (RTOS) like QNX, including practical experience with the POSIX API, multithreading, communication, and synchronization.\n• Android Automotive Development: Experience developing on the Android Automotive platform using C++, AIDL/HIDL. Bonus for Kotlin, and/or Java.\n• Software Testing & Automation: Strong skills in writing and maintaining unit, component, and integration tests, with proficiency in Python and testing frameworks like pytest.\n• Automotive Testing: Vehicle testing, log captures, and log analysis.\n• CI/CD & DevOps: Hands-on experience with building and maintaining CI/CD pipelines under HIL and SIL is desirable.\n \nOther Expectations\n• Relevant technical education and background\n• Have strong English skills (Swedish is a bonus), with excellent communication skills\n• Team player who take ownership for the team’s deliveries, with a proactive commitment to delivering high-quality software\n• Collaborative mindset, and can give and receive constructive code reviews\n• Have an open mind about different Agile Processes and can help the team adapt its ways of working\n• Enjoy learning new skills, languages, and toolsets (including generative AI)\n• Domain Knowledge: Previous professional experience in automotive software development is desirable.\n• Driven, adaptable, and eager to take initiative in problem-solving and process improvement\nJob responsibilities\nSupport teams in developing and designing for Platform upgradeability. Find technical solutions fulfilling complex requirements utilizing both inhouse and Android/QNX technical solutions.\nAssure high level of quality through test automation (maintaining inhouse Python software test tool, integrate with CI systems to test upgrades from previous releases, enable other teams in verifying their components integrations with platform updates.",
+        "url": "https://www.globallogic.com/careers/embedded-infotainment-platform-software-engineer-c-irc272476/",
+        "published": "2025-10-17T14:18:30",
+        "deadline": "2025-10-28T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 100
@@ -495,21 +480,6 @@
         "relevance_score": 100
     },
     {
-        "id": "30112306",
-        "title": "ESW Function Owner - Steering systems",
-        "employer": "Volvo Business Services AB",
-        "location": "Göteborg",
-        "description": "\"Founded in 1927, the Volvo Group is committed to driving prosperity and shaping the future landscape through sustainable transport, mobility, and infrastructure solutions.\r\n\r\nAbout Us \nTransport is at the core of modern society. Imagine using your expertise to shape sustainable transport solutions for the future? If you seek to make a difference on a global scale, working with the next generation of technologies in a very collaborative team, then we could be a perfect match. \nThe group “Electrohydraulic Steering systems” within Vehicle Dynamics sub stream, belongs to the “Vehicle motion and thermal management” technology stream is responsible for developing platform electrohydraulic steering solutions within Volvo GTT.\nWe are seeking a Function Owner to strengthen our team in the Electrohydraulic Steering software development area.\nYou will be a member of a highly skilled agile team that have full product ownership of electrohydraulic steering systems, from requirement and specification to end customer and quality follow up. The team works closely together with all needed cross-functional counterparts in our global arena. \nRole Description\nAs a Function Developer and Function Owner within Vehicle Dynamics, you will be involved in all phases of development and maintenance of our interesting and complex end user functions connected to Electrohydraulic Steering systems. You will be the owner of some of our end-user functions and leading the development work in this area. \nThe work consists of specification and review of function and SW requirements, but also development of new functions and customer features. You will support internal customers, the aftermarket, production and end customers. You will perform tests in vehicles as well as tests in virtual and real environment. You will be a part of developing the global roadmap for future functions and features. An important part of the role is also to fault trace in vehicles. \nYour responsibilities will include:\n•    Perform functional development meaning requirement breakdown, software design, documentation, implementation, testing and verification\n•    Specify system/functional requirements and logic design breakdown\n•    Organize and participate in technical discussions with suppliers\n•    Test, tune and document function parameters, for each variant\n•    Leading functional safety and cyber security work \n•    Trouble shooting and provide support to aftermarket and production plants\n•    Network across the organization, as well as influencing the work in the other sites\n•    Develop acquired competence, as well as participate in business development\n•    Taking operational responsibility on your scope, implement improvements and fostering collaboration to get things done when needed\n•    Working closely together with other product leaders and suppliers to deliver a complete SW platform  \nWho are you?\nAs a person you are driven with a mindset to learn and improve. As part of an agile team, you are a team player and enjoy teamwork, but you also have proven ability to work independently and drive development on your own. You have a Master of science degree in Mechatronics, Control engineering, Computer Science, Electronics or similar. We expect you to have a good understanding of system development of embedded real time systems and have good programing skills. You have effective communication and presenting skills both in text and verbally.  Business and customer oriented with an interest in the automotive industry.\nKnowledge and Experience requirements:\n•    Matlab and Simulink\n•    C++, C#, CANoe and CANalyzer\n•    Git\n•    Rapid prototyping (dSPACE tools) and systems development principles\n•    Static code analysis tools\n•    SystemWeaver (SE-TOOL)\n•    Autosar integration and Vector DaVinci\n•    Diagnostics and UDS protocol knowledge\n•    Strong knowledge of ISO26262 \n•    Vehicle Dynamics and Advanced Steering system is beneficial\n•    C/CE driving license is beneficial \nWork experience: Minimum 10 years of relevant experience.\nReady for the next move?\nIf you have any questions, feel free to contact us!\nEmma Heiwall, Group Manager, Electrohydraulic Steering Systems, Email - emma.heiwall@volvo.com\nSmita Shree, Talent Acquisition Partner, Email - smita.shree@volvo.com\nLast Application Date- 20th October, 2025\nWe value your data privacy and therefore do not accept applications via mail.",
-        "url": "https://volvo-information-technology-ab.contactrh.com/jobs/9669/43698173",
-        "published": "2025-10-06T18:25:01",
-        "deadline": "2025-10-20T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "30110694",
         "title": "Software Engineer Cloud RAN",
         "employer": "Techla Group AB",
@@ -585,21 +555,6 @@
         "relevance_score": 100
     },
     {
-        "id": "30040664",
-        "title": "Software Engineer",
-        "employer": "Tata Technologies Nordics AB",
-        "location": "Göteborg",
-        "description": "At Tata Technologies we make product development dreams a reality by designing, engineering and validating the products of tomorrow for the world’s leading manufacturers. Due to our continued growth, we are now recruiting for a Software Engineer to strengthen our team in Gothenburg.\nResponsibilities\nAs a software engineer within release team, you will be responsible for releasing software and promoting day-to-day deliveries upwards in the stream making sure our deliveries are quality assured, verified and documented. To manage this successfully you need to be working cross-functionally with your team-colleagues and other teams. \nWho are you?\nWe want to work with you who have a keen interest in modern computing technologies and want to work in an evolving industry. You like solving problems together with others. You are communicative, collaborative, and comfortable with working within a challenging environment. You enjoy being part of a team where you take own initiatives and take pride in your own and the team’s deliveries.\nRequirements \n• University degree\n• Fluent in spoken and written English\n• Proven ability in coordinating, release planning, collaborating on multiple streams of work and cross-team collaboration documenting & reviewing.\n• Experience working in CI&CD and with tool such as Gerrit, Jenkins to support build, integration, and deployment pipelines.\n• Knowledge of build systems such as Make, Bazel.\n• Meritorious: Knowledge of the BSW configuration (Autosar), Knowledge of Artifactory and Conan packaging.\n• Being a networker with great communication skills\n• You are result-oriented, with a high level of engagement and a strong enthusiasm\n• You have been working successfully in an agile or lean environment\n• Your “think-outside-of-the-box-attitude” is valued by your co-workers\nIf you are passionate about bringing innovation to the projects you work on then we would love to hear from you.\nTata Technologies: Engineering a better world.\nTata Technologies would like to thank all applicants for their interest, each application will be reviewed against the set criteria for the role. We would like to advise that only candidates under consideration will be contacted. If you do not hear from us within 10 working days following the closing date it will mean that unfortunately your application has not been successful. We will however retain your details for any suitable future opportunities.",
-        "url": "http://www.tatatechnologies.com",
-        "published": "2025-09-17T15:23:10",
-        "deadline": "2025-10-17T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "29995984",
         "title": "PLC Engineer",
         "employer": "Sigma Embedded Engineering AB",
@@ -608,6 +563,21 @@
         "url": "https://jobs.sigmaembeddedengineering.se/en/jobs/6374245-plc-engineer?utm_campaign=jobs-widget&utm_source=jobs.sigmaembeddedengineering.se&utm_content=jobs&utm_medium=web",
         "published": "2025-09-05T15:30:55",
         "deadline": "2025-11-07T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
+        "id": "29943074",
+        "title": "Developer",
+        "employer": "Synteda AB",
+        "location": "Göteborg",
+        "description": "Synteda AB specializes in helping companies effectively embrace the era of artificial intelligence and computer vision. By delivering innovative solutions, we empower businesses to take full advantage of the vast possibilities presented by these cutting-edge technologies. We firmly believe in the potential of AI and computer vision to benefit society, and we’re committed to leveraging our expertise to facilitate businesses in their journey towards this exciting new era. Our close collaboration with top universities in Sweden enables us to work with clients across a broad range of industry fields.\nWe’re actively engaged in developing several unique products and solutions, using a work process that we call “dream-innovate-create.” This approach involves subjecting our ideas to rigorous scrutiny and feasibility testing, using agile methodologies to refine our solutions until we’ve achieved a full-scale product.\nWe’re proud to have a core team of highly qualified experts who excel at providing assessment services to identify business challenges and develop customized algorithms to overcome them. We’re guided by our commitment to ethical awareness, curiosity, transparency, respect, participation and science.\nAs we continue to grow, we’re actively seeking talented developers to join our team of experts. If you’re passionate about advanced technologies and want to be part of an exciting and dynamic organization, we encourage you to apply today.\n\n\nResponsibilities\nDevelop efficient applications that meet our quality standards.\nConduct system testing to ensure accurate results and optimal performance.\nDetermine most efficient and accurate way to accomplish tasks.\nDeployment of quality products.\nAdopt best practices and share them across the team.\n\nRequired skills and qualifications\nStrong knowledge and experience in C#/.NET/Java.\nPrevious experience in Python, C/C++/R/Matlab/Scala.\nWorking proficiency in databases, e.g. SQL, MySQL.\nExperience in cloud services, e.g. Azure, AWS, Go Cloud.\nKnowledge of Javascript/Typescript and HTML5/CSS.\nReact (or Angular or Vue.js with the ability to adapt).\nKnowledge of systems analysis, system design and database architecture.\nStrong analytical and problem-solving.\nAbility to work independently and as a team member.\nExperience of agile development methodologies.\nFluent in English, both spoken and written is required.\nAdvantage with Swedish.",
+        "url": "https://synteda.com/jobs/developer/",
+        "published": "2025-08-25T09:05:40",
+        "deadline": "2025-10-31T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
         "source": "JobTech",
@@ -640,6 +610,21 @@
         "deadline": "2025-10-30T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
+        "id": "29887068",
+        "title": "Software Flow Developer",
+        "employer": "SiNIX Flow AB",
+        "location": "Göteborg",
+        "description": "We are now looking for more colleagues who has previously taken an active part in building and improving CI/CD systems and are familiar with some related practices such as provisioning, delivery flows, build systems, repository management, data management and data visualization. We learn, share knowledge and always strive to create and deliver the best solutions to our customer.\nAs we have a great range of customers demanding our skills it gives a good opportunity for you to discover many different solutions and technologies. Most of the time, you will be working together with colleagues from SiNIX, at the customer or in one of our teams.\nOur customers trust in us and we work very closely with them. In the partnership, we guide them to the solutions that supports them in the best possible way.\nOur mission in SiNIX Flow -  is to make software development smooth and efficient. An environment where you as a developer get fast feedback through intuitive built pipelines and continuous integration.\nWe are looking for persons with a few years of year's experience in CI/CD, DevOps etc BUT most importantly - are interested in making software development smooth and efficient.\nIt´s good if you have:\nA Bachelor or Master's degree in Computer Science or equivalent.\nExperience in CI/CD pipeline design.\nExperience in IaC.\nExperience in working with Docker and Kubernetes.\nExperience with different cloud providers.\nScripting/coding in for example Python, but good to have C++, Golang etc.\nWe offer:\nInteresting assignments\nGreat and skilled colleagues\nLots of fun and learning\nWe are a Göteborg based company, but have customers outside the region.\nAt SiNIX, we prioritize the value of our colleagues by creating memorable experiences and sharing skills. We empower our employees with choices in training, vacation time, and flexible salaries, fostering a supportive and thriving work environment. Our aim is to inspire ongoing growth and development, making success a shared journey.",
+        "url": "https://jobs.sinix.se/",
+        "published": "2025-08-07T13:13:40",
+        "deadline": "2026-01-31T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": true,
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 100
@@ -703,6 +688,21 @@
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 100
+    },
+    {
+        "id": "30161598",
+        "title": "Senior penetrationstestare",
+        "employer": "Combitech AB",
+        "location": "Göteborg",
+        "description": "Är du en penetrationstestare med flera års erfarenhet och redo för nya utmaningar tillsammans med likasinnade? Combitech söker nu erfarna penetrationstestare till vårt team med placering i Göteborg, Stockholm, Linköping och Sundsvall. Som penetrationstestare på Combitech kommer du ingå i en enhet bestående av specialister inom Penetrationstester och Red Teaming.\n\nDin roll som penetrationstestare\n\nVår enhet är en tekniskt stark och en social arbetsplats med team över flera orter i Sverige. Vi arbetar brett från IoT och webbsäkerhet till nätverk, Active Directory, Automotive och OT/ICS och tar komplexa uppdrag mot myndigheter, försvarsindustri, industri och finanssektorn.\n\nKärnan i vårt arbetssätt är en teamleverans, vi sätter samman grupper med kompletterande kompetenser för att säkerställa hög kvalitet, problemlösning och kontinuerlig kompetensöverföring. Vi har regelbundna veckomöten där vi delar erfarenheter, metodik och uppdateringar, samt forum för teknisk diskussion och planering.\n\nVi investerar i din utveckling du får stöd för certifieringar, tid för lärande och möjlighet att representera oss på konferenser och i professionella nätverk. Detta är en plats där du både bidrar och växer. \n\nArbetsuppgifterna innebär att du utför uppdrag åt våra kunder. I våra leveranser prioriterar vi alltid teamarbete. Du kommer att arbeta i team med kompletterande kompetenser då det ger högre kvalitet, bättre problemlösning och kontinuerlig kunskapsöverföring. Vi matchar rätt person och kompetens till varje uppdrag och stöd från erfarna kollegor finns alltid nära till hands.\n\nDå varje uppdrag avslutas med en rapport och oftast tillhörande presentation, medför det att vi ser att du har vana av att uttrycka dig i skrift såväl på svenska som på engelska, men även att du är van att prata med både tekniskt kunniga individer såväl som de som inte är tekniskt insatta.\n\nResor i tjänsten förekommer frekvent då många av våra uppdrag innebär att vi måste vara på plats hos våra kunder på grund av säkerhetsskyddsskäl, men även för att utföra tester som innebär fysisk närhet till testobjektet.\n \n\nVem är du?\n\nVi söker seniora penetrationstestare med minst fem års erfarenhet av yrket. Du har omfattande erfarenhet av olika IT och IT-miljöer och har arbetat med penetrationstester, där du har utvecklat djup kompetens inom säkerhetstester och granskningar. En teknisk examen i grunden är önskvärt, men dina erfarenheter och personliga egenskaper väger tyngre än en specifik examen.\n\nDu är bevandrad och trygg när det gäller tillvägagångssätt, metodik och tekniker inom penetrationstestning, inklusive planering, scoping samt testdesign och har stött på många typer av IT-miljöer i ditt arbetsliv. Vi tror även att du är van att hjälpa till att planera, definiera uppdrag och bidra till testplaner inför olika projekt, det vill säga att du kan ta ett projekt-/leveransansvar, kunna leda testteam, leverera tidplaner, estimeringar och sign-off.\n\nVi ser gärna att du är flexibel och har möjlighet att resa samt ta kundkontakt och arbeta onsite vid behov, vilket är avgörande för att upprätthålla goda relationer och framgångsrika projekt. Du har lätt att samarbeta med andra och kan bidra med en god stämning i enheten. Vi är ett tekniskt team som alltid ställer upp för varandra och hjälper till där det behövs, vi tror att du delar vår glädje i att sprida kompetens till kollegor och hjälpa varandra framåt. Du är strukturerad i ditt arbete och har en stark förmåga att uttrycka dig i tal och skrift, både på svenska och engelska.\n\nVi förstår att du kanske inte har erfarenhet inom alla dessa områden nedan, men vi värdesätter din expertis inom flera av dem.\n\nKvalifikationer \n\n * Minst 5 års erfarenhet av penetrationstestning och/eller Red Teaming. \n * Erfarenhet av att skriva uttömmande tekniska rapporter och presentera resultat både för teknisk personal och ledning. \n * Kunskap om relevanta standarder, ramverk och metoder, exempelvis OWASP, MITRE ATT&CK, OSSTMM, PTES, TIBER, NIST och IEC 62443. \n * Stark teknisk grund inom nätverk och infrastruktur (design, struktur, protokoll, samt en förståelse för brandväggar, IDS/IPS, lastbalanserare och lagringslösningar). \n * God operativsystemskunskap (Linux och Windows) och vana vid virtualisering/containers. \n\nMeriterande \n\n * Gärna certifieringar som OSCP, SANS/GCIA/GPEN, CREST/Red Team-certifieringar, ISC2 eller liknande, då dessa efterfrågas av våra kunder. \n * Erfarenhet av Red Team, TIBER, scenariobaserade tester och hotaktörsemulering. \n * Djup AD- och Windows-internals-kunskap (kerberos, trusts, GPO, LSASS, SID-history) \n * Cloud-security: praktisk erfarenhet av AWS/Azure/GCP säkerhetsarkitektur, IAM, och moln-attacker (inkl. IaC: Terraform/ARM). moln-certifieringar (AWS-CSP/Azure-Security). \n * Web-/applikationssäkerhet och erfarenhet av avancerade web-verktyg (t.ex. Burp Suite). \n * Erfarenhet inom AI LLM. \n * Erfarenhet av OT-säkerhet/ICS, CAN-buss (inom automotive) eller andra industrisystem. \n * Trådlös kommunikation (Wi-Fi, BT, NFC, radio) och IoT-säkerhet. \n * Kompetens inom hårdvara/ embedded (PCB, JTAG, UART, CAN) för automotive/IoT-tester. \n * Programmering, scripting (Python, PowerShell, Bash) och erfarenhet av exploit-utveckling \n * Reverse engineering & malware analysis (IDA, Ghidra, dynamisk analys) - meriterande för avancerade uppdrag. \n * Säker kodgranskning och kännedom om OWASP ASVS / Secure SDLC. \n * Erfarenhet av lagringslösningar, lastbalanserare och avancerade nätverksarkitekturer. \n\n \n\nDå våra tjänster ofta innebär arbete som omfattas av försvarssekretess krävs det att du genomför och godkänns i en säkerhetsprövning med eventuell registerkontroll.\n\nLåter det intressant? Hör av dig till oss eller skicka in din ansökan. Urval sker löpande.\nVill du veta mer om hur det är att arbeta hos oss? Kolla in våra karriärsidor!",
+        "url": "https://www.aplitrak.com/?adid=aC5oZWRlbmdyZW4uMzk3MTQuMzEwMUBzYWFiLmFwbGl0cmFrLmNvbQ",
+        "published": "2025-10-17T17:54:31",
+        "deadline": "2025-11-14T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": true,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 80
     },
     {
         "id": "30127328",
