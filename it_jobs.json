@@ -315,21 +315,6 @@
         "relevance_score": 100
     },
     {
-        "id": "29887068",
-        "title": "Software Flow Developer",
-        "employer": "SiNIX Flow AB",
-        "location": "Göteborg",
-        "description": "We are now looking for more colleagues who has previously taken an active part in building and improving CI/CD systems and are familiar with some related practices such as provisioning, delivery flows, build systems, repository management, data management and data visualization. We learn, share knowledge and always strive to create and deliver the best solutions to our customer.\nAs we have a great range of customers demanding our skills it gives a good opportunity for you to discover many different solutions and technologies. Most of the time, you will be working together with colleagues from SiNIX, at the customer or in one of our teams.\nOur customers trust in us and we work very closely with them. In the partnership, we guide them to the solutions that supports them in the best possible way.\nOur mission in SiNIX Flow -  is to make software development smooth and efficient. An environment where you as a developer get fast feedback through intuitive built pipelines and continuous integration.\nWe are looking for persons with a few years of year's experience in CI/CD, DevOps etc BUT most importantly - are interested in making software development smooth and efficient.\nIt´s good if you have:\nA Bachelor or Master's degree in Computer Science or equivalent.\nExperience in CI/CD pipeline design.\nExperience in IaC.\nExperience in working with Docker and Kubernetes.\nExperience with different cloud providers.\nScripting/coding in for example Python, but good to have C++, Golang etc.\nWe offer:\nInteresting assignments\nGreat and skilled colleagues\nLots of fun and learning\nWe are a Göteborg based company, but have customers outside the region.\nAt SiNIX, we prioritize the value of our colleagues by creating memorable experiences and sharing skills. We empower our employees with choices in training, vacation time, and flexible salaries, fostering a supportive and thriving work environment. Our aim is to inspire ongoing growth and development, making success a shared journey.",
-        "url": "https://jobs.sinix.se/",
-        "published": "2025-08-07T13:13:40",
-        "deadline": "2026-01-31T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": true,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "30204205",
         "title": "Senior Embedded Software Application Engineer - Thermal Management",
         "employer": "Volvo Business Services AB",
@@ -480,21 +465,6 @@
         "relevance_score": 100
     },
     {
-        "id": "30126240",
-        "title": "Senior Javautvecklare till teknikbolag i framkant – Etteplan Göteborg",
-        "employer": "Etteplan Sweden AB",
-        "location": "Göteborg",
-        "description": "På Etteplan samlar vi människor och teknik för att förändra saker till det bättre. Vi är ett internationellt teknikbolag med stark lokal närvaro i Sverige —här får du arbeta i team med riktigt vassa kollegor och kunder i framkant.\n\n\n\nRollen i korthet\n\nVi söker en Senior Javautvecklare  som vill bygga robusta, skalbara lösningar för komplexa system i en miljö där driftsäkerhet, prestanda och säkerhet är centrala. \n\nDet här kommer du att göra\n\n - Designa, utveckla och optimera Java mjukvara inom sensor utveckling\n - Sätta upp och förvalta CI/CD‑flöden för snabb och säker leverans\n - Arbeta med testautomatisering och kvalitetssäkring end‑to‑end\n - Delta i systemintegration och verifiering av komplexa system\n - Samarbeta nära med olika utvecklingsteam\nDin profil\n\nVi söker dig som är lösningsorienterad, strukturerad och har ett genuint teknikintresse. Du trivs i en miljö där du får ta ansvar och bidra till både tekniska lösningar och teamets utveckling.\n\nVi tror att du har:\n\n\n - Civil- eller högskoleingenjörsexamen inom data, IT, elektro eller motsvarande\n\n - 5–10 års erfarenhet av Java-utveckling i större/systemkritiska miljöer\n\n - God vana av CI/CD och testautomatisering\n\n - Förståelse för mikroarkitektur, API:er och systemintegration\n\n - Mycket goda kunskaper i svenska och engelska\n\nMeriterande erfarenheter:\n\n\n - Sensor- eller telekomsystem\n\n - Säkerhetsklassade miljöer eller informationssäkerhetsarbete\nSäkerhet & sekretess\n\nFör den här rollen krävs genomförd och godkänd säkerhetsprövning samt svensk medborgarskap. \n\n\n\nVi ser fram emot att höra från dig! Ansök redan idag och låt oss tillsammans skapa innovativa lösningar för en smartare framtid.\r\n\n\nEtteplan är ett ledande ingenjörsföretag som formar framtidens industrier. Med en dynamisk och inkluderande arbetskultur, erbjuder vi spännande uppdrag, mångfaldiga kundrelationer och en miljö där din ambition får blomma. Vi är över 700 teknikspecialister i Sverige som brinner för teknik och människor. Tillsammans formar vi framtidens innovationer och utveckling inom en global affärsmiljö. Hos oss finns många möjligheter för dig som vill växa och utvecklas i en framåtsträvande organisation.",
-        "url": "https://emp.jobylon.com/applications/jobs/315749/create/?utm_source=ams&utm_medium=promotionserializer",
-        "published": "2025-10-09T13:49:51",
-        "deadline": "2025-11-02T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "30110481",
         "title": "Technical Lead ",
         "employer": "Tata Technologies Nordics AB",
@@ -538,6 +508,21 @@
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 90
+    },
+    {
+        "id": "29887068",
+        "title": "Software Flow Developer",
+        "employer": "SiNIX Flow AB",
+        "location": "Göteborg",
+        "description": "We are now looking for more colleagues who has previously taken an active part in building and improving CI/CD systems and are familiar with some related practices such as provisioning, delivery flows, build systems, repository management, data management and data visualization. We learn, share knowledge and always strive to create and deliver the best solutions to our customer.\nAs we have a great range of customers demanding our skills it gives a good opportunity for you to discover many different solutions and technologies. Most of the time, you will be working together with colleagues from SiNIX, at the customer or in one of our teams.\nOur customers trust in us and we work very closely with them. In the partnership, we guide them to the solutions that supports them in the best possible way.\nOur mission in SiNIX Flow -  is to make software development smooth and efficient. An environment where you as a developer get fast feedback through intuitive built pipelines and continuous integration.\nWe are looking for persons with a few years of year's experience in CI/CD, DevOps etc BUT most importantly - are interested in making software development smooth and efficient.\nIt´s good if you have:\nA Bachelor or Master's degree in Computer Science or equivalent.\nExperience in CI/CD pipeline design.\nExperience in IaC.\nExperience in working with Docker and Kubernetes.\nExperience with different cloud providers.\nScripting/coding in for example Python, but good to have C++, Golang etc.\nWe offer:\nInteresting assignments\nGreat and skilled colleagues\nLots of fun and learning\nWe are a Göteborg based company, but have customers outside the region.\nAt SiNIX, we prioritize the value of our colleagues by creating memorable experiences and sharing skills. We empower our employees with choices in training, vacation time, and flexible salaries, fostering a supportive and thriving work environment. Our aim is to inspire ongoing growth and development, making success a shared journey.",
+        "url": "https://jobs.sinix.se/",
+        "published": "2025-08-07T13:13:40",
+        "deadline": "2026-01-31T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": true,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
     },
     {
         "id": "29747836",
