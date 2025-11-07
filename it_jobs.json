@@ -165,6 +165,21 @@
         "relevance_score": 100
     },
     {
+        "id": "30226296",
+        "title": "Market Developer Polyolefins ",
+        "employer": "Telko Sweden AB",
+        "location": "Göteborg",
+        "description": "📌Location: Sweden \n📅 Application Deadline: 20.11.2025\n🔗 www.telko.com\nWe are looking for a skilled Market Developer Polyolefins to elevate our growth to new heights.\n \nWhy Telko?\nTelko is more than a distributor, we are a sustainable growth partner for various industries. We combine strong technical expertise, sustainability-driven thinking, and customer-centric solutions to help businesses succeed. With operations in 18 countries and a broad portfolio in plastics, chemicals, and lubricants, we are a trusted link between leading global principals and local industries.\nWe operate with the agility of a mid-sized company and the stability of a long-established corporation. At Telko, you’ll join an open, international, solution-oriented culture that encourages initiative and growth.\n Your Key Responsibilities\nIdentify and initiate new business opportunities, including emerging applications and profitable market segments \nAgree and follow monthly schedule of joint customer visits to provide technical and commercial support. \nProvide technical support during joint customer visits, enhancing credibility and solution-oriented discussions. \nCollaborate closely with Sales teams to align campaigns, share insights, and jointly pursue growth opportunities. \nDefine value propositions and growth potential for existing and new products, supporting strategic focus.\nDevelop technical sales documents (presentations, brochures) in cooperation with Marketing team \nSupport application development initiatives, leveraging polymer knowledge to create value-added solutions. \nParticipate in trade fairs and industry events to identify new developments and customer needs. \nConduct market research and competitor analysis to anticipate trends and adjust strategies proactively. \n\n \nWhat We’re Looking For\n-         Deep Industry Knowledge\n*    Profound understanding of polyolefins (PE, PP) markets, applications, and value chains.\n*    Awareness of sustainability trends and green plastics impact, including recycling and circular economy initiatives. \n-         Strategic Market Development\n*  Ability to identify and initiate new business opportunities and profitable market segments.\n*  Develop and execute sales strategies, pricing plans, and marketing campaigns aligned with long-term growth objectives. \n-         Customer-Centric Approach\n* Strong capability to support industrial customers in sustainability projects.\n*  Skilled in building long-term relationships and providing technical and commercial solutions. \n-         Sales & Negotiation Excellence: Proven track record in B2B sales and negotiation with complex accounts.\n-         Communication & Presentation: Ability to convey technical and commercial value propositions clearly to diverse stakeholders.\n-         Entrepreneurial Mindset: Business sense to spot trends and act proactively in competitive markets.\n-         Degree in Plastics Technology, Chemical Engineering, or related field.\n-         Fluency in English; additional European languages are advantageous. \n \nWhat We Offer\nA role in a dynamic, growing company with world-class principles in engineering plastics.\nOnboarding and further development of top-level selling and negotiation techniques and skills.\nTechnical trainings on the latest developments in the polymer industry, including sustainable plastics solutions.\nA positive and autonomous work environment.\nA great atmosphere in a highly engaged and top-performing Engineering team.\nTelko Campus offers a variety of development programs for our employees, including leadership skills, mentoring programs, English courses, sales skills and more.\n\n \nInterested? Submit your application and CV by 20.11.2025.\nWelcome to Unleash the Telko Effect with us!",
+        "url": null,
+        "published": "2025-11-06T10:12:25",
+        "deadline": "2025-11-20T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
         "id": "30226640",
         "title": "Robotics Programmer",
         "employer": "Tata Technologies Nordics AB",
@@ -383,21 +398,6 @@
         "url": "https://volvo-car-corporation.contactrh.com/jobs/9669/43745269",
         "published": "2025-10-28T12:25:02",
         "deadline": "2025-11-07T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
-        "id": "30193920",
-        "title": "Senior DevOps Engineer IRC278516",
-        "employer": "GlobalLogic Sweden AB",
-        "location": "Göteborg",
-        "description": "Job Description\nLevel of knowledge: intermediate/advanced\nJenkins\nMake, Bash, PowerShell, Windows CMD interface, Groovy(Pipeline scripting), Python, Docker\nBasic electronics knowledge, hardware, some experience in low-level communications protocols(UART, CAN)\nGood networking understanding, starting from protocols(basic knowledge) to ability to configure different networks in Windows and Linux environments, the overall experience in network topology\nDevops experience in the Automotive sector is a must\nBasic knowledge and preferably some experience with C/C++\nGit\\Gerrit\nLinux, other Unix-like, Windows\n\nWould be a BIG Plus:\nBasic Vector toolkit experience(Canoe, Vector hardware configuration)\nExperience with Microcontrollers\nSome knowledge about Static code analysis tools\nOverall ability to learn quickly\n\nWould be a Plus:\nAzure cloud experience\nNetwork Perimeter Security (proxy, VPNs, Firewalls)\n\nJob Responsibilities\nMain responsibilities:\nAutomation of the target process(build and automated testing on remote hardware setup)\nMaintaining CI machinery availability(Build nodes, and mentioned remote hardware for example)\nDiagnosing process interrupts(Like build issues for example making logs understanding and hardware issues diagnostics) and preferably the ability to resolve issues with automated solutions\nManagement of building the created solution\nIntegration of solutions with an already working system\n\nThe deliveries will be tested and tracked to optimize the end-to-end flow over time.\n Together they will drive the technical analysis/triage of found deviations with high severity.\nOften business trips are expected.\nDepartment/Project Description\nThe project aim is to optimize, extend with new features Automotive Solution. Our clients are Tier 1s and OEMs from Europe and USA and development is targeted to Automotive Solution what will be deployed in newest cars. The project is considered as technical excellence and we are paying huge attention to technical challenge motivation of our team members as well as excellence compensation.\nAt our project we are building a computer-in-the-car architecture - key for enabling innovation within areas such as advanced connectivity, machine learning and autonomous drive.\nChallanging project to setup infrastructure form scratch for auotmotive solutions for European cars vendors.\nKnowledge and creativity are welcome.\nSkill Category\nDevOps",
-        "url": "https://www.globallogic.com/pl/careers/senior-devops-engineer-irc278516/",
-        "published": "2025-10-27T16:39:25",
-        "deadline": "2025-11-06T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
         "source": "JobTech",
