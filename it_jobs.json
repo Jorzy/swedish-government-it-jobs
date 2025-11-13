@@ -45,6 +45,21 @@
         "relevance_score": 100
     },
     {
+        "id": "30256442",
+        "title": "Data Engineer",
+        "employer": "Explipro Group AB",
+        "location": "Göteborg",
+        "description": "Are you passionate about transforming data into scalable, secure, and intelligent solutions? We are hiring Data Engineers to join exciting projects at the forefront of analytics and innovation in the automotive and mobility sectors.\nWhat You’ll Do:\n• Design, build, and maintain scalable batch and streaming data pipelines. \n• Engineer robust ETL workflows and medallion architecture-based data lakehouses. \n• Develop and deploy data solutions using Python, PySpark, SQL, Airflow, and Databricks. \n• Use and manage tools across Azure, AWS, Docker, and Linux environments. \n• Operate with CI/CD principles using Git, DevOps, and Infrastructure as Code (IaC). \n• Ensure data quality, security, and system performance via monitoring and validation. \n• Work on advanced BI dashboards in Power BI.\n\nWhat we are looking for:\n• 6+ years of data engineering experience for senior roles; more for principal roles.\n• Strong coding background in Python, SQL, and Shell scripting.\n• Proficiency with cloud services like Azure Data Factory, AWS (Redshift, EMR, S3).\n• Experience in data modeling and business intelligence.\n• Comfortable with DevOps workflows and data platform operations.\n• Strong communication skills and team-first mindset.\n• Fluent in English\n \n \nNice to Have:\n• Experience with Power BI dashboards and BI project leadership.\n• Familiarity with automotive data systems.\n• Hands-on experience with regression, security, and system upgrade testing.\n\n \nWhy Work With Us?\nYou'll contribute to future-facing initiatives in autonomous driving, electric mobility, and global BI solutions. Whether it's within a startup environment or a powerhouse like the big automotive companies in Gothenburg , your work will directly impact the vehicles and technologies of tomorrow. Ready to make a data-driven difference? Apply now and power the future with us.",
+        "url": "https://career.explipro.com/jobs/6744935-data-engineer?promotion=1710111-arbetsformedlingen",
+        "published": "2025-11-12T15:05:13",
+        "deadline": "2025-11-29T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
         "id": "30224848",
         "title": "System Requirements Engineer IRC280777",
         "employer": "GlobalLogic Sweden AB",
@@ -160,6 +175,21 @@
         "deadline": "2026-02-20T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
+        "id": "30257224",
+        "title": "Ignition Automation Developer",
+        "employer": "SAAB AB",
+        "location": "Göteborg",
+        "description": "Vi tror att framsteg och möjligheter skapas bäst tillsammans. Välkommen till en plats där samarbete gör skillnad. \n\n \n\nDin roll\n\nSAAB är på en resa mot Industri 4.0 och vi behöver stärka teamet med en utvecklare som arbetar med vår Ignition plattform. Att ha bakgrundskunskap inom IIOT, PLC, HMI och SCADA är meriterande för att bygga lösningar mot Saabs olika enheter/ affärsområden. På sektionen jobbar idag cirka 15 personer och verksamheten är fördelad både geografiskt och över ett antal olika team. På arbetsplatsen finns en prestigelös kultur där man är professionell och engagerad, respekterar, stöttar och lär av varandra, resultat når vi tillsammans som ett team.\n \n\nSom Industrial Automation Engineer kommer du att arbeta i ett DevOps-team och ha en viktig roll inom framförallt utveckling men även förvaltning av Ignition plattformen. I din nya roll kommer du arbeta nära Service Manager, Scrum master, Solution Architects och Data Engineers. För att trivas i den här rollen behöver du ha ett intresse för industriella processer och produktionsmiljöer samt ett genuint intresse för utveckling och support av mjukvara inom IIOT/SCADA-området. Du kommer även att få hantera affärsmässiga krav från våra internkunder och verksamhetsprocesser.\n\n \n\nDin profil\n\nVi letar efter en noggrann och metodisk problemlösare, gärna med minst 5 års erfarenhet inom området, som är van vid att ta ansvar och arbeta självgående. Du har starka analytiska färdigheter, en god förmåga att strukturera och dokumentera ditt arbete samt ett öga för detaljer. Kommunikation är avgörande för oss, och vi värdesätter därför din sociala kompetens och förmåga att arbeta i team.\n\n \n\nVi tror att du som söker har:\n\n * Starka kunskaper inom Java-programmering för utveckling av skräddarsydda moduler och komponenter i Ignition.\n * Djupgående kunskap om Ignition-plattformens olika komponenter, inklusive moduler, klienter och databasintegration.\n * Färdigheter inom SQL för att skapa och hantera databaser samt förståelse för hur man integrerar databaser med Ignition-projekt.\n * Kunskap om webbteknologier som HTML, CSS, JavaScript och RESTful API för att skapa responsiva och användarvänliga gränssnitt i Ignition.\n * Förståelse för vanliga industriella kommunikationsprotokoll som OPC UA, Modbus och MQTT för att integrera olika enheter och system med Ignition.\n\n * Erfarenhet av att arbeta med SCADA-system och förståelse för dess arkitektur och funktioner.\n * Erfarenhet av HighByte Intelligence Hub är meriterande men inte ett krav.\n\n \n\nVi förväntar oss även att du har god förståelse för versionshanteringsverktyg, såsom Git, för att effektivt hantera källkod och samarbeta med andra utvecklare. Du har vana att utföra enhetstester och felsökning av kod för att säkerställa att Ignition-projekt fungerar felfritt och är robusta. En stark förståelse för säkerhetsprinciper och bästa praxis är avgörande för att skydda projekt mot potentiella säkerhetshot. Dessutom har du förmågan att skriva tydlig och omfattande dokumentation för både kod, konfiguration och användning av Ignition-projekt, vilket underlättar både underhåll och vidareutveckling.\n\n \n\nBefattningen kräver att du genomgår och godkänns enligt vid var tid gällande bestämmelser för säkerhetsskydd. För befattningar där Saab har krav på säkerhetsklassinplacering kan, i förekommande fall, medföra krav på visst medborgarskap.\n\n \n\n \n\nVad du blir en del av\n\nUpptäck oändliga möjligheter. Anta utmaningar, skapa smarta innovationer och uppgradera dina förmågor. Det här är en plats för kluriga tänkare, modiga pionjärer och alla däremellan. Tillsammans uppnår vi det extraordinära, var och en tar med sitt unika perspektiv. Varje bidrag räknas.\n\n \n\nSaab är ett ledande försvars- och säkerhetsföretag med uppdrag att hjälpa nationer att skydda sin befolkning och bidrar till trygghet för människor och samhällen. Med 26,100 talangfulla medarbetare utvecklar Saab teknik och lösningar för en säkrare och mer hållbar värld.\n\n \n\nSaab utvecklar, tillverkar och underhåller avancerade system inom flygteknik, vapen, ledningssystem, sensorer och undervattenssystem. Saab har sitt huvudkontor i Sverige men en global verksamhet där Saab är en del av många nationers försvarsförmåga. Läs mer om oss här\n\n \n\nOm du är intresserad av vilka förmåner som du kan ta del av som anställd på Saab i Sverige, kan du läsa om dem här\n\nVänligen observera att vi arbetar med löpande urval och tjänsten kan komma att tillsättas innan sista ansökningsdatum har gått ut.",
+        "url": "https://www.aplitrak.com/?adid=cy5qdW5nZXZpLjIyNTY2LjMxMDFAc2FhYi5hcGxpdHJhay5jb20",
+        "published": "2025-11-12T16:22:04",
+        "deadline": "2025-11-26T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": true,
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 100
@@ -285,21 +315,6 @@
         "relevance_score": 100
     },
     {
-        "id": "30203526",
-        "title": "Junior OS Platform Developer",
-        "employer": "Ericsson AB",
-        "location": "Göteborg",
-        "description": "Ericsson AB\r\n\r\nJoin our Team\n\nJoin us and work with the most popular Microwave solution in the world!\nAre you passionate about technology and eager to start your career in embedded software development? We are looking for a motivated junior developer to join our Operating System Platform team, working on Ericsson’s renowned MINI-LINK Microwave Radio Link products. This is your opportunity to learn from experienced colleagues, contribute to real products, and grow your skills in a supportive, diverse environment.\nWe actively leverage artificial intelligence technologies in our daily work to improve both the efficiency and quality of our software development. By adopting AI-driven approaches, our teams can dedicate more time to innovation and creative problem-solving, resulting in more meaningful and rewarding work experiences.\n\nWhat You Will Do\n  *  You will work in a cross-functional, agile team developing and maintaining embedded software for our MINI-LINK products.\n  *  Participate in all stages of the software life cycle: planning, requirement analysis, design, implementation, integration, and testing.\n  *  Collaborate with other product development and continuous integration teams.\n  *  Take on tasks of increasing complexity as you grow in competence.\n  *  Contribute to maintaining and improving build systems, performing board bring-up on new products, and upgrading products to the latest Linux (Yocto-based) versions.\n\n\nWhat We Offer\nYou’ll enjoy an inspiring, flexible working environment that supports a healthy work-life balance, surrounded by a diverse team from all over the world.\nYou will get daily opportunities to learn and develop your skills in embedded Linux, system-level programming, and hardware interaction. As you grow with us, you’ll find clear career paths and plenty of chances to advance into roles such as senior developer, architect, or product owner.\nOn top of that, you’ll have the opportunity to work with cutting-edge AI tools that make your work more efficient and rewarding, allowing you to focus on what’s interesting and meaningful in your role\n\nWho You Are\nMust-Have Skills:\n  *  MSc or BSc in a technical discipline, or equivalent practical experience.\n  *  0–3 years of experience in software development and architecture (recent graduates are encouraged to apply).\n  *  Basic understanding of operating system concepts (e.g., scheduling, memory management, I/O)\n  *  Programming experience in C\n  *  Motivated to explore and investigate new domains\n\n\nNice-to-Have Skills (can be learned on the job):\n  *  Familiarity with build systems (Yocto, Make, CMake)\n  *  Exposure to Linux, bootloaders, or driver development\n  *  Understanding of low-level protocols (I2C, SPI)\n  *  Experience with tools like Git, Gerrit, Jenkins\n  *  Knowledge of TCP/UDP/IP networks\n  *  Interest in containerization and modern software development practices\n\n\nPersonal Attributes:\n  *  Motivates and inspires colleagues.\n  *  Collaborative team player who adapts readily to change.\n  *  Passionate about excellence and continuous improvement.\n  *  Good communication skills in English\n\n\nApplication\n\nWe look forward to receiving your application, including your CV/resume in English.\nApplication deadline: 14th of November\nLocation: Gothenburg, Sweden\nUnit: BNEW RTE TP MW SW Radio-Link 1\nWork setup: We aim for 60% on-site presence at our office.\nPlease note that we do not accept or process applications submitted via email.",
-        "url": "https://ericsson-ab.contactrh.com/jobs/9669/43748717",
-        "published": "2025-10-29T15:25:03",
-        "deadline": "2025-11-12T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "30203393",
         "title": "Senior Software Developer  Cybersecurity & System Architecture",
         "employer": "Globedesk Sverige AB",
@@ -353,21 +368,6 @@
         "url": "https://jobsemea.syntronic.com/jobs/6354252-senior-mjukvaruutvecklare-till-syntronic-i-goteborg?promotion=1703515-arbetsformedlingen",
         "published": "2025-11-07T08:23:02",
         "deadline": "2025-12-08T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": true,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
-        "id": "30204071",
-        "title": "Mjukvaruutvecklare till avancerade sensorsystem",
-        "employer": "SAAB AB",
-        "location": "Göteborg",
-        "description": "Vill du påverka och göra skillnad på riktigt? Här bidrar du till att skapa trygghet för människor och samhällen. Det du gör spelar roll.\n\nHos oss bidrar du till att skapa trygghet för människor och samhällen - på riktigt. Här utvecklar du teknik som gör skillnad, i ett team där kunskap, innovation och samarbete står i centrum.\n\nDin roll\n\nSom mjukvaruutvecklare blir du en del av ett engagerat team som utvecklar programvara för signalbehandling och radarstyrning i avancerade sensorsystem för flygande plattformar.\n\nDu kommer att arbeta i en agil utvecklingsmiljö med stort utrymme för teknisk utveckling och personligt ansvar. Här får du möjligheten att påverka hela utvecklingskedjan - från idé till färdig lösning.\n\nDin profil\n\nVi söker dig som vill växa tillsammans med oss och bidra med både teknisk kompetens och drivkraft. Vi tror att du har:\n\n* Högskole- eller civilingenjörsexamen inom datateknik, elektroteknik, teknisk fysik eller motsvarande.\n\n* Goda programmeringskunskaper i exempelvis C++, C eller Java.\n\n* Starka matematiska färdigheter, gärna med erfarenhet av signalbehandling eller tracking.\n\n* Förmåga att arbeta i team men också kan arbeta självständigt och ta initiativ.\n\n* God kommunikativ och social förmåga - du gillar att samarbeta och dela kunskap.\n \nDet är meriterande om du har erfarenhet av agila arbetssätt och ett genuint intresse för teknik och problemlösning.\nBefattningen kräver att du genomgår och godkänns enligt vid var tid gällande bestämmelser för säkerhetsskydd. För befattningar där Saab har krav på säkerhetsklassinplacering kan, i förekommande fall, medföra krav på visst medborgarskap.\n\nVad du blir en del av\n\nUpptäck oändliga möjligheter. Anta utmaningar, skapa smarta innovationer och uppgradera dina förmågor. Det här är en plats för kluriga tänkare, modiga pionjärer och alla däremellan. Tillsammans uppnår vi det extraordinära, var och en tar med sitt unika perspektiv. Varje bidrag räknas.\n\nSaab är ett ledande försvars- och säkerhetsföretag med uppdrag att hjälpa nationer att skydda sin befolkning och bidrar till trygghet för människor och samhällen. Med 26,100 talangfulla medarbetare utvecklar Saab teknik och lösningar för en säkrare och mer hållbar värld.\n\nSaab utvecklar, tillverkar och underhåller avancerade system inom flygteknik, vapen, ledningssystem, sensorer och undervattenssystem. Saab har sitt huvudkontor i Sverige men en global verksamhet där Saab är en del av många nationers försvarsförmåga. Läs mer om oss här",
-        "url": "https://www.aplitrak.com/?adid=YS5vYmVyZy4xOTM0MS4zMTAxQHNhYWIuYXBsaXRyYWsuY29t",
-        "published": "2025-10-29T16:40:32",
-        "deadline": "2025-11-12T23:59:59",
         "is_consultant": false,
         "is_meaningful": true,
         "source": "JobTech",
@@ -643,6 +643,21 @@
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 80
+    },
+    {
+        "id": "30256653",
+        "title": "Project Assistant in Modelling Digital Twin in Drinking Water Systems",
+        "employer": "Chalmers Tekniska Högskola AB",
+        "location": "Göteborg",
+        "description": "If you are interested in drinking water and appreciate modelling drinking water distribution networks, this project is for you. You will work in an academic environment within ongoing research projects, collaborating closely with the drinking water industry.\n\nAbout us \nThe Water Environment Technology (WET) division at the Department of Architecture and Civil Engineering conducts research primarily in drinking water, wastewater, and stormwater systems. In the research area of drinking water, our focus includes flow modelling and risk assessment in distribution networks, water reuse and conservation, laboratory analytical chemistry, and risk management. This project specifically concentrates on flow modelling and contaminant transport within the distribution network.\n\nJob description\n\nThe project assistant will support the development of a decision support system based on a digital twin of the drinking water network. This Digital twin system will be used to detect leaks, that later can lead to pipe breaks, and also for emergency preparedness preventing and detecting system attacks. Key aspects include flow modelling of the network under normal and emergency conditions to stress the system and assess how the digital twin can aid decision-making from these scenarios.\n\nWho we are looking for \nApplicants must hold a MSc degree (or higher) in Civil Engineering, Environmental Engineering, or a closely related field, including courses in hydraulics/fluid mechanics. Knowledge of Python programming, machine learning (ML) or AI is a plus. Experience in hydrodynamic modelling of water systems is required, and familiarity with EPANET or similar software is an advantage. Understanding written and spoken Swedish is also necessary.\n\nContract terms  \nThe position is a temporary full-time employment for a maximum of 360 days. The desired start date is 15 December 2025, and the end date is 31 October 2026.\n\nWhat we offer \n\n• Read more about  working at Chalmers  and our benefits  for employees. \n\n\n• A dynamic and inspiring working environment in the coastal city of Gothenburg. \n\nChalmers is dedicated to improving gender balance and actively works with equality projects, such as the GENIE Initiative for gender equality and excellence. We celebrate diversity and consider equality and inclusion as fundamental aspects of all our activities. \n\nApplication procedure \nThe application should be written in English be attached as PDF-files, as below. Maximum size for each file is 40 MB. Please note that the system does not support Zip files. \n\nCV \nPersonal letter \nOther documents (optional): \n• Copies of completed education, grades etc.\n\nUse the button at the foot of the page to reach the application form.  \n\nPlease note: The applicant is responsible for ensuring that the application is complete. Incomplete applications and applications sent by email will not be considered. Contact details to references will be requested after the interview. \n\nApplication deadline: 25 November, 2025\n\nFor questions, please contact: \nProf. Thomas Pettersson\n Department of Water Environment Technology (WET)\n Email: thomasp@chalmers.se\n Phone: +46 (0)31-772 21 27\n\n \n*** Chalmers declines to consider all offers of further announcement publishing or other types of support for the recruiting process in connection with this position. ***  \n\nChalmers University of Technology in Gothenburg conducts research and education in technology and natural sciences at a high international level. The university has 3100 employees and 10,000 students, and offers education in engineering, science, shipping and architecture. With scientific excellence as a basis, Chalmers promotes knowledge and technical solutions for a sustainable world. Through global commitment and entrepreneurship, we foster an innovative spirit, in close collaboration with wider society. \nChalmers was founded in 1829 and has the same motto today as it did then: Avancez – forward.",
+        "url": "https://www.chalmers.se/om-chalmers/arbeta-hos-oss/lediga-tjanster/?rmpage=apply&rmjob=14378&ref=arbetsformedlingen.se%2Fplatsbanken%2F&utm_medium=talentech_publishing&utm_source=platsbanken",
+        "published": "2025-11-12T15:30:02",
+        "deadline": "2025-11-25T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": true,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
     },
     {
         "id": "30250377",
