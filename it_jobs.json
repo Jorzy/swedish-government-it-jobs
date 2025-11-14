@@ -195,21 +195,6 @@
         "relevance_score": 100
     },
     {
-        "id": "30146336",
-        "title": "CNC FRÄSARE/ PROGRAMMERARE",
-        "employer": "Ingeniörsfirma Bågenfelt & Hellström AB",
-        "location": "Göteborg",
-        "description": "VI SÖKER CNC FRÄSARE/ PROGRAMMERARE!\nVi har idag en mycket fin och modern cnc maskinpark med en växande organisation som nu söker nya medarbetare!\nVi arbetar med Mazak cnc maskiner kunskap i styrsystem Mazatrol eller Master CAM är meriterande.\n\n\nOm oss:\nVi är ett ledande verkstadsföretag inom Fräsning, svarvning, laserskärning, bockning, svetsning, maskinbearbetning samt automation i Västra Frölunda/ Göteborg. Vi söker medarbetare som inte är rädda för nya utmaningar med driv och brinnande intresse för att växa med oss!!\n\n\nArbetsbeskrivning\nVi söker dig som har\n* Erfarenhet och verkstadsvana inom cnc fräsning, programmering.\n* Tekniskt intresse och kompetens\n* Initiativförmåga, kvalitetsfokus, noggrannhet, produktivitetsfokus och kan jobba självständigt",
-        "url": "www.bagenfelt.se",
-        "published": "2025-10-14T19:00:05",
-        "deadline": "2025-11-13T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "30243671",
         "title": "Omda Incident - Back End Developer",
         "employer": "Omda AB",
@@ -323,21 +308,6 @@
         "url": null,
         "published": "2025-10-29T15:12:50",
         "deadline": "2025-11-28T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
-        "id": "30169261",
-        "title": "Software Developer",
-        "employer": "Alten Sverige AB",
-        "location": "Göteborg",
-        "description": "We are looking for a Software Developer with strong experience in Model-Based Development for an advanced R&D assignment within the automotive industry. You will work on developing core functionalities for next-generation vehicle platforms, using Simulink and AUTOSAR-compliant workflows.\n\n \n\nYour profile\nA degree in Mechatronics, Electrical, Computer or Automotive Engineering\nAt least 3 years of experience in model-based software development within the automotive domain\nExcellent knowledge of MATLAB / Simulink, Stateflow, and Embedded Coder\nDeep understanding of AUTOSAR architecture, including SW-Cs, RTE interfaces and BSW integration\nExperience generating production-ready AUTOSAR-compliant code from Simulink models\nFamiliarity with Simulink libraries, custom blocks and S-Functions\nAbility to design modular, reusable and scalable software components\nA structured, analytical and collaborative way of working\nMeritorious experience includes functional safety (ISO 26262), CI/CD integration for MBD, and performance optimization of Simulink models.\n\r\n\nWhat you will do\n\nAs a Model-Based Software Developer, you will be responsible for designing and implementing Simulink models that enable functional growth in the vehicle’s core computing system.\n\n \n\nTasks include:\nDeveloping new features in Simulink / Stateflow aligned with AUTOSAR standards\nDesigning and structuring application-layer software components (SW-Cs)\nConfiguring and generating AUTOSAR-compliant C-code using Embedded Coder\nEnsuring traceability from requirements to model design\nPerforming peer reviews and continuous model improvements\nSupporting integration by delivering well-structured, verified models\n\n \n\nDeliveries\nSimulink models aligned with AUTOSAR architecture and development guidelines\nModular and reusable design ensuring scalability and maintainability\nVerified and production-ready generated code through Embedded Coder\nDocumentation according to project standards and model review results",
-        "url": "https://www.alten.se/career/15160-Software-Developer-Simulink",
-        "published": "2025-10-21T10:02:36",
-        "deadline": "2025-11-26T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
         "source": "JobTech",
