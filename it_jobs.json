@@ -255,21 +255,6 @@
         "relevance_score": 100
     },
     {
-        "id": "30211147",
-        "title": "Digital Developer",
-        "employer": "Volvo Business Services AB",
-        "location": "Göteborg",
-        "description": ".\r\n\r\nTransport is at the core of modern society. Imagine using your expertise to shape sustainable transport and infrastructure solutions for the future. If you seek to make a difference on a global scale, working with next-gen technologies and the sharpest collaborative teams, then we could be a perfect match. \n\nWho We Are\n\nService Market Logistics (SML), part of Volvo Group Trucks Operations, serves all brands and business areas by managing and optimizing service parts availability and distribution to secure customer uptime. Through our operations, we provide world class service focusing on delivery precision, quality, continuous improvement, cost efficiency and synergies delivering value all the way to our customers. We embrace innovation and new technologies and work with environmental care and sustainability at heart. Our footprint consists of 40 distribution centers and 3,800 employees worldwide, and we strive for an innovative and diverse workplace, exercising the Volvo Group values with high focus on Customer Success. We are Proud to Deliver. Making a Difference. For People. Every Day.  \n\nOur goal is to keep society running. Making sure that food gets to the grocery store, hospitals have electricity, and that people can commute to work. We do that by making sure that Volvo Group trucks, engines, buses, and construction equipment keep running uninterrupted all over the world. Together with other talented people from a diversity of backgrounds and with a wide variety of skills we make sure that spare parts are available when they are needed in a sustainable distribution network with thousands of dealerships. We are now looking for one or several Digital Developers to join our Supply Chain Optimisation team! \n\nWhat you will do? \n\nThe Digital Developer position is part of the SML Supply Chain Optimization (SCO) organization. SCO is the function at Service Market Logistics where we enable customer success through an optimized supply chain from suppliers to customers by balancing service levels, tied-up capital, transport cost and performance. One of the most fun parts of being a part of the SCO team is that we work together with all Truck brands and Business areas. What we do has a direct impact on the satisfaction of our customers. With us, you can push your own professional skills and drive change together with committed people!  \n\nYou will be primarily responsible for the long-term development of the state-of-the-art product, which will maximize value by combining software development skills with supply chain domain knowledge. You will also contribute to the ongoing digitalization with automation solutions on both a smaller and larger scale. Other responsibilities will include ensuring high-quality forecasting of future spare parts demand for Volvo Trucks, Mack Trucks, VCE and Penta.  \n\nTo succeed in this role, we believe you have: \n\n  *  A university Degree in Logistics, Supply Chain Management, Mathematics/Statistics, Computer Science or a related field; or equivalent experience.  \n  *  Experience working with logistics in a complex global supply chain  \n  *  Strong problem solving, research and analytical skills  \n  *  Ability to visualize and tell a story with data that compels stakeholders to understand and take action (PowerBI, etc…).  \n  *  Experience in 1 or more scripting languages (Python, R, Java, Apache Spark, etc...)  \n  *  Knowledge of relational database query languages (SQL)  \n  *  Knowledge of Agile methodology, Microsoft Azure, DevOPs, or software development \n\n\nReady for the next move?\n\nLast application date: 15 November 2025\n\n\n\nWe value your data privacy and therefore do not accept applications via mail. \n\nWho we are and what we believe in \nWe are committed to shaping the future landscape of efficient, safe, and sustainable transport solutions. Fulfilling our mission creates countless career opportunities for talents across the group’s leading brands and entities.\n\nApplying to this job offers you the opportunity to join Volvo Group. Every day, you will be working with some of the sharpest and most creative brains in our field to be able to leave our society in better shape for the next generation. ​We are passionate about what we do, and we thrive on teamwork. ​We are almost 100,000 people united around the world by a culture of care, inclusiveness, and empowerment.",
-        "url": "https://volvo-information-technology-ab.contactrh.com/jobs/9669/43753304",
-        "published": "2025-10-31T11:25:03",
-        "deadline": "2025-11-15T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "30209432",
         "title": "Senior developer (C++)",
         "employer": "Academic Work Sweden AB",
@@ -293,6 +278,21 @@
         "url": null,
         "published": "2025-10-29T15:12:50",
         "deadline": "2025-11-28T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
+        "id": "30169261",
+        "title": "Software Developer",
+        "employer": "Alten Sverige AB",
+        "location": "Göteborg",
+        "description": "We are looking for a Software Developer with strong experience in Model-Based Development for an advanced R&D assignment within the automotive industry. You will work on developing core functionalities for next-generation vehicle platforms, using Simulink and AUTOSAR-compliant workflows.\n\n \n\nYour profile\nA degree in Mechatronics, Electrical, Computer or Automotive Engineering\nAt least 3 years of experience in model-based software development within the automotive domain\nExcellent knowledge of MATLAB / Simulink, Stateflow, and Embedded Coder\nDeep understanding of AUTOSAR architecture, including SW-Cs, RTE interfaces and BSW integration\nExperience generating production-ready AUTOSAR-compliant code from Simulink models\nFamiliarity with Simulink libraries, custom blocks and S-Functions\nAbility to design modular, reusable and scalable software components\nA structured, analytical and collaborative way of working\nMeritorious experience includes functional safety (ISO 26262), CI/CD integration for MBD, and performance optimization of Simulink models.\n\r\n\nWhat you will do\n\nAs a Model-Based Software Developer, you will be responsible for designing and implementing Simulink models that enable functional growth in the vehicle’s core computing system.\n\n \n\nTasks include:\nDeveloping new features in Simulink / Stateflow aligned with AUTOSAR standards\nDesigning and structuring application-layer software components (SW-Cs)\nConfiguring and generating AUTOSAR-compliant C-code using Embedded Coder\nEnsuring traceability from requirements to model design\nPerforming peer reviews and continuous model improvements\nSupporting integration by delivering well-structured, verified models\n\n \n\nDeliveries\nSimulink models aligned with AUTOSAR architecture and development guidelines\nModular and reusable design ensuring scalability and maintainability\nVerified and production-ready generated code through Embedded Coder\nDocumentation according to project standards and model review results",
+        "url": "https://www.alten.se/career/15160-Software-Developer-Simulink",
+        "published": "2025-10-21T10:02:36",
+        "deadline": "2025-11-26T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
         "source": "JobTech",
