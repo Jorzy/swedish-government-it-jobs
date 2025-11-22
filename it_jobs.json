@@ -120,21 +120,6 @@
         "relevance_score": 100
     },
     {
-        "id": "29983430",
-        "title": "Senior DevOps Engineer",
-        "employer": "Irisity AB (publ)",
-        "location": "Göteborg",
-        "description": "About this role \nWe are now looking for a Senior DevOps Engineer for our organization, someone with a deep interest in infrastructure and enabling fast feedback loops for developers by developing continuous integration capabilities. You will belong to a small and passionate team responsible for developing our infrastructure and related technology stack for on premise and cloud deployments; the foundation for our video analytics platform that thousands of cameras across the world are connected to. \nSome of the technologies we use: \n Go and C++ \n  Kubernetes, OpenShift and Docker \n  Kafka, Redis, MongoDB and Postgres \n  Elastic and Grafana \n  Git, CircleCI and ArgoCD \n \nOur company culture is based on freedom and responsibility. For us that means you will be given extensive freedom to make strategic technical decisions while meeting our ambitious standards and making decisions in a responsible way. You will be located at our headquarters in Gothenburg where we are a team with a lot of positive energy and a strong sense of community. \nWho we think you are \nTo be successful in this role, we expect you will bring experience of working with product development and/or solutions that leverage physical or cloud infrastructure. Experience with on premise deployments is a plus. You also need a good understanding of organizational aspects of software development and of how to collaborate efficiently with others. \nRequirements \n At least 4 years of experience working with infrastructure and tooling for applications with high performance requirements. \n  Strong knowledge of multiple of the technologies we use, e.g., OpenShift, Kubernetes, databases and messaging systems. Kubernetes administrator certificate is a plus. \n  Linux administrator knowledge, e.g., knowledge in kernels, different distributions etc. \n  General interest and knowledge in security. \n  A strong desire to collaborate with others and to contribute to team success. \n  Great understanding of both Windows and Linux build environments and toolchains. \n  Excellent communication and organization skills and great personal initiative and drive, with an ability to understand the requirements of different stakeholders, keeping things organized, and making things happen. \n  Proficiency in English. Swedish is a plus but not a requirement. \n  A degree in computer science or software engineering. Alternatively, a combination of other relevant education (formal or self-taught) and experience. \n \n\nAbout Irisity \nAt Irisity, we develop video analytics software for the security industry with profound respect for personal integrity and privacy, focusing on detecting suspicious activity rather than exposing personal identity. Our system excels at the automatic detection of unwanted activity, such as intruders at construction sites at night, or people climbing roofs or breaking windows. We focus on detecting and preventing criminal activity without registering the identity of regular citizens. At sensitive installations such as schools, our system anonymizes all individuals to hide their identity, to make sure that the invasion of privacy is kept at a zero level. This way, our system can detect what happens and alert, leading to reduced crime rates and increased safety without any negative effects on personal privacy. \nIrisity AB (publ) is a public company listed at OMX Nasdaq First North, with headquarters in Gothenburg. We currently employ a staff of 90+ people globally in development, sales, support, and finance. Our R&D department consists of a computer vision / machine learning team together with an excellent group of system architects, designers, and software developers. \nWe are now looking for more skilled, friendly, and passionate people who want to participate in making sure that the camera security industry ends up on the right side of history. \nAs a global company, we value diverse, inclusive teams that can contribute to our team success through their unique perspectives and experiences and backgrounds. \nWe are looking forward to receiving your application. Selection and interviews will be performed continuously until the position is filled. Read more at www.irisity.com",
-        "url": "https://career.irisity.com/jobs/6394507-senior-devops-engineer?promotion=1612570-arbetsformedlingen",
-        "published": "2025-09-03T13:10:25",
-        "deadline": "2026-02-20T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "30257224",
         "title": "Ignition Automation Developer",
         "employer": "SAAB AB",
@@ -148,6 +133,21 @@
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 100
+    },
+    {
+        "id": "30292880",
+        "title": "HIL Test Designer & Developer",
+        "employer": "Quokka AB",
+        "location": "Göteborg",
+        "description": "Do you enjoy turning complex systems into reliable solutions? We’re looking for a HIL Test Designer & Developer with a background in Electronic Engineering to join our growing team.\nIn this role, you will:\nDesign and develop HIL test environments\nEnsure system reliability through creative test strategies\nCollaborate with engineers across disciplines in an international setting\n\nWe believe you’ll thrive if you:\nHold a degree in Electronic Engineering (or equivalent)\nHave a passion for test development and system design\nBring analytical skills, curiosity, and a solution‑oriented mindset\n\nWhat we offer:\nChallenging projects with cutting‑edge technology\nA supportive team culture inspired by the Quokka – positive, approachable, and full of energy\nOpportunities to grow, share ideas, and make an impact\n\nReady to bring your skills – and your Quokka‑like positivity – into our future‑focused projects? Apply today!",
+        "url": null,
+        "published": "2025-11-21T13:46:50",
+        "deadline": "2025-11-30T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 80
     },
     {
         "id": "30269219",
@@ -390,21 +390,6 @@
         "relevance_score": 100
     },
     {
-        "id": "30246370",
-        "title": "ESW Function Owner - Steering systems",
-        "employer": "Volvo Business Services AB",
-        "location": "Göteborg",
-        "description": "\"Founded in 1927, the Volvo Group is committed to driving prosperity and shaping the future landscape through sustainable transport, mobility, and infrastructure solutions.\"\r\n\r\nAbout Us \nTransport is at the core of modern society. Imagine using your expertise to shape sustainable transport solutions for the future? If you seek to make a difference on a global scale, working with the next generation of technologies in a very collaborative team, then we could be a perfect match. \nThe group “Electrohydraulic Steering systems” within Vehicle Dynamics sub stream, belongs to the “Vehicle motion and thermal management” technology stream is responsible for developing platform electrohydraulic steering solutions within Volvo GTT.\nWe are seeking a Function Owner to strengthen our team in the Electrohydraulic Steering software development area.\nYou will be a member of a highly skilled agile team that have full product ownership of electrohydraulic steering systems, from requirement and specification to end customer and quality follow up. The team works closely together with all needed cross-functional counterparts in our global arena. \nRole Description\nAs a Function Developer and Function Owner within Vehicle Dynamics, you will be involved in all phases of development and maintenance of our interesting and complex end user functions connected to Electrohydraulic Steering systems. You will be the owner of some of our end-user functions and leading the development work in this area. \nThe work consists of specification and review of function and SW requirements, but also development of new functions and customer features. You will support internal customers, the aftermarket, production and end customers. You will perform tests in vehicles as well as tests in virtual and real environment. You will be a part of developing the global roadmap for future functions and features. An important part of the role is also to fault trace in vehicles.\nYour responsibilities will include:\n•    Perform functional development meaning requirement breakdown, software design, documentation, implementation, testing and verification\n•    Specify system/functional requirements and logic design breakdown\n•    Organize and participate in technical discussions with suppliers\n•    Test, tune and document function parameters, for each variant\n•    Leading functional safety and cyber security work \n•    Trouble shooting and provide support to aftermarket and production plants\n•    Network across the organization, as well as influencing the work in the other sites\n•    Develop acquired competence, as well as participate in business development\n•    Taking operational responsibility on your scope, implement improvements and fostering collaboration to get things done when needed\n•    Working closely together with other product leaders and suppliers to deliver a complete SW platform \nWho are you?\nAs a person you are driven with a mindset to learn and improve. As part of an agile team, you are a team player and enjoy teamwork, but you also have proven ability to work independently and drive development on your own. You have a Master of science degree in Mechatronics, Control engineering, Computer Science, Electronics or similar. We expect you to have a good understanding of system development of embedded real time systems and have good programing skills. You have effective communication and presenting skills both in text and verbally.  Business and customer oriented with an interest in the automotive industry. \nKnowledge and Experience requirements:\n•    Matlab and Simulink\n•    C++, C#, CANoe and CANalyzer\n•    Git\n•    Rapid prototyping (dSPACE tools) and systems development principles\n•    Static code analysis tools\n•    SystemWeaver (SE-TOOL)\n•    Autosar integration and Vector DaVinci\n•    Diagnostics and UDS protocol knowledge\n•    Strong knowledge of ISO26262 \n•    Vehicle Dynamics and Advanced Steering system is beneficial\n•    C/CE driving license is beneficial\nWork experience: Minimum 10 years of relevant experience. \nReady for the next move?\nIf you have any questions, feel free to contact us!\nEmma Heiwall, Group Manager, Electrohydraulic Steering Systems, Email - emma.heiwall@volvo.com\nSmita Shree, Talent Acquisition Partner, Email - smita.shree@volvo.com\nLast Application Date- 21st November, 2025\nWe value your data privacy and therefore do not accept applications via mail.",
-        "url": "https://volvo-information-technology-ab.contactrh.com/jobs/9669/43773321",
-        "published": "2025-11-10T15:25:02",
-        "deadline": "2025-11-21T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "30226941",
         "title": "Embedded Software Developer / Engineer / C++ / Linux",
         "employer": "Combine Control Systems AB",
@@ -565,21 +550,6 @@
         "deadline": "2025-11-28T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
-        "id": "29731905",
-        "title": "AI Linguist - Digitalization & NLP Specialist",
-        "employer": "Atqta AB",
-        "location": "Göteborg",
-        "description": "About Us:\nWe are a forward-thinking technology company focused on transforming industries through AI-driven solutions. For out client, we are looking for one AI Linguist to develop smarter, language-aware systems that unlock the power of unstructured data.\nRole Overview:\nWe are seeking a highly skilled AI Linguist to join our team and contribute to digital transformation projects across sectors. The ideal candidate will have a strong foundation in Natural Language Processing (NLP), Optical Character Recognition (OCR), and data analysis. You will work cross-functionally with data scientists, engineers, and project managers to build robust AI solutions that process and understand human language.\nKey Responsibilities:\nLead and contribute to the development of AI-driven digitalization tools\nDesign and implement NLP pipelines for tasks like classification, entity extraction, summarization, and sentiment analysis\nApply OCR techniques to extract information from scanned documents and handwritten text\nAnalyze linguistic data and corpora to inform model training and evaluation\nCollaborate with engineering teams to deploy and optimize language models\nManage AI-related projects from scoping to delivery, ensuring high quality and timely results\nContinuously monitor advancements in AI linguistics and integrate state-of-the-art techniques\n\n\n\nRequired Qualifications:\nAt least Bachelor degree in Computational Linguistics, Computer Science, Artificial Intelligence, or a related field\nDegree must be from a top-tier university (e.g., top 100 globally ranked institutions)\nProven experience in NLP, OCR, and data analysis (Python, spaCy, NLTK, Hugging Face, Tesseract, etc.)\nStrong project management skills; experience using tools like Jira, Confluence, or similar\nSolid understanding of linguistic theory and its application in computational models\nExcellent communication and documentation skills in English\n\n\n\nPreferred Skills:\nExperience working with large language models (LLMs) and prompt engineering\nFamiliarity with machine translation, speech recognition, or multilingual NLP\nPrevious experience in a digital transformation or enterprise AI project\nKnowledge of cloud platforms (AWS, GCP, Azure) and MLOps practices\n\n\n\nWhy Join Us?\nWork on cutting-edge AI projects with real-world impact\nJoin a highly collaborative, diverse, and international team\nCompetitive salary and benefits package\nOpportunities for professional development and career growth",
-        "url": "https://www.atqta.com/",
-        "published": "2025-05-26T17:12:28",
-        "deadline": "2025-11-21T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": true,
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 100
