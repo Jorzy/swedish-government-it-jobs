@@ -135,21 +135,6 @@
         "relevance_score": 100
     },
     {
-        "id": "30256442",
-        "title": "Data Engineer",
-        "employer": "Explipro Group AB",
-        "location": "Göteborg",
-        "description": "Are you passionate about transforming data into scalable, secure, and intelligent solutions? We are hiring Data Engineers to join exciting projects at the forefront of analytics and innovation in the automotive and mobility sectors.\nWhat You’ll Do:\n• Design, build, and maintain scalable batch and streaming data pipelines. \n• Engineer robust ETL workflows and medallion architecture-based data lakehouses. \n• Develop and deploy data solutions using Python, PySpark, SQL, Airflow, and Databricks. \n• Use and manage tools across Azure, AWS, Docker, and Linux environments. \n• Operate with CI/CD principles using Git, DevOps, and Infrastructure as Code (IaC). \n• Ensure data quality, security, and system performance via monitoring and validation. \n• Work on advanced BI dashboards in Power BI.\n\nWhat we are looking for:\n• 6+ years of data engineering experience for senior roles; more for principal roles.\n• Strong coding background in Python, SQL, and Shell scripting.\n• Proficiency with cloud services like Azure Data Factory, AWS (Redshift, EMR, S3).\n• Experience in data modeling and business intelligence.\n• Comfortable with DevOps workflows and data platform operations.\n• Strong communication skills and team-first mindset.\n• Fluent in English\n \n \nNice to Have:\n• Experience with Power BI dashboards and BI project leadership.\n• Familiarity with automotive data systems.\n• Hands-on experience with regression, security, and system upgrade testing.\n\n \nWhy Work With Us?\nYou'll contribute to future-facing initiatives in autonomous driving, electric mobility, and global BI solutions. Whether it's within a startup environment or a powerhouse like the big automotive companies in Gothenburg , your work will directly impact the vehicles and technologies of tomorrow. Ready to make a data-driven difference? Apply now and power the future with us.",
-        "url": "https://career.explipro.com/jobs/6744935-data-engineer?promotion=1710111-arbetsformedlingen",
-        "published": "2025-11-12T15:05:13",
-        "deadline": "2025-11-29T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "30219739",
         "title": "Senior DevOps Engineer",
         "employer": "Explipro Group AB",
@@ -398,21 +383,6 @@
         "url": "https://emp.jobylon.com/jobs/290140-einride-senior-perception-engineer/",
         "published": "2025-11-19T11:18:00",
         "deadline": "2025-12-19T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
-        "id": "30279026",
-        "title": "Embedded Software Engineer",
-        "employer": "Volvo Business Services AB",
-        "location": "Göteborg",
-        "description": "What you will do \nAs an Embedded Software Engineer, you will be at the heart of the development of future realtime SW platform. You will work with the specification and design of software architecture, implement, verify, integrate, and test embedded software, as well as develop test frameworks. We can offer you both fun and exciting challenges.  \nThe software platform includes, for example, low-level MCU drivers, device drivers for all connected peripherals, and CAN and Ethernet communication stacks. Other features are the real-time OS configuration, diagnostic event manager, and ECU power management. \nAdditionally, you will help improve our way of working, development tools, and continuous integration framework. \n \nYour future team \nIn our team, SW Platform - Vehicle, part of the Embedded Platform Factory in Vehicle Technology, we develop embedded solutions for full electric/hybrid powertrains, hydrogen technologies, engines, and transmissions, climate systems for the complete Volvo Group. In practice, we develop the next-generation embedded software for all our platform in-house control systems, and we are now in search of new innovative coworkers. We are a global team, and you will join our core software development center located in Lundby, Gothenburg. \nThe software platform provides a large set of generic services, like electronic hardware abstraction, central diagnostic functions, and various communication tasks. The development is targeting advanced automotive multicore MCUs and electronics. \n \nWho are you? \nWe are looking for you who are eager to grow as a professional, with an open mind and a proactive approach. With a strong drive and creativity, you provide ideas and solutions, from system design to verification. You are a team player and enjoy working with others but can also work independently. You are an open-minded and structured person with an proactive approach, and you have a drive to take initiative and not wait for them.  \n \nRequirements: \nB.Sc./M.Sc. in Embedded Software, Electronics, Physics, or equivalent education. \n2-5 years of experience in software engineering and embedded real-time systems programming. \nCompetence in embedded software architecture, design, and verification. \nKnowledge of programming embedded real-time systems in C. \nSkilled in Python and Git. \nFluent in English, both verbal and written. \n\n\n\nIt is considered a merit if you have knowledge in: \nTarget CPUs like Infineon Aurix TriCore 2:nd and 1:st gen, and NXP MPC57xxx \nISO26262 \nISO14229 \nTools like the Lauterbach T32 debugger, Oscilloscopes, and Robot Framework \nElectronics knowledge in automatics engineering and/or mechatronics \nPrevious experience in Volvo Powertrain software development \n\n\n\nReady for the next move? \nIf you want to make a real impact in your career, the transportation business is where you want to be. \n\n\nLocation: Gothenburg, Sweden. \nLast application date: November 29th, 2025.",
-        "url": "https://career55.sapsf.eu/sfcareer/jobreqcareerpvt?jobId=26578&company=volvoinfor&st=724E724FADE3CD55B40803C56B9D47A0E75E74D3",
-        "published": "2025-11-18T15:26:40",
-        "deadline": "2025-11-29T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
         "source": "JobTech",
