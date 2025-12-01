@@ -1,20 +1,5 @@
 [
     {
-        "id": "30123730",
-        "title": "Utvecklare - Fullstack react python",
-        "employer": "Textual AB",
-        "location": "Göteborg",
-        "description": "textual.ai utvecklar AI-drivna lösningar som hjälper e-handelsföretag att automatisera innehållsproduktion, översättningar och marknadsföring. Våra verktyg kombinerar språkmodeller, dataanalys och smart design för att skapa effektiva system som används av stora e-handlare i Sverige och utomlands.\nOm rollen\nVi söker en fullstackutvecklare med erfarenhet av React och Python som vill arbeta med nästa generation av AI-baserade verktyg för digital handel. Du kommer att vara en del av ett litet, tekniskt starkt team som arbetar agilt och nära produkten – från idé till lansering.\nDina arbetsuppgifter\nUtveckla webbaserade applikationer och interna verktyg med React (frontend) och Python (backend).\nIntegrera språkmodeller och API:er för AI-funktionalitet.\nDelta i planering, design och tekniska beslut.\n\nKvalifikationer\nMinst 2 års erfarenhet av fullstackutveckling.\nGoda kunskaper i React, TypeScript och Python (t.ex. Django eller Flask).\nErfarenhet av API-utveckling och databaser.\nVan att arbeta med Git och moderna utvecklingsflöden.\nAnvända AI-assisterade utvecklingsverktyg som Cursor\nFörmåga att arbeta både självständigt och i team.\n\nMeriterande\nErfarenhet av AI eller maskininlärning (t.ex. LLM).\nErfarenhet av molnplattformar (AWS, GCP).\nIntresse för e-handel, språk och automatisering.\n\nÖppen för alla\nVi fokuserar på din kompetens, inte dina övriga förutsättningar. Vi är öppna för att anpassa rollen eller arbetsplatsen efter dina behov.",
-        "url": null,
-        "published": "2025-10-09T07:56:40",
-        "deadline": "2025-11-30T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "AI",
-        "relevance_score": 60
-    },
-    {
         "id": "30092160",
         "title": "Machine Learning Engineer - Computer Vision",
         "employer": "Repli5 AB",
@@ -43,21 +28,6 @@
         "source": "JobTech",
         "category": "AI",
         "relevance_score": 60
-    },
-    {
-        "id": "30260743",
-        "title": "Junior Researcher in Machine Learning",
-        "employer": "RISE Research Institutes of Sweden AB",
-        "location": "Göteborg",
-        "description": "Do you want to use your expertise in AI to help build a greener future? At RISE, you’ll have the opportunity to grow as a researcher in an environment where innovation, societal impact, and sustainability are at the core. We are now looking for a junior researcher in machine learning who wants to grow with us – and make a real difference.\nAbout us RISE Research Institutes of Sweden is Sweden’s research institute and innovation partner. With over 3,000 employees, we collaborate closely with industry, academia, and the public sector to strengthen Swedish competitiveness and contribute to a more sustainable society.\nWe are now looking for a Junior Researcher in Machine Learning for Earth Observation and Multisource Data Analysis, to join our Intelligent Systems unit, part of the Computer Science department. You will be part of our Deep Learning Group RIDR, where you’ll work alongside experienced colleagues in AI and machine learning – with a particular focus on climate adaptation. The group is also active in the research network Climate AI Nordics, providing you with a strong professional network and opportunities for collaboration and supervision with leading researchers across the Nordics and beyond.\nAs a junior researcher at RISE, you’ll have a unique opportunity to grow – both professionally and personally. Several of our junior researchers have started their PhD studies as part of their work at RISE, which may also become an opportunity for you in the near future. About the position You will conduct research in machine learning under the supervision of your research leader. Initially, you will work on the project “Grey to Green”, a project where we develop an AI- and GIS-based tool that helps cities and real estate companies transform grey areas into multifunctional green spaces, leading to smarter and more sustainable cities. Read more. \nYour responsibilities will also include:\n Communicating and coordinating with external stakeholders and project partners. \n Developing algorithms and writing code (typically in Python, using frameworks such as PyTorch) for training and evaluating machine learning models.\n Writing scientific articles for publication in journals and conferences.\n Participating in and practicing presenting research at academic conferences, workshops, and other relevant events.\n Engaging in meetings with a wide range of project stakeholders, including researchers and representatives from organizations such as the Swedish Environmental Protection Agency, SLU, and municipalities.\n Writing and presenting licentiate and doctoral theses.\n Contributing to internal meetings and collaborations within the research group, unit, and department. \n \nLocation: Gothenburg Travel: Some travel is required, primarily within Sweden and the Nordic region. \nWho are you? We are looking for someone with a strong interest in research related to climate, environment, and sustainable development. You are also eager to develop your ability to present your work and research in both individual and collaborative settings.\nRequired qualifications:\n A Master’s degree in a relevant field, such as such as engineering physics, applied mathematics, computer science, or remote sensing.\n Coursework in AI, machine learning, and image analysis.\n Excellent communication skills in English, both written and spoken.\n The position may be subject to security clearance, which means that EU citizenship is required.\n \nMeritorious qualifications:\n Ability to communicate in Swedish.\n Research experience and scientific publications in relevant fields.\n Experience with AI-focused projects, preferably with code available on platforms like GitHub.\n Coursework or experience in GIS, remote sensing, or similar areas.\n \nAre we a good match? At RISE, you’ll be part of our mission and work towards a more sustainable and competitive society. You’ll have the opportunity to work and develop in a dynamic and inspiring environment, alongside talented colleagues, where your work truly makes a difference. Welcome to RISE – Sweden’s research institute and innovation partner!\nWe look forward to your application! If this sounds interesting and you want to know more, please contact Stefan Wendin, Manager of Intelligent systems, stefan.wendin@ri.se. The application deadline is November 30. Apply without cover letter. Selection and interviews will take place continuously during and after the application period.\nOur trade union representatives are: Linda Ikatti, Unionen, 010-516 51 61, and Ingemar Petermann, SACO, +46 10 228 41 22.",
-        "url": "https://career.ri.se/jobs/6755413-junior-researcher-in-machine-learning?promotion=1711854-arbetsformedlingen",
-        "published": "2025-11-13T13:15:43",
-        "deadline": "2025-11-30T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": true,
-        "source": "JobTech",
-        "category": "AI",
-        "relevance_score": 100
     },
     {
         "id": "30311296",
