@@ -165,21 +165,6 @@
         "relevance_score": 100
     },
     {
-        "id": "30219739",
-        "title": "Senior DevOps Engineer",
-        "employer": "Explipro Group AB",
-        "location": "Göteborg",
-        "description": "We are looking for an experienced DevOps engineer who wants to enhance security and performance through reliable and scalable solutions.\nYou will work closely with architects and engineers to run applications and services on AWS, build and maintain integrations in our CI/CD ecosystem, and support product teams in effectively utilizing the platform. You will also identify bottlenecks, drive improvements, and shape how we deliver critical services at enterprise scale.\n\nAbout You\nYou are a customer-focused DevOps engineer with a strong background in AWS and modern CI/CD practices. You enjoy simplifying complex problems, thrive in collaborative environments, and take ownership of solutions from design to delivery.\n\nRequirements:\n- 7+ years of experience with AWS cloud architecture and operations\n- Solid background in CI/CD pipelines, automation, and monitoring\n- Hands-on experience with containerization and Kubernetes\n- Knowledge of Infrastructure as Code (Terraform, CloudFormation, CDK, or similar)\n- Good understanding of secure and reliable system design\n- Fluent English, spoken and written \n\nWe are looking for individuals who are passionate about technology and want to improve our ways of working and solutions. With us, you will have the opportunity to work with leading technology companies and explore new technologies in a supportive and innovative environment.\nWe look forward to hearing from you!",
-        "url": "https://career.explipro.com/jobs/6361033-senior-devops-engineer?promotion=1697451-arbetsformedlingen",
-        "published": "2025-11-03T17:12:02",
-        "deadline": "2025-12-06T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": true,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "30200139",
         "title": "Senior Software / Networks / Devops / Cybersecurity Engineer",
         "employer": "SATCUBE AB",
