@@ -210,6 +210,21 @@
         "relevance_score": 100
     },
     {
+        "id": "30309554",
+        "title": "Software Developer",
+        "employer": "Alten Sverige AB",
+        "location": "Göteborg",
+        "description": "We are looking for a Software Developer with strong experience in Model-Based Development for an advanced R&D assignment within the automotive industry. You will work on developing core functionalities for next-generation vehicle platforms, using Simulink and AUTOSAR-compliant workflows.\n\n \n\nYour profile\nA degree in Mechatronics, Electrical, Computer or Automotive Engineering\nAt least 3 years of experience in model-based software development within the automotive domain\nExcellent knowledge of MATLAB / Simulink, Stateflow, and Embedded Coder\nDeep understanding of AUTOSAR architecture, including SW-Cs, RTE interfaces and BSW integration\nExperience generating production-ready AUTOSAR-compliant code from Simulink models\nFamiliarity with Simulink libraries, custom blocks and S-Functions\nAbility to design modular, reusable and scalable software components\nA structured, analytical and collaborative way of working\nMeritorious experience includes functional safety (ISO 26262), CI/CD integration for MBD, and performance optimization of Simulink models.\n\r\n\nWhat you will do\n\nAs a Model-Based Software Developer, you will be responsible for designing and implementing Simulink models that enable functional growth in the vehicle’s core computing system.\n\n \n\nTasks include:\nDeveloping new features in Simulink / Stateflow aligned with AUTOSAR standards\nDesigning and structuring application-layer software components (SW-Cs)\nConfiguring and generating AUTOSAR-compliant C-code using Embedded Coder\nEnsuring traceability from requirements to model design\nPerforming peer reviews and continuous model improvements\nSupporting integration by delivering well-structured, verified models\n\n \n\nDeliveries\nSimulink models aligned with AUTOSAR architecture and development guidelines\nModular and reusable design ensuring scalability and maintainability\nVerified and production-ready generated code through Embedded Coder\nDocumentation according to project standards and model review results",
+        "url": "https://www.alten.se/career/15214-Software-Developer",
+        "published": "2025-11-26T15:02:25",
+        "deadline": "2025-12-25T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
         "id": "30235250",
         "title": "Syntronic i Göteborg söker fler mjukvaruutvecklare",
         "employer": "Syntronic AB",
