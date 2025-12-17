@@ -195,6 +195,21 @@
         "relevance_score": 100
     },
     {
+        "id": "30383955",
+        "title": "Hårdvarunära Mjukvaruutvecklare sökes till Lafayette AB",
+        "employer": "Lafayette AB",
+        "location": "Göteborg",
+        "description": "Bolaget grundades 1961 och var det svenska bolag som var först ut med privatradio. Lafayette har idag en framskjuten position inom tillverkning av utrustning som främst används av jägare eller naturälskande människor. \nTillsammans med våra dotterbolag VMAC AB samt Lafayette Oy utvecklar, tillverkar och säljer vi produkter såsom kommunikationsradio, spårningsutrustning som främst används för att spåra jakthundar eller boskap med en egenutvecklad mjukvaruplattform, samt att vi utvecklar och tillverkar ljuddämpare och pannlampor.\nVåra kunder befinner sig i nuläget främst i Norden men vi kommer i framtiden att etablera oss på nya marknader, först och främst inom EU.\nKoncernen har idag sitt huvudkontor i Göteborg samt ett finskt säljbolag som är beläget strax utanför Helsingfors. Tillverkning och utveckling sker även i orterna Vilhelmina och Shenzhen i Kina. Omsättning för bolagen är cirka 45 MSEK med ett 12 anställda.\nLafayette söker nu dig som vill bidra med din tekniska kompetens genom att arbeta med utveckling och underhåll av företagets GPS-produkter genom mjukvaruutveckling. Du kommer att programmera i C/C++ för att utveckla och underhålla mjukvara som integrerar med hårdvaran i våra produkter. Samtidigt kommer du att få engagera dig i projekt med förbättringsarbeten och det finns goda möjligheter att ta egna initiativ till utvecklingsprojekt för att förbättra produkternas funktioner.\nVi är ett växande företag med starkt fokus på kvalitet och innovation. Du kommer att ingå i ett team och bli en del av ett litet och familjärt företag med stora utvecklingsmöjligheter. Här får du goda förutsättningar att påverka vägen framåt för bolaget som är i tillväxtfas. Arbetet utförs på plats i Göteborg och är förlagt till kontorsarbetstider.\nArbetsuppgifterProgrammering i C/C++ för utveckling och underhåll av produkternas mjukvara\nDelta i samt driva egna förbättringsprojekt av GPS-produkterna\nFölja upp och kontrollera produkternas funktioner\nIngå i utvecklingsteamet och samarbeta kring produktutvecklingen\nKvalifikationerHar goda kunskaper och erfarenhet av kodning i C/C++\nKörkort\nRelevant utbildning\nMinst 3 års yrkeserfarenhet eller motsvarande\nHar kunskaper inom GPS, telekom eller radioteknik\nHar goda kunskaper i svenska och engelska både i tal och skrift då dessa språk används i det dagliga arbetet \n\n\n\nMeriterande om du har· Arbetslivserfarenhet av hårdvarunära utveckling inom GPS, telekom eller radioteknik\n· Har kunskaper om serverkommunikation\n· Har kunskaper om Arm - och Pic-processorer som används i produkterna \nPersonliga egenskaper· Kommunikativ\n· God samarbetsförmåga\n· Noggrann och strukturerad\n· Självständig och ansvarstagande\n· Problemlösande\nVi erbjuder· En dynamisk arbetsplats med engagerade kollegor\n· Möjlighet att påverka och utvecklas i rollen\n· Konkurrenskraftig lön och förmåner\n· Trevligt kontor och moderna lokaler\nSkicka din ansökan med CV och personligt brev till patrik@lafayette.se senast den 15 oktober 2025. Urval sker löpande och anställnings sker efter överenskommelse. Vid frågor kontakta Patrik Johansson, 0702269000",
+        "url": null,
+        "published": "2025-12-16T14:36:45",
+        "deadline": "2026-02-27T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": true,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
         "id": "30369380",
         "title": "Embedded Software Developer",
         "employer": "Allgon AB",
@@ -505,6 +520,21 @@
         "deadline": "2025-12-21T23:59:59",
         "is_consultant": false,
         "is_meaningful": true,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
+        "id": "30383270",
+        "title": "Senior Data Engineer",
+        "employer": "Sigma Embedded Engineering Future AB",
+        "location": "Göteborg",
+        "description": "We’re on the hunt for a Senior Data Engineer to design and scale the data backbone behind some of Europe’s most demanding, high-volume data ecosystems.\nWhether your background is in e-commerce, medtech, automotive robotics, IoT, finance- or beyond- if you’ve built production-grade pipelines that perform under pressure, this could be your next big challenge.\nWhat You’ll Own\nArchitect and Scale end to end data pipelines from ingestion to transformation across batch and Streaming systems. Processing billions of sensor, simulation and telemetry events daily.\nPartner with AI, ML, and simulation teams to deliver ML-ready, traceable, and compliant datasets.\nWork hands-on with tools like Airflow, Spark, Databricks, and cloud platforms such as GCP or Azure.\nLead data governance initiatives: schema evolution, data cataloging, and proactive pipeline monitoring.\nEnable AI workflows with efficient data selection, annotation, labeling pipelines, and feedback loops.\nDesign and enforce best practices around data observability and data protection\nWhat You Bring\n3+ years’ experience building and running scalable, resilient data pipelines in production.\nStrong Python and SQL skills, plus hands-on cloud expertise (GCP, Azure, AWS).\nExperience with orchestration tools like Airflow, Dagster or Perfect2\nExperience with Apache Spark, Apache Flink, Kafka, Databricks, or similar data engineering tools.\nSolid understanding of data architecture trade-offs — latency, throughput, cost, and storage formats like Parquet and Avro.\nA passion for data quality, reproducibility, and building maintainable systems, not just “moving data.”\nBonus Points\nExperience with sensor data, telemetry, or real-time time-series data.\nFamiliarity with cloud data warehouse (Snowflake, BigQuery)\nFamiliarity with ML/AI infrastructure like feature stores, labeling pipelines, or MLOps tooling.\nKnowledge of CI/CD, Infrastructure as Code( Terraform), containerization (Docker/Kubernetes), and versioning of data and pipelines.\nWhy This Role?\nOpportunity to influence the future of large-scale data engineering in industries like autonomous systems.\nTackle data challenges at scale with real-world, real-time, high-volume datasets.\nContribute to mission-driven tech with tangible impact (and no, this isn’t adtech).\nJoin a highly collaborative team of ML, simulation, and data experts.\nEnjoy flexible working — hybrid in Gothenburg or fully remote within the EU.\nYou’re a fit if you’ve:\nBuilt rock-solid, high-performance data pipelines.\nScaled infrastructure to handle complex, high-volume data streams.\nEmpowered ML teams to move faster with cleaner, more actionable data.\nThink you’re the one?\n👉 Apply via Yora today — let’s engineer the future of real-world data, together.\n\n\nAbout Yora\nYora is a tech hub for sharp minds who want to shape the future of technology – without fitting into a mold.\nWe’re part of Sigma, but with our own pulse: a growing collective working across AI, cloud, and cyber security. Our focus? Real impact. Smart solutions. And a more human way to work.\nAt Yora, we believe flexibility isn’t a perk – it’s a baseline. Whether you're neurodivergent, a parent, a night owl, or just someone who thrives outside the 9–5, we design roles and paths that work for you.",
+        "url": "https://sigmayora.teamtailor.com/jobs/6128504-senior-data-engineer-scalable-real-world-data-systems/02d54ece-340a-4b97-b5e7-880f6e2cb957",
+        "published": "2025-12-16T13:36:25",
+        "deadline": "2026-01-15T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 100
