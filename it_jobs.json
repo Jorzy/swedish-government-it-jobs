@@ -60,6 +60,21 @@
         "relevance_score": 100
     },
     {
+        "id": "30403017",
+        "title": "Hardware Developer - Digital Design",
+        "employer": "Ericsson AB",
+        "location": "Göteborg",
+        "description": "Ericsson AB\r\n\r\nJoin our Team\n\nAbout this opportunity:\nWe are looking for a Junior Digital Hardware Designer to join our Microwave & Digital Design team in Gothenburg. You will be part of the development of MINI-LINK, a key product within Ericsson’s wireless backhaul portfolio.\nMINI-LINK is a microwave network node delivering market-leading performance, driven by the rapid evolution of smartphones, IoT, and next-generation mobile networks. Our unit holds full design responsibility for MINI-LINK indoor units as well as outdoor mmWave products. This includes both the development of new hardware and the maintenance of released products.\n\nWhat you will do:\nAs a junior digital hardware designer, you will work closely with experienced engineers and gradually take on more responsibility.\n\nYour main tasks will include:\n\n  *  Contribute to schematic design and PCB development under the guidance of senior engineers.\n  *  Support pre- and post-layout simulations and participate in board and product verification.\n  *  Collaborate with cross-functional teams such as layout, power, mechanical, and thermal design to ensure optimal system performance.\n  *  Participate in hands-on troubleshooting and verification in the lab.\n  *  Use lab equipment such as power supplies, multimeters, oscilloscopes, and spectrum analyzers.\n  *  Bring new ideas and support continuous improvement in a collaborative team environment.\n\n\nWhat you will learn and gain:\nThis role offers strong learning opportunities and hands-on experience in real product development:\n\n  *  Core digital hardware skills: CPUs, memories (DRAM/Flash), Ethernet switches, clock synthesizers, and related components.\n  *  Signal and power integrity fundamentals: exposure to simulation tools and methods used to identify and resolve SI/PI issues.\n  *  Schematic and PCB design basics: experience with industry-standard design tools and workflows.\n  *  Lab and measurement skills: soldering, measurements, and practical debugging of real hardware.\n  *  Professional growth: increased independence, communication skills, and a strong professional network.\n\n\nWho we’re looking for:\n\n  *  A junior engineer or recent graduate with a degree in Electrical Engineering, Embedded Systems, or a related field.\n  *  Curious, collaborative, and eager to learn from others while sharing your own insights.\n  *  A problem solver who takes initiative, asks questions, and persists until issues are resolved.\n  *  Motivated to explore new ideas and contribute to a culture of innovation.",
+        "url": "https://ericsson-ab.contactrh.com/jobs/9669/43855052",
+        "published": "2025-12-19T10:25:04",
+        "deadline": "2026-01-02T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
         "id": "30379432",
         "title": "Senior DevOps Engineer",
         "employer": "Irisity AB (publ)",
@@ -225,6 +240,21 @@
         "relevance_score": 100
     },
     {
+        "id": "30403197",
+        "title": "Software Developer",
+        "employer": "ZENSEACT AB",
+        "location": "Göteborg",
+        "description": "Zenseact is an applied automotive AI company developing world-leading safety software for AD and ADAS. Our technology encompasses every aspect of automation, from sensor fusion, computer vision, and object detection to positioning and actuation, using a combination of rule-based code and deep learning algorithms.\nOur software makes a difference.\nUsing AI-based technology to create the ultimate driver support, we’re fighting to end car accidents and make roads safe for everyone. Every year, around 1,4 million people die in traffic while approximately 50 million people get injured. Many get disabled as a result of their injury. We can do better. And we could use your help.\nOne purpose, one product.\nWe’re a software company dedicated to revolutionizing car safety. By designing the complete software stack for autonomous driving and advanced driver-assistance systems, we’re fighting to end car accidents and make roads safe for everyone. That's summarized in our purpose statement: Towards zero. Faster. \nCulture with people at heart\nTo achieve our mission of saving lives and ending traffic accidents is to go where nobody has before. It requires us to venture into the unknown, pioneering new technology and pushing the frontier of autonomous driving. While there’s no denying our determination and expertise, we must stand united to succeed. By fostering a culture of support and enablement – a place of psychological safety where all of us can thrive – everything else will follow. We call this a people-at-heart culture. \nWho are you? \nStrong programming skills within C++, Python, \nAI/Machine Learning/Deep Learning experience.  \nExceptional programming skills with Unity3d, Qt \nKnowledge and experience with OpenCV or OpenGL\nKnowledge of Deep Learning Frameworks like PyTorch or TensorFlow is a plus \nSoftware development experience in one or more general purpose programming languages \nInsight in the automotive industry and knowledge of MISRA C++, ISO26262 and ASIL \nExperience of developing embedded real time applications  \nSolid knowledge of systems engineering/architecture  \nSecure knowledge within continuous integration and deployment \nExperience from defining, building and testing automated toolchains \nExpert in any ADAS/AD feature \nAn enthusiastic person who thrives in an agile working culture \n\nWith the skillset and mindset described you have the chance to contribute to our purpose, to go towards zero. Faster.\nWe are really excited to welcome candidates with these skills so don't hesitate to take the chance of a lifetime! \nWhy join \nWhen we aim for zero accidents faster, we strive to speed up the transition to safe automation. This is essentially achieved by making cars updatable – like a computer or a phone. With regular software updates, a vehicle can be made safer long after its production. By accelerating improvement loops, shortening development cycles, and deploying high-capacity software quickly, we can make cars safer, faster.",
+        "url": "https://career.zenseact.com",
+        "published": "2025-12-19T10:34:15",
+        "deadline": "2026-06-16T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
         "id": "30399818",
         "title": "Embedded Software Application Engineer @ Thermal Management",
         "employer": "Volvo Business Services AB",
@@ -383,21 +413,6 @@
         "url": "https://careers.cpacsystems.se/jobs/6831471-automotive-platform-software-engineer-linux-drivers-android?promotion=1729760-arbetsformedlingen",
         "published": "2025-11-26T09:40:02",
         "deadline": "2026-05-15T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
-        "id": "30300547",
-        "title": "Senior Software Engineer till Profundus",
-        "employer": "Bravura Sverige AB",
-        "location": "Göteborg",
-        "description": "Looking to shape the future of MedTech? Join Profundus and drive innovation while ensuring quality in life-changing healthcare solutions! Profundus is a medical device company on an exciting journey to revolutionize retinal imaging with cutting-edge technology. \n\nAbout the job\nThis is a direct recruitment, which means that the recruitment process takes place through Bravura and you are employed directly by Profundus.  About the company\n Profundus is a life science start-up specializing in the development of a groundbreaking camera and software system for advanced retinal imaging, utilizing adaptive optics. The primary mission is to enable early detection, prevention, and treatment of various diseases by identifying changes in retinal microstructures. With a strong vision to make a significant impact in retinal imaging diagnostics, the goal is to benefit patients worldwide. \nThe company is located in modern, spacious offices at Krokslätts Fabriker, where the team works closely together in a collaborative environment. The production facilities are also on-site, ensuring seamless interaction between development and manufacturing. \nTasks and responsibilities\nAs a Senior Software Engineer, you will be maintaining and improving a highly specialized medical device used in advanced imaging applications. Your focus will be on product care and improvements, ensuring stability and adapting the software to integrate with customer systems. Beyond technical execution, you’ll help shape workflows, maintain high standards, and prepare for future innovation as the company moves toward developing new products.\nIn this role, you will work in an agile, cross-functional R&D setup alongside passionate and purpose-driven colleagues. You will collaborate closely with hardware engineers and contribute to processes and documentation in line with regulatory requirements. This means working strategically and without prestige, ensuring compliance and quality at every step.\nYou will be part of a small, dynamic team where your ideas and decisions will contribute to the company’s success. \n \nEducation, experience and personal characteristics\n• Master’s degree in engineering within relevant field\n• Experience with Python development\n• Experience working with software that interacts with a physical product\n• Experience of software verification and validation\n• Experience from working in a regulated industry according to a Quality Management System, for example ISO 13485\n• Fluent in English, written and spoken. Swedish is a bonus\nWe are looking for someone with a proactive, solution-oriented mindset who takes pride in delivering high quality value-adding work. You are comfortable planning and executing tasks independently while ensuring transparency and clarity for the team.\nYou thrive in a small, dynamic environment where adaptability and collaboration are key. While you work autonomously, you also value knowledge sharing and contribute to a positive, team-oriented culture.\nDriven and target-oriented, you approach challenges with curiosity and initiative. You actively seek improvements, share insights, and help move both the team and the product forward. \nIts a plus if you have\n• Experience in Medical device development as well as software development according to IEC 62304 \n• Cybersecurity relating to medical devices\n• Experience with C/C++ development\nOther information\nStart: Upon agreement\nLocation: Gothenburg\nSalary: Upon agreement \nWe use a competency-based methodology in all our recruitment processes to ensure impartial selection. We also work with continuous selection, which means that we take down the advertisement when enough candidates have applied. If you are suitable for the position, we will contact you for an initial telephone interview.\nRegardless of whether you proceed in the process or not, you will receive feedback on your application.\nDo you have any questions? Please get in touch!\n info@bravura.se\n 010-171 47 10\nWe recommend that you submit your application immediately as we make a continuous selection.\nWelcome with your application! #Brillante",
-        "url": "https://ledigajobb.bravura.se/jobs/6813178-senior-software-engineer-till-profundus?promotion=1726918-arbetsformedlingen",
-        "published": "2025-11-24T16:19:54",
-        "deadline": "2026-05-13T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
         "source": "JobTech",
