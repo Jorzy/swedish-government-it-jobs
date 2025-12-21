@@ -180,21 +180,6 @@
         "relevance_score": 100
     },
     {
-        "id": "30285768",
-        "title": "Join Our Team as a SW Engineer",
-        "employer": "FPT Software Sverige AB",
-        "location": "Göteborg",
-        "description": "About the Role\nWe are seeking a highly motivated and skilled Automotive Software Engineer to join our engineering team. In this role, you will be responsible for the full software development lifecycle of embedded systems for automotive applications, from requirement analysis through to qualification testing. You will collaborate closely with cross-functional teams and work independently to deliver high-quality software components.\nKey Responsibilities\n·      Analyze software and hardware requirements for automotive embedded systems.\n·      Design system architecture, detailed modules, and software interfaces.\n·      Develop, test, and integrate embedded software, including hardware drivers and bootloaders.\n·      Conduct unit testing, integration testing, and qualification testing in compliance with automotive standards.\n·      Collaborate with cross-functional teams to support system bring-up and debugging.\n·      Document design specifications and test procedures.\n·      Work efficiently both independently and as part of a collaborative team.\nWhat You'll Bring\n·      3+ years of experience in automotive embedded systems development.\n·      Proficient in C/C++ programming; scripting experience in Python, Shell, or Perl.\n·      Strong understanding of microcontrollers, device drivers, and embedded systems.\n·      Hands-on experience with bootloaders, cross compilers, and toolchains.\n·      Familiarity with software development lifecycle and working with hardware manuals, schematics, and data sheets.\n·      Practical experience with automotive communication protocols: SPI, CAN, LIN, FlexRay, Ethernet.\n·      Experience with debugging tools, simulators, emulators, and test equipment.\n·      Team player with excellent self-management and communication skills.\nNice to Have\n·      Experience with AUTOSAR Classic Platform development.\n·      Familiarity with AUTOSAR Configuration Tools (e.g., DaVinci, ECU Spectrum).\n·      Understanding of Functional Safety concepts (ISO 26262).\n·      Experience with multi-threaded and multitasking systems.\n·      Knowledge of Automotive SPICE or CMMI frameworks.\nBenefits & Perks:\n·      Competitive salary and performance-based bonuses.\n·      Health, dental, and vision insurance.\n·      Flexible work hours and remote work options.\n·      Learning and development opportunities\n.      Work with a talented and passionate team in a collaborative environment.",
-        "url": null,
-        "published": "2025-11-20T08:55:20",
-        "deadline": "2025-12-20T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "30200139",
         "title": "Senior Software / Networks / Devops / Cybersecurity Engineer",
         "employer": "SATCUBE AB",
