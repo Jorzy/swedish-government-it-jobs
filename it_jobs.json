@@ -465,21 +465,6 @@
         "relevance_score": 100
     },
     {
-        "id": "30299484",
-        "title": "Embedded Systems Engineer",
-        "employer": "EcoPhi AB",
-        "location": "Göteborg",
-        "description": "Ecophi is digitializing the electrical grid. Our QMU 800 is a high-precision, software-defined merging unit used in modern digital substations. We’re looking for a hands-on engineer who loves low-level embedded programming, board bring-up, and working side-by-side with hardware to ship robust, real-time systems.\nWhat you’ll do\nDevelop and optimize low-level firmware in C (bare-metal/RTOS) for data-acquisition, time-sync, and high-speed I/O on QMU 800.\nWrite device drivers (SPI, I²C, UART, Ethernet), DMA/ring buffers, and ISR-driven data paths for high-resolution ADCs.\nImplement and harden substation protocols/time sync (e.g., IEC 61850 Sampled Values/GOOSE, PTP/IEEE 1588); contribute to PQ/PMU features.\nBoard bring-up & hardware validation: read schematics, probe signals, characterize performance with scopes/logic analyzers.\nCollaborate with hardware on Altium Designer projects; review schematics/PCB layouts; suggest SI/PI-aware changes and test points.\nBuild automated tests, HW-in-the-loop rigs, calibration flows; contribute to CI and coding standards.\n\nMust-haves\nSolid experience with embedded C for microcontrollers/SoCs (interrupts, timers, peripherals, memory, concurrency);\nComfortable with low-level debugging: oscilloscopes, logic analyzers, JTAG/SWD, power measurements;\nVery comfortable working in linux environments;\nStrong grasp of data acquisition basics: ADCs, sampling theory, filtering, fixed- vs floating-point trade-offs;\nGit-based workflows and disciplined engineering habits (reviews, documentation, reproducible builds).\n\nNice-to-haves\nFPGA experience (VHDL/Verilog);\nAltium Designer familiarity and the ability to read/modify schematics & PCB designs (basic layout understanding);\nEMC/robustness for industrial gear (IEC 60255/61850-3), secure boot/DFU, factory test fixtures\nPython for test automation; CMake; static analysis.\n\nWhy EcoPhi\nEcophi is a startup located in Gothenburg, founded by researchers at Chalmers University of technology. We have a deep technical core and strive to deliver solutions that are best in the industry.\nBuild cutting edge technological products used by leading utilities to modernize the grid;\nHardware lab with proper tools, real field feedback, and fast iteration;\nCompetitive pay, stock options, flexible work, and big ownership over your domain.\n\n\n\nHow to apply: Send your CV/LinkedIn, transcript and a short note about a low-level project you’re proud of (what you optimized, how you measured it) to jakob@ecophi.ai with the subject “Embedded Engineer — QMU800”.",
-        "url": null,
-        "published": "2025-11-24T14:30:30",
-        "deadline": "2025-12-24T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": true,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "30226941",
         "title": "Embedded Software Developer / Engineer / C++ / Linux",
         "employer": "Combine Control Systems AB",
