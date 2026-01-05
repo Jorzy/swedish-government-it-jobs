@@ -255,6 +255,21 @@
         "relevance_score": 100
     },
     {
+        "id": "30403197",
+        "title": "Software Developer",
+        "employer": "ZENSEACT AB",
+        "location": "Göteborg",
+        "description": "Zenseact is an applied automotive AI company developing world-leading safety software for AD and ADAS. Our technology encompasses every aspect of automation, from sensor fusion, computer vision, and object detection to positioning and actuation, using a combination of rule-based code and deep learning algorithms.\nOur software makes a difference.\nUsing AI-based technology to create the ultimate driver support, we’re fighting to end car accidents and make roads safe for everyone. Every year, around 1,4 million people die in traffic while approximately 50 million people get injured. Many get disabled as a result of their injury. We can do better. And we could use your help.\nOne purpose, one product.\nWe’re a software company dedicated to revolutionizing car safety. By designing the complete software stack for autonomous driving and advanced driver-assistance systems, we’re fighting to end car accidents and make roads safe for everyone. That's summarized in our purpose statement: Towards zero. Faster. \nCulture with people at heart\nTo achieve our mission of saving lives and ending traffic accidents is to go where nobody has before. It requires us to venture into the unknown, pioneering new technology and pushing the frontier of autonomous driving. While there’s no denying our determination and expertise, we must stand united to succeed. By fostering a culture of support and enablement – a place of psychological safety where all of us can thrive – everything else will follow. We call this a people-at-heart culture. \nWho are you? \nStrong programming skills within C++, Python, \nAI/Machine Learning/Deep Learning experience.  \nExceptional programming skills with Unity3d, Qt \nKnowledge and experience with OpenCV or OpenGL\nKnowledge of Deep Learning Frameworks like PyTorch or TensorFlow is a plus \nSoftware development experience in one or more general purpose programming languages \nInsight in the automotive industry and knowledge of MISRA C++, ISO26262 and ASIL \nExperience of developing embedded real time applications  \nSolid knowledge of systems engineering/architecture  \nSecure knowledge within continuous integration and deployment \nExperience from defining, building and testing automated toolchains \nExpert in any ADAS/AD feature \nAn enthusiastic person who thrives in an agile working culture \n\nWith the skillset and mindset described you have the chance to contribute to our purpose, to go towards zero. Faster.\nWe are really excited to welcome candidates with these skills so don't hesitate to take the chance of a lifetime! \nWhy join \nWhen we aim for zero accidents faster, we strive to speed up the transition to safe automation. This is essentially achieved by making cars updatable – like a computer or a phone. With regular software updates, a vehicle can be made safer long after its production. By accelerating improvement loops, shortening development cycles, and deploying high-capacity software quickly, we can make cars safer, faster.",
+        "url": "https://career.zenseact.com",
+        "published": "2025-12-19T10:34:15",
+        "deadline": "2026-06-16T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
         "id": "30383955",
         "title": "Hårdvarunära Mjukvaruutvecklare sökes till Lafayette AB",
         "employer": "Lafayette AB",
@@ -278,21 +293,6 @@
         "url": null,
         "published": "2025-12-31T16:22:55",
         "deadline": "2026-01-11T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
-        "id": "30403197",
-        "title": "Software Developer",
-        "employer": "ZENSEACT AB",
-        "location": "Göteborg",
-        "description": "Zenseact is an applied automotive AI company developing world-leading safety software for AD and ADAS. Our technology encompasses every aspect of automation, from sensor fusion, computer vision, and object detection to positioning and actuation, using a combination of rule-based code and deep learning algorithms.\nOur software makes a difference.\nUsing AI-based technology to create the ultimate driver support, we’re fighting to end car accidents and make roads safe for everyone. Every year, around 1,4 million people die in traffic while approximately 50 million people get injured. Many get disabled as a result of their injury. We can do better. And we could use your help.\nOne purpose, one product.\nWe’re a software company dedicated to revolutionizing car safety. By designing the complete software stack for autonomous driving and advanced driver-assistance systems, we’re fighting to end car accidents and make roads safe for everyone. That's summarized in our purpose statement: Towards zero. Faster. \nCulture with people at heart\nTo achieve our mission of saving lives and ending traffic accidents is to go where nobody has before. It requires us to venture into the unknown, pioneering new technology and pushing the frontier of autonomous driving. While there’s no denying our determination and expertise, we must stand united to succeed. By fostering a culture of support and enablement – a place of psychological safety where all of us can thrive – everything else will follow. We call this a people-at-heart culture. \nWho are you? \nStrong programming skills within C++, Python, \nAI/Machine Learning/Deep Learning experience.  \nExceptional programming skills with Unity3d, Qt \nKnowledge and experience with OpenCV or OpenGL\nKnowledge of Deep Learning Frameworks like PyTorch or TensorFlow is a plus \nSoftware development experience in one or more general purpose programming languages \nInsight in the automotive industry and knowledge of MISRA C++, ISO26262 and ASIL \nExperience of developing embedded real time applications  \nSolid knowledge of systems engineering/architecture  \nSecure knowledge within continuous integration and deployment \nExperience from defining, building and testing automated toolchains \nExpert in any ADAS/AD feature \nAn enthusiastic person who thrives in an agile working culture \n\nWith the skillset and mindset described you have the chance to contribute to our purpose, to go towards zero. Faster.\nWe are really excited to welcome candidates with these skills so don't hesitate to take the chance of a lifetime! \nWhy join \nWhen we aim for zero accidents faster, we strive to speed up the transition to safe automation. This is essentially achieved by making cars updatable – like a computer or a phone. With regular software updates, a vehicle can be made safer long after its production. By accelerating improvement loops, shortening development cycles, and deploying high-capacity software quickly, we can make cars safer, faster.",
-        "url": "https://career.zenseact.com",
-        "published": "2025-12-19T10:34:15",
-        "deadline": "2026-06-16T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
         "source": "JobTech",
