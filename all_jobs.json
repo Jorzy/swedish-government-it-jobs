@@ -375,21 +375,6 @@
         "relevance_score": 100
     },
     {
-        "id": "30342342",
-        "title": "Product Cybersecurity Architect",
-        "employer": "Coretura AB",
-        "location": "Göteborg",
-        "description": "Join the Revolution in Commercial Vehicle Tech at Coretura! \nWe’re not just building the future of commercial vehicles—we’re redefining how automotive software is developed. As a joint venture between Volvo Group and Daimler Truck, we blend startup speed with industry strength. And we’ve gone all-in on AI. \nAs a Product Cybersecurity Architect, you’ll lead platform-level security development across our Software-Defined Vehicle (SDV) stack. From ECUs and bootloaders to hypervisors and secure OTA, you’ll shape the security posture of our entire platform—ensuring compliance, resilience, and future-proof design. \n What you’ll do \nIn this role, you’ll architect and implement security controls across hardware, firmware, and OS layers. Your responsibilities will include: \n Design platform security architecture: Secure Boot, Root of Trust, HSM/TPM, cryptographic integrity \n Harden ECUs and BSPs: Secure diagnostics, OTA updates, secure debug interfaces, hardware RNG \n Integrate hypervisor-level protections: Isolation, secure partitioning, runtime attestation \n Conduct threat modeling and TARA (Threat Analysis and Risk Assessment) \n Ensure compliance with ISO/SAE 21434 and UNECE R155/R156 \n Lead secure software development practices across the lifecycle \n Collaborate with hardware, embedded software, and cybersecurity teams for end-to-end integration \n Support incident response and vulnerability management \n Align architecture with cybersecurity standards and best practices \n \n What you bring \nAt Coretura, we value initiative, ownership, and a proactive mindset. You’re passionate about embedded security and thrive in regulated, high-impact environments. \nYou have: \n 7+ years of relevant work experience \n Deep expertise in embedded and applied cryptography (symmetric/asymmetric encryption, digital signatures, certificates, KMS) \n Strong understanding of cryptographic algorithms (AES, ECC, RSA, SHA), secure key provisioning, and usage within HSMs/TPMs \n Proven experience in Secure Boot, HSM/TPM integration, secure key storage, and physical tamper protection \n Hands-on experience with ECU/BSP-level engineering and secure OTA strategies \n Familiarity with hypervisor and OS-level security in embedded systems \n Strong skills in embedded development with C/C++ and secure coding practices \n Experience with threat modeling, TARA, and lifecycle security integration \n Working knowledge of automotive protocols (CAN, LIN, Ethernet) and secure communication stacks (Autosar SecOC, TLS, IPsec, MACsec) \n \n It’s a plus if you also bring: \n Exposure to cloud integration and modern security monitoring tools \n Familiarity with ISO-26262 functional safety standards \n Experience with incident response and vulnerability management\n \n Why Coretura? \nAt Coretura, you’ll be empowered to make a real impact. We value initiative, ownership, and a proactive mindset. You’ll have the freedom to drive projects forward, contribute ideas, and help shape the future of commercial vehicle technology. Our lean, innovative team is always learning and adapting—your contributions will truly matter. \n Next steps \nReady to build the future of commercial vehicles?  We review applications on a continuous basis—so don’t wait to submit yours! \nLast application date: 2026.01.06\n Questions? \n Don’t hesitate to reach out to Julia Karlberg, julia.karlberg@coretura.com if you have any questions.\nPlease note we do not accept any applications via email.",
-        "url": "https://career.coretura.com/jobs/6881564-product-cybersecurity-architect?promotion=1743034-arbetsformedlingen",
-        "published": "2025-12-05T10:44:02",
-        "deadline": "2026-01-06T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "30337069",
         "title": "Senior Embedded Software Engineer",
         "employer": "Sensrad AB",
@@ -683,21 +668,6 @@
         "url": "https://careers.kognic.com/jobs/6897649-data-specialist-at-kognic?promotion=1746012-arbetsformedlingen",
         "published": "2025-12-08T18:16:12",
         "deadline": "2026-05-27T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
-        "id": "30342364",
-        "title": "Product Cybersecurity Engineer",
-        "employer": "Coretura AB",
-        "location": "Göteborg",
-        "description": "Join the Revolution in Commercial Vehicle Tech at Coretura! \nWe’re redefining how automotive software is built. As a joint venture between Volvo Group and Daimler Truck, Coretura blends startup speed with industry strength—and we’re all-in on AI. \nAs a Product Cybersecurity Engineer, you’ll play a critical role in securing next-generation commercial vehicle platforms. You’ll work across embedded systems, automotive hardware, and software layers to ensure robust protection against evolving threats. From cryptography and secure boot to system-level security, your expertise will help us deliver safe, reliable, and future-ready solutions. \n What you’ll do \nYou’ll be at the forefront of implementing security measures across the product lifecycle. Your work will span multiple domains, ensuring compliance with industry standards and enabling secure innovation. \nYou will: \n Define and implement embedded security solutions for automotive systems \n Establish Secure Boot and Root of Trust mechanisms \n Integrate HSM/TPM and cryptographic accelerators for secure key storage \n Apply best practices for physical tamper detection and secure diagnostics \n Ensure OTA update security and manage secure debug interfaces (e.g., JTAG lock/authentication)\n Support system-level security controls for hypervisors and OS in embedded environments \n Collaborate across teams to embed security in ECU/BSP-level engineering workflows\n \n What you bring \nWe’re looking for someone who thrives in hands-on engineering, enjoys collaboration, and is passionate about cybersecurity.\nYou have: \n At least 4 years of experience in embedded security or related fields \n Bachelor’s degree in a relevant engineering discipline (Master’s degree preferred)\n Strong programming skills in C/C++ with secure coding best practices \n Practical experience with symmetric/asymmetric cryptography, digital signatures, hashing, and encryption \n Knowledge of automotive communication protocols (CAN, LIN, Ethernet) and secure stacks like Autosar SecOC, TLS, IPsec, MACsec \n Experience with threat modeling, TARA, and integrating security throughout the product lifecycle\n \nIt’s a plus if you also bring: \n Exposure to cloud integration and modern security monitoring tools \n Familiarity with ISO-26262 functional safety standards \n Understanding of incident response and vulnerability management \n Experience with QNX, Linux, or Android-based platforms\n \n \nWhy Coretura? \nAt Coretura, you’ll be empowered to make a real impact. We value initiative, ownership, and a proactive mindset. You’ll have the freedom to drive projects forward, contribute ideas, and help shape the future of commercial vehicle technology. Our lean, innovative team is always learning and adapting—your contributions will truly matter. \n Next steps \nReady to build the future of commercial vehicles?  We review applications on a continuous basis—so don’t wait to submit yours! \nLast application date: 2026-01-06.\n Questions? \n Don’t hesitate to reach out to julia.karlberg@coretura.com if you have any questions.\nPlease note we do not accept any applications via email.",
-        "url": "https://career.coretura.com/jobs/6879950-product-cybersecurity-engineer?promotion=1743043-arbetsformedlingen",
-        "published": "2025-12-05T10:49:22",
-        "deadline": "2026-01-06T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
         "source": "JobTech",
