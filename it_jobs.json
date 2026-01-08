@@ -210,6 +210,21 @@
         "relevance_score": 100
     },
     {
+        "id": "30440064",
+        "title": "HIL Developer (Hardware-in-the-Loop) -  Göteborg",
+        "employer": "Veritaz AB",
+        "location": null,
+        "description": "We are looking for highly skilled HIL Developers to support one of our clients within automotive software development. You will work in an advanced environment developing and validating software for AD/ADAS, protective safety systems, and vehicle motion control.\nThe role focuses on developing, maintaining, and improving HIL test environments and CI pipelines, ensuring high availability, stability, and performance of the test infrastructure used by multiple software development teams.\nKey Responsibilities\nHIL Development & Test Infrastructure\nDesign, develop, and update HIL rig solutions based on product team requirements.\nCommission new test rigs and integrate hardware and software components.\nMaintain and continuously improve HIL environments to ensure stability and availability.\nPerform fault tracing and root cause analysis across hardware, software, and infrastructure.\n\nAutomation & CI/CD\nDevelop automation solutions supporting CI pipelines and system test teams.\nImprove CI pipeline performance, reliability, and metrics visualization.\nAct as first-line triage for CI environment disturbances.\nSupport system test automation across multiple product teams.\n\nDocumentation & Collaboration\nMaintain accurate documentation of HIL rigs, configurations, and updates.\nCollaborate closely with software developers, system testers, and CI teams.\nIndependently drive improvements and contribute to continuous optimization initiatives.\n\nRequired Competence & Experience\nHIL & Automotive Testing\nProven experience in HIL development using:\ndSPACE\nVector CANoe\nStrong background in automotive electrical architecture and embedded systems.\nExperience with automotive diagnostic and communication protocols:\nCAN\nLIN\nEthernet\n\nProgramming & Tooling\nProgramming experience in Python, CAPL, and C\nExperience with MATLAB/Simulink\nFamiliarity with Git, command-line tools, and SSH\n\nCI/CD & Automation\nExperience working with CI infrastructure, including:\nPipelines\nDashboards\nMonitoring and metrics\nExperience in test automation frameworks (e.g. Robot Framework) is a plus.\n\nWays of Working & Soft Skills\nStrong automotive domain knowledge combined with excellent communication skills.\nComfortable working in Agile development environments.\nAbility to work independently, drive improvements, and perform structured analysis.\nStrong collaboration skills across cross-functional teams.\n\nLocation :  Göteborg",
+        "url": "https://airtable.com/appWFSx6BGg1FmqQh/shre6DE5SpaxhDAWu",
+        "published": "2026-01-07T12:32:15",
+        "deadline": "2026-02-06T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
         "id": "30403197",
         "title": "Software Developer",
         "employer": "ZENSEACT AB",
@@ -505,6 +520,36 @@
         "deadline": "2026-06-06T23:59:59",
         "is_consultant": false,
         "is_meaningful": true,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
+        "id": "30442985",
+        "title": "Group Operations Manager",
+        "employer": "HCL Technologies Sweden AB",
+        "location": "Göteborg",
+        "description": "Lead and manage global end‑user support services across both remote and onsite channels, ensuring a seamless, high‑quality experience for employees worldwide. This role drives operational excellence for the Global Service Desk—delivering multilingual, multichannel 24×7 support—and oversees Field Service operations, including onsite assistance, IMAC projects, and Hardware Asset Management. The focus is on achieving SLA and CSAT targets, optimizing processes through ITIL and ServiceNow, fostering collaboration between resolver teams, and advancing automation and AI initiatives toward a zero‑touch support model, while maintaining compliance, safety, and superior user experience across all touchpoints.\n\n\nKey Responsibilities:\n \n·      Global & Onsite Operations Leadership: Oversee day‑to‑day operations for the Global Service Desk (L1/L2) and Field Service teams, including workforce planning, shift governance, onsite dispatch, and technician scheduling across multiple geographies. \n·      Multichannel & In‑Person Support: Deliver seamless end‑user support through phone, email, self‑service portal, chat, mobile app, virtual agent, and onsite walk‑up/floor assistance. \n·      Process & Platform Excellence: Ensure ITIL‑aligned workflows and ServiceNow execution for incident, request, IMAC, and asset management; maintain accurate ticket data and CMDB updates. \n·      Performance Management: Monitor and improve SLA attainment, CSAT, First Contact Resolution, backlog aging, reassignment counts, first‑time‑fix rates, and revisit ratios. \n·      Knowledge & Quality: Drive knowledge management and standard work practices; maintain high‑value KB articles and enablement programs for both desk and field teams. \n·      Automation & Innovation: Virtual agent adoption, and automation initiatives to progress toward zero‑touch support while enhancing user experience. \n·      Hardware Asset Management (HAM): Govern asset lifecycle integrity, inventory accuracy, audits, and logistics for loan equipment and IMAC projects. \n·      Collaboration & Escalation: Coordinate handoffs and swarming with resolver groups (applications, infrastructure, UAM) to ensure timely resolution and ownership. \n·      Stakeholder Engagement & Communication: Provide clear updates on service performance, outages, and improvement plans; deliver executive‑level support where required. \n·      Financial & Vendor Oversight: Manage budgets, sourcing, and vendor performance for both service desk and field operations.\n\n\n\n\nRequired Skills & Qualifications:\nEducation & Experience\nBachelor’s degree in IT, Computer Science Engineering, or related field (or equivalent experience).\n10–15+ years in IT service operations, including: \nManaging large, multi-site Global Service Desk teams.\nLeading Field Service/Onsite support and Hardware Asset Management.\nMinimum 7–10 years in leadership roles with proven ability to manage geographically distributed teams.\n\nTechnical Expertise\nStrong knowledge of ITIL (v3/v4) frameworks and ITSM best practices.\nHands-on experience with ServiceNow (incident, request, IMAC, CMDB, HAM modules).\nFamiliarity with omni-channel support (phone, email, self-service, chat, virtual agent) and onsite support processes.\nProficiency in asset lifecycle management, inventory control, and IMAC project delivery.\n\nCertifications (Preferred)\nITIL Foundation (Intermediate modules a plus).\nCloud Certifications in (MS/AWS/Google).\nNetwork for hardware troubleshooting.\nPrince2/SIAM Certification \n\nCore Skills\nLeadership & People Management: Ability to coach, motivate, and manage diverse teams across multiple geographies.\nOperational Excellence: Strong analytical skills for SLA, CSAT, FCR, backlog, and performance metrics.\nCommunication: Clear, concise communication for stakeholders and end users; crisis communication during outages.\nProblem Solving & Innovation: Drive automation, AI adoption, and continuous improvement initiatives.\nCollaboration: Work effectively with resolver groups, vendors, and cross-functional teams.",
+        "url": null,
+        "published": "2026-01-07T21:35:40",
+        "deadline": "2026-02-06T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
+        "id": "30439013",
+        "title": "Senior Machine Learning Engineer",
+        "employer": "Volvo Business Services AB",
+        "location": "Göteborg",
+        "description": "Role Description:\nThe Data Scientist Chapter is located in Sweden (Gothenburg and Eskilstuna), and France (Lyon). The Machine Learning Engineer position will be located in Gothenburg.\n\n\n \n\n\nAs a “Machine Learning Engineer” with us, you will:\n\n\n \n\n\nCollaborate with diverse, international teams focused on delivering value to customers and stakeholders.\nTake a holistic approach to data science, machine learning and AI. From understanding business needs to industrializing solutions and enabling continuous improvement.\nApply your expertise across different areas and domains within Volvo Group, spanning from trucks, buses, construction equipment, to energy solutions, autonomous technologies, financial services, and more.\nMaster key aspects of data science, machine learning and AI, including mathematical statistics, computer science, cloud architecture, LLMs, and relevant programming languages.\nMoreover, candidates are expected to be familiar with aspects concerning security, governance, and regulatory requirements.\nTake lead in designing, implementing and owning lifecycle management (CI/CD, Ops) of data science, machine learning, and AI products.\nExcel in communication with colleagues and collaborators worldwide, fluently in English and preferably in a local language.\n\n\nMeriting Competencies:\n\n\n \nPrevious experience of managing and owning data science, machine learning, AI products.\nIndustrialization and commercialization of the above products in regulated environments.\nManaging and leading practitioner communities.\nAdvanced academic achievements.\nWho are you?\nThe right candidate should be able to think and act strategically, operate, and implement change tactically, and effectively deal with ambiguity and manage change priorities in a business-focused, fact-based, and collaborative way to achieve real impact. This role requires solid communication skills and a passion for leading, inspiring, and co-creation together with other members of the product team.\n\n\nTo achieve our goals, we collaborate within and across teams. We nurture open dialogue and collective work to create a sense of unity and trust. We also build a work environment where diversity in expertise, opinion, and culture is valued.\n\n\nAbout the Data Function:\nOur 'Data' function is a vibrant, international community with 900+ members across seven countries. We collaborate closely with various divisions, business areas, and group functions within the Volvo Group to foster an environment where ideas flourish, and goals are achieved collaboratively.",
+        "url": "https://career55.sapsf.eu/sfcareer/jobreqcareerpvt?jobId=25273&company=volvoinfor&st=13ADC5F9DB9946647A54FD886066BA740BB3C6E4",
+        "published": "2026-01-07T10:39:25",
+        "deadline": "2026-02-06T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 100
