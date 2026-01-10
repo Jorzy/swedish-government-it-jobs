@@ -15,21 +15,6 @@
         "relevance_score": 60
     },
     {
-        "id": "30352255",
-        "title": "Erfaren systemutvecklare inom mjukvaruutveckling",
-        "employer": "Syntronic AB",
-        "location": "Göteborg",
-        "description": "Syntronic är en ledande design- och utvecklingspartner inom avancerade tekniklösningar. \nVi är stolta över att vara i framkant av teknologisk innovation och söker nu en erfaren systemutvecklare inom mjukvaruutveckling till vårt team i Göteborg.\nSom systemutvecklare hos oss:\nKommer du att vara involverad i allt från design, programmering, testning och implementation av mjukvarulösningar. Du får möjlighet att arbeta med varierande uppdrag hos olika kunder. \nVi använder moderna programmeringsspråk och ramverk såsom C#, Java, Python, .NET, och vi värdesätter erfarenhet av både SQL-databaser. \nVad vi söker hos dig som systemutvecklare:\n Högskole- eller civilingenjörsutbildning inom mjukvaruutveckling, systemutveckling, IT eller liknande\n Minst 5 års erfarenhet av systemutveckling och mjukvaruutveckling, med djup kunskap inom något eller flera programmeringsspråk (t.ex. C#, Java, Python, .NET)\n Erfarenhet av agil utveckling, Scrum, eller liknande metoder\n Erfarenhet av molntjänster som AWS, Azure, eller Google Cloud är ett stort plus\n Kommunicerar flytande på svenska och engelska, i tal och skrift.\n \nVi letar inte efter en perfekt lista av kvalifikationer, utan efter rätt person som vill utvecklas tillsammans med oss och våra kunder. \nSyntronic erbjuder en trygg anställning i en dynamisk och framåtriktad miljö. Att vi är ett team är vår styrka, därför ser vi att du arbetar tillsammans på plats med oss på kontoret – när du inte behövs hos någon av våra kunder förstås!\nVi erbjuder\nPå Syntronic blir du en del av en härlig gemenskap där din röst hörs och dina idéer välkomnas. Vi erbjuder flexibla arbetstider, balans mellan arbete och fritid samt regelbundna karriärutvecklingssamtal och interna workshops för din utveckling. Utöver detta får du förmånliga förmåner och försäkringar. Hos oss får du inte bara ett jobb - du får en plats att växa och trivas både personligt och professionellt. \nAnsökan\nVi ser fram emot din ansökan, som ska vara oss tillhanda senast 9 januari. Vi arbetar med löpande urval. \nBakgrundskontroller kan förekomma.\nAv kommunikation- och kvalitetssäkringsskäl ber vi dig att skicka in din ansökan digitalt via vårt system och inte via e-post.",
-        "url": "https://jobsemea.syntronic.com/jobs/6354308-erfaren-systemutvecklare-inom-mjukvaruutveckling?promotion=1746189-arbetsformedlingen",
-        "published": "2025-12-09T08:07:42",
-        "deadline": "2026-01-09T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": true,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "30337912",
         "title": "Junior ServiceNow-utvecklare sökes till Nordlo i Göteborg",
         "employer": "Nordlo Improve AB",
@@ -255,21 +240,6 @@
         "relevance_score": 100
     },
     {
-        "id": "30403197",
-        "title": "Software Developer",
-        "employer": "ZENSEACT AB",
-        "location": "Göteborg",
-        "description": "Zenseact is an applied automotive AI company developing world-leading safety software for AD and ADAS. Our technology encompasses every aspect of automation, from sensor fusion, computer vision, and object detection to positioning and actuation, using a combination of rule-based code and deep learning algorithms.\nOur software makes a difference.\nUsing AI-based technology to create the ultimate driver support, we’re fighting to end car accidents and make roads safe for everyone. Every year, around 1,4 million people die in traffic while approximately 50 million people get injured. Many get disabled as a result of their injury. We can do better. And we could use your help.\nOne purpose, one product.\nWe’re a software company dedicated to revolutionizing car safety. By designing the complete software stack for autonomous driving and advanced driver-assistance systems, we’re fighting to end car accidents and make roads safe for everyone. That's summarized in our purpose statement: Towards zero. Faster. \nCulture with people at heart\nTo achieve our mission of saving lives and ending traffic accidents is to go where nobody has before. It requires us to venture into the unknown, pioneering new technology and pushing the frontier of autonomous driving. While there’s no denying our determination and expertise, we must stand united to succeed. By fostering a culture of support and enablement – a place of psychological safety where all of us can thrive – everything else will follow. We call this a people-at-heart culture. \nWho are you? \nStrong programming skills within C++, Python, \nAI/Machine Learning/Deep Learning experience.  \nExceptional programming skills with Unity3d, Qt \nKnowledge and experience with OpenCV or OpenGL\nKnowledge of Deep Learning Frameworks like PyTorch or TensorFlow is a plus \nSoftware development experience in one or more general purpose programming languages \nInsight in the automotive industry and knowledge of MISRA C++, ISO26262 and ASIL \nExperience of developing embedded real time applications  \nSolid knowledge of systems engineering/architecture  \nSecure knowledge within continuous integration and deployment \nExperience from defining, building and testing automated toolchains \nExpert in any ADAS/AD feature \nAn enthusiastic person who thrives in an agile working culture \n\nWith the skillset and mindset described you have the chance to contribute to our purpose, to go towards zero. Faster.\nWe are really excited to welcome candidates with these skills so don't hesitate to take the chance of a lifetime! \nWhy join \nWhen we aim for zero accidents faster, we strive to speed up the transition to safe automation. This is essentially achieved by making cars updatable – like a computer or a phone. With regular software updates, a vehicle can be made safer long after its production. By accelerating improvement loops, shortening development cycles, and deploying high-capacity software quickly, we can make cars safer, faster.",
-        "url": "https://career.zenseact.com",
-        "published": "2025-12-19T10:34:15",
-        "deadline": "2026-06-16T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "30383955",
         "title": "Hårdvarunära Mjukvaruutvecklare sökes till Lafayette AB",
         "employer": "Lafayette AB",
@@ -293,6 +263,21 @@
         "url": null,
         "published": "2025-12-31T16:22:55",
         "deadline": "2026-01-11T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
+        "id": "30403197",
+        "title": "Software Developer",
+        "employer": "ZENSEACT AB",
+        "location": "Göteborg",
+        "description": "Zenseact is an applied automotive AI company developing world-leading safety software for AD and ADAS. Our technology encompasses every aspect of automation, from sensor fusion, computer vision, and object detection to positioning and actuation, using a combination of rule-based code and deep learning algorithms.\nOur software makes a difference.\nUsing AI-based technology to create the ultimate driver support, we’re fighting to end car accidents and make roads safe for everyone. Every year, around 1,4 million people die in traffic while approximately 50 million people get injured. Many get disabled as a result of their injury. We can do better. And we could use your help.\nOne purpose, one product.\nWe’re a software company dedicated to revolutionizing car safety. By designing the complete software stack for autonomous driving and advanced driver-assistance systems, we’re fighting to end car accidents and make roads safe for everyone. That's summarized in our purpose statement: Towards zero. Faster. \nCulture with people at heart\nTo achieve our mission of saving lives and ending traffic accidents is to go where nobody has before. It requires us to venture into the unknown, pioneering new technology and pushing the frontier of autonomous driving. While there’s no denying our determination and expertise, we must stand united to succeed. By fostering a culture of support and enablement – a place of psychological safety where all of us can thrive – everything else will follow. We call this a people-at-heart culture. \nWho are you? \nStrong programming skills within C++, Python, \nAI/Machine Learning/Deep Learning experience.  \nExceptional programming skills with Unity3d, Qt \nKnowledge and experience with OpenCV or OpenGL\nKnowledge of Deep Learning Frameworks like PyTorch or TensorFlow is a plus \nSoftware development experience in one or more general purpose programming languages \nInsight in the automotive industry and knowledge of MISRA C++, ISO26262 and ASIL \nExperience of developing embedded real time applications  \nSolid knowledge of systems engineering/architecture  \nSecure knowledge within continuous integration and deployment \nExperience from defining, building and testing automated toolchains \nExpert in any ADAS/AD feature \nAn enthusiastic person who thrives in an agile working culture \n\nWith the skillset and mindset described you have the chance to contribute to our purpose, to go towards zero. Faster.\nWe are really excited to welcome candidates with these skills so don't hesitate to take the chance of a lifetime! \nWhy join \nWhen we aim for zero accidents faster, we strive to speed up the transition to safe automation. This is essentially achieved by making cars updatable – like a computer or a phone. With regular software updates, a vehicle can be made safer long after its production. By accelerating improvement loops, shortening development cycles, and deploying high-capacity software quickly, we can make cars safer, faster.",
+        "url": "https://career.zenseact.com",
+        "published": "2025-12-19T10:34:15",
+        "deadline": "2026-06-16T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
         "source": "JobTech",
@@ -490,6 +475,21 @@
         "deadline": "2026-06-06T23:59:59",
         "is_consultant": false,
         "is_meaningful": true,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
+        "id": "30449437",
+        "title": "Modelling and Simulation PK/PD Expert",
+        "employer": "Astrazeneca AB",
+        "location": "Göteborg",
+        "description": "Are you a passionate individual with expertise in mathematical modelling and pharmacokinetics-pharmacodynamics (PK/PD)? Do you want to contribute to the development of future treatments for cardiovascular, renal, and metabolic diseases? If so, we invite you to join our Modelling & Simulation team within the Early Cardiovascular, Renal and Metabolism (CVRM) therapeutic area at AstraZeneca. This position is based at our dynamic R&D site in Gothenburg, Sweden. \n\n \n\nAccountabilities: \n\nAs a Modelling and Simulation PK/PD expert, you will play a key role in shaping project strategies and driving critical decisions across our drug discovery portfolio. You will actively influence drug project teams, guiding the selection of targets, molecules, optimal dosing strategies, patient populations, and overall development pathways. \n\nYou will have the opportunity to design and oversee the execution of complex studies in preclinical disease models, applying advanced mathematical modelling approaches to deliver impactful PK/PD and translational insights. Your expertise will enable you to synthesize data from multiple sources, predict human pharmacokinetics and pharmacodynamics, and influence the definition of efficacious exposure and dosing regimens. \n\nIn this role, you will present and defend your quantitative assessments and recommendations to internal governance and senior stakeholders, shaping critical decisions at the highest levels. You will also provide scientific leadership by initiating and leading strategic DMPK and PK/PD innovation projects, fostering collaboration across disciplines, and representing AstraZeneca's modelling expertise both internally and within the broader scientific community. \n\n \n\nEssential Skills/Experience: \n\n * \n\nPhD in pharmacokinetics, pharmacology, mathematics, or related field, with a focus on model-based PK/PD approaches, preferably in a preclinical/translational setting \n\n * \n\nIndustry or academic experience in exposure-response modelling (PK/PD, NLME, PBPK and/or QSP) including hands-on experience with scriptable modelling softwares (e.g., Phoenix, R, Matlab, Python, Monolix, NONMEM) \n\n * \n\nDemonstrated scientific leadership through a publication track record in relevant area \n\n * \n\nExcellent interpersonal skills and the ability to work in cross-functional teams \n\n * \n\nExcellent communication skills in English, both verbal and written \n\n \n\nDesirable Skills/Experience: \n\n * \n\nExperience in pharmaceutical research and development \n\n * \n\nExperience in defining quantitative modelling strategies across various therapeutic modalities (e.g., small molecules, oligonucleotides, peptides, proteins, antibodies or cell/gene therapy) \n * \n\nExperience applying AI/machine learning to research workflows, including data curation, PK/PD or translational modeling\n * \n\nExperience in PBPK modelling (e.g. Simcyp or PK-Sim) \n\n \n\nAt AstraZeneca, we are driven by results and use our unique blend of science and commercial knowledge to spot opportunities and drive outcomes. We are part of an expansive healthcare ecosystem that connects key players across the entire patient journey. Our patient-first approach informs every decision we make. We are committed to your development and believe that your best is better here. Join us and be part of a global team filled with the smartest minds. \n\n \n\nReady to make your mark? Apply now and be a part of our journey to redefine the future of healthcare! Welcome with your application no later than January 25th, 2026.",
+        "url": "https://www.aplitrak.com/?adid=ZWxlb25vci5laHJtYW4uMDIyNzQuMzEwMUBhc3RyYXplbmVjYS5hcGxpdHJhay5jb20",
+        "published": "2026-01-09T09:32:24",
+        "deadline": "2026-01-23T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 100
