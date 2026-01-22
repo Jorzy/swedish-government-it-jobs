@@ -30,6 +30,21 @@
         "relevance_score": 100
     },
     {
+        "id": "30387039",
+        "title": "Engineering Tools Specialist – COMOS",
+        "employer": "AFRY AB",
+        "location": "Göteborg",
+        "description": "Företagsbeskrivning\nAFRY erbjuder tjänster inom teknik, design, digitalisering och rådgivning. Vi är hängivna experter inom industri, energi- och infrastruktur, som skapar värde för kommande generationer. AFRY har en global räckvidd med djupa rötter i Norden. Tillsammans accelererar vi omställningen till ett mer hållbart samhälle.\n\nJobbeskrivning\nVill du arbeta med avancerade ingenjörsverktyg och vara med och driva digitaliseringen av industrin? AFRY stärker nu sitt team och söker en Engineering Tools Specialist – COMOS till våra industri- och anläggningsprojekt.\n \nOm rollen\nI rollen som Engineering Tools Specialist – COMOS hos AFRY arbetar du med Siemens COMOS, ett ingenjörs- och informationshanteringsverktyg för strukturerad hantering av tekniska anläggningsdata genom hela livscykeln, från design och projektering till drift och underhåll. COMOS används som central plattform inom branscher såsom processindustri, energi, kemi, pharma, olja & gas samt tillverkningsindustri och fungerar ofta som navet i ett integrerat systemlandskap.\n\nRollen har ett tydligt utvecklingsfokus och omfattar implementering, konfiguration och vidareutveckling av COMOS, inklusive datamodeller, systemintegrationer och informationsflöden, där du fungerar som teknisk expert och super user och stöttar projektteam och kunder genom hela anläggningens livscykel.\n \nDu kommer att:\nArbeta med COMOS-modellering, databasstruktur och objekthantering\nDelta i och driva COMOS-implementationer i projekt\nVidareutveckla COMOS genom konfiguration, anpassningar och tekniska lösningar\nArbeta med systemintegrationer mot andra verktyg och system (E3D, EPLAN, PCS7/PAA m.fl.)\nStötta discipliner såsom process, el, instrument och automation\n\n\nKvalifikationer\nVi söker dig som\nHar flerårig erfarenhet av arbete med COMOS (Siemens)\nHar bakgrund inom processindustri, energi, pharma, kemi eller liknande\nFörstår ingenjörsdata och dess användning genom hela anläggningens livscykel\nHar ett starkt tekniskt intresse och trivs i en utvecklingsnära roll\nHar programmeringskunskaper i C++, C#, .NET\nHar erfarenhet av systemintegrationer och arbete med XML-filer\nHar goda kunskaper i SQL och databashantering\nÄr strukturerad, lösningsorienterad och kommunikativ\nTalar och skriver svenska och engelska obehindrat\n\n\nYtterligare information\nVi erbjuder\nHos AFRY får du möjlighet att arbeta i tekniskt avancerade och multidisciplinära projekt med starkt fokus på innovation, digitalisering och hållbarhet. Vi erbjuder:\nSpännande uppdrag hos ledande industrikunder\nEn central specialistroll inom Engineering Tools och digitala plattformar\nGoda möjligheter till teknisk och professionell utveckling\nEn inkluderande företagskultur med engagerade och kunniga kollegor\nFlexibla arbetsformer och god balans mellan arbete och fritid\n \n\nVälkommen med din ansökan, sista ansökningsdag är 2026-02-23\n\n\n\n \nPå AFRY driver vi förändring i allt vi gör. Vi anser att förändring sker när modiga idéer möts, när vi samarbetar, skapar innovation och omfamnar kreativa lösningar, det är så vi skapar framtiden. Vi söker konstant kvalificerade kandidater som vill ansluta sig till våra inkluderande  team runt om i världen. Bli en del av oss och påskynda den gröna omställningen\n \n \n\nPå AFRY driver vi förändring i allt vi gör. Vi anser att förändring sker när modiga idéer möts, när vi samarbetar, skapar innovation och omfamnar kreativa lösningar, det är så vi skapar framtiden. Vi söker konstant kvalificerade kandidater som vill ansluta sig till våra inkluderande  team runt om i världen. Bli en del av oss och påskynda den gröna omställningen",
+        "url": "https://jobs.smartrecruiters.com/AFRY/744000104632075-engineering-tools-specialist-comos?oga=true&trid=4de896fd-3759-406c-8d07-8a7da8844ce0",
+        "published": "2025-12-17T09:30:34",
+        "deadline": "2026-02-20T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": true,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
         "id": "29988634",
         "title": "Systemutvecklare",
         "employer": "Zcelero AB",
@@ -218,6 +233,21 @@
         "url": "https://airtable.com/appWFSx6BGg1FmqQh/shre6DE5SpaxhDAWu",
         "published": "2026-01-07T12:32:15",
         "deadline": "2026-02-06T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
+        "id": "30500393",
+        "title": "DevOps Developer",
+        "employer": "Avaron AB",
+        "location": "Göteborg",
+        "description": "About the Company\nAvaron AB is a growing consultancy focused on technology, finance, and business support. We match your expertise with the market's most interesting assignments, offering a platform where your professional development is central.\nAbout the Assignment\nYou will join a Connectivity and Cloud Platform team working with products that support connected car services globally. The focus is to enable other product teams to build customer applications efficiently on top of shared platforms, with a strong emphasis on automation, reliability, and developer experience.\nIn this role, you will collaborate with other DevOps colleagues to streamline delivery pipelines and evolve the toolchain and operational support, including automation initiatives supported by an AI agent.\nJob DescriptionOptimize and improve CI/CD pipelines using GitLab.\nSupport developers with project setup, debugging and access management.\nConfigure and maintain GitLab Runners, manage infrastructure and deploy resources using Terraform and Ansible.\nWrite scripts to automate repetitive tasks and improve workflow efficiency.\nDesign, implement and maintain dashboards and KPIs for operational metrics, system health and infrastructure performance.\nContribute with new ideas and drive improvements in automation and infrastructure.\nCollaborate with colleagues to ensure infrastructure and security align with needs and best practices.\nRequirementsExperience with cloud infrastructure and implementing CI/CD pipelines.\nHands-on experience with GitLab and CI/CD pipelines.\nExperience with Infrastructure as Code and configuration management using Terraform and Ansible.\nExperience working with Docker and Kubernetes.\nExperience with AWS.\nAbility to script/automate using one or more of: Python, Java, JavaScript, TypeScript.\nBSc degree or higher in Computer Science/Engineering or equivalent.\nNice to haveExperience with GitOps tools such as ArgoCD, Harbor, Sonarqube and Dependency Tracker.\nExperience with observability and support tools such as Splunk, Pagerduty, Apica, Grafana.\nExperience working with Jira, Confluence and Slack.\nApplication\nSelections are made on an ongoing basis, so we recommend that you apply as soon as possible.",
+        "url": "https://jobs.avaron.se/jobs/7087734-devops-developer/applications/new?promotion=1800371-arbetsformedlingen",
+        "published": "2026-01-21T11:34:00",
+        "deadline": "2026-01-23T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
         "source": "JobTech",
