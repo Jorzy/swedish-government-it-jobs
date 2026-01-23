@@ -1,20 +1,5 @@
 [
     {
-        "id": "30092160",
-        "title": "Machine Learning Engineer - Computer Vision",
-        "employer": "Repli5 AB",
-        "location": "Göteborg",
-        "description": "The Role: We're looking for an experienced Machine Learning Engineer with a deep background in computer vision and generative AI. You’ll be part of a team developing systems that generate realistic, diverse, and highly controllable synthetic image data using state-of-the-art tools like Stable Diffusion, LoRA, and ControlNet. Your work will directly impact the performance and robustness of real-world AI systems—from self-driving cars to defense robotics.\nWhat You’ll Do\n Develop and fine-tune generative AI pipelines (e.g., Stable Diffusion, ControlNet, LoRA) for synthetic image generation.\n Design and implement machine learning workflows to generate structured, photorealistic datasets.\n Collaborate with 3D artists and simulation engineers to align ML models with physical environments and sensor setups.\n Work closely with customers in automotive, robotics, and aerospace to deliver tailored datasets.\n Optimize generation systems for scalability, quality, and speed using tools like ComfyUI or custom pipelines.\n \nYou Should Have\n MSc or PhD in Computer Vision, Machine Learning, or related field.\n 3+ years of hands-on experience with deep learning frameworks (e.g., PyTorch, TensorFlow).\n Experience working with generative AI models (especially diffusion-based models).\n Familiarity with tools like LoRA, ControlNet, ComfyUI, or custom workflows around Stable Diffusion.\n Strong understanding of synthetic data generation and its role in training perception systems.\n A track record of deploying ML systems in domains like automotive, robotics, defense, or manufacturing.\n \nNice to Have\n Experience working with 3D simulation pipelines or sensor modeling (e.g., depth, LiDAR, segmentation).\n Contributions to open-source ML/gen AI tools or custom diffusion model training.\n Enjoying reading research papers\n A problem solving intellect and a team player spirit\n Knowledge of synthetic-to-real domain adaptation techniques.\n Experience in startup environments or working directly with enterprise R&D teams.\n A positive can-do attitude",
-        "url": "https://repli5.teamtailor.com/jobs/6544271-machine-learning-engineer-computer-vision?promotion=1650650-arbetsformedlingen",
-        "published": "2025-10-01T10:35:02",
-        "deadline": "2026-03-20T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": true,
-        "source": "JobTech",
-        "category": "AI",
-        "relevance_score": 100
-    },
-    {
         "id": "30406272",
         "title": "Doctoral student in number theory or harmonic analysis",
         "employer": "Chalmers Tekniska Högskola AB",
