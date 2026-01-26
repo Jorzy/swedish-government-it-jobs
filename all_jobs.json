@@ -420,21 +420,6 @@
         "relevance_score": 100
     },
     {
-        "id": "30465808",
-        "title": "DevOps Engineer - Sigma Technology Systems",
-        "employer": "Sigma Technology Information AB",
-        "location": "Göteborg",
-        "description": "Jobbeskrivning\nWe are looking for a DevOps Engineer to join our team and help build, maintain, and improve scalable, secure, and reliable systems.\nIn this role, you will work closely with development teams to streamline CI/CD pipelines, improve cloud infrastructure, and support modern DevOps ways of working.\nKey responsibilities\n\nDesign, implement, and maintain CI/CD pipelines\n\n\nManage and optimize cloud and on-prem infrastructure\n\n\nAutomate deployments, monitoring, and operations\n\n\nCollaborate with developers to improve reliability and performance\n\n\n \nBaskunskaper\n \n\nExperience with DevOps, CI/CD, and automation\n\n\nKnowledge of cloud platforms (e.g. Azure, AWS, or GCP)\n\n\nExperience with containers, scripting, and infrastructure as code\n\n\nA collaborative mindset and strong problem-solving skills\n\n\n \nVi erbjuder\n \n\nChallenging assignments with modern technologies\n\n\nA collaborative and knowledge-driven environment\n\n\nOpportunities for growth and development",
-        "url": "https://sigma.se/sv/position/?id=profiler-positions-7676",
-        "published": "2026-01-13T15:28:04",
-        "deadline": "2026-01-25T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "30461764",
         "title": "Developer",
         "employer": "Synteda AB",
