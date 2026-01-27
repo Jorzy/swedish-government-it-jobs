@@ -360,21 +360,6 @@
         "relevance_score": 80
     },
     {
-        "id": "30473053",
-        "title": "Software Engineer",
-        "employer": "Tata Technologies Nordics AB",
-        "location": "Göteborg",
-        "description": "At Tata Technologies we make product development dreams a reality by designing, engineering and validating the products of tomorrow for the world’s leading manufacturers. Due to our continued growth, we are now recruiting for a Software Engineer to strengthen our team in Gothenburg.\nResponsibilities\nDevelopment and maintenance of an automation framework for verification of advanced driver assistance systems and sensors such as radar, lidar, and camera.\nDevelopment and maintenance of data visualization tools to present test results and metrics effectively.\nManage and utilize databases to store and retrieve test data efficiently.\nMonitor automated tests, analyze results, and report defects.\nProvide training and support to stakeholders on test automation tools and processes.\nSupport users in fault-tracing test setups.\n\nBackground / Experience\nExcellent Python programming skills with an object‑oriented approach.\nAbility to think in systems and processes, understanding how components interact within a larger framework.\nExperience working in HIL and SIL environments with knowledge of various simulation tools.\nExperience working with Grafana or other visualization tools.\nExperience with Linux.\nKnowledge of Pytest.\nProactive, self‑driven, and strong communication skills.\n\nMeritourius\nBackground in the automotive domain.\nExperience with UDS, XCP, and HDF logging.\nExperience with dSPACE HIL software and CANoe.\nExperience managing containerized applications.\nExperience configuring and maintaining Jenkins / Zuul.\nShell scripting skills.\n\nIf you are passionate about bringing innovation to the projects you work on then we would love to hear from you.\nTata Technologies: Engineering a better world.\nTata Technologies would like to thank all applicants for their interest, each application will be reviewed against the set criteria for the role. We would like to advise that only candidates under consideration will be contacted. If you do not hear from us within 10 working days following the closing date it will mean that unfortunately your application has not been successful. We will however retain your details for any suitable future opportunities.",
-        "url": null,
-        "published": "2026-01-15T08:09:35",
-        "deadline": "2026-01-26T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "30469653",
         "title": "Senior Embedded Rust Engineer",
         "employer": "Knowit AB (Publ)",
@@ -593,6 +578,21 @@
         "url": "https://jobb.creditsafe.se/jobs/6944932-data-engineer-aws-data-warehousing-analytics?promotion=1759757-arbetsformedlingen",
         "published": "2025-12-18T13:40:54",
         "deadline": "2026-06-06T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": true,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
+        "id": "30517419",
+        "title": "Solution Architect",
+        "employer": "Volvo Business Services AB",
+        "location": "Göteborg",
+        "description": "Transport is at the core of modern society. Imagine using your expertise to shape sustainable transport and infrastructure solutions for the future. If you seek to make a difference on a global scale, working with next-gen technologies and the sharpest collaborative teams, then we could be a perfect match.\r\n\r\nWhat you will do\nAs a Global Solution Architect, you will be part of VFS which, in partnership with the Volvo Group brands, is facilitating the development of common Services platforms that are supporting Volvo Group’s expansion.\nDesigning solutions compliant with the CAST model (Common Architecture, Shared Technology) allows VFS to create scalable, cost-effective global solutions while giving Volvo Group brands the ability to deliver high value to their customers and employees.\nYou will also provide guidance and ensure adherence to best practices, standards, and target architecture as per the VFS Design Authority process.\nAs an IT solution architect, you will work in a cross-functional team to understand the project/product scope, objectives, and business value. You will engage with external vendors to evaluate COTS (Commercial Off-The-Shelf) solutions to define which solutions are in line with our long-term technology roadmap and business strategy.\nYou will collaborate with UI/UX designers, front-end and back-end developers, and QA engineers to ensure the quality and performance of IT solutions is top-notch.\n\nYour future team\nYou will report directly to the Global Solution Architecture Chapter Lead within VFS D&IT and will be assigned to a stable, global cross-functional team. Digital and IT is the engine of the VFS business, and we continue our strategic journey to further improve performance and to deliver the best customer experience in the industry.  In this exciting environment, we are focused on Digital Innovation to meet the demands of our customers in an increasingly digitalized world. \nIn many of our markets, VFS has won the Great Place to Work award, where Great Work is done. By interacting with each other as an on-site business, we build relationships, which allow us to work together more efficiently and form stronger bonds with our colleagues and customers. The preferred location is Gothenburg, Sweden. \n\nWho are you?\n\nDo you dream big? We do too, and we are excited to grow together. In this role, we believe it is the right mindset that will make a difference at VFS. If you, besides your genuine interest in working with people in Transforming Together, also have a positive, service-oriented, and collaborative mindset, and take a proactive approach to handling all responsibilities, idea generation, and recommendations for productivity and efficiency - then we would welcome you to apply for this role.  \n\n\nQualifications likely required to be successful in this role include:\n•    A bachelor’s degree in computer science, software engineering, or a related field.\n•    Open minded and creative thinker to address complex challenges (using Design Thinking).\n•    Excellent communication, collaboration, and problem-solving skills. English fluency is mandatory.\n•    Acting as a mentor, providing technical guidance to development/stable teams.\n•    Automotive and/or financial banking industry experience is good to have.\n•    Enterprise Azure Architecture (Senior Level)\n5+ years designing enterprise-scale solutions on Microsoft Azure, including multi-region deployments, high availability and disaster recovery, identity and access management, networking, and security controls.\nDeep understanding of Azure services, including computing, storage, networking, databases, security, DevOps, and AI.\n•    Integration & API Architecture\nStrong experience in designing and governing APIs and integrations using REST, event-driven, and asynchronous patterns, with hands-on knowledge of Azure Integration Services (Service Bus, Event Grid, Logic Apps, Azure Functions).\n•    Cloud-Native Application Design\nProven ability to architect cloud-native solutions using microservices, containers (AKS), serverless architectures, and API gateways, applying scalability, performance, and reliability best practices.\n•    DevOps & Automation\nExperience with CI/CD pipelines, Infrastructure as Code (Bicep, ARM, or Terraform), and observability/monitoring to ensure solutions are reliable, secure, and operable in production.\n•    Security, Compliance & Architecture Governance\nExperience designing secure, compliant solutions in regulated environments (financial services preferred), working within formal architecture governance models and applying security-by-design and zero-trust principles.\n•    Certifications (Good to have)\nAZ-104: Microsoft Certified: Azure Administrator Associate\nAZ-400: Designing and Implementing Microsoft DevOps Solutions\nAZ-500: Microsoft Azure Security Technologies\n\nReady for the next move?\n\nIf you want to make a real impact in your career, Volvo Financial Services is where you want to be.",
+        "url": "https://volvo-information-technology-ab.contactrh.com/jobs/9669/43926807",
+        "published": "2026-01-26T09:25:06",
+        "deadline": "2026-02-09T23:59:59",
         "is_consultant": false,
         "is_meaningful": true,
         "source": "JobTech",
