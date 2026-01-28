@@ -1,5 +1,20 @@
 [
     {
+        "id": "30528575",
+        "title": "Android Software Developer till Innovativt Bolag",
+        "employer": "Friday Väst AB",
+        "location": "Göteborg",
+        "description": "Har du erfarenhet av androidutveckling och söker en ny utmaning i kundnära projekt? Då ska du läsa vidare.\n\nOM TJÄNSTEN:\nI rollen som Android Software Developer kommer du att arbeta med plattformsnära komponenter och system som driver moderna infotainmentsystem för fordon. Du bidrar till Androids systemtjänster, ramverk och plattformsfunktioner och säkerställer prestanda, tillförlitlighet och smidig integration mellan hårdvara och applikationslager.\nDu kommer vidare att utveckla ny plattformsfunktionalitet i Java/Kotlin med integrerade inbyggda C++-komponenter. Du kommer även få delta i design- och kodgranskningar samt stötta CI/CD-pipelines. Samarbetet sker i kundprojekt och tvärfunktionella ingenjörsteam som bidrar både till funktionsutveckling och den långsiktiga utvecklingen av plattformen.\nDu kommer till exempel att:\nUtveckla och underhålla Android-funktioner för infotainment i fordon.\nImplementera samt utveckla funktioner i Java/Kotlin och integrera med inbyggda C++-lager.\nGenomföra design- och kodgranskningar av plattformskomponenter.\nStötta CI/CD-pipelines med Jenkins och upprätthålla tydlig dokumentation.\nBidra till Android OS-uppgraderingsprojekt och säkerställa kompatibilitet med hårdvara och applikationer.\nVI SÖKER DIG SOM:Har en högskole- eller universitetsutbildning inom datateknik, elektronik, mekatronik eller motsvarande.\nHar erfarenhet av Androidutveckling, gärna inom infotainmentsystem eller likvärdigt.\nBesitter kunskaper i Java och Kotlin.\nHar kunskaper inom Python för scripting och automation.\nÄr flytande i svenska och engelska då språken kommuniceras internt och externt.\n\nDet är meriterande om du har:\nErfarenhet av C++ för inbyggd integration.\nKunskap om infotainmentsystem för fordon och hybrida utvecklingsmiljöer.\nDokumenterad erfarenhet av Android-versionsuppgraderingar, API-förändringar, plattforms­migreringar och validering i fordons- eller inbyggda miljöer\n\n\nVidare kommer stor vikt att läggas vid personlig lämplighet där vi som person tror att du ser komplexa system som fulla av möjligheter och trivs med att arbeta praktiskt för att förstå hur varje del hänger ihop. Du håller dig uppdaterad inom ditt område och delar gärna med dig av din kunskap. Du uppskattar ansvar från start till mål och är bekväm med att ifrågasätta antaganden för att hitta smartare och mer effektiva lösningar. Vi tror även att du är kommunikativ och trivs i agilt projektarbete.\n\nÖ",
+        "url": "https://pnty-apply.ponty-system.se/friday?id=4165&pnty_src=arbetsformedlingen",
+        "published": "2026-01-27T16:48:15",
+        "deadline": "2026-03-31T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": true,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
         "id": "30497442",
         "title": "Naturvetare/civilingenjör med intresse för datahantering och havet",
         "employer": "Sveriges Meteorologiska och Hydrologiska Institu",
@@ -225,6 +240,21 @@
         "relevance_score": 100
     },
     {
+        "id": "30524686",
+        "title": "Front-end Developer",
+        "employer": "Vemaventuri AB",
+        "location": "Göteborg",
+        "description": "If you're passionate about crafting scalable, user-friendly solutions and want to play a key role in reshaping the future of construction tech, VEMAVENTURI is the place for you\nHow you’ll make an impact and what you will do\nAs a Front-end developer with VEMAVENTURI, you'll be part of a dynamic team committed to pushing the boundaries of technology. Our platform boasts cutting-edge features, including faster performance, robust mobile support, and an intuitively navigable interface.\nBased on this, your regular tasks include:\n Bridge the gap between design and high-performance engineering. You’ll translate Figma designs into responsive, type-safe interfaces using React, TypeScript, and CSS. To ensure stability, you’ll take ownership of quality by building automated end-to-end test suites with Selenium. Ultimately, you will be responsible for delivering seamless user experiences while maintaining a robust and scalable codebase.\nExperience and Qualification to succeed in this role\n•Practical experience with CSS TypeScript, React,\n•Create automated tests, Selenium\n•Collaboration in UI/UX design, Figma\n•Ability to create clean, well-documented, and structured code\n•Good knowledge of Swedish and English, both spoken and written\n•Relevant experience 5+ years\nYou demonstrate a direct and open approach to work and communication, fostering collaboration within the team. Moreover, you are adept at working independently, taking full responsibility and ownership in your role.",
+        "url": null,
+        "published": "2026-01-27T10:46:25",
+        "deadline": "2026-02-15T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
         "id": "30513928",
         "title": "Software Developer",
         "employer": "Tata Technologies Nordics AB",
@@ -285,14 +315,14 @@
         "relevance_score": 100
     },
     {
-        "id": "30383955",
-        "title": "Hårdvarunära Mjukvaruutvecklare sökes till Lafayette AB",
-        "employer": "Lafayette AB",
+        "id": "30525513",
+        "title": "CI/CD Engineer",
+        "employer": "Techla Group AB",
         "location": "Göteborg",
-        "description": "Bolaget grundades 1961 och var det svenska bolag som var först ut med privatradio. Lafayette har idag en framskjuten position inom tillverkning av utrustning som främst används av jägare eller naturälskande människor. \nTillsammans med våra dotterbolag VMAC AB samt Lafayette Oy utvecklar, tillverkar och säljer vi produkter såsom kommunikationsradio, spårningsutrustning som främst används för att spåra jakthundar eller boskap med en egenutvecklad mjukvaruplattform, samt att vi utvecklar och tillverkar ljuddämpare och pannlampor.\nVåra kunder befinner sig i nuläget främst i Norden men vi kommer i framtiden att etablera oss på nya marknader, först och främst inom EU.\nKoncernen har idag sitt huvudkontor i Göteborg samt ett finskt säljbolag som är beläget strax utanför Helsingfors. Tillverkning och utveckling sker även i orterna Vilhelmina och Shenzhen i Kina. Omsättning för bolagen är cirka 45 MSEK med ett 12 anställda.\nLafayette söker nu dig som vill bidra med din tekniska kompetens genom att arbeta med utveckling och underhåll av företagets GPS-produkter genom mjukvaruutveckling. Du kommer att programmera i C/C++ för att utveckla och underhålla mjukvara som integrerar med hårdvaran i våra produkter. Samtidigt kommer du att få engagera dig i projekt med förbättringsarbeten och det finns goda möjligheter att ta egna initiativ till utvecklingsprojekt för att förbättra produkternas funktioner.\nVi är ett växande företag med starkt fokus på kvalitet och innovation. Du kommer att ingå i ett team och bli en del av ett litet och familjärt företag med stora utvecklingsmöjligheter. Här får du goda förutsättningar att påverka vägen framåt för bolaget som är i tillväxtfas. Arbetet utförs på plats i Göteborg och är förlagt till kontorsarbetstider.\nArbetsuppgifterProgrammering i C/C++ för utveckling och underhåll av produkternas mjukvara\nDelta i samt driva egna förbättringsprojekt av GPS-produkterna\nFölja upp och kontrollera produkternas funktioner\nIngå i utvecklingsteamet och samarbeta kring produktutvecklingen\nKvalifikationerHar goda kunskaper och erfarenhet av kodning i C/C++\nKörkort\nRelevant utbildning\nMinst 3 års yrkeserfarenhet eller motsvarande\nHar kunskaper inom GPS, telekom eller radioteknik\nHar goda kunskaper i svenska och engelska både i tal och skrift då dessa språk används i det dagliga arbetet \n\n\n\nMeriterande om du har· Arbetslivserfarenhet av hårdvarunära utveckling inom GPS, telekom eller radioteknik\n· Har kunskaper om serverkommunikation\n· Har kunskaper om Arm - och Pic-processorer som används i produkterna \nPersonliga egenskaper· Kommunikativ\n· God samarbetsförmåga\n· Noggrann och strukturerad\n· Självständig och ansvarstagande\n· Problemlösande\nVi erbjuder· En dynamisk arbetsplats med engagerade kollegor\n· Möjlighet att påverka och utvecklas i rollen\n· Konkurrenskraftig lön och förmåner\n· Trevligt kontor och moderna lokaler\nSkicka din ansökan med CV och personligt brev till patrik@lafayette.se senast den 15 oktober 2025. Urval sker löpande och anställnings sker efter överenskommelse. Vid frågor kontakta Patrik Johansson, 0702269000",
-        "url": null,
-        "published": "2025-12-16T14:36:45",
-        "deadline": "2026-02-27T23:59:59",
+        "description": "På TECHLA söker vi kontinuerligt efter skickliga CI/CD Engineers med bakgrund inom embedded systems och automotive. Rollen passar dig som vill arbeta i tekniskt komplexa miljöer där kvalitet, spårbarhet och stabila flöden är avgörande – och där CI/CD är en möjliggörare för effektiv utveckling, test och leverans.\nVi ser gärna att du har:\nIngenjörsexamen i datateknik, teknisk fysik, elektroteknik eller motsvarande\nErfarenhet av CI/CD-arbete inom embedded miljöer\nErfarenhet av CI/CD-verktyg som Jenkins, GitLab CI, GitHub Actions eller Azure DevOps\nGod förståelse för Git, branchstrategier och kodflöden\nErfarenhet av testautomation och verifiering\nGrundläggande kunskap om Linux och scripting (Bash/Python)\n\nMeriterande:\nErfarenhet av SIL/MIL/HIL\nAutomotive-standarder (ASPICE, ISO 26262, ISO 21434)\nContainerisering (Docker)\nArtifact-hantering (Artifactory, Nexus)\n\nLåter det intressant?\nSkicka in din ansökan till hello@techla.se",
+        "url": "http://www.techla.se",
+        "published": "2026-01-27T11:45:20",
+        "deadline": "2026-02-26T23:59:59",
         "is_consultant": false,
         "is_meaningful": true,
         "source": "JobTech",
@@ -487,7 +517,7 @@
         "description": "About the job\nAre you a skilled Cyber Security Engineer with a talent for finding gaps in the most secure systems? We’re looking for someone to perform in-depth penetration testing across various technologies, including Windows and Linux environments, Citrix Workspaces, Cloud infrastructures, and APIs. You will use the latest tools and techniques to uncover vulnerabilities and work alongside our development and security teams to address and fix them. If you're ready to tackle complex security challenges, we want to hear from you!\nThe ideal profile\nThe perfect candidate is a highly skilled and detail-oriented Cyber Security Engineer with genuine hands-on experience in penetration testing and vulnerability analysis. You have excellent written and verbal communication skills and are a strong problem-solver. You thrive both working independently and collaborating within a team, always ready to tackle challenges with analytical precision.\nQualifications:\nYou have a strong understanding of network protocols, both Windows and Linux operating systems, application architectures and Red Hat\nIn-depth knowledge of common vulnerabilities and exploits (CVEs)\nProficiency in using various penetration testing tools such as Metasploit, Nmap, Burp Suite and/or Nessus\n\nAdditional skills:\nExperience with cloud security, particularly AWS.\nKnowledge of scripting languages (e.g., Python, PowerShell).\nFamiliarity with source code review techniques.\nUnderstanding of frameworks like ISO 27001, NIST, CIS\nSecurity certifications such as OSCP, CEH, PEN TEST+",
         "url": null,
         "published": "2025-11-27T10:17:25",
-        "deadline": "2026-01-29T23:59:59",
+        "deadline": "2026-02-28T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
         "source": "JobTech",
