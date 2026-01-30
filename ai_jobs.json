@@ -15,6 +15,36 @@
         "relevance_score": 60
     },
     {
+        "id": "30540233",
+        "title": "Senior AI Engineer",
+        "employer": "Explipro Group AB",
+        "location": "Göteborg",
+        "description": "Are you passionate about building intelligent, data-driven systems that create real business value? We are looking for Senior AI Engineers who want to work with applied AI as part of modern cloud and data platforms.\nWhat You’ll Do\n• Build and deploy AI-enabled solutions that run in production • Integrate machine learning into backend and cloud-based systems • Collaborate with software, data, and platform engineers • Operationalize AI using MLOps and CI/CD practices • Ensure scalability, reliability, and monitoring of AI solutions\nWhat We Are Looking For\n• 7+ years of experience in software, data, or AI-related roles • Hands-on experience with applied machine learning • Strong skills in Python and data processing • Experience with AWS and/or Azure • Understanding of deploying and operating AI in production • Fluent English, spoken and written\nNice to Have\n• Experience with Databricks, Spark, or similar platforms • Background in automotive, industrial, or enterprise systems • Experience with predictive, optimization, or automation use cases\nWhy Work With Us?\nAt Explipro, you will work with leading companies in automotive and industrial domains, helping move AI from ideas into real-world systems. We offer long-term assignments, modern technology stacks, and a culture built on trust, collaboration, and technical excellence.\nReady to make AI part of real systems? Apply now.",
+        "url": "https://career.explipro.com/jobs/7138467-senior-ai-engineer/applications/new?promotion=1814901-arbetsformedlingen",
+        "published": "2026-01-29T17:41:19",
+        "deadline": "2026-02-28T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": true,
+        "source": "JobTech",
+        "category": "AI",
+        "relevance_score": 80
+    },
+    {
+        "id": "30537576",
+        "title": "CMC Capability Business Analyst",
+        "employer": "Astrazeneca AB",
+        "location": "Göteborg",
+        "description": "Are you motivated to simplify and elevate user experiences in Early Science? Do you turn complex scientific needs into clear, testable IT requirements and understand the life sciences R&D landscape? Do your strengths span modern technology capabilities, from data pipelines and analytics to change management and agile delivery, with a product mindset focused on measurable outcomes? If so, this could be the role for you. We're seeking a CMC Capability Business Analyst to join our IT Early Science team in Gothenburg, Sweden.\n\n \n\nAbout AstraZeneca\nAstraZeneca is a global, innovation‑driven biopharmaceutical company focused on discovering, developing, and commercializing medicines for some of the world's most serious diseases. We're an inclusive, collaborative workplace where you're empowered to push the boundaries of science and grow through lifelong learning, making a meaningful impact for patients and society.\n\n \n\nAbout R&D IT and the CMC Capability\nWe're building the digital, AI, and data capabilities that power AstraZeneca's transformation, giving you the space to explore, develop, and thrive, supported by leaders who coach and invest in your growth. In Early Science, our scientists run complex experiments to advance drug discovery and development. Within this, the Chemistry, Manufacturing & Controls (CMC) capability digitizes key activities across small molecules and biologics, partnering with Research and Operations to ensure new products are safe, consistent, and ready for patients. We shape the technology and data roadmap, align to AstraZeneca's FAIR data strategy, and deliver reusable data products on a modern stack.\n\n \n\nWhat you'll do\nYou'll partner with scientific and technical teams to connect the \"why\" to the \"how,\" aligning solutions to strategy and platforms while detailing functional design from the user perspective. Typical responsibilities include discovery workshops and workflow mapping; translating scientific needs into clear, testable requirements and business cases; shaping delivery options with R&D IT Platforms and vendors; defining user journeys and functional designs; contributing to PI Planning and backlog refinement; enabling data‑informed decisions and FAIR data products; and keeping stakeholders aligned while managing scope and trade‑offs.\n\nEssential requirements\n\n * Strong communication and influencing skills across diverse stakeholder groups.\n * Proven ability to translate scientific needs into clear IT requirements for delivery teams.\n * Familiarity with agile practices and a product, user‑focused mindset.\n * Experience with data pipelines and modern analytics.\n * Experience in change management and process improvement.\n * Proficiency with collaboration and process tools such as JIRA and Confluence, and understanding of Git and CI/CD.\n * Exposure to wireframing/prototyping tools (e.g., Axure, Balsamiq, Figma).\n\nDesirable requirements\n\n * Understanding of life sciences R&D, ideally within CMC or adjacent domains.\n * Knowledge of modern technology capabilities across data platforms, integration patterns, and cloud services.\n * Familiarity with FAIR data principles and data product concepts.\n * Scrum Master or Project Management certification.\n\n \n\nWhy join us?\nThis is a pivotal moment as we scale digital, data, and AI across R&D. You'll help build the partnerships, platforms, and ways of working that accelerate science with speed and quality, making a tangible difference for patients worldwide.\n\n \n\nPlease submit your CV and cover letter by 20 February 2026",
+        "url": "https://www.aplitrak.com/?adid=Y2ZhbGsuNzY3NjguMzEwMUBhc3RyYXplbmVjYS5hcGxpdHJhay5jb20",
+        "published": "2026-01-29T12:52:26",
+        "deadline": "2026-02-12T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "AI",
+        "relevance_score": 90
+    },
+    {
         "id": "30406272",
         "title": "Doctoral student in number theory or harmonic analysis",
         "employer": "Chalmers Tekniska Högskola AB",
