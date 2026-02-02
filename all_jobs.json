@@ -30,21 +30,6 @@
         "relevance_score": 100
     },
     {
-        "id": "30481962",
-        "title": "Utveckling av affärssystem i .NET, HTML5 och C++ i centrala Göteborg",
-        "employer": "Noventus Systems AB",
-        "location": "Göteborg",
-        "description": "Om dig\nVi söker en kompetent och ansvarstagande medarbetare som kan jobba både i grupp och självständigt där också kundkontakter är en viktig del i arbetet.\nVi tror att en lämplig bakgrund för dig som söker är någon form av högskoleutbildning inom programutveckling och datorteknik.\nDin utbildning\nHögskole- eller universitetsutbildning inom Data eller IT alternativt motsvarande arbetslivserfarenhet.\n\nDina arbetsuppgifter\nNoventus önskar stärka upp sitt utvecklingsteam med ytterligare medarbetare. Din roll kommer att innebära utvecklings- och kvalitetsarbeten avseende Noventus standardprogramvara Epix samt kundspecifika uppdrag.\nDu får arbeta under ordnade former med flexibel arbetstid och reglerade villkor avseende ersättning för support och övertidsarbete. Vi tillämpar hybridarbete med viss möjlighet till arbete på distans, men med huvudsaklig arbetsplats på vårt kontor i centrala Göteborg.\nNoventus har en platt organisation, där den anställde arbetar under eget ansvar och har stor möjlighet att påverka.\nVi erbjuder ett utvecklande och varierat arbete där projektledning, systemdesign, programmering, test, installation, utbildning, dokumentation och support ingår. Noventus utvecklingsarbeten genomförs som projekt. Beroende på projektens storlek och omfattning kan arbetsuppgifterna variera.\nHuvudsaklig utvecklingsmiljö är Visual Studio med .NET, C# samt HTML5 som huvudsakliga programspråk och bibliotek. Noventus använder branschpraxisramverk så som React men arbetar huvudsakligen med egenutvecklade komponenter. Erfarenhet av C++ och Microsoft SQL Server är meriterande då arbete med detta också förekommer.\nOm Noventus\nNoventus är ett innovativt företag som utvecklat programvara i världsklass i mer än 40 år. Vi förser våra kunder med allt från rena standardlösningar till kundanpassade system. Idag utvecklar Noventus främst programvara för affärs- och lagersystem samt 3PL-lösningar.\nVåra kunder finns inom flera olika branscher, däribland livsmedels- och grossistföretag. Ytterligare detaljer om vårt företag, kunder och produkter finner du på vår hemsida.\nNoventus kontor ligger centralt beläget i Göteborg med goda möjligheter att använda kollektivtrafik.\nSom anställd på Noventus kommer den mesta arbetstiden att spenderas på kontoret. Resor i tjänsten kan förekomma i samband med kundmöten, driftstart av systemleverans samt utbildning. B-körkort är en fördel men inget absolut krav för tjänsten.\nDin ansökan\nAnsök via epost till arbetsgivarens mejl enligt denna annons. Bifoga CV samt betyg från högskola eller universitet och om möjligt även gymnasiebetyg.",
-        "url": null,
-        "published": "2026-01-16T14:11:15",
-        "deadline": "2026-02-01T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": true,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "30387039",
         "title": "Engineering Tools Specialist – COMOS",
         "employer": "AFRY AB",
@@ -613,21 +598,6 @@
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 100
-    },
-    {
-        "id": "29914881",
-        "title": "Software Engineer",
-        "employer": "Ecareer AB",
-        "location": "Göteborg",
-        "description": "At Aveer, we’re looking for an Embedded Software Integration Engineer to take ownership of managing and configuring our software platform, integrating application components into complete node software, and ensuring our platforms are rock-solid before release. What you’ll do:\nDevelop the embedded software technologies and the software platform.\nManage and configure the software platform and integrate application SW components. Verify the platform, including build environment and CI/CD pipelines. Lead Embedded Software (ESW) integration in a technical team. Integrate deliveries from multiple teams and secure quality before release. Contribute in early-phase development, defining technical roadmaps. Collaborate and influence across global sites. Mentor and coach team members, driving continuous learning. What we’re looking for: 8+ years of relevant embedded software integration experience. Strong AUTOSAR or similar integration expertise. Solid T-shaped profile — broad toolkit with deep technical mastery. Experience leading complex projects and developing team members. Skilled influencer, networker, and value creator beyond your immediate team.",
-        "url": "https://jobb.ecareer.se/jobs/6311314-software-engineer?promotion=1590472-arbetsformedlingen",
-        "published": "2025-08-15T17:30:45",
-        "deadline": "2026-02-01T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 90
     },
     {
         "id": "30544945",
