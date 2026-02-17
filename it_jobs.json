@@ -45,6 +45,21 @@
         "relevance_score": 100
     },
     {
+        "id": "30614702",
+        "title": "Salesforce Marketing Cloud Developer",
+        "employer": "Avaron AB",
+        "location": "Göteborg",
+        "description": "About the Company\nAvaron AB is a growing consultancy focused on technology, finance, and business support. We match your expertise with the market's most interesting assignments, offering a platform where your professional development is central.\nAbout the Assignment\nFor an international organization within the automotive industry, we are looking for a Salesforce Marketing Cloud Developer to support the digital customer experience within a Global CRM Communications team. You will join a specialist team focused on marketing automation and personalized communication, helping drive scalable solutions, reliable integrations, and high-quality campaign execution.\nJob DescriptionDevelop and maintain dynamic, personalized content for emails, landing pages, SMS, and in-app/inbox messaging\nBuild and optimize customer journeys in Journey Builder\nConfigure automation workflows in Automation Studio\nCreate and maintain advanced SQL queries for segmentation and data processing\nIntegrate Salesforce Marketing Cloud with external systems using APIs and Marketing Cloud Connector\nExecute thorough testing to ensure rendering quality, deliverability, and compliance\nCollaborate with cross-functional stakeholders to translate business needs into technical solutions\nRequirementsProven experience in Salesforce Marketing Cloud development\nStrong skills in AMPscript, SSJS, SQL, and HTML/CSS\nExperience with API integrations and Marketing Cloud Connector\nKnowledge of the Marketing Cloud data model and automation workflows\nFamiliarity with email rendering, deliverability, and compliance standards\nFluent in written and spoken English\nNice to haveSalesforce Marketing Cloud certifications (Developer, Email Specialist, or Administrator)\nApplication\nSelections are made on an ongoing basis, so we recommend that you apply as soon as possible.",
+        "url": "https://jobs.avaron.se/jobs/7232903-salesforce-marketing-cloud-developer/applications/new?promotion=1843170-arbetsformedlingen",
+        "published": "2026-02-16T09:32:04",
+        "deadline": "2026-02-17T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
         "id": "30605110",
         "title": "AI Engineer Internship ",
         "employer": "Cyber Instincts AB",
@@ -375,21 +390,6 @@
         "relevance_score": 100
     },
     {
-        "id": "30566257",
-        "title": "QA Developer",
-        "employer": "Icomera AB",
-        "location": "Göteborg",
-        "description": "Icomera is a leading global innovator in connectivity solutions within the transportation sector. We are at the forefront of transforming public transport, making it smarter, safer, greener, and more connected than ever before. At Icomera you work with products used by many users around the world, including passengers on some of the world's largest train and bus operators.\n\n\nJob type: Full-time                         \nWorkplace conditions: Hybrid                   \nLocation: Gothenburg\n \nAbout the Role:\nAs QA Developer at Icomera you will be a part of a team that develops software for the next generation of network routers for vehicles. The embedded team is responsible for analysis, design, implementation and test of the software as well as router-OS and router applications. Modifications are done on OS level in both user and kernel space and development is also done on the SW running on router Microcontrollers.\nIn this role, you will conduct testing related to Icomera’s products to ensure product quality according to target. You will also track and report issues found to the product development team to aid the development process. \n \nKey responsibilities:\n—     Contribute to defining, developing, and documenting test processes in line with product requirements and industry standards\n—     Design, develop, and maintain manual and automated test cases and test suites\n—     Develop and improve test automation frameworks and tools\n—     Execute tests according to established test processes and plans\n—     Document and communicate test results to relevant stakeholders\n—     Collaborate with development teams, product management, and regional test engineers\n—     Continuously improve test methods, processes, and ways of working\n \nRequirements:\n—     B.sc / M.sc degree, in computer science, physics or equivalent.\n—     Experience in working with software or test development in a Linux environment developing in Python.\n—     Deep knowledge of computer networking.\n—     Have an Interest and passion for Linux platform and software development.\n—     Proficient in English, written and spoken. If you also speak Swedish, it’s highly desirable.\n \nWho You Are:\nTo thrive in this role, you enjoy working with people and you are excited to be part of a constantly evolving international company. As an QA Developer, you are honest, driven, and solution-oriented, and you enjoy tackling technical challenges as part of a team.\n \nOur Offer:\n— The opportunity to work with cutting-edge technology in a market leader where we design and build everything in-house—from hardware to software\n— Health is important – we offer a comprehensive health benefit program to our employees\n— Flexible work arrangements – work from our modern and central office locations, or work from home up to two days a week\n— Electrical bike lease agreement via net salary deduction\n— ITP Pension and collective bargaining agreement\n— A social work environment – board game nights, after works, seasonal parties… The list goes on!\n \nReady to be part of something exciting and make a real difference in the connected future of transport? We’d love to hear from you!\n \nMore about the position:\nWe will be reviewing applicants ongoing. Icomera welcomes candidates from all backgrounds, and we value a diverse and inclusive work environment. Background checks will be performed at the final stage of the recruitment process.\n\n\n About Icomera:\nIcomera is the world’s leading provider of integrated connectivity solutions for trains, trams, buses, and coaches, serving millions of passengers and tens of thousands of vehicles on a daily basis. The IcoCrew now consist of 300+ employees globally. Icomera is headquartered in Gothenburg, Sweden, with main offices in the United States, Canada, the United Kingdom, Germany, France, Ireland, and Italy.\n \nIcomera’s vision for green mobility within the public transport industry perfectly complements the wider mission of our parent company, Equans. As the global leader in multi-technical services with 74,000 employees working across 17 country hubs, Equans delivers customised solutions which connect, protect and energise territories, cities, buildings, industries and transport infrastructures, empowering their energy, industrial and digital transitions. Visit www.icomera.com for further information.",
-        "url": "https://enfrench-equans.icims.com/jobs/81123/qa-developer/login",
-        "published": "2026-02-04T15:56:40",
-        "deadline": "2026-03-04T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": true,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "30595701",
         "title": "Embedded Systems Engineer - Motor Control",
         "employer": "Aros Electronics AB",
@@ -400,6 +400,21 @@
         "deadline": "2026-08-04T23:59:59",
         "is_consultant": false,
         "is_meaningful": true,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
+        "id": "30618582",
+        "title": "Senior Software Engineers - Automotive/other Industries",
+        "employer": "Siri AB",
+        "location": "Göteborg",
+        "description": "Siri AB is a R & D Engineering services company offering IT and product development services since 2011 with offices in Malmö, Gothenburg, Düsseldorf(Germany), Frankfurt(Germany), AbuDhabi(UAE) and Hyderabad(India).\nFor our new projects, we are looking for embedded programmers in C/C++/Java and verification Engineers having previous experience in IOT/Automotive/Defense/Space or other relevant industries.\nWe are using agile methodology for our Software development process.\nRequirements:\nAt least 5 years of experience in software industry\nEmbedded Software Design, development and implementation in C or C++ or Java\nAutomotive software verification/testing experience - Manual/Automation Testing\nTranslate high level customer requirements into software requirements\nAbility to work on multiple projects at the same time\nBachelor in Electronic Engineering or equivalent\n\n\n\nSoft Skills Required:\nTeam player with great communication skills\nAutonomous and Proactive person\nDriven and self-motivated\nGood in English communication\n\n\n\nRequirements - Good to Have:\nPractical experience in developing low-level software like device drivers.\nMaster in Electronic Engineering or equivalent\nPrevious experience in Automotive or IOT solutions\nHIL/SIL/MIL test bench Setup or testing experience.\nExperience in multiple domains is an advantage\nPython Scripting or Programming Knowledge",
+        "url": null,
+        "published": "2026-02-16T15:15:00",
+        "deadline": "2026-03-01T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 100
