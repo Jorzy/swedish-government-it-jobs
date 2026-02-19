@@ -45,21 +45,6 @@
         "relevance_score": 100
     },
     {
-        "id": "30564317",
-        "title": "Deep Learning Engineer",
-        "employer": "EMBEDL AB",
-        "location": "Göteborg",
-        "description": "About Embedl\nEmbedl is a fast-growing technology start-up based in Gothenburg, Sweden. With a team of almost 30 dedicated professionals, we are on a mission to make AI affordable and efficient in embedded systems. Our development team is headquartered in Gothenburg, and our innovative solutions serve customers all over the world. We maintain close connections with academic research institutions, industry leaders, and the innovation ecosystem, supported by strong relationships with venture capital partners.\nThe Role\nAs Deep Learning Engineer, you own the last mile between state-of-the-art models and the silicon that runs them. Your mission is to integrate, optimize, and profile the capabilities of Embedl’s SDK on a widening spectrum of edge accelerators.\nResponsibilities\nBuild & maintain inference backends for the Embedl SDK's growing set of supported edge accelerators including NVIDIA TensorRT, Qualcomm QNN, Ambarella ADK, Texas Instruments TIDL, etc.\n\n\nContinuously track the state of the art in embedded-AI workflows. Distill the best compiler flags, memory layouts, and optimization tricks, and share them across our engineering and research teams.\n\n\nProfile, benchmark, and resolve bottleneck in models. Pinpoint performance hot-spots, then deliver targeted optimizations that turn good benchmarks into great real-world latency and power figures.\n\n\nExtend Embedl’s model-optimization capabilities. Sparsity, quantization, and more works on an ever-broader range of neural-network architectures and hardware platforms.\n\nWho You Are\nAn engineer comfortable reasoning at every layer — from high-level neural-network graphs down to low-level instructions. You thrive on unraveling the hardware details that turn good models into great products.\n\n\n\nQualifications\nMust-Have\nB.Sc./M.Sc. in Computer Engineering, Electrical Engineering, Computer Science, or equivalent hands-on experience.\n\n\nDemonstrated success in porting or optimizing deep-learning inference on at least one accelerator family (e.g., Qualcomm, TI, NVIDIA Jetson, ARM Ethos-U/NPU).\n\n\n3+ years of experience in C/C++ and Python for tooling and automation.\n\n\nSolid understanding of compiler toolchains, quantization, and memory/performance trade-offs.\n\nNice-to-Have\nExperience writing custom CUDA or Triton kernels.\n\nWhat We Offer\n\n\n\nCollaborative Culture: Join a high-performance team that values teamwork, knowledge sharing, and a positive working environment.\nProfessional Growth: Opportunities for continuous learning, mentorship, and career advancement.\nBenefits: Health and wellness allowance (friskvårdsbidrag) of 5000 SEK, wellness hour (friskvårdstimme) and private health insurance.\nApplication Process\nThe selection and interview process is ongoing, so please send your application in English as soon as possible. For any questions or clarifications, reach out to Ann Tornberg at ann@embedl.com.\nYou are welcome at Embedl for who you are, no matter where you come from, what you look like, or what your favorite IDE is.\nJoin us at Embedl and be a part of shaping the future of efficient AI!",
-        "url": null,
-        "published": "2026-02-04T12:50:15",
-        "deadline": "2026-02-18T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "AI",
-        "relevance_score": 100
-    },
-    {
         "id": "30540233",
         "title": "Senior AI Engineer",
         "employer": "Explipro Group AB",

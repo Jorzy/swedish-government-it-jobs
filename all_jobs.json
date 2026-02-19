@@ -420,6 +420,21 @@
         "relevance_score": 100
     },
     {
+        "id": "30629806",
+        "title": "Software Engineer AD/ADAS ",
+        "employer": "Torque Engineering AB",
+        "location": "Göteborg",
+        "description": "The role is within the ADAS (Driver Assistance) team, where you will contribute to our world-class development and integration of electrical system solutions with the aim to reach our Zero City vision: zero emissions, zero noise, zero accidents and zero congestion. You will lead the development within the Embedded Software and Application area in our vehicles and will work closely together with different stakeholders in order to achieve our customer’s expectations.\n\n\nThe role's requirements the order:\nat least 5-8 years of experience, depending on field.\n1) System Design, Logical Design, preferrably within ADAS.\n2) Relatively hands-on and preferably experience within testing & verification in rigs and/or vehicles.\n3) System rig verification experience is a plus\n4) SW download and fault tracing knowledge\n5) Good knowledge with software release process\n6) Knowing the Volvo tools , good knowledge with SW configuration. Would be good if you have specific automotive experience.\n7) Experience working with supplier will be good to have.\n\n\nAdditional:\nBecoming part of our team is easy. You just need to be a skilled team player with excellent communication and collaboration skills that is genuinely interested in product development and sharing your knowledge. We see that you are proactive and willing to take on things.\n\n\nB.Sc. or higher education in Electrics or Electronics Engineering or similar is highly valuable as well as previous experience from software development in the automotive industry. Knowledge of our systems and processes (Canalyzer, Vision, Engineering Tool, SW-Configurator, SEWS, Kola, etc.) as well as previous experience from ADAS (advanced driver assistance systems) is considered as meritorious.\nSince you have good engineering judgment and priorities, you have the ability and interest to technically support, lead and challenge colleagues in their work and their mindset. You like to share your passion for technical solutions, and you have strong analytical and problem-solving skills. As a person you are positive, you display driving force and have a structured way of working.",
+        "url": "http://www.ultragroup.se",
+        "published": "2026-02-18T14:04:35",
+        "deadline": "2026-03-20T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
         "id": "30626453",
         "title": "Software Engineer",
         "employer": "HT Engineering AB",
@@ -493,21 +508,6 @@
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 90
-    },
-    {
-        "id": "30599163",
-        "title": "Software Engineer, Integration Automation",
-        "employer": "Avaron AB",
-        "location": "Göteborg",
-        "description": "About the Company\nAvaron AB is a growing consultancy focused on technology, finance, and business support. We match your expertise with the market's most interesting assignments, offering a platform where your professional development is central.\nAbout the Assignment\nWe are looking for a Software Engineer to join an Integration Automation team focused on optimizing, developing, and automating integration and release processes. The goal is to improve delivery speed and reliability by streamlining workflows, enhancing tooling, and raising the quality of software deliveries in an embedded environment.\nYou will work closely with stakeholders and engineers to identify bottlenecks and implement automation through tools and scripts, with a strong emphasis on robust and repeatable outcomes.\nJob DescriptionOptimize and automate integration and release processes and related tasks\nDevelop and maintain scripts and tooling to improve efficiency and reliability\nIdentify improvement areas in current workflows and drive automation initiatives\nSupport troubleshooting through fault tracing and debugging in an embedded software context\nCollaborate with the team to ensure high-quality, stable deliveries\nRequirementsProficiency in scripting (e.g., Python, Make)\nSolid understanding of embedded software development\nStrong understanding of AUTOSAR Classic\nGood knowledge of AUTOSAR Basic Software (BSW) configuration and related tools\nStrong skills in fault tracing and debugging\nFluent in spoken and written English\nNice to haveExperience with Lauterbach/Trace32 for debugging and analysis\nHands-on experience with DaVinci Configurator/Developer\nExperience from automotive software development\nTesting and debugging experience on HIL/SIL and vehicles\nApplication\nSelections are made on an ongoing basis, so we recommend that you apply as soon as possible.",
-        "url": "https://jobs.avaron.se/jobs/7214083-software-engineer-integration-automation/applications/new?promotion=1837108-arbetsformedlingen",
-        "published": "2026-02-11T15:33:09",
-        "deadline": "2026-02-18T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
     },
     {
         "id": "30590395",
@@ -880,21 +880,6 @@
         "deadline": "2026-02-26T23:59:59",
         "is_consultant": false,
         "is_meaningful": true,
-        "source": "JobTech",
-        "category": "AI",
-        "relevance_score": 100
-    },
-    {
-        "id": "30564317",
-        "title": "Deep Learning Engineer",
-        "employer": "EMBEDL AB",
-        "location": "Göteborg",
-        "description": "About Embedl\nEmbedl is a fast-growing technology start-up based in Gothenburg, Sweden. With a team of almost 30 dedicated professionals, we are on a mission to make AI affordable and efficient in embedded systems. Our development team is headquartered in Gothenburg, and our innovative solutions serve customers all over the world. We maintain close connections with academic research institutions, industry leaders, and the innovation ecosystem, supported by strong relationships with venture capital partners.\nThe Role\nAs Deep Learning Engineer, you own the last mile between state-of-the-art models and the silicon that runs them. Your mission is to integrate, optimize, and profile the capabilities of Embedl’s SDK on a widening spectrum of edge accelerators.\nResponsibilities\nBuild & maintain inference backends for the Embedl SDK's growing set of supported edge accelerators including NVIDIA TensorRT, Qualcomm QNN, Ambarella ADK, Texas Instruments TIDL, etc.\n\n\nContinuously track the state of the art in embedded-AI workflows. Distill the best compiler flags, memory layouts, and optimization tricks, and share them across our engineering and research teams.\n\n\nProfile, benchmark, and resolve bottleneck in models. Pinpoint performance hot-spots, then deliver targeted optimizations that turn good benchmarks into great real-world latency and power figures.\n\n\nExtend Embedl’s model-optimization capabilities. Sparsity, quantization, and more works on an ever-broader range of neural-network architectures and hardware platforms.\n\nWho You Are\nAn engineer comfortable reasoning at every layer — from high-level neural-network graphs down to low-level instructions. You thrive on unraveling the hardware details that turn good models into great products.\n\n\n\nQualifications\nMust-Have\nB.Sc./M.Sc. in Computer Engineering, Electrical Engineering, Computer Science, or equivalent hands-on experience.\n\n\nDemonstrated success in porting or optimizing deep-learning inference on at least one accelerator family (e.g., Qualcomm, TI, NVIDIA Jetson, ARM Ethos-U/NPU).\n\n\n3+ years of experience in C/C++ and Python for tooling and automation.\n\n\nSolid understanding of compiler toolchains, quantization, and memory/performance trade-offs.\n\nNice-to-Have\nExperience writing custom CUDA or Triton kernels.\n\nWhat We Offer\n\n\n\nCollaborative Culture: Join a high-performance team that values teamwork, knowledge sharing, and a positive working environment.\nProfessional Growth: Opportunities for continuous learning, mentorship, and career advancement.\nBenefits: Health and wellness allowance (friskvårdsbidrag) of 5000 SEK, wellness hour (friskvårdstimme) and private health insurance.\nApplication Process\nThe selection and interview process is ongoing, so please send your application in English as soon as possible. For any questions or clarifications, reach out to Ann Tornberg at ann@embedl.com.\nYou are welcome at Embedl for who you are, no matter where you come from, what you look like, or what your favorite IDE is.\nJoin us at Embedl and be a part of shaping the future of efficient AI!",
-        "url": null,
-        "published": "2026-02-04T12:50:15",
-        "deadline": "2026-02-18T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
         "source": "JobTech",
         "category": "AI",
         "relevance_score": 100

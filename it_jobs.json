@@ -420,6 +420,21 @@
         "relevance_score": 100
     },
     {
+        "id": "30629806",
+        "title": "Software Engineer AD/ADAS ",
+        "employer": "Torque Engineering AB",
+        "location": "Göteborg",
+        "description": "The role is within the ADAS (Driver Assistance) team, where you will contribute to our world-class development and integration of electrical system solutions with the aim to reach our Zero City vision: zero emissions, zero noise, zero accidents and zero congestion. You will lead the development within the Embedded Software and Application area in our vehicles and will work closely together with different stakeholders in order to achieve our customer’s expectations.\n\n\nThe role's requirements the order:\nat least 5-8 years of experience, depending on field.\n1) System Design, Logical Design, preferrably within ADAS.\n2) Relatively hands-on and preferably experience within testing & verification in rigs and/or vehicles.\n3) System rig verification experience is a plus\n4) SW download and fault tracing knowledge\n5) Good knowledge with software release process\n6) Knowing the Volvo tools , good knowledge with SW configuration. Would be good if you have specific automotive experience.\n7) Experience working with supplier will be good to have.\n\n\nAdditional:\nBecoming part of our team is easy. You just need to be a skilled team player with excellent communication and collaboration skills that is genuinely interested in product development and sharing your knowledge. We see that you are proactive and willing to take on things.\n\n\nB.Sc. or higher education in Electrics or Electronics Engineering or similar is highly valuable as well as previous experience from software development in the automotive industry. Knowledge of our systems and processes (Canalyzer, Vision, Engineering Tool, SW-Configurator, SEWS, Kola, etc.) as well as previous experience from ADAS (advanced driver assistance systems) is considered as meritorious.\nSince you have good engineering judgment and priorities, you have the ability and interest to technically support, lead and challenge colleagues in their work and their mindset. You like to share your passion for technical solutions, and you have strong analytical and problem-solving skills. As a person you are positive, you display driving force and have a structured way of working.",
+        "url": "http://www.ultragroup.se",
+        "published": "2026-02-18T14:04:35",
+        "deadline": "2026-03-20T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
         "id": "30626453",
         "title": "Software Engineer",
         "employer": "HT Engineering AB",
@@ -493,21 +508,6 @@
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 90
-    },
-    {
-        "id": "30599163",
-        "title": "Software Engineer, Integration Automation",
-        "employer": "Avaron AB",
-        "location": "Göteborg",
-        "description": "About the Company\nAvaron AB is a growing consultancy focused on technology, finance, and business support. We match your expertise with the market's most interesting assignments, offering a platform where your professional development is central.\nAbout the Assignment\nWe are looking for a Software Engineer to join an Integration Automation team focused on optimizing, developing, and automating integration and release processes. The goal is to improve delivery speed and reliability by streamlining workflows, enhancing tooling, and raising the quality of software deliveries in an embedded environment.\nYou will work closely with stakeholders and engineers to identify bottlenecks and implement automation through tools and scripts, with a strong emphasis on robust and repeatable outcomes.\nJob DescriptionOptimize and automate integration and release processes and related tasks\nDevelop and maintain scripts and tooling to improve efficiency and reliability\nIdentify improvement areas in current workflows and drive automation initiatives\nSupport troubleshooting through fault tracing and debugging in an embedded software context\nCollaborate with the team to ensure high-quality, stable deliveries\nRequirementsProficiency in scripting (e.g., Python, Make)\nSolid understanding of embedded software development\nStrong understanding of AUTOSAR Classic\nGood knowledge of AUTOSAR Basic Software (BSW) configuration and related tools\nStrong skills in fault tracing and debugging\nFluent in spoken and written English\nNice to haveExperience with Lauterbach/Trace32 for debugging and analysis\nHands-on experience with DaVinci Configurator/Developer\nExperience from automotive software development\nTesting and debugging experience on HIL/SIL and vehicles\nApplication\nSelections are made on an ongoing basis, so we recommend that you apply as soon as possible.",
-        "url": "https://jobs.avaron.se/jobs/7214083-software-engineer-integration-automation/applications/new?promotion=1837108-arbetsformedlingen",
-        "published": "2026-02-11T15:33:09",
-        "deadline": "2026-02-18T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
     },
     {
         "id": "30590395",
