@@ -330,21 +330,6 @@
         "relevance_score": 100
     },
     {
-        "id": "30602665",
-        "title": "Senior IaC Developer",
-        "employer": "Avaron AB",
-        "location": "Göteborg",
-        "description": "About the Company\nAvaron AB is a growing consultancy focused on technology, finance, and business support. We match your expertise with the market's most interesting assignments, offering a platform where your professional development is central.\nAbout the Assignment\nWe are looking for an Infrastructure as Code (IaC) Developer to help design, implement, and maintain automated infrastructure using modern IaC practices. You will collaborate with cross-functional teams to improve scalability, reliability, and security across a primarily Azure-based environment spanning both cloud and on-prem infrastructure.\nYou will work with technologies such as Azure, Ansible, VMware, Linux distributions (RHEL/SUSE), and CI/CD tooling to support a robust and highly available platform.\nJob DescriptionDesign, develop, and maintain infrastructure as code solutions using tools such as Crossplane and Ansible in an Azure-centric setup.\nIntegrate infrastructure provisioning into CI/CD pipelines.\nAutomate deployment, scaling, and lifecycle management of cloud resources.\nEnsure security and compliance requirements are met in infrastructure configurations.\nMonitor, troubleshoot, and optimize infrastructure to ensure high availability and performance.\nContinuously evaluate emerging IaC and cloud practices to improve ways of working.\nRequirementsProven experience working as an Infrastructure as Code (IaC) developer/engineer.\nHands-on experience with Crossplane, Azure, and Ansible.\nStrong scripting/programming skills in Python and experience with Bash and/or PowerShell.\nStrong infrastructure domain knowledge across both cloud and on-prem environments.\nExperience working with Azure as the primary cloud platform.\nKnowledge of container technologies such as Docker and Kubernetes.\nExperience working with DevOps principles and CI/CD pipelines.\nNice to haveKnowledge of Golang and/or Java.\nExperience with Azure DevOps, GitHub, and GitHub Actions.\nExperience with RHEL and SUSE.\nExperience with VMware, vRealize, ServiceNow, and Red Hat Automation Platform.\nExperience working in mixed Windows and Linux environments.\nApplication\nSelections are made on an ongoing basis, so we recommend that you apply as soon as possible.",
-        "url": "https://jobs.avaron.se/jobs/7218737-senior-iac-developer/applications/new?promotion=1838600-arbetsformedlingen",
-        "published": "2026-02-12T11:31:16",
-        "deadline": "2026-02-22T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "30601913",
         "title": "Android Automotive Software Developer",
         "employer": "AFRY AB",
@@ -358,6 +343,36 @@
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 100
+    },
+    {
+        "id": "30566257",
+        "title": "QA Developer",
+        "employer": "Icomera AB",
+        "location": "Göteborg",
+        "description": "Icomera is a leading global innovator in connectivity solutions within the transportation sector. We are at the forefront of transforming public transport, making it smarter, safer, greener, and more connected than ever before. At Icomera you work with products used by many users around the world, including passengers on some of the world's largest train and bus operators.\n\n\nJob type: Full-time                         \nWorkplace conditions: Hybrid                   \nLocation: Gothenburg\n \nAbout the Role:\nAs QA Developer at Icomera you will be a part of a team that develops software for the next generation of network routers for vehicles. The embedded team is responsible for analysis, design, implementation and test of the software as well as router-OS and router applications. Modifications are done on OS level in both user and kernel space and development is also done on the SW running on router Microcontrollers.\nIn this role, you will conduct testing related to Icomera’s products to ensure product quality according to target. You will also track and report issues found to the product development team to aid the development process. \n \nKey responsibilities:\n—     Contribute to defining, developing, and documenting test processes in line with product requirements and industry standards\n—     Design, develop, and maintain manual and automated test cases and test suites\n—     Develop and improve test automation frameworks and tools\n—     Execute tests according to established test processes and plans\n—     Document and communicate test results to relevant stakeholders\n—     Collaborate with development teams, product management, and regional test engineers\n—     Continuously improve test methods, processes, and ways of working\n \nRequirements:\n—     B.sc / M.sc degree, in computer science, physics or equivalent.\n—     Experience in working with software or test development in a Linux environment developing in Python.\n—     Deep knowledge of computer networking.\n—     Have an Interest and passion for Linux platform and software development.\n—     Proficient in English, written and spoken. If you also speak Swedish, it’s highly desirable.\n \nWho You Are:\nTo thrive in this role, you enjoy working with people and you are excited to be part of a constantly evolving international company. As an QA Developer, you are honest, driven, and solution-oriented, and you enjoy tackling technical challenges as part of a team.\n \nOur Offer:\n— The opportunity to work with cutting-edge technology in a market leader where we design and build everything in-house—from hardware to software\n— Health is important – we offer a comprehensive health benefit program to our employees\n— Flexible work arrangements – work from our modern and central office locations, or work from home up to two days a week\n— Electrical bike lease agreement via net salary deduction\n— ITP Pension and collective bargaining agreement\n— A social work environment – board game nights, after works, seasonal parties… The list goes on!\n \nReady to be part of something exciting and make a real difference in the connected future of transport? We’d love to hear from you!\n \nMore about the position:\nWe will be reviewing applicants ongoing. Icomera welcomes candidates from all backgrounds, and we value a diverse and inclusive work environment. Background checks will be performed at the final stage of the recruitment process.\n\n\n About Icomera:\nIcomera is the world’s leading provider of integrated connectivity solutions for trains, trams, buses, and coaches, serving millions of passengers and tens of thousands of vehicles on a daily basis. The IcoCrew now consist of 300+ employees globally. Icomera is headquartered in Gothenburg, Sweden, with main offices in the United States, Canada, the United Kingdom, Germany, France, Ireland, and Italy.\n \nIcomera’s vision for green mobility within the public transport industry perfectly complements the wider mission of our parent company, Equans. As the global leader in multi-technical services with 74,000 employees working across 17 country hubs, Equans delivers customised solutions which connect, protect and energise territories, cities, buildings, industries and transport infrastructures, empowering their energy, industrial and digital transitions. Visit www.icomera.com for further information.",
+        "url": "https://enfrench-equans.icims.com/jobs/81123/qa-developer/login",
+        "published": "2026-02-04T15:56:40",
+        "deadline": "2026-03-04T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": true,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
+        "id": "30517383",
+        "title": "FPGA developer & Designer",
+        "employer": "Cubane Solutions AB",
+        "location": "Göteborg",
+        "description": "We are looking for an FPGA developer and an FPGA designer, or two who can take on both roles.  \nIts a long term assignment starting in April.\nA large part of the work takes place on site at the customer's premises, so you should live in/near Gothenburg.\nSwedish or EU citizenship is a requirement. \n\n\nÖppen för alla\nVi fokuserar på din kompetens, inte dina övriga förutsättningar. Vi är öppna för att anpassa rollen eller arbetsplatsen efter dina behov.",
+        "url": null,
+        "published": "2026-02-03T11:22:55",
+        "deadline": "2026-03-05T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 90
     },
     {
         "id": "30625981",
