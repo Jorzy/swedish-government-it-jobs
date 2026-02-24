@@ -285,6 +285,21 @@
         "relevance_score": 100
     },
     {
+        "id": "30649702",
+        "title": "IaC Developer",
+        "employer": "Avaron AB",
+        "location": "Göteborg",
+        "description": "About the Company\nAvaron AB is a growing consultancy focused on technology, finance, and business support. We match your expertise with the market's most interesting assignments, offering a platform where your professional development is central.\nAbout the Assignment\nWe are looking for an Infrastructure as Code (IaC) Developer to help design, implement, and maintain modern infrastructure platforms. In this role, you will contribute to automation and scalability across both cloud and on-prem environments, working closely with cross-functional teams and DevOps practices.\nThe technical environment includes Azure, Linux distributions (RHEL/SUSE), Ansible, VMware, ServiceNow, Red Hat Automation Platform, Windows, Azure DevOps, GitHub, and GitHub Actions.\nJob DescriptionDesign, develop, and maintain Infrastructure as Code solutions using Crossplane, Azure, and Ansible\nIntegrate infrastructure provisioning into CI/CD pipelines\nAutomate deployment, scaling, and lifecycle management of cloud resources\nEnsure security and compliance standards are met in infrastructure configurations\nMonitor, troubleshoot, and optimize infrastructure to support high availability\nKeep up to date with emerging technologies and best practices in IaC and cloud computing\nRequirementsProven experience working with Infrastructure as Code (IaC)\nHands-on experience with Crossplane, Azure, and Ansible\nStrong scripting/programming skills in Python and/or Bash and/or PowerShell\nInfrastructure domain knowledge across both cloud and on-prem environments\nExperience with Azure as a primary cloud platform\nKnowledge of Docker and Kubernetes\nKnowledge of Go and/or Java\nExperience with DevOps principles and CI/CD pipelines\nNice to haveExperience with VMware and related tooling\nExperience with Azure DevOps, GitHub, and GitHub Actions\nExperience working with RHEL and/or SUSE\nExperience with ServiceNow\nExperience with Red Hat Automation Platform\nApplication\nSelections are made on an ongoing basis, so we recommend that you apply as soon as possible.",
+        "url": "https://jobs.avaron.se/jobs/7278313-iac-developer/applications/new?promotion=1856572-arbetsformedlingen",
+        "published": "2026-02-23T14:02:26",
+        "deadline": "2026-03-07T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
         "id": "30634732",
         "title": "Software developer for Quantum Computing",
         "employer": "Chalmers Next Labs AB",
@@ -358,21 +373,6 @@
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 100
-    },
-    {
-        "id": "30517383",
-        "title": "FPGA developer & Designer",
-        "employer": "Cubane Solutions AB",
-        "location": "Göteborg",
-        "description": "We are looking for an FPGA developer and an FPGA designer, or two who can take on both roles.  \nIts a long term assignment starting in April.\nA large part of the work takes place on site at the customer's premises, so you should live in/near Gothenburg.\nSwedish or EU citizenship is a requirement. \n\n\nÖppen för alla\nVi fokuserar på din kompetens, inte dina övriga förutsättningar. Vi är öppna för att anpassa rollen eller arbetsplatsen efter dina behov.",
-        "url": null,
-        "published": "2026-02-03T11:22:55",
-        "deadline": "2026-03-05T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 90
     },
     {
         "id": "30625981",
