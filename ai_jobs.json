@@ -1,20 +1,5 @@
 [
     {
-        "id": "30511866",
-        "title": "Software Engineer to Rebl Industries",
-        "employer": "Mpya Sci & Tech AB",
-        "location": "Göteborg",
-        "description": "Rebl Industries builds robotic workmates that companies subscribe to instead of buying. Our robots deploy in weeks, learn continuously and take over repetitive, heavy and precision-demanding tasks. With a unique Robot-as-a-Service model, we make automation flexible, scalable and accessible for businesses that want results without the traditional complexity and investment costs of automation projects. We’re a fast-growing, ambitious scale-up working at the intersection of robotics, AI, software and real-world production. Read more about us at www.rebl.industries\r\n\r\nThe logistics industry is facing its biggest technical revolution. Would you like to be a part of it?\n\nJoin the team that’s redefining industrial automation\nRebl Industries builds robotic workmates that companies subscribe to instead of buying. Our robots deploy in weeks, learn continuously and take over repetitive, heavy and precision-demanding tasks. With a unique Robot-as-a-Service model, we make automation flexible, scalable and accessible for businesses that want results without the traditional complexity and investment costs of automation projects. We’re a fast-growing, ambitious scale-up working at the intersection of robotics, AI, software and real-world production. Read more about us at www.rebl.industries.\n\nWhat you will do\nAs a Software Engineer at Rebl you help build the technical foundation for the next generation of robotic coworkers in warehouse and logistics environments. You work on the development of our core systems and applications, in close collaboration with our automation engineers and AI specialists. Your work spans backend, frontend, algorithms, AI models and integrations with our automation platform. You contribute to both new development and support while taking an active part in the ongoing evolution of our products.\n\nWhat we’re looking for \nWe are looking for several developers and believe in the combination of different competences and experience, specialists and generalists alike. You bring some of the following experience to the team:\n\n• A university degree, BSc or MSc, in computer science, software engineering, mechatronics or a related technical field.\n• Minimum 5+ years of professional experience in software engineering within a relevant industry.\n• Proven experience with designing, developing and maintaining backend and/or frontend applications using C#, Python, C++ and Typescript.\n• Knowledge of CI/CD pipelines in GitHub and are comfortable with application containerization.\n• Experience in digital twins solutions and IoT frameworks.\n• Proficiency developing REST APIs, database structures and integrations between systems.\n• Experience with 3D engines, building visualization applications.\n• Familiarity with working on algorithms and AI modules for motion planning, object recognition and classification.\n• Experience building, training and integrating AI models such as SAM and SAM2 for vision and automation use cases.\n• You have developed annotation tools along with training and classification strategies for neural networks.\n\nYour mindset \nYou have a broad technical mindset and enjoy moving between backend, frontend and different languages. You are curious, hands on and proactive. You like turning ideas into early solutions. You take ownership, communicate clearly and enjoy collaborating across disciplines. You thrive in a scaling environment where speed matters, structure evolves and every engineer has real influence. You thrive in environments where experimentation is encouraged and where tech meets the physical world. Most of all, you want to build, influence and see tangible results from your work.\n\nWhy Rebl Industries\nAt Rebl Industries, you join a sharp, driven and supportive team where your work has immediate effect. You help define the future of robotic automation — not in theory, but in real industrial use. Your ideas shape both the product and the company as we scale new markets and new levels of performance.\n\nApply now!\nIn this recruitment process Rebl Industries collaborates with Mpya Sci & Tech. For questions about the position, you are welcome to contact Marcus Hultberg on +46 72 366 49 43. We work with ongoing selection so don´t hesitate to apply via www.mpyascitech.com as the position may be filled before last day of application.",
-        "url": "https://mpyascitech.com/jobba-hos-oss?jobid=307546&ref=platsbanken",
-        "published": "2026-01-23T12:03:14",
-        "deadline": "2026-02-28T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "AI",
-        "relevance_score": 60
-    },
-    {
         "id": "30544945",
         "title": "Lärare i Teknikämnen och Artificiell Intelligens (AI)",
         "employer": "Amerikanska Gymnasiet i Sverige AB",
@@ -43,20 +28,5 @@
         "source": "JobTech",
         "category": "AI",
         "relevance_score": 60
-    },
-    {
-        "id": "30540233",
-        "title": "Senior AI Engineer",
-        "employer": "Explipro Group AB",
-        "location": "Göteborg",
-        "description": "Are you passionate about building intelligent, data-driven systems that create real business value? We are looking for Senior AI Engineers who want to work with applied AI as part of modern cloud and data platforms.\nWhat You’ll Do\n• Build and deploy AI-enabled solutions that run in production • Integrate machine learning into backend and cloud-based systems • Collaborate with software, data, and platform engineers • Operationalize AI using MLOps and CI/CD practices • Ensure scalability, reliability, and monitoring of AI solutions\nWhat We Are Looking For\n• 7+ years of experience in software, data, or AI-related roles • Hands-on experience with applied machine learning • Strong skills in Python and data processing • Experience with AWS and/or Azure • Understanding of deploying and operating AI in production • Fluent English, spoken and written\nNice to Have\n• Experience with Databricks, Spark, or similar platforms • Background in automotive, industrial, or enterprise systems • Experience with predictive, optimization, or automation use cases\nWhy Work With Us?\nAt Explipro, you will work with leading companies in automotive and industrial domains, helping move AI from ideas into real-world systems. We offer long-term assignments, modern technology stacks, and a culture built on trust, collaboration, and technical excellence.\nReady to make AI part of real systems? Apply now.",
-        "url": "https://career.explipro.com/jobs/7138467-senior-ai-engineer/applications/new?promotion=1814901-arbetsformedlingen",
-        "published": "2026-01-29T17:41:19",
-        "deadline": "2026-02-28T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": true,
-        "source": "JobTech",
-        "category": "AI",
-        "relevance_score": 80
     }
 ]
