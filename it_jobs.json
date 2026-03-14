@@ -60,21 +60,6 @@
         "relevance_score": 100
     },
     {
-        "id": "30596880",
-        "title": "ServiceNow-utvecklare",
-        "employer": "Synteda AB",
-        "location": "Göteborg",
-        "description": "Vilka är vi?\nUnibase är ett växande IT-företag med passion för att skapa värde för våra kunder genom smarta tekniska lösningar. Vi arbetar med spännande projekt och samarbetar med kunniga kollegor. Nu söker vi dig som vill vara med och göra skillnad genom att utveckla och förvalta lösningar i ServiceNow-plattformen.\nOm rollen\nVi söker en erfaren ServiceNow-utvecklare till Unibase!\nSom ServiceNow-utvecklare kommer du bland annat att:\nUtveckla, konfigurera och anpassa lösningar i ServiceNow-plattformen\nArbeta med moduler som Incident, Problem, Change, CMDB och Service Catalog\nSäkerställa att lösningarna följer best practice och kundens behov\nDelta i projekt för implementation, integration och vidareutveckling av plattformen\nSamarbeta med kollegor inom ITSM, utveckling och arkitektur\n\nDu blir en viktig del av vårt och kundens team och bidrar till att leverera effektiva och framtidssäkra ITSM-lösningar.\nDina arbetsuppgifter kan bestå av följande (beroende på uppdrag):\nUtveckling och konfiguration:\nSkapa och anpassa workflows, business rules, UI policies och script\nImplementera integrationer med externa system via API:er\nUtveckla rapporter och dashboards för uppföljning och analys\n\nFörvaltning och optimering:\nUnderhålla befintliga lösningar och säkerställa hög tillgänglighet\nFelsöka och åtgärda problem i plattformen\nDokumentera konfigurationer och förändringar\n\nProjekt och innovation:\nDelta i design och implementation av nya moduler och funktioner\nBidra med idéer kring automatisering och effektivisering\nArbeta med uppgraderingar och nya versioner av ServiceNow\n\nMeriterande erfarenheter\nDet är positivt om du har erfarenhet av:\nCertifieringar inom ServiceNow (t.ex. Certified System Administrator, Application Developer)\nITIL v4 eller liknande ramverk för IT-styrning\nScriptning i JavaScript och kunskap om REST API\nIntegrationer mot andra ITSM-verktyg eller affärssystem\n\nDin bakgrund\nVi söker dig som har:\nMinst 5 års relevant arbetslivserfarenhet inom ServiceNow-utveckling\nGod förståelse för ITSM-processer och ServiceNow-arkitektur\nEftergymnasial utbildning inom IT eller motsvarande erfarenhet\nMycket goda kunskaper i svenska och engelska, både muntligt och skriftligt\n\nVarför ska du bli en del av vår familj?\nVårt engagemang för mångfald och inkludering\nVi värdesätter mångfald och strävar efter att skapa en inkluderande arbetsmiljö. Alla kvalificerade sökande uppmuntras att ansöka, oavsett kön, ålder, etnicitet, religion, funktionsvariation eller sexuell läggning. Vi tror att olika perspektiv berikar vårt team och vår verksamhet.",
-        "url": "https://unibase.se/jobs/servicenow-utvecklare/",
-        "published": "2026-02-11T11:35:15",
-        "deadline": "2026-03-13T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": true,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "30528575",
         "title": "Android Software Developer till Innovativt Bolag",
         "employer": "Friday Väst AB",
@@ -85,6 +70,21 @@
         "deadline": "2026-03-31T23:59:59",
         "is_consultant": false,
         "is_meaningful": true,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
+        "id": "30744946",
+        "title": "Senior Software Requirements Engineer",
+        "employer": "Avaron AB",
+        "location": "Göteborg",
+        "description": "About the Company\nAvaron AB is a growing consultancy that matches your expertise with the market's most interesting assignments, offering a platform where your professional development is central.\nAbout the Assignment\nYou will join a team in the automotive industry working with safety-critical embedded systems and core product functionality. In this role, you will combine architectural guidance with ownership of critical safety-related requirements, supporting development teams in translating system needs into software solutions.\nThe assignment includes working closely with product field data, shaping requirements, and helping ensure that software is built with quality, safety, and long-term maintainability in mind.\nJob DescriptionGuide development teams from an architectural perspective.\nTake ownership of critical safety-related functions.\nAnalyze field data from products and use insights to support requirement work.\nDefine system-level requirements and break them down into software-level requirements.\nSet clear software requirements for development teams and support their implementation.\nRequirementsExperience working with embedded development of safety-critical systems.\nExperience with C++.\nFamiliarity with several of the following areas: CarWeaver, ISO26262, JSON, YAML, XML, Tegra chipset, DriveOS, QNX, Linux, and Markdown.\nFluent English.\nApplication\nSelections are made on an ongoing basis, so we recommend that you apply as soon as possible.",
+        "url": "https://jobs.avaron.se/jobs/7385807-senior-software-requirements-engineer/applications/new?promotion=1892684-arbetsformedlingen",
+        "published": "2026-03-13T15:12:01",
+        "deadline": "2026-03-19T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 100
@@ -133,21 +133,6 @@
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 80
-    },
-    {
-        "id": "30699196",
-        "title": "IBMi Applications Engineer",
-        "employer": "Avaron AB",
-        "location": "Göteborg",
-        "description": "About the Company\nAvaron AB is a growing consultancy that matches your expertise with the market's most interesting assignments, offering a platform where your professional development is central.\nAbout the Assignment\nYou will join an IBMi team within a distributed application portfolio supporting spare parts management for a global dealer network. The portfolio includes four applications, and the team collaborates across Sweden and Poland. The role covers both one-time and run-time activities, contributing to stable operations and continuous improvements.\nJob DescriptionSupport and maintain IBMi-based applications within the portfolio\nHandle both one-time activities and ongoing run-time work in daily operations\nCollaborate with a distributed team across multiple locations\nContribute to improvements across the application portfolio supporting spare parts processes\nRequirementsExpertise in IBMi\nFluent English\nNice to haveCompetence in cloud and understanding of how IBMi technology can be combined with modern techniques\nApplication\nSelections are made on an ongoing basis, so we recommend that you apply as soon as possible.",
-        "url": "https://jobs.avaron.se/jobs/7334813-ibmi-applications-engineer/applications/new?promotion=1875274-arbetsformedlingen",
-        "published": "2026-03-05T10:01:16",
-        "deadline": "2026-03-13T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
     },
     {
         "id": "30558813",
@@ -298,21 +283,6 @@
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 90
-    },
-    {
-        "id": "30727803",
-        "title": "Front-End Developer with React, AWS and Kubernetes",
-        "employer": "Avaron AB",
-        "location": "Göteborg",
-        "description": "About the Company\nAvaron AB is a growing consultancy that matches your expertise with the market's most interesting assignments, offering a platform where your professional development is central.\nAbout the Assignment\nYou will join a team building the next generation of condition monitoring solutions for industrial machinery. The assignment focuses on transforming machine data into actionable insights through a modern web application with a strong user experience.\nThis is a front-end focused role in a collaborative, autonomous environment where quality, usability and scalability are central. Over time, there may also be opportunities to contribute to back-end development as the solution evolves.\nJob DescriptionBuild responsive and user-friendly interfaces using React, TypeScript, JavaScript, HTML, CSS and Svelte.\nCollaborate with designers and back-end developers to create seamless user experiences.\nIntegrate front-end functionality with APIs and cloud services to support data flow and real-time updates.\nSupport deployment and scalability of the application using Kubernetes, Docker and AWS.\nContribute to CI/CD improvements and help maintain a secure, reliable and maintainable solution.\nParticipate in code reviews, testing and debugging to ensure high-quality deliveries.\nDocument solutions to support deployment, onboarding and future development.\nContribute to back-end development in Golang when needed.\nRequirementsEstablished proficiency in front-end development with TypeScript, JavaScript, React, Svelte, HTML and CSS.\nExperience with Playwright, unit testing and integration testing, with a good understanding of TDD methodology.\nStrong understanding of Kubernetes, Docker and AWS for deploying and managing web applications.\nExperience with CI/CD pipelines.\nExperience integrating front-end applications with APIs and back-end services.\nUnderstanding of security best practices for web applications.\nExperience with Git and agile ways of working.\nFluent English and Swedish.\nNice to haveExperience with Golang.\nExperience with Three.js or WebGL.\nExperience working with Figma.\nApplication\nSelections are made on an ongoing basis, so we recommend that you apply as soon as possible.",
-        "url": "https://jobs.avaron.se/jobs/7366695-front-end-developer-with-react-aws-and-kubernetes/applications/new?promotion=1886189-arbetsformedlingen",
-        "published": "2026-03-11T11:01:28",
-        "deadline": "2026-03-13T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
     },
     {
         "id": "30725477",
@@ -713,21 +683,6 @@
         "url": "https://careersweden.knowit.se/jobs/7049288-senior-embedded-rust-engineer/applications/new?promotion=1788688-arbetsformedlingen",
         "published": "2026-01-14T11:53:41",
         "deadline": "2026-07-13T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
-        "id": "30461764",
-        "title": "Developer",
-        "employer": "Synteda AB",
-        "location": "Göteborg",
-        "description": "Synteda AB specializes in helping companies effectively embrace the era of artificial intelligence and computer vision. By delivering innovative solutions, we empower businesses to take full advantage of the vast possibilities presented by these cutting-edge technologies. We firmly believe in the potential of AI and computer vision to benefit society, and we’re committed to leveraging our expertise to facilitate businesses in their journey towards this exciting new era. Our close collaboration with top universities in Sweden enables us to work with clients across a broad range of industry fields.\nWe’re actively engaged in developing several unique products and solutions, using a work process that we call “dream-innovate-create.” This approach involves subjecting our ideas to rigorous scrutiny and feasibility testing, using agile methodologies to refine our solutions until we’ve achieved a full-scale product.\nWe’re proud to have a core team of highly qualified experts who excel at providing assessment services to identify business challenges and develop customized algorithms to overcome them. We’re guided by our commitment to ethical awareness, curiosity, transparency, respect, participation and science.\nAs we continue to grow, we’re actively seeking talented developers to join our team of experts. If you’re passionate about advanced technologies and want to be part of an exciting and dynamic organization, we encourage you to apply today.\n\n\nResponsibilities\nDevelop efficient applications that meet our quality standards.\nConduct system testing to ensure accurate results and optimal performance.\nDetermine most efficient and accurate way to accomplish tasks.\nDeployment of quality products.\nAdopt best practices and share them across the team.\n\nRequired skills and qualifications\nStrong knowledge and experience in C#/.NET/Java.\nPrevious experience in Python, C/C++/R/Matlab/Scala.\nWorking proficiency in databases, e.g. SQL, MySQL.\nExperience in cloud services, e.g. Azure, AWS, Go Cloud.\nKnowledge of Javascript/Typescript and HTML5/CSS.\nReact (or Angular or Vue.js with the ability to adapt).\nKnowledge of systems analysis, system design and database architecture.\nStrong analytical and problem-solving.\nAbility to work independently and as a team member.\nExperience of agile development methodologies.\nFluent in English, both spoken and written is required.\nAdvantage with Swedish.",
-        "url": "https://synteda.com/jobs/developer/",
-        "published": "2026-01-13T08:58:50",
-        "deadline": "2026-03-13T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
         "source": "JobTech",

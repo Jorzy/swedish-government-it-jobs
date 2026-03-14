@@ -1,20 +1,5 @@
 [
     {
-        "id": "30729509",
-        "title": "Senior Full-Stack Developer in Data & Analytics",
-        "employer": "Avaron AB",
-        "location": "Göteborg",
-        "description": "About the Company\nAvaron AB is a growing consultancy that matches your expertise with the market's most interesting assignments, offering a platform where your professional development is central.\nAbout the Assignment\nYou will join a product-focused team within the automotive industry, working in an analytics and data environment that supports several business domains such as aftermarket, manufacturing, and engineering. The assignment centers on enabling analytics for software installation in vehicles, with a strong focus on scalable solutions, modern engineering practices, and close collaboration in a DevOps-driven setup.\nJob DescriptionDevelop and maintain frontend applications, backend services, and data pipelines across the full stack.\nBuild scalable and high-performance solutions for analytics and data-driven products.\nWork with machine learning concepts and support production-oriented workflows.\nDesign, build, and maintain data pipelines for reliable data processing.\nContribute to CI/CD workflows and cloud-native development practices.\nCollaborate with stakeholders to gather business requirements and support technical elicitation.\nWork closely with the team in an agile and DevOps-oriented delivery model.\nRequirementsStrong experience in full-stack development with React and TypeScript.\nStrong experience in backend development with Python and Java.\nExperience designing scalable, high-performance systems.\nExperience with relational and non-relational databases, including SQL and MongoDB.\nProficiency in Azure cloud services.\nExperience with CI/CD pipelines.\nExperience with messaging platforms such as Kafka and MQ.\nGood understanding of machine learning concepts and how to apply them in production.\nExperience designing, building, and maintaining data pipelines.\nFamiliarity with feature engineering, data validation, and model deployment workflows.\nGood understanding of cloud-native practices.\nFamiliarity with agile methodologies.\nExperience in stakeholder communication and business requirement gathering.\nApplication\nSelections are made on an ongoing basis, so we recommend that you apply as soon as possible.",
-        "url": "https://jobs.avaron.se/jobs/7368322-senior-full-stack-developer-in-data-analytics/applications/new?promotion=1886883-arbetsformedlingen",
-        "published": "2026-03-11T14:03:27",
-        "deadline": "2026-03-13T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "AI",
-        "relevance_score": 100
-    },
-    {
         "id": "30680549",
         "title": "Software Engineer to Rebl Industries",
         "employer": "Mpya Sci & Tech AB",
