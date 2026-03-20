@@ -1,5 +1,20 @@
 [
     {
+        "id": "30769457",
+        "title": "ServiceNow-utvecklare",
+        "employer": "Synteda AB",
+        "location": "Göteborg",
+        "description": "Vilka är vi?\nUnibase är ett växande IT-företag med passion för att skapa värde för våra kunder genom smarta tekniska lösningar. Vi arbetar med spännande projekt och samarbetar med kunniga kollegor. Nu söker vi dig som vill vara med och göra skillnad genom att utveckla och förvalta lösningar i ServiceNow-plattformen.\nOm rollen\nVi söker en erfaren ServiceNow-utvecklare till Unibase!\nSom ServiceNow-utvecklare kommer du bland annat att:\nUtveckla, konfigurera och anpassa lösningar i ServiceNow-plattformen\nArbeta med moduler som Incident, Problem, Change, CMDB och Service Catalog\nSäkerställa att lösningarna följer best practice och kundens behov\nDelta i projekt för implementation, integration och vidareutveckling av plattformen\nSamarbeta med kollegor inom ITSM, utveckling och arkitektur\n\nDu blir en viktig del av vårt och kundens team och bidrar till att leverera effektiva och framtidssäkra ITSM-lösningar.\nDina arbetsuppgifter kan bestå av följande (beroende på uppdrag):\nUtveckling och konfiguration:\nSkapa och anpassa workflows, business rules, UI policies och script\nImplementera integrationer med externa system via API:er\nUtveckla rapporter och dashboards för uppföljning och analys\n\nFörvaltning och optimering:\nUnderhålla befintliga lösningar och säkerställa hög tillgänglighet\nFelsöka och åtgärda problem i plattformen\nDokumentera konfigurationer och förändringar\n\nProjekt och innovation:\nDelta i design och implementation av nya moduler och funktioner\nBidra med idéer kring automatisering och effektivisering\nArbeta med uppgraderingar och nya versioner av ServiceNow\n\nMeriterande erfarenheter\nDet är positivt om du har erfarenhet av:\nCertifieringar inom ServiceNow (t.ex. Certified System Administrator, Application Developer)\nITIL v4 eller liknande ramverk för IT-styrning\nScriptning i JavaScript och kunskap om REST API\nIntegrationer mot andra ITSM-verktyg eller affärssystem\n\nDin bakgrund\nVi söker dig som har:\nMinst 5 års relevant arbetslivserfarenhet inom ServiceNow-utveckling\nGod förståelse för ITSM-processer och ServiceNow-arkitektur\nEftergymnasial utbildning inom IT eller motsvarande erfarenhet\nMycket goda kunskaper i svenska och engelska, både muntligt och skriftligt\n\nVarför ska du bli en del av vår familj?\nVårt engagemang för mångfald och inkludering\nVi värdesätter mångfald och strävar efter att skapa en inkluderande arbetsmiljö. Alla kvalificerade sökande uppmuntras att ansöka, oavsett kön, ålder, etnicitet, religion, funktionsvariation eller sexuell läggning. Vi tror att olika perspektiv berikar vårt team och vår verksamhet.",
+        "url": "https://unibase.se/jobs/servicenow-utvecklare/",
+        "published": "2026-03-19T10:32:45",
+        "deadline": "2026-04-18T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": true,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
         "id": "30683806",
         "title": "SEO Specialist till Google Partner i Göteborg",
         "employer": "Våning 18 AB",
@@ -165,21 +180,6 @@
         "relevance_score": 100
     },
     {
-        "id": "30744946",
-        "title": "Senior Software Requirements Engineer",
-        "employer": "Avaron AB",
-        "location": "Göteborg",
-        "description": "About the Company\nAvaron AB is a growing consultancy that matches your expertise with the market's most interesting assignments, offering a platform where your professional development is central.\nAbout the Assignment\nYou will join a team in the automotive industry working with safety-critical embedded systems and core product functionality. In this role, you will combine architectural guidance with ownership of critical safety-related requirements, supporting development teams in translating system needs into software solutions.\nThe assignment includes working closely with product field data, shaping requirements, and helping ensure that software is built with quality, safety, and long-term maintainability in mind.\nJob DescriptionGuide development teams from an architectural perspective.\nTake ownership of critical safety-related functions.\nAnalyze field data from products and use insights to support requirement work.\nDefine system-level requirements and break them down into software-level requirements.\nSet clear software requirements for development teams and support their implementation.\nRequirementsExperience working with embedded development of safety-critical systems.\nExperience with C++.\nFamiliarity with several of the following areas: CarWeaver, ISO26262, JSON, YAML, XML, Tegra chipset, DriveOS, QNX, Linux, and Markdown.\nFluent English.\nApplication\nSelections are made on an ongoing basis, so we recommend that you apply as soon as possible.",
-        "url": "https://jobs.avaron.se/jobs/7385807-senior-software-requirements-engineer/applications/new?promotion=1892684-arbetsformedlingen",
-        "published": "2026-03-13T15:12:01",
-        "deadline": "2026-03-19T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "30725475",
         "title": "System Developer / Programmer",
         "employer": "ArinaSoft AB",
@@ -193,21 +193,6 @@
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 100
-    },
-    {
-        "id": "30703826",
-        "title": "IBMi Applications Engineer",
-        "employer": "SkillHuset Sweden AB",
-        "location": "Göteborg",
-        "description": "Assignment description\nFor our client we are looking for an Applications Engineer with expertise within IBMi. \nOur client seeks a long term resource to join the IBMi team in DSP portfolio. The teams mission is to handle spare parts management for 3800 dealers globally responsible for refill and buyback. The portfolio consists of 4 different applications and the team is distributed between Poland and Sweden. The position should cover both onetime and runtime activities.\nRequired skills:\n- IBMi\nPreferred skills:\n- Competence in cloud area and how IBMi technology can be combined with modern techniques is seen as an advantage.\nRequired skills\nIBMi, Runtime activities, Onetime activities\nPreferred skills\nCloud",
-        "url": "http://www.skillhuset.se",
-        "published": "2026-03-05T23:25:20",
-        "deadline": "2026-03-19T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 80
     },
     {
         "id": "30548109",
@@ -390,6 +375,21 @@
         "relevance_score": 100
     },
     {
+        "id": "30725477",
+        "title": "Software and System Developer",
+        "employer": "ArinaSoft AB",
+        "location": "Göteborg",
+        "description": "About ArinaSoft AB\n ArinaSoft AB is a forward-thinking technology company at the forefront of automotive innovation. We specialize in delivering high-performance software systems, embedded solutions, and AI-powered safety technologies to leading automotive OEMs and Tier-1 suppliers. Through our commitment to quality, safety, and technological advancement, we are driving the future of mobility toward smarter, safer, and more sustainable roads.\nAt ArinaSoft, we foster a collaborative and knowledge-sharing environment where curiosity is encouraged, expertise is valued, and impact is real.\nPosition Summary\n We are seeking a skilled and driven Software and System Developer with 3–5 years of hands-on experience in embedded software engineering. This role offers an exciting opportunity to work on next-generation vehicle systems, from control algorithms and model-based design to system-level integration and validation. You’ll be part of a dynamic, cross-functional team delivering high-quality solutions that shape the automotive technologies of tomorrow.\nResponsibilities\nDevelop and optimize embedded automotive software.\nDesign and implement control logic using MATLAB/Simulink, including Model-in-the-Loop (MIL) and Software-in-the-Loop (SIL) testing.\n\n\nBuild and maintain unit tests with GTest or similar frameworks.\n\n\nContribute to CI/CD pipelines using tools such as Jenkins, Docker, Gerrit, and Zuul.\n\n\nConduct Hardware-in-the-Loop (HIL) testing and support real-vehicle validation.\n\n\nEnsure adherence to functional safety and software standards including ISO 26262, and ASPICE.\n\n\nCollaborate with multidisciplinary teams including hardware, system, and validation engineers.\n\n\nMaintain clear and comprehensive technical documentation.\n\n\nMentor junior team members and contribute to continuous improvement efforts.\n\nRequired Qualifications\n3–5 years of experience in embedded or automotive software development.\n\n\nPractical knowledge of MATLAB/Simulink and model-based system design.\n\n\nFamiliarity with unit testing, CI/CD methodologies, and version control (e.g., Git/Gerrit).\n\n\nUnderstanding of automotive software safety standards and quality processes.\n\n\nExcellent problem-solving, communication, and teamwork abilities.\n\n\nFluency in English (written and spoken).\n\nPreferred Qualifications\nExposure to ADAS, AI/ML, or vision-based systems.\n\n\nExperience with automotive communication protocols (CAN/CANopen).\n\n\nBackground in Agile/Scrum development methodologies.\n\n\nDegree in Computer Science, Electrical/Software Engineering, or a related field.\n\n\n\nWhat We Offer\n At ArinaSoft, we believe great talent deserves great support. We provide:\nComprehensive private health insurance\n\n\nGenerous parental leave policies\n\n\nOngoing professional development through in-house and external training programs\n\n\nPaid sick leave and 25 vacation days plus public holidays\n\n\nFlexible working hours and a focus on work-life balance\n\n\nA pension scheme and employee referral program\n\n\nA vibrant, innovation-driven work culture with real impact on safety and sustainability\n\nHow to Apply\n If you're ready to build the future of mobility and are passionate about cutting-edge technology and real-world impact, we’d love to hear from you.\nArinaSoft – Engineering Innovation for Safer Roads.\nNote to Applicants\n Thank you for your interest in joining ArinaSoft. Every application will be carefully reviewed against the role’s requirements. Please note that only shortlisted candidates will be contacted. If you do not hear from us within 10 working days, we kindly inform you that your profile was not selected at this time. However, your information will be retained for future relevant opportunities.\nÖppen för alla\nVi fokuserar på din kompetens, inte dina övriga förutsättningar. Vi är öppna för att anpassa rollen eller arbetsplatsen efter dina behov.",
+        "url": null,
+        "published": "2026-03-10T22:32:10",
+        "deadline": "2026-04-09T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
         "id": "30764427",
         "title": "Syntronic i Göteborg söker fler mjukvaruutvecklare",
         "employer": "Syntronic AB",
@@ -458,21 +458,6 @@
         "url": null,
         "published": "2026-03-11T15:52:00",
         "deadline": "2026-03-24T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
-        "id": "30725477",
-        "title": "Software and System Developer",
-        "employer": "ArinaSoft AB",
-        "location": "Göteborg",
-        "description": "About ArinaSoft AB\n ArinaSoft AB is a forward-thinking technology company at the forefront of automotive innovation. We specialize in delivering high-performance software systems, embedded solutions, and AI-powered safety technologies to leading automotive OEMs and Tier-1 suppliers. Through our commitment to quality, safety, and technological advancement, we are driving the future of mobility toward smarter, safer, and more sustainable roads.\nAt ArinaSoft, we foster a collaborative and knowledge-sharing environment where curiosity is encouraged, expertise is valued, and impact is real.\nPosition Summary\n We are seeking a skilled and driven Software and System Developer with 3–5 years of hands-on experience in embedded software engineering. This role offers an exciting opportunity to work on next-generation vehicle systems, from control algorithms and model-based design to system-level integration and validation. You’ll be part of a dynamic, cross-functional team delivering high-quality solutions that shape the automotive technologies of tomorrow.\nResponsibilities\nDevelop and optimize embedded automotive software.\nDesign and implement control logic using MATLAB/Simulink, including Model-in-the-Loop (MIL) and Software-in-the-Loop (SIL) testing.\n\n\nBuild and maintain unit tests with GTest or similar frameworks.\n\n\nContribute to CI/CD pipelines using tools such as Jenkins, Docker, Gerrit, and Zuul.\n\n\nConduct Hardware-in-the-Loop (HIL) testing and support real-vehicle validation.\n\n\nEnsure adherence to functional safety and software standards including ISO 26262, and ASPICE.\n\n\nCollaborate with multidisciplinary teams including hardware, system, and validation engineers.\n\n\nMaintain clear and comprehensive technical documentation.\n\n\nMentor junior team members and contribute to continuous improvement efforts.\n\nRequired Qualifications\n3–5 years of experience in embedded or automotive software development.\n\n\nPractical knowledge of MATLAB/Simulink and model-based system design.\n\n\nFamiliarity with unit testing, CI/CD methodologies, and version control (e.g., Git/Gerrit).\n\n\nUnderstanding of automotive software safety standards and quality processes.\n\n\nExcellent problem-solving, communication, and teamwork abilities.\n\n\nFluency in English (written and spoken).\n\nPreferred Qualifications\nExposure to ADAS, AI/ML, or vision-based systems.\n\n\nExperience with automotive communication protocols (CAN/CANopen).\n\n\nBackground in Agile/Scrum development methodologies.\n\n\nDegree in Computer Science, Electrical/Software Engineering, or a related field.\n\n\n\nWhat We Offer\n At ArinaSoft, we believe great talent deserves great support. We provide:\nComprehensive private health insurance\n\n\nGenerous parental leave policies\n\n\nOngoing professional development through in-house and external training programs\n\n\nPaid sick leave and 25 vacation days plus public holidays\n\n\nFlexible working hours and a focus on work-life balance\n\n\nA pension scheme and employee referral program\n\n\nA vibrant, innovation-driven work culture with real impact on safety and sustainability\n\nHow to Apply\n If you're ready to build the future of mobility and are passionate about cutting-edge technology and real-world impact, we’d love to hear from you.\nArinaSoft – Engineering Innovation for Safer Roads.\nNote to Applicants\n Thank you for your interest in joining ArinaSoft. Every application will be carefully reviewed against the role’s requirements. Please note that only shortlisted candidates will be contacted. If you do not hear from us within 10 working days, we kindly inform you that your profile was not selected at this time. However, your information will be retained for future relevant opportunities.\nÖppen för alla\nVi fokuserar på din kompetens, inte dina övriga förutsättningar. Vi är öppna för att anpassa rollen eller arbetsplatsen efter dina behov.",
-        "url": null,
-        "published": "2026-03-10T22:32:10",
-        "deadline": "2026-04-09T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
         "source": "JobTech",
@@ -840,21 +825,6 @@
         "relevance_score": 100
     },
     {
-        "id": "30698043",
-        "title": "LIA-praktik inom Machine Learning / AI / Data (Python)",
-        "employer": "Ecareer AB",
-        "location": "Göteborg",
-        "description": "LIA-praktik inom Machine Learning / AI / Data (Python)\nOm praktikplatsen\nVi söker en LIA-praktikant inom Machine Learning, AI och Data som vill arbeta praktiskt med att utveckla och implementera datadrivna lösningar.\nHos oss får du arbeta nära verkliga projekt där Python, dataanalys och AI-modeller används för att skapa affärsvärde. Praktiken passar dig som vill utvecklas inom Machine Learning, databehandling, automatisering och AI-baserade applikationer.\nDu kommer få möjlighet att arbeta med hela kedjan – från datainsamling och modellutveckling till implementation och testning.\nExempel på arbetsuppgifter\nUnder din LIA kan du komma att arbeta med:\n\nDatainsamling och datarensning\n\n\nAnalys av datasets och feature engineering\n\n\nUtveckling av Machine Learning-modeller i Python\n\n\nExperiment och utvärdering av olika ML-algoritmer\n\n\nBygga pipelines för datahantering\n\n\nVisualisering av data och modellresultat\n\n\nImplementering av AI-lösningar i prototyper eller applikationer\n\nTekniker vi gärna ser att du har erfarenhet av\nDu behöver inte kunna allt, men det är meriterande om du arbetat med:\nSpråk och verktyg\n\nPython\n\n\nJupyter Notebook\n\n\nGit\n\n\nData & ML\n\nPandas\n\n\nNumPy\n\n\nScikit-learn\n\n\nTensorFlow eller PyTorch\n\n\nDatahantering\n\nSQL\n\n\nAPI-integrationer\n\n\nDatavisualisering (Matplotlib, Seaborn, Plotly)\n\nVi tror att du\nStuderar en YH-utbildning eller högskoleutbildning inom AI, ML, Data Science eller liknande\n\n\nHar ett stort intresse för data och problemlösning\n\n\nTycker om att experimentera och testa nya lösningar\n\n\nÄr självständig, nyfiken och lösningsorienterad\n\n\nTrivs i en miljö där man lär sig genom att bygga och testa\n\nVad du får hos oss\nHos oss får du möjlighet att:\n\nArbeta med verkliga ML- och datautmaningar\n\n\nBygga projekt som du kan använda i din portfolio\n\n\nUtveckla både tekniska och analytiska färdigheter\n\nPraktisk information\nPraktikperiod: enligt överenskommelse (LIA)\n\n\nPlats: flexibel / hybrid\n\n\nOmfattning: enligt utbildningens krav\n\nAnsökan\nSkicka gärna:\n\nKort presentation av dig själv\n\n\nCV\n\n\nGitHub eller projekt du arbetat med (om du har)\n\n\nVi ser fram emot att höra från dig!",
-        "url": "https://jobb.ecareer.se/jobs/7333679-lia-praktik-inom-machine-learning-ai-data-python/applications/new?promotion=1874920-arbetsformedlingen",
-        "published": "2026-03-05T06:22:14",
-        "deadline": "2026-09-01T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "30689416",
         "title": "Senior teknisk systemförvaltare till Bräcke diakoni",
         "employer": "Stift Bräcke Diakoni",
@@ -900,6 +870,36 @@
         "relevance_score": 100
     },
     {
+        "id": "30769449",
+        "title": "Doctoral student in Trustworthy and Resilient Automotive Cybersecurity",
+        "employer": "Chalmers Tekniska Högskola AB",
+        "location": "Göteborg",
+        "description": "Are you interested in cybersecurity challenges in modern vehicles and future automated driving systems? This doctoral project explores how complex vehicle systems can detect incidents and provide reliable system data for cybersecurity monitoring and forensic analysis.\n\nAbout us \nThe Department of Computer Science and Engineering, a joint department of Chalmers and the University of Gothenburg, spans the breadth of computing disciplines. Our internationally visible research, strong industry links and diverse environment create a collaborative setting where ideas grow into real impact. \n\nAt the division of Computer and Network Systems, we design secure, dependable and high-performance computer and communication systems that meet the demands of an increasingly digital and interconnected world.\n\nAbout the research project  \nModern vehicles rely on large distributed software systems and complex communication infrastructures. When incidents occur in such systems, understanding what happened can be difficult because current vehicle platforms are not designed to provide clear system evidence, and available data may be incomplete or difficult to interpret. This is further challenged by evolving and more dynamic attacks, while existing security mechanisms are often relatively static. At the same time, increasing regulatory requirements highlight the need for improved approaches, where security becomes an important enabler.\n\nThis doctoral project studies system mechanisms that support security monitoring and Automotive Digital Forensics (ADF) in automotive systems. The research focuses on methods for collecting and analysing system data in complex vehicle platforms while respecting constraints related to safety, system resources, and performance.\n\nWho we are looking for\nThe following requirements are mandatory:\n\n• To qualify as a Doctoral student, you must have a Master's degree (masterexamen) of 120 credits or a Master’s degree (magisterexamen) of 60 credits* in Computer Science, Computer Engineering, Electrical Engineering, or a closely related field \n• Strong written and verbal communication skills in English \n• Relevant background in cybersecurity, with additional background in computer systems, networking, or a closely related area.\n• We value a collaborative attitude and the capacity to communicate effectively with both international and national project partners, as well as to work independently and as part of a team.\n\n*for students with an education earned outside of Sweden, a 4-year Bachelor’s degree is accepted. \n\nThe following experience will strengthen your application: \n\n• Good academic performance in previous studies and a high quality MSc thesis (or equivalent) or other independent written work.\n• Experience with experimental evaluation methods or system-level experimentation.\n• Demonstrated interest in research at the intersection of cybersecurity, artificial intelligence, digital forensics, and complex software systems.  \n\nWhat you will do\n\n• Take courses at an advanced level within the Graduate school of Computer Science and Engineering. \n• Develop and pursue an independent research project that contributes to ongoing research within the division.\n• Develop scientific concepts and communicate your research results verbally and in writing.\n• The position generally also includes teaching on Chalmers' undergraduate level or performing other duties corresponding to 20 percent of working hours.\n• Collaborate with industrial stakeholders, including Volvo Cars and other partners in the MAGIC project, contributing to research with relevance for future automotive systems.\n\nContract terms  \n\n• The Doctoral student positions are fully funded from start. \n• The position is a fixed-term appointment of four years, with the possibility to teach up to 20%, which extends the position up to five years. \n• A starting salary of 34,550 SEK per month (valid from May 25, 2025). \n• Doctoral studies require physical presence throughout the entire study period. A valid residence permit must be presented by the study start date; otherwise the admission may be withdrawn. \n\nWhat we offer \n\n• As a Doctoral student at Chalmers, you are an employee and enjoy all employee benefits. Read more about  working at Chalmers  and our benefits for employees. \n• A dynamic and inspiring working environment in the coastal city of Gothenburg. \n• Read more about Sweden’s generous parental leave, subsidized day care, free schools, healthcare etc at Move To Gothenburg. \n\nChalmers is dedicated to improving gender balance and actively works with equality projects, such as the GENIE Initiative for gender equality and excellence. We celebrate diversity and consider equality and inclusion as fundamental aspects of all our activities. \n\nIf Swedish is not your native language, Chalmers offers Swedish courses to help you settle in.\n\nFind more general information about doctoral studies at Chalmers here.  \n\nApplication procedure \nTo read more and apply, please go to the Chalmers vacancy page.\n\nPlease note: The applicant is responsible for ensuring that the application is complete. Incomplete applications and applications sent by email will not be considered. Contact details to references will be requested after the interview. \n\nWe welcome your application no later than April 25, 2026\n\nThe appointment may also be subject to additional assessment and eligibility considerations in accordance with applicable regulations and the framework of the MAGIC project and its partners.\n\nFor questions, please contact:  \nMagnus Almgren  \nEmail: magnus.almgren@chalmers.se\n\nKim Strandberg\nEmail: kim.strandberg@volvocars.com\n\nWe look forward to your application! \nChalmers declines to consider all offers of further announcement publishing or other types of support for the recruiting process in connection with this position.",
+        "url": "https://www.chalmers.se/om-chalmers/arbeta-hos-oss/lediga-tjanster/?rmpage=apply&rmjob=14705&ref=arbetsformedlingen.se%2Fplatsbanken%2F&utm_medium=talentech_publishing&utm_source=platsbanken",
+        "published": "2026-03-19T10:35:14",
+        "deadline": "2026-04-25T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": true,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
+        "id": "30769336",
+        "title": "Research Engineer or Senior Research Engineer for Data-Driven Life Science",
+        "employer": "Chalmers Tekniska Högskola AB",
+        "location": "Göteborg",
+        "description": "Information about the position\nSciLifeLab (www.scilifelab.se), established in 2010, is a hub for life science research in Sweden and a collaboration between Swedish universities. SciLifeLab forms an internationally unique infrastructure and research community, bringing together groundbreaking life science technologies with data and AI expertise.\n\nThe successful candidate will be working related to SciLifeLab and the SciLifeLab Data Centre, a central unit within SciLifeLab with responsibility for information and data management projects, serving the SciLifeLab infrastructure and the Data Driven Life Science (DDLS) research program.  The Data Centre has a national assignment and operates a range of life science data and e-infrastructure services. It also works with questions related to FAIR data and open science, and in close collaboration with major national and international partners. Working within the Data Centre, you will be at the core of Sweden’s top infrastructure for life sciences and have the opportunity to actively shape how state-of-the-art IT and data science are integrated in Swedish life science research by building infrastructure and systems to maximize the scientific impact of the large amount of research data generated at SciLifeLab. You will work in a national team with researchers, data engineers, data stewards and system developers in a rapidly growing, dynamic and progressive team with a leading role in Swedish data-driven life science.\n\nThis position is placed at Chalmers E-Commons, the Chalmers digital research infrastructure for research and innovation by providing support, collaborative projects and resources for data and digital methods in research. The activities of Chalmers E-Commons are based on a data-centric perspective, covering all phases of the research data life-cycle from planning, collaboration with data, management and large-scale computing/analysis/visualisation in active projects, to data publishing and long-term preservation. Chalmers E-Commons provides and facilitates access to a range of local, national, and international e-infrastructure resources for large-scale computing and data storage/management, and hosts and coordinates Chalmers’ participation in national and international e-infrastructures within these fields, e.g., in this case, the SciLifeLab Data Centre.\n Chalmers E-Commons hosts a community of Digital Research Engineers. The offices also host computer infrastructure and machine learning/data science/research data management experts, who develop, build, and manage the local and national resources for large-scale computing and data storage at Chalmers and provide analysis support. \n\nRead more\n\nJob description\nSciLifeLab Data Centre (DC) and Chalmers E-Commons are looking for an experienced, motivated and knowledgeable system developer for our national DDLS data services, with a profile towards data engineering, systems development, and data management. In this role, you are expected to develop software, systems, and methods for SciLifeLab Data Centre’s services on research data management for life sciences. SciLifeLab is building an integrated ecosystem of data services, and you will, for example, work on projects related to image data, spatial biology, and genomics. As a developer, you will participate in Agile development teams and contribute with expertise on software engineering, system design, documentation, and security. An example is an ongoing project to set up a national instance of the open source bioimage data management platform OMERO, where you will help design and deploy bioimage data services, built upon established software and tools for data management and analysis, and adapt those services to the needs of the Swedish data-producing infrastructure platforms, as well as the broader research community in cell and molecular biology.\n\nYour role may also partially include coordinating projects with teams of system developers, data engineers, and data stewards using Agile methodology. It may also include further alignment of processes and technologies, and connections with other parts of SciLifeLab.\n\nYou are expected to share the group's vision of developing unique, high-quality research data services and support for Swedish life sciences, driven by scientific needs, with a focus on IT and computational services, and with open science and FAIR data where possible. Besides maintaining contact with SciLifeLab, you will also have cases where you collaborate with researchers and infrastructure unit staff to ensure that services closely align with their needs.\n\nChalmers E-Commons is actively working to consolidate the notion of Digital Research Engineers as partners for bridging the gap between advanced e-infrastructure resources and the needs of research to solve increasingly more complex problems. With a strong background and experience, the role may be as a Senior Research Engineer, or as a Research Engineer, if you are at an earlier stage in developing strong career skills.\n\nWho we are looking for \nThe following requirements are mandatory for the role:\n\n\n• A university degree in a relevant area\n• Documented experience in Python and/or other relevant programming languages\n• Documented experience from working in Linux-based environments\n• Documented experience in documentation of ongoing work and code\n• Documented experience using container and cloud technologies, for example Docker, Helm, or Kubernetes.\n• Documented experience with version control systems, e.g., Git\n• Fluent in English\n\nContract terms\nPermanent employment.  \n\nWhat we offer \n\n• Read more about  working at Chalmers  and our benefits  for employees. \n• A dynamic and inspiring working environment in the coastal city of Gothenburg. \n\nChalmers is dedicated to improving gender balance and actively works with equality projects, such as the GENIE Initiative for gender equality and excellence. We celebrate diversity and consider equality and inclusion as fundamental aspects of all our activities. \n\nApplication procedure \nRead more and apply at Chalmers.se\n\nApplication deadline: 2026-04-12\n\nFor questions, please contact:\nVilhelm Verendel, Director, Chalmers E-Commons\nEmail: vive@chalmers.se\n\n\n*** Chalmers declines to consider all offers of further announcement publishing or other types of support for the recruiting process in connection with this position. ***",
+        "url": "https://www.chalmers.se/om-chalmers/arbeta-hos-oss/lediga-tjanster/?rmpage=apply&rmjob=14704&ref=arbetsformedlingen.se%2Fplatsbanken%2F&utm_medium=talentech_publishing&utm_source=platsbanken",
+        "published": "2026-03-19T10:21:54",
+        "deadline": "2026-04-12T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": true,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
         "id": "30752647",
         "title": "Senior Azure Data Engineer",
         "employer": "Avaron AB",
@@ -908,21 +908,6 @@
         "url": "https://jobs.avaron.se/jobs/7394733-senior-azure-data-engineer/applications/new?promotion=1895525-arbetsformedlingen",
         "published": "2026-03-16T15:04:44",
         "deadline": "2026-03-20T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
-        "id": "30750698",
-        "title": "Data Analyst, People Analytics",
-        "employer": "Avaron AB",
-        "location": "Göteborg",
-        "description": "About the Company\nAvaron AB is a growing consultancy that matches your expertise with the market's most interesting assignments, offering a platform where your professional development is central.\nAbout the Assignment\nThis assignment is a great opportunity to join a collaborative HR team in a global organization. You will play a key role in shaping the HR data strategy by turning complex workforce data into actionable insights, strengthening data quality, and improving reporting efficiency. The role combines strategic ownership with hands-on analysis in an environment that values teamwork, trust, and continuous improvement.\nJob DescriptionArchitect and support the HR data strategy together with the team.\nImplement and maintain a data-driven HR function with high data quality.\nOwn the end-to-end HR data lifecycle and establish a reliable single source of truth across HR systems.\nSet up and manage data compliance processes, including data purge processes.\nManage position data in HRIS and support headcount management, forecasting, and accuracy.\nOwn, report, and further develop HR KPIs to measure organizational health and performance.\nTranslate workforce data into actionable insights and initiatives in close collaboration with HR leadership and business partners.\nManage internal and external HR reporting, including recurring headcount reporting.\nAct as the main point of contact for AI-related initiatives within HR and help drive automation and adoption.\nRequirementsUniversity degree in Human Resources, Business Administration, Data Science, or Statistics.\n2-6 years of experience.\nExperience with software, BI tools such as Power BI, and HRIS systems.\nUnderstanding of data privacy laws such as GDPR and compliance processes related to personnel data.\nStrong analytical ability with the capacity to synthesize data into high-level summaries and context.\nAbility to identify data gaps and develop KPI frameworks independently.\nAbility to explain complex AI or analytics concepts in a clear and actionable way to non-technical stakeholders.\nHigh level of accuracy in position tracking and headcount forecasting.\nNice to haveKnowledge of People Analytics methods.\nExtensive hands-on knowledge of end-to-end HR processes and the ability to apply analytics within the HR function.\nExperience implementing AI solutions or participating in AI steering committees in a corporate environment.\nApplication\nSelections are made on an ongoing basis, so we recommend that you apply as soon as possible.",
-        "url": "https://jobs.avaron.se/jobs/7392909-data-analyst-people-analytics/applications/new?promotion=1894873-arbetsformedlingen",
-        "published": "2026-03-16T12:01:15",
-        "deadline": "2026-03-19T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
         "source": "JobTech",
