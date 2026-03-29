@@ -345,6 +345,21 @@
         "relevance_score": 100
     },
     {
+        "id": "30817087",
+        "title": "Junior Developer & IT Coordinator ",
+        "employer": "Cherry Spelglädje AB",
+        "location": "Göteborg",
+        "description": "Vi letar efter dig som är i början av din karriär och vill växa inom både utveckling och IT. Cherry har funnits sedan 1963, men vi är fortfarande ett bolag där du kan knacka på vilken dörr som helst. Din första uppgift blir att vara med och bygga en app från grunden, ett projekt där du får äga din del redan från dag ett. Efterhand som du växer in i rollen kommer du också att bli en viktig del i att driva och utveckla vår IT-miljö i stort. \n\n\nDen här rollen passar dig som är kreativ, ser lösningar där andra ser problem och som trivs med att hoppa mellan olika typer av uppgifter. \n\n\nDet här kommer du att göra \nDelta i och efter hand driva IT-projekt, från kravställning och design till implementation och lansering. \n\n\n\nSamarbeta med kollegor och externa utvecklingspartners. \n\n\n\nStötta och vidareutveckla vår IT-miljö och våra interna system. \n\n\n\nBidra till IT-säkerhet, effektivisering och automatisering av processer. \n\n\n\nVara en del av vårt IT och compliance-team i den dagliga verksamheten. \n\n\n\nVi söker dig som \nHar en relevant utbildning eller motsvarande praktisk erfarenhet inom systemutveckling, webbutveckling, apputveckling eller IT. \n\n\n\nHar grundläggande programmeringskunskaper och en vilja att lära mer. \n\n\n\nÄr genuint nyfiken på teknik och inte nöjer dig med \"det fungerar\", du vill förstå varför! \n\n\n\nKommunicerar väl på svenska och engelska, både i tal och skrift. \n\n\n\nÄr självgående och tar ansvar, men inte rädd att fråga och samarbeta. \n\nMeriterande \nErfarenhet av apputveckling (oavsett plattform). \n\n\n\nGrundläggande förståelse för molntjänster, nätverk eller IT-infrastruktur. \n\n\n\nKunskap om skriptning eller automation. \n\n\n\nIntresse för IT-säkerhet och compliance. \n\n\n\nVi erbjuder \nEn tydlig utvecklingsväg, från app-projekt till bredare IT-ansvar. \n\n\n\nStort eget inflytande i ett litet team som faktiskt bryr sig. \n\n\n\nMöjlighet att sätta din prägel på hur vi jobbar med IT. \n\n\n\nBredd i vardagen, du kommer inte sitta med samma sak hela dagarna. \n\n\n\nPraktisk info \nTjänsten är på heltid och placerad på vårt kontor i Göteborg. Nyfiken? Skicka in din ansökan så snart du kan — vi tittar på ansökningar löpande. Har du frågor om tjänsten? Mejla robert.balla@cherry.se. \n\n\nOm Cherry Spelglädje AB \nCherry Spelglädje AB har sedan 1963 - genom seriositet, ansvar och engagemang - levererat spelglädje på restauranger, lounger, barer, hotell och nattklubbar över hela Sverige, från Ystad i Söder till Kiruna i Norr och är uppdelat på tre regioner med kontor i Göteborg och Stockholm. Cherry Spelglädje AB ingår i Cherry With Friends koncernen. \n\n\nSpelglädje AB är den största operatören i landet av Landbaserat Kommersiellt spel och innehar över 80 procent av marknaden. Genom tillväxt av egen kraft i kombination med strategiska förvärv har Cherry Spelglädje idag en mycket god geografisk täckning. Vidare är landet uppdelat i ett 40-tal distrikt och Cherry Spelglädje har 600 anställda, dom flesta tillsvidareanställda på deltid.",
+        "url": "https://jokerpublish.cherry.se/softadmin.aspx?id=4&adid=662",
+        "published": "2026-03-28T09:27:15",
+        "deadline": "2026-04-27T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": true,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
         "id": "30764051",
         "title": "Software Developer – Data Pipeline (Python)",
         "employer": "Professional Galaxy AB",
@@ -435,21 +450,6 @@
         "relevance_score": 100
     },
     {
-        "id": "30725477",
-        "title": "Software and System Developer",
-        "employer": "ArinaSoft AB",
-        "location": "Göteborg",
-        "description": "About ArinaSoft AB\n ArinaSoft AB is a forward-thinking technology company at the forefront of automotive innovation. We specialize in delivering high-performance software systems, embedded solutions, and AI-powered safety technologies to leading automotive OEMs and Tier-1 suppliers. Through our commitment to quality, safety, and technological advancement, we are driving the future of mobility toward smarter, safer, and more sustainable roads.\nAt ArinaSoft, we foster a collaborative and knowledge-sharing environment where curiosity is encouraged, expertise is valued, and impact is real.\nPosition Summary\n We are seeking a skilled and driven Software and System Developer with 3–5 years of hands-on experience in embedded software engineering. This role offers an exciting opportunity to work on next-generation vehicle systems, from control algorithms and model-based design to system-level integration and validation. You’ll be part of a dynamic, cross-functional team delivering high-quality solutions that shape the automotive technologies of tomorrow.\nResponsibilities\nDevelop and optimize embedded automotive software.\nDesign and implement control logic using MATLAB/Simulink, including Model-in-the-Loop (MIL) and Software-in-the-Loop (SIL) testing.\n\n\nBuild and maintain unit tests with GTest or similar frameworks.\n\n\nContribute to CI/CD pipelines using tools such as Jenkins, Docker, Gerrit, and Zuul.\n\n\nConduct Hardware-in-the-Loop (HIL) testing and support real-vehicle validation.\n\n\nEnsure adherence to functional safety and software standards including ISO 26262, and ASPICE.\n\n\nCollaborate with multidisciplinary teams including hardware, system, and validation engineers.\n\n\nMaintain clear and comprehensive technical documentation.\n\n\nMentor junior team members and contribute to continuous improvement efforts.\n\nRequired Qualifications\n3–5 years of experience in embedded or automotive software development.\n\n\nPractical knowledge of MATLAB/Simulink and model-based system design.\n\n\nFamiliarity with unit testing, CI/CD methodologies, and version control (e.g., Git/Gerrit).\n\n\nUnderstanding of automotive software safety standards and quality processes.\n\n\nExcellent problem-solving, communication, and teamwork abilities.\n\n\nFluency in English (written and spoken).\n\nPreferred Qualifications\nExposure to ADAS, AI/ML, or vision-based systems.\n\n\nExperience with automotive communication protocols (CAN/CANopen).\n\n\nBackground in Agile/Scrum development methodologies.\n\n\nDegree in Computer Science, Electrical/Software Engineering, or a related field.\n\n\n\nWhat We Offer\n At ArinaSoft, we believe great talent deserves great support. We provide:\nComprehensive private health insurance\n\n\nGenerous parental leave policies\n\n\nOngoing professional development through in-house and external training programs\n\n\nPaid sick leave and 25 vacation days plus public holidays\n\n\nFlexible working hours and a focus on work-life balance\n\n\nA pension scheme and employee referral program\n\n\nA vibrant, innovation-driven work culture with real impact on safety and sustainability\n\nHow to Apply\n If you're ready to build the future of mobility and are passionate about cutting-edge technology and real-world impact, we’d love to hear from you.\nArinaSoft – Engineering Innovation for Safer Roads.\nNote to Applicants\n Thank you for your interest in joining ArinaSoft. Every application will be carefully reviewed against the role’s requirements. Please note that only shortlisted candidates will be contacted. If you do not hear from us within 10 working days, we kindly inform you that your profile was not selected at this time. However, your information will be retained for future relevant opportunities.\nÖppen för alla\nVi fokuserar på din kompetens, inte dina övriga förutsättningar. Vi är öppna för att anpassa rollen eller arbetsplatsen efter dina behov.",
-        "url": null,
-        "published": "2026-03-10T22:32:10",
-        "deadline": "2026-04-09T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "30764427",
         "title": "Syntronic i Göteborg söker fler mjukvaruutvecklare",
         "employer": "Syntronic AB",
@@ -518,6 +518,21 @@
         "url": "https://career.coretura.com/jobs/7249379-bazel-build-tooling-engineer/applications/new?promotion=1868866-arbetsformedlingen",
         "published": "2026-03-16T09:18:42",
         "deadline": "2026-03-31T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
+        "id": "30725477",
+        "title": "Software and System Developer",
+        "employer": "ArinaSoft AB",
+        "location": "Göteborg",
+        "description": "About ArinaSoft AB\n ArinaSoft AB is a forward-thinking technology company at the forefront of automotive innovation. We specialize in delivering high-performance software systems, embedded solutions, and AI-powered safety technologies to leading automotive OEMs and Tier-1 suppliers. Through our commitment to quality, safety, and technological advancement, we are driving the future of mobility toward smarter, safer, and more sustainable roads.\nAt ArinaSoft, we foster a collaborative and knowledge-sharing environment where curiosity is encouraged, expertise is valued, and impact is real.\nPosition Summary\n We are seeking a skilled and driven Software and System Developer with 3–5 years of hands-on experience in embedded software engineering. This role offers an exciting opportunity to work on next-generation vehicle systems, from control algorithms and model-based design to system-level integration and validation. You’ll be part of a dynamic, cross-functional team delivering high-quality solutions that shape the automotive technologies of tomorrow.\nResponsibilities\nDevelop and optimize embedded automotive software.\nDesign and implement control logic using MATLAB/Simulink, including Model-in-the-Loop (MIL) and Software-in-the-Loop (SIL) testing.\n\n\nBuild and maintain unit tests with GTest or similar frameworks.\n\n\nContribute to CI/CD pipelines using tools such as Jenkins, Docker, Gerrit, and Zuul.\n\n\nConduct Hardware-in-the-Loop (HIL) testing and support real-vehicle validation.\n\n\nEnsure adherence to functional safety and software standards including ISO 26262, and ASPICE.\n\n\nCollaborate with multidisciplinary teams including hardware, system, and validation engineers.\n\n\nMaintain clear and comprehensive technical documentation.\n\n\nMentor junior team members and contribute to continuous improvement efforts.\n\nRequired Qualifications\n3–5 years of experience in embedded or automotive software development.\n\n\nPractical knowledge of MATLAB/Simulink and model-based system design.\n\n\nFamiliarity with unit testing, CI/CD methodologies, and version control (e.g., Git/Gerrit).\n\n\nUnderstanding of automotive software safety standards and quality processes.\n\n\nExcellent problem-solving, communication, and teamwork abilities.\n\n\nFluency in English (written and spoken).\n\nPreferred Qualifications\nExposure to ADAS, AI/ML, or vision-based systems.\n\n\nExperience with automotive communication protocols (CAN/CANopen).\n\n\nBackground in Agile/Scrum development methodologies.\n\n\nDegree in Computer Science, Electrical/Software Engineering, or a related field.\n\n\n\nWhat We Offer\n At ArinaSoft, we believe great talent deserves great support. We provide:\nComprehensive private health insurance\n\n\nGenerous parental leave policies\n\n\nOngoing professional development through in-house and external training programs\n\n\nPaid sick leave and 25 vacation days plus public holidays\n\n\nFlexible working hours and a focus on work-life balance\n\n\nA pension scheme and employee referral program\n\n\nA vibrant, innovation-driven work culture with real impact on safety and sustainability\n\nHow to Apply\n If you're ready to build the future of mobility and are passionate about cutting-edge technology and real-world impact, we’d love to hear from you.\nArinaSoft – Engineering Innovation for Safer Roads.\nNote to Applicants\n Thank you for your interest in joining ArinaSoft. Every application will be carefully reviewed against the role’s requirements. Please note that only shortlisted candidates will be contacted. If you do not hear from us within 10 working days, we kindly inform you that your profile was not selected at this time. However, your information will be retained for future relevant opportunities.\nÖppen för alla\nVi fokuserar på din kompetens, inte dina övriga förutsättningar. Vi är öppna för att anpassa rollen eller arbetsplatsen efter dina behov.",
+        "url": null,
+        "published": "2026-03-10T22:32:10",
+        "deadline": "2026-04-09T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
         "source": "JobTech",
