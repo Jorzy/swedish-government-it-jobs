@@ -150,21 +150,6 @@
         "relevance_score": 100
     },
     {
-        "id": "30548109",
-        "title": "Senior Solution & Technical Delivery Experts – Crew Tracking Implementation",
-        "employer": "Pigs Fly AI AB",
-        "location": "Göteborg",
-        "description": "About Optimen \nOptimen is a certified \"Great Place to Work\" and a strategic delivery partner for Jeppesen ForeFlight. We specialize in aeronautical technology and resource optimization for the global airline industry. \nWith 19 years of experience, with operations in Mexico, USA and Canada, we operate as an extension of our clients' IT departments. We are entrusted with the configuration, development, and delivery of Jeppesen’s Crew and Fleet Portfolio. \nCarriers such as Aeromexico, Volaris, LATAM, Avianca and TAP Air Portugal rely on Optimen to solve their most complex operational challenges. We are now establishing a Center of Excellence in Sweden to lead critical implementation projects around the world, bridging the gap between client stakeholders and our engineering hubs. \nThe Role \nWe are recruiting a foundational team of Senior and Expert professionals (6–12+ years of experience) to lead the delivery of Jeppesen Crew Tracking solutions. \nOperational Transformation through Technology This is more than an implementation role; it is a digital transformation initiative. You will help major airlines modernize their mission-critical operations by replacing legacy, manual processes with advanced optimization technology. Your mandate is to: \nLeverage Optimization: Configure Jeppesen’s powerful solvers to automate complex decision-making, shifting the client from reactive manual tracking to proactive, data-driven recovery. \nEngineer Efficiency: Use technology to encode complex labor agreements (CLA) into automated logic, eliminating human error and unlocking tangible cost savings. \nConnect the Ecosystem: Design robust integration architectures that break down data silos, ensuring the crew system acts as the intelligent digital backbone of the airline’s operation. \n\nYou will work in a distributed Agile environment, acting as the primary link between European client stakeholders and our engineering teams in Americas. \nCore Responsibilities \n 1. Agile Product Ownership & Value Realization \nBacklog Management: You will own or heavily influence the product backlog. You must translate high-level business goals into well-defined User Stories and Acceptance Criteria for the engineering team. \nFocus on Business Outcome: You will challenge the client’s assumptions. Instead of simply implementing a rule, you will define the operational value (e.g., \"How does this configuration improve operational compliance?\", \"How does this automation reduce manual intervention?\", or \"Does this cost function accurately reflect disruption costs?\"). \nSprint Execution: Participate in and facilitate Agile ceremonies (Sprint Planning, Reviews). You will be responsible for validating that the delivered increments meet the business objectives before they reach the client. \n\n2. Solution Design & Complexity Management \nFunctional Modelling (CLA Rules): Lead the definition of complex logic for Collective Labour Agreements (Union Contracts). You must be able to translate legal texts into functional specifications that determine legality, counters, and compensation. \nTracking Optimization: Configure and tune optimization strategies. You will adjust parameters to reflect operational priorities—balancing strict efficiency against robustness during disruption scenarios. \nArchitecture & Integration: Design the end-to-end integration landscape. You will ensure the Crew Tracking solution communicates reliably with the airline’s ecosystem (HR, Flight Ops, Payroll), defining Interface Control Documents (ICDs) and guiding data flow strategy. \n\n3. Collaborative Leadership \nDistributed Team Lead: Act as the technical and functional anchor for our development teams in Americas. You will ensure requirements are understood, remove blockers, and maintain quality standards across the Atlantic. \nStakeholder Advisory: Guide VP-level stakeholders (Flight Ops, IT), SMEs, and Business Function Owners through complex trade-offs. You must be able to distinguish between \"must-have\" regulatory compliance and \"nice-to-have\" process preferences to protect the implementation scope. \n\nRequired Qualifications \nExperience: More than 6 years of experience in software implementation, solution architecture, or technical business analysis within the aviation sector. \nAgile Mindset: Proven experience working in Agile/Scrum environments. You must be comfortable managing backlogs, writing user stories, and focusing on iterative value delivery rather than waterfall specifications. \nAirline Domain Mastery: Deep understanding of Crew Management (Pairing, Rostering, Tracking) or Operations Control (OCC). You must understand the operational mechanics of counters, compensation logic, and disruption management. \nConsultative Approach: You are not an order taker. You have a proven ability to guide clients through complex operational changes and focus on customer outcomes. \nCommunication: Fluent in English (written and verbal), with the ability to explain complex technical concepts to non-technical business leaders. \n\nPreferred Qualifications \nJeppesen Ecosystem: Prior experience with Jeppesen products (Crew Tracking, Carmen Systems legacy) or familiarity with the RAVE modeling language is a distinct advantage. \nTechnical Stack: For architecture-focused candidates, proficiency in Python, SQL, and AWS is highly valued. \nOptimization: Familiarity with Operations Research concepts, solver tuning, or defining penalty/cost functions for automated planning systems. \nLanguage Skills: Fluency in Spanish is a strong asset to facilitate collaboration with our engineering centers in Latin America.",
-        "url": null,
-        "published": "2026-02-04T06:08:15",
-        "deadline": "2026-04-03T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "30537509",
         "title": "Senior DevOps Engineer",
         "employer": "Goismo AB",
@@ -265,6 +250,21 @@
         "deadline": "2026-04-27T23:59:59",
         "is_consultant": false,
         "is_meaningful": true,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
+        "id": "30794807",
+        "title": "AOSP / Android Developer",
+        "employer": "HCL Technologies Sweden AB",
+        "location": "Göteborg",
+        "description": "About the Role\nWe are looking for a skilled AOSP / Android Developer to join our development team. You will work in a modern embedded software environment, contributing to Android platform development, framework components, and system-level features.\nRequired Qualifications\nBachelor’s or Master’s degree in Software Engineering, Computer Science, or equivalent education\nStrong experience in Java and/or Kotlin development\nExperience working in a modern embedded Linux software environment\nHands-on experience with development tools such as Git, Gerrit, and Jenkins\nSolid knowledge of the Android Framework, including development and build tools\nExperience with Gradle and Soong build systems\nAbility to design and write automated unit and integration tests\n\nMeritorious / Nice-to-Have Skills\nSwedish driver’s license (B-level) for testing purposes\n\nFor Bluetooth Developers\nPrevious experience in Bluetooth development is required\nExperience with AIDL, Android HAL, and C/C++ development is highly meritorious\n\nFor HMI Developers\nPrior experience in Human Machine Interface (HMI) development\nExperience working with AOSP is highly desirable\n\nWhat We Offer\nA collaborative and technically advanced development environment\nOpportunities to work with cutting-edge Android and embedded technologies\nA role with real impact on platform-level and user-facing solutions",
+        "url": null,
+        "published": "2026-03-24T16:19:20",
+        "deadline": "2026-05-24T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 100
