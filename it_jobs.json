@@ -240,6 +240,36 @@
         "relevance_score": 100
     },
     {
+        "id": "30923898",
+        "title": "Software Engineer",
+        "employer": "Professional Galaxy AB",
+        "location": "Göteborg",
+        "description": "Build the Future of Technology with Professional Galaxy AB\nJoin a network of talented engineers, developers, cloud specialists, and AI innovators working on impactful projects across Sweden and Europe. At Professional Galaxy AB, we connect top tech talent with companies driving digital transformation in areas like cloud computing, software engineering, data, cybersecurity, and artificial intelligence.\nExplore exciting opportunities and grow your career while working with cutting-edge technologies and forward-thinking teams.\nWe are looking for a Software Engineer\nBeskrivning\nSystem Engineer / Software Requirements Engineer\nJob Description\nWe are looking for hands-on and driven System Engineers / Software Requirements Engineers to strengthen our team. This role is for true doers individuals who enjoy challenging requirements, structuring complex information, and working closely with both development and verification.\nYou will play a key role in defining, structuring, and validating software requirements, with the opportunity to influence early verification and automation initiatives.\nResponsibilities\n\nWrite and maintain software requirements, as well as higher-level system requirements\n\n\nDevelop and maintain a clear, structured requirements architecture in SE-Tool/System Weaver\n\n\nReview, write, and maintain unit test cases\n\n\nCollaborate closely with software developers, system engineers, and verification teams\n\n\n(Optional) Develop automated pipelines for software generation and early verification\n\n\nContribute to continuous improvement of development and verification workflows\n\n\nRequired Qualifications\n\nA few years of experience in system engineering and/or software development\n\n\nStrong experience or interest in writing high-quality, well-structured requirements\n\n\nAbility to work independently and take ownership of tasks\n\n\nA proactive, hands-on mindset you get things done\n\n\nNice to Have\n\nExperience with low-level verification or testing\n\n\nExperience with automated pipelines, scripting, or programming\n\n\nFamiliarity with System Weaver/SE-Tool or similar requirements management tools\n\n\nPersonal Characteristics\n\nCurious and not afraid to challenge existing requirements\n\n\nStructured, analytical, and communicative\n\n\nEnjoys collaboration and knowledge sharing\n\n\nWe believe having two people in this role would be ideal, allowing for mutual support during onboarding.\nUppdragsinformation\nUppdragslängd: 2026-05-04 to 2029-11-03 Placeringsort: Göteborg\nSvar önskas snarast, dock senast 2026-04-21.\nHow to Apply\nAre you the right person for this assignment, or do you want to recommend a strong candidate?\nPlease apply directly via the Professional Galaxy AB portal with:\n\nYour updated CV\n\n\nYour availability to start\n\n\nA motivation statement describing your suitability, including relevant experience, education, and personal qualities\n\n\nPlease note: Applications via email will not be accepted. All applications must be submitted through the portal.\n\nÖppen för alla\nVi fokuserar på din kompetens, inte dina övriga förutsättningar. Vi är öppna för att anpassa rollen eller arbetsplatsen efter dina behov.",
+        "url": "https://careers.progalaxy.se/jobs/7594211-software-engineer/applications/new?promotion=1954222-arbetsformedlingen",
+        "published": "2026-04-17T21:44:02",
+        "deadline": "2026-10-14T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
+        "id": "30922789",
+        "title": "Engineer with C++",
+        "employer": "Explipro Group AB",
+        "location": "Göteborg",
+        "description": "Are you an engineer within CAE, simulations, or mechanical development – with strong C++ skills? Do you want to work close to real products, solving engineering problems using both simulations and code?  Then this could be the right opportunity for you.\nThe Role\nIn this role, you will work at the intersection of engineering and software, developing and maintaining tools and applications used in product development within the automotive industry.\nThis is not a pure software development role – instead, your work will focus on supporting engineering processes such as simulations, calculations, and product development.\nYour responsibilities will include:\n\nDeveloping and maintaining C++ applications used in CAE and simulation environments\n\n\nWorking closely with engineers to support mechanical development and analysis\n\n\nContributing to simulation workflows, calculations, and engineering tools\n\n\nUnderstanding and improving how software supports real-world product development\n\n About You\nTo succeed in this role, you should have: ✅ Mechanical Engineering, Engineering Physics, or similar ✅ Experience working with CAE, simulations, or product development ✅ Strong skills in C++, used in an engineering context ✅ Experience working in Linux environments ✅ Understanding of engineering calculations, data, or physical systems\nImportant\nWe are specifically looking for candidates who have: ✔ Experience from CAE, simulations or mechanical development ✔ Used C++ as a tool in engineering work\nBonus Skills\nWhile not required, experience in any of the following will be beneficial: ➕ Experience with simulation tools or frameworks ➕ Python or scripting for engineering workflows ➕ Database knowledge (SQL or similar) ➕ Experience from automotive product development \nIn the process we will also evaluate your drive and ability to communicate in a clear and simple way.\n\nAbout Explipro\nExplipro values helpfulness and simplicity in the workplace. We are looking for individuals who share our commitment to integrity, transparency, and caring for each other. By joining us, you will be part of a supportive team that values continuous learning and personal growth. We offer competitive salaries, flexible working conditions, and numerous benefits to support your professional journey.\nIf this opportunity aligns with your experience and aspirations, we encourage you to reach out to us without delay!",
+        "url": "https://career.explipro.com/jobs/7591442-engineer-with-c/applications/new?promotion=1953634-arbetsformedlingen",
+        "published": "2026-04-17T15:56:01",
+        "deadline": "2026-05-16T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
         "id": "30896730",
         "title": "Software Lead at Colibrium Additive",
         "employer": "Mpya Sci & Tech AB",
@@ -465,21 +495,6 @@
         "relevance_score": 100
     },
     {
-        "id": "30625892",
-        "title": "Software Engineer .NET (R&D)",
-        "employer": "Ascom (Sweden) AB",
-        "location": "Göteborg",
-        "description": "Make a real‑world impact. At Ascom, our software powers mission‑critical communication and workflow solutions for healthcare and enterprise customers worldwide. We’re expanding our Gothenburg R&D team with a Software Engineer who thrives on building robust products in an Agile environment and who enjoys improving existing code as much as creating new features.  \nWhat you’ll do \n\nDesign & implement high‑quality software that balances functionality, reliability, performance and delivery speed. \n\n\nEvolve products by maintaining and refactoring existing codebases; contribute to resolving customer‑reported issues in collaboration with support and product teams. \n\n\nTranslate requirements into technical solutions by partnering with product owners, architects and stakeholders.  \n\n\nRaise the bar on quality through code reviews, unit/integration testing and by promoting test automation.  \n\n\nDocument clearly, from technical requirements and designs to contribution to user documentation. \n\n\nContinuously improve our ways of working by applying Agile practices and staying current with relevant technologies.   \n\n\nWhat you’ll bring \n\n3–5 years of experience in software design and development. \n\n\nProficiency in .NET/C#. \n\n\nExperience with front-end frameworks such as Vue, React, or Angular. \n\n\nSolid grounding in Computer Science (algorithms, data structures, programming paradigms) and Software Engineering principles.  \n\n\nAbility to work across the lifecycle: requirements, implementation, code reviews, and verification of your own modules and the integrated product. \n\n\nComfortable collaborating in a global setting and reaching agreement through flexibility and constructive dialogue.  \n\n\nDegree in Computer Science or a related field (BSc or MSc).  \n\n\nHelpful experience (nice to have) \n\nExposure to cloud concepts/architecture and resource management (not mandatory).  \n\n\nFamiliarity with Ascom’s types of solutions or similar mission‑critical systems where reliability matters.  \n\n\nHow you’ll work with us \nYou’ll join a skilled R&D team as an individual contributor with global reach and clear operational targets. We emphasize pragmatic engineering, teamwork, and learning—backed by design/code reviews and a culture of testing and automation.   \nWhy Ascom \n\nMeaningful impact: build products that support clinicians and teams in time‑critical environments. \n\n\nGrowth: mentorship, modern engineering practices, and continuous learning.  \n\n\nTeam culture: collaborative, improvement‑oriented, with autonomy to make things better. \n\n\n \nReady to Apply?  \nIf this sounds like your next step, we would love to hear from you! Submit your application today and join a team where your work truly makes an impact.",
-        "url": "https://career.ascom.com/jobs/7246694-software-engineer-net-r-d/applications/new?promotion=1847172-arbetsformedlingen",
-        "published": "2026-02-17T16:52:48",
-        "deadline": "2026-08-16T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": true,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "30603966",
         "title": "Spontaneous Application Consat Digital Solutions",
         "employer": "Consat Engineering AB",
@@ -595,21 +610,6 @@
         "deadline": "2026-04-24T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
-        "id": "30793398",
-        "title": "Marknadschef till GöteborgsOperan",
-        "employer": "Maquire Sverige AB",
-        "location": "Göteborg",
-        "description": "Om tjänsten\nVill du vara med och utveckla ett av norra Europas ledande operahus?\nSom marknadschef på GöteborgsOperan ansvarar du både strategiskt och operativt för alla kommersiella intäkter – från biljettförsäljning, restaurangverksamhet och sponsorer, liksom för publikutvecking och varumärket GöteborgsOperan. \nMarknadsenheten omfattar avdelningarna Kommunikation, Försäljning, Näringslivssamarbeten, partnerskap, och digital innovation, Restaurang samt Publikservice, med totalt ca 70 tillsvidareanställa samt ett stort antal timanställda. Rollen ingår i företagsledningen och rapporterar till VD. Som marknadschef driver du utveckling inom samtliga områden i nära samarbete med avdelningscheferna, konstnärlig ledning och övriga delar av organisationen. Du representerar också GöteborgsOperan i externa nätverk och samarbeten.\nOm dig\nVi söker en strategisk, trygg och tydlig ledare som kan navigera och driva utveckling i en komplex organisation där konstnärliga och affärsdrivande processer möts. Du är en kommunikativ, nyfiken och inlyssnande person som bygger förtroendefulla relationer. Med analytisk skärpa, integritet och prestigelöshet skapar du engagemang, arbetsglädje och en gemensam riktning. Verksamheten präglas av ständig förändring och oförutsedda situationer vilket också ställer krav på flexibilitet och beslutsmässighet. Vi förutsätter att du har ett genuint intresse för kultur och samhällsutveckling.\nKvalifikationerRelevant högskole- eller universitetsutbildning eller motsvarande erfarenhet\nMinst fem års chefserfarenhet på strategisk nivå med personalansvar\nErfarenhet av marknads- och försäljningsarbete med intäktsansvar\nGod ekonomisk förståelse och vana att arbeta med budget, prognoser och uppföljning\nGod digital kompetens och intresse för teknik, data och AI\nMycket goda kunskaper i svenska eller annat skandinaviskt språk samt engelska, i tal och skrift\nErfarenhet från scenkonst, kultur, media, event eller andra delar av upplevelseindustrin är meriterande liksom förståelse för konstnärliga processer\nVi erbjuder\nHos GöteborgsOperan får du en unik möjlighet att arbeta i skärningspunkten mellan kultur, publik och affär i en verksamhet med hög internationell nivå, engagerade medarbetare och stark lokal och regional betydelse. Tillsammans skapar vi upplevelser för hundratusentals besökare varje år och fortsätter utveckla operahuset som en självklar mötesplats för publik, kultur och näringsliv.\nAnsökan och kontakt\nVarmt välkommen med din ansökan med CV och personligt brev senast 16 april via maquire.se. Vid frågor, välkommen att kontakta Christina Fredriksson 0702-715140.",
-        "url": "https://maquire.se/lediga-jobb/1843-marknadschef-till-goteborgsoperan?pnty_src=platsbanken",
-        "published": "2026-03-24T14:07:15",
-        "deadline": "2026-04-17T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": true,
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 100
