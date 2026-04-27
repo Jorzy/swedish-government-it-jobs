@@ -15,21 +15,6 @@
         "relevance_score": 100
     },
     {
-        "id": "30888361",
-        "title": "Support & Integration Specialist",
-        "employer": "WALLENIUS SOL AB",
-        "location": "Göteborg",
-        "description": "Are you passionate about systems, integrations, and logistics? Do you enjoy being at the intersection of IT, operations and business development – and want to contribute to smart, scalable solutions in a growing international company? Then this might be the role for you.\nAbout the role\nAs a Support & Integration Specialist (SIS), you will be part of our IT/Systems team and play a key role in ensuring efficient, secure and well‑integrated system solutions across the organisation. Together with colleagues in IT and operations, you will lead and support integrations, optimize existing processes, and help develop new ones as our business grows.\nOur core Transport Management System is CargoWise, and you will work closely with this platform, supporting users, improving integrations and enabling solutions that are critical for daily operations, customer experience and future growth.\n\n\nYour mission\nYour mission is to deliver robust and competitive system solutions that meet evolving market demands. By enabling smooth integrations for customers, terminals and other stakeholders, you help position WALLENIUS SOL as a reliable and forward‑leaning partner. As volumes increase and new ports, clients and integrations are added, your contribution will be essential in ensuring speed, quality and stability in our system landscape.\n\n\nKey responsibilities\nBe part of the implementation team for new and existing system integrations\nTroubleshoot system and integration inquiries via our Helpdesk\nIdentify development or improvement needs in current integrations\nSupport and develop processes related to systems and integrations\nPlay an active role within the TMS development and support team\n\n\n\nKey tasks\nImplement new terminal and port integrations\nImplement new client and warehouse integrations\nImplement new system processes and applications\nMaintain, troubleshoot and continuously optimize existing integrations and system processes\n\n\n\nYour background\nQualifications:\nExperience within shipping and/or logistics (mandatory)\nA university degree in IT and/or logistics – or equivalent experience considered relevant\nA strong understanding of systems, integrations and data flows\nExperience working in several parallel projects\nStrong knowledge of Microsoft Office 365 (mandatory)\n\n\n\nExperience in the following areas is considered an advantage:\nWorking with Azure Cloud or similar platforms\nWorking with CargoWise or other Transport Management Systems\nWorking with BI tools such as Qlik or PowerBI\n\n\n\n What we offer\nAt WALLENIUS SOL, you will be part of a company in rapid development, with short decision paths and a strong focus on collaboration. You will have the opportunity to influence system solutions that are business‑critical, contribute to process development, and grow together with an engaged international organization.\n\n\nPractical Information\nWorkplace: Gothenburg\nEmployment type: Full time\nStart date: As agreed\n\n\nInterested?\nWe look forward to receiving your application.\nShould you have any questions regarding the role, please feel free to contact us.",
-        "url": "https://walleniussol.careers.haileyhr.app/en-GB/job/cd38e52e-a1be-4cf2-b6fb-8abd84bf6e8f/fdf12320-9d4e-4623-9753-ce14d1cf2dab/2f223658-5f68-4b25-ab3e-0873dbdd849f",
-        "published": "2026-04-10T14:05:10",
-        "deadline": "2026-04-26T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "30866658",
         "title": "Principal System Integration Lead at Volvo Autonomous Solutions",
         "employer": "Volvo Business Services AB",
@@ -533,6 +518,21 @@
         "url": "https://jobb.danda.se/jobs/6875171-software-configuration-and-release-manager?promotion=1739752-arbetsformedlingen",
         "published": "2025-12-03T11:46:52",
         "deadline": "2026-05-22T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
+        "id": "30312056",
+        "title": "Cyber Security Engineer",
+        "employer": "Mission Consultancy Assistance Sweden AB",
+        "location": "Göteborg",
+        "description": "About the job\nAre you a skilled Cyber Security Engineer with a talent for finding gaps in the most secure systems? We’re looking for someone to perform in-depth penetration testing across various technologies, including Windows and Linux environments, Citrix Workspaces, Cloud infrastructures, and APIs. You will use the latest tools and techniques to uncover vulnerabilities and work alongside our development and security teams to address and fix them. If you're ready to tackle complex security challenges, we want to hear from you!\nThe ideal profile\nThe perfect candidate is a highly skilled and detail-oriented Cyber Security Engineer with genuine hands-on experience in penetration testing and vulnerability analysis. You have excellent written and verbal communication skills and are a strong problem-solver. You thrive both working independently and collaborating within a team, always ready to tackle challenges with analytical precision.\nQualifications:\nYou have a strong understanding of network protocols, both Windows and Linux operating systems, application architectures and Red Hat\nIn-depth knowledge of common vulnerabilities and exploits (CVEs)\nProficiency in using various penetration testing tools such as Metasploit, Nmap, Burp Suite and/or Nessus\n\nAdditional skills:\nExperience with cloud security, particularly AWS.\nKnowledge of scripting languages (e.g., Python, PowerShell).\nFamiliarity with source code review techniques.\nUnderstanding of frameworks like ISO 27001, NIST, CIS\nSecurity certifications such as OSCP, CEH, PEN TEST+",
+        "url": null,
+        "published": "2025-11-27T10:17:25",
+        "deadline": "2026-04-30T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
         "source": "JobTech",
