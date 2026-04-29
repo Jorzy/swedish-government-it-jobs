@@ -30,21 +30,6 @@
         "relevance_score": 100
     },
     {
-        "id": "30913976",
-        "title": "Computational Biologist",
-        "employer": "AIxBiolo AB",
-        "location": "Göteborg",
-        "description": "About AIxBIO\nAIxBIO develops next-generation cell factories using advanced computational metabolic models, integrating bioprocess and cellular systems to improve the efficiency of industrial fermentation.\nJob Description\nWe are recruiting a Computational Biologist to design, develop, and implement computational models for analysing and optimising biological systems relevant to industrial biomanufacturing. The work spans constraint-based metabolic modelling, analysis of gene-expression data, and analysis of bioreactor cultivation data. The role also involves developing new computational methods and bioinformatics tools, and contributing to cross-functional research projects on fermentation technology.\nMain Responsibilities\nDevelop and apply computational models of cellular metabolism.\nAnalyse omics and bioprocess datasets.\nDesign and implement bioinformatics workflows.\nCollaborate with experimental scientists and process engineers.\nContribute to method and tool development.\n\nRequired Qualifications\nPhD in Biotechnology, Metabolic Engineering, Bioinformatics, Computational Biology, Systems Biology, or a closely related field.\nDocumented research experience in computational metabolic engineering or metabolic systems biology.\nWorking knowledge of data science and bioinformatics methods.\nProgramming experience in Python, R, and/or MATLAB.\nGood written and spoken English.\n\nMeritorious\nExperience with genome-scale constraint-based metabolic models.\nExperience with bioreactor cultivation, metabolic or genetic engineering, or microbiology.\nExperience applying machine learning to biological data.\nExperience with computational fluid dynamics or transport phenomena modelling.\n\nTerms of Employment\nFull-time, permanent position with an initial six-month probationary period.\nMonthly salary: 45,000 SEK gross, set individually based on qualifications and experience.\n\nApplication\nPlease send your CV and a brief cover letter to eduard@aixb.io.",
-        "url": null,
-        "published": "2026-04-16T12:11:35",
-        "deadline": "2026-04-28T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "AI",
-        "relevance_score": 60
-    },
-    {
         "id": "30895794",
         "title": "Doctoral student in Quantum Machine Learning for the Life Sciences",
         "employer": "Chalmers Tekniska Högskola AB",
