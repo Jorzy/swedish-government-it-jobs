@@ -1,5 +1,20 @@
 [
     {
+        "id": "30995487",
+        "title": "Senior Software Engineer (Full‑Stack / Cloud & Automation)",
+        "employer": "FPT Software Sverige AB",
+        "location": "Göteborg",
+        "description": "Job Summary\nWe are looking for a Senior Software Engineer with strong full-stack development, cloud (AWS), and automation-driven system design experience.\nThe ideal candidate will have hands-on experience building enterprise-grade platforms, intelligent/AI-enabled systems, and scalable cloud infrastructure, and will play a key role in system architecture, development, and mentoring.\nKey Responsibilities\nDesign, develop, and maintain enterprise-grade software systems and platforms.\nBuild and enhance full-stack applications (frontend, backend, APIs).\nDevelop and operate cloud-native systems on AWS, ensuring scalability, security, and reliability.\nImplement automation pipelines for deployment, infrastructure, monitoring, and system workflows.\nContribute to intelligent platforms such as virtual assistants, AI-enabled or data-driven systems.\nCollaborate with cross-functional teams to deliver high-quality solutions.\nSupport system architecture decisions and improve overall platform performance.\nMaintain and optimize cloud infrastructure across multiple projects.\nMentor junior engineers and promote best practices in coding, testing, and system design.\n\nRequired Skills & Qualifications\nEducation\nBachelor's degree in Computer Science, Computer Engineering, or related fields.\nMaster's degree or ongoing study in Machine Learning, AI, Image Analysis, or related areas is a strong plus.\n\nTechnical Skills\nCore Engineering\nStrong experience as a Senior / Full-Stack Software Engineer.\nSolid understanding of software architecture, system scalability, and design patterns.\nExperience building enterprise-level platforms or products.\n\nBackend & Platform\nStrong backend development experience (API design, services, background jobs).\nExperience building agent-based systems, virtual assistants, or workflow-driven platforms is a plus.\nFamiliarity with AI/ML-integrated systems (even at application level).\n\nFrontend\nExperience with modern frontend frameworks (React, Angular, Vue or similar).\nAbility to build cross-platform and responsive interfaces.\n\nCloud & Automation (Key Requirement)\nStrong hands-on experience with AWS services.\nExperience managing cloud infrastructure across multiple projects.\nProficiency in:\nInfrastructure as Code (IaC)\nCI/CD pipelines\nDeployment and environment automation\nMonitoring and logging automation\nUnderstanding of cloud cost optimization and security best practices.\n\nAI / Advanced Systems (Nice to Have)\nExposure to:\nMachine Learning\nImage analysis / Computer Vision\nIntelligent automation or data-driven decision systems\n\nSoft Skills\nStrong problem-solving and analytical thinking.\nAbility to work independently and take ownership of systems.\nGood communication skills in cross-team and international environments.\nMentoring mindset and senior-level responsibility.\n\nNice-to-Have Experience\nExperience working on global projects with international clients.\nBackground in automotive, advertising technology, or enterprise platforms.\nExperience with cross-platform mobile applications.\nPrevious work on facial recognition or data-driven targeting systems.\n\nÖppen för alla\nVi fokuserar på din kompetens, inte dina övriga förutsättningar. Vi är öppna för att anpassa rollen eller arbetsplatsen efter dina behov.",
+        "url": null,
+        "published": "2026-05-05T12:17:50",
+        "deadline": "2026-08-31T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": true,
+        "source": "JobTech",
+        "category": "AI",
+        "relevance_score": 60
+    },
+    {
         "id": "30895963",
         "title": "Software Engineer to Rebl Industries",
         "employer": "Mpya Sci & Tech AB",
