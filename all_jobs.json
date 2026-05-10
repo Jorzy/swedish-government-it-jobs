@@ -870,6 +870,21 @@
         "relevance_score": 100
     },
     {
+        "id": "30885669",
+        "title": "Manager, Projects",
+        "employer": "Cognizant Technology Solutions Sweden AB",
+        "location": "Göteborg",
+        "description": "What makes Cognizant a unique place to work? The combination of rapid growth and an international and innovative environment! This is creating lot of opportunities for people like YOU — people with an entrepreneurial spirit who want to make a difference in this world.\nCognizant's delivery model infused with a distinct culture of high customer happiness. We consistently deliver positive relationships, cost reductions and business results. Are you ready to be a change-maker?\n\n\nAbout the Role\nOur client is seeking a seasoned Manager, Projects to lead the design and evolution of their data landscape within the Industrial Operations Hub. You will build a scalable, AI-ready foundation that powers the next generation of industrial intelligence — setting standards, shaping culture, and partnering across the organisation to make data a true strategic asset.\nThis role is situated in Göteborg, Sweden.\n\n\nKey Responsibilities\nArchitect and design end-to-end data solutions aligned with Volvo Cars' analytics and AI strategy, using the core tech stack: Azure, dbt, Snowflake, and Redpanda.\nDefine data and integration standards for building robust, reusable data products that are AI-ready by design.\nBuild AI-first data pipelines and applications leveraging Snowflake Cortex, Copilot, and semantic modelling.\nChampion and spearhead an AI-native way of working across all engineering development cycles.\nLiaise between the Industrial Operations Hub and Core Data, spoke, business, and digital teams to federate AI initiatives and bridge AI needs with org-mandated platforms.\nDefine best practices for data modelling, data contracts, metadata management, and data quality.\nMentor engineering teams on modern architecture patterns and AI-native development approaches.\n\n\nWhat You Bring\n10+ years of experience in data engineering and architecture in complex enterprise environments.\nDeep expertise in Azure, Snowflake (including Cortex, Snowpark), dbt, and streaming/event-driven architectures (Redpanda, Kafka or equivalent).\nExperience building data products within a Data Mesh or domain-oriented architecture.\nHands-on familiarity with semantic modelling, AI/ML pipelines, and GenAI/LLM integration patterns.\nStrong communicator able to engage both technical teams and business stakeholders.\nAbility to lead by influence, drive standards, and thrive in a federated, multi-team environment.\n\n\nNice to Have\nBackground in automotive, manufacturing, or industrial operations.\nKnowledge of DataOps/MLOps practices, data contracts, or Microsoft Fabric/Databricks.",
+        "url": null,
+        "published": "2026-04-10T09:58:05",
+        "deadline": "2026-05-10T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": true,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
         "id": "30905786",
         "title": "Doctoral student in Electrical Engineering",
         "employer": "Chalmers Tekniska Högskola AB",
