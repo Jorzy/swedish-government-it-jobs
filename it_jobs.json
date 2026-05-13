@@ -15,6 +15,21 @@
         "relevance_score": 100
     },
     {
+        "id": "31031745",
+        "title": "App Developer – Remote Worldwide",
+        "employer": "Ecareer AB",
+        "location": "Göteborg",
+        "description": "App Developer – Remote Worldwide\nCompany: Invera US Location: Remote / Worldwide Employment Type: Full-time or Contract\nAbout the Role\nInvera US is seeking a skilled and motivated App Developer to join our team. This role is fully remote and can be performed from anywhere in the world.\nWe are looking for a developer who can build, enhance, and maintain high-quality mobile applications. The ideal candidate is experienced, detail-oriented, and able to work independently while collaborating with an international team.\nResponsibilities\nDevelop and maintain mobile applications for iOS and/or Android.\nWork with modern app development frameworks and technologies.\nCollaborate with the team to design, test, and launch new features.\nIdentify and resolve bugs, performance issues, and technical problems.\nEnsure applications are user-friendly, secure, and scalable.\nParticipate in planning, technical discussions, and product improvements.\nRequirements\nProven experience as an App Developer or Mobile Developer.\nExperience with iOS, Android, or cross-platform development.\nKnowledge of technologies such as Flutter, React Native, Swift, Kotlin, Java, or similar.\nAbility to write clean, efficient, and well-documented code.\nStrong problem-solving skills.\nAbility to work remotely and manage your time effectively.\nGood communication skills in English.\nPreferred Qualifications\nExperience with UI/UX implementation.\nExperience working with APIs, databases, and cloud services.\nPrior experience in startups or international remote teams.\nKnowledge of app publishing processes for the App Store and Google Play.\nWhat We Offer\nA fully remote role with global flexibility.\nThe opportunity to work with Invera US on exciting digital products.\nA flexible, international work environment.\nOpportunity for long-term collaboration and professional growth.\nHow to Apply\nPlease submit your CV, portfolio, GitHub profile, or examples of previous app projects. Include a brief introduction about yourself, your experience, and why you are interested in working with Invera US.",
+        "url": "https://jobb.ecareer.se/jobs/7720779-app-developer-remote-worldwide/applications/new?promotion=1996676-arbetsformedlingen",
+        "published": "2026-05-12T18:11:11",
+        "deadline": "2026-06-15T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
         "id": "31020343",
         "title": "System Developer",
         "employer": "Capgemini Engineering Sverige AB",
@@ -435,21 +450,6 @@
         "relevance_score": 100
     },
     {
-        "id": "30765280",
-        "title": "Embedded Linux Software Developer",
-        "employer": "Icomera AB",
-        "location": "Göteborg",
-        "description": "Icomera is a leading global innovator in connectivity solutions within the transportation sector. We are at the forefront of transforming public transport, making it smarter, safer, greener, and more connected than ever before. At Icomera you work with products used by many users around the world, including passengers on some of the world's largest train and bus operators. \nAre you looking for a new and challenge and want to make sure it is an exciting one? Our embedded team is looking for a new team member! \n\n\nJob type: Full-time                           \nWorkplace conditions: Hybrid                     \nLocation: Gothenburg \n\n\nAbout the Role: \nIcomera is shaping the future of connected travel, and as an Embedded Software Developer, you’ll play a key role in developing the next generation of high‑performance network routers for public transport vehicles worldwide. \nWithin our Embedded team, you’ll work closely with both hardware and web development groups, contributing to the analysis, design, implementation, and testing of our Linux‑based router OS and its applications. The solutions you build will help deliver stable, secure, and innovative products used by millions of passengers every day. \nIf you enjoy working in Linux environments, have an interest in networking, firmware, or hardware‑related challenges, and want to help build the future of connected mobility — this is the role for you. \n\n\nKey responsibilities: \nDesign and develop high‑quality, maintainable embedded software. \nMake design decisions and define appropriate tests for your work. \nContribute across the full development lifecycle — from requirements to deployment. \nFollow established development processes and related standards. \nCreate and maintain documentation for code, design, and architecture. \nCollaborate with team members and support planning together with the Product Owner. \n\n\n\nRequirements: \nB.sc / M.sc degree, in computer science, physics or equivalent. \n3+ years of Linux-based software development experience in an agile environment (C/C++, Bash). \nDeep knowledge of computer networking. \nPassion for the Linux platform and software development. \nProficient in English, written and spoken. Swedish is a plus.  \n\n\n\nWho You Are: \nTo thrive in this role, you enjoy working with people and you are excited to be part of a constantly evolving international company. As an Embedded Software Developer, you are honest, driven, and solution-oriented, and you enjoy tackling technical challenges as part of a team. \nOur Offer: \n— The opportunity to work with cutting-edge technology in a market leader where we design and build everything in-house—from hardware to software \n— Health is important – we offer a comprehensive health benefit program to our employees \n— Flexible work arrangements – work from our modern and central office locations, or work from home up to two days a week \n— Electrical bike lease agreement via net salary deduction \n— ITP Pension and collective bargaining agreement \n— A social work environment – board game nights, after works, seasonal parties… The list goes on! \n\n\nMore about the position: \nWe will be reviewing applicants ongoing. Icomera welcomes candidates from all backgrounds, and we value a diverse and inclusive work environment. Background checks will be performed at the final stage of the recruitment process. \n\n\nAbout Icomera: \nIcomera is the world’s leading provider of integrated connectivity solutions for trains, trams, buses, and coaches, serving millions of passengers and tens of thousands of vehicles on a daily basis. The IcoCrew now consist of 300+ employees globally. Icomera is headquartered in Gothenburg, Sweden, with main offices in the United States, Canada, the United Kingdom, Germany, France, Ireland, and Italy. \nIcomera’s vision for green mobility within the public transport industry perfectly complements the wider mission of our parent company, Equans. As the global leader in multi-technical services with 74,000 employees working across 17 country hubs, Equans delivers customised solutions which connect, protect and energise territories, cities, buildings, industries and transport infrastructures, empowering their energy, industrial and digital transitions. \nVisit www.icomera.com for further information.",
-        "url": "https://enfrench-equans.icims.com/jobs/80105/embedded-linux-software-developer/job?mode=view&mobile=false&width=771&height=500&bga=true&needsRedirect=false&jan1offset=60&jun1offset=120",
-        "published": "2026-03-18T14:22:30",
-        "deadline": "2026-05-31T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "30713812",
         "title": "Android / Infotainment Software Engineer – Automotive",
         "employer": "Bertrandt Sverige AB",
@@ -850,21 +850,6 @@
         "deadline": "2026-07-02T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
-        "id": "30813580",
-        "title": "CQR Engineer",
-        "employer": "Capgemini Engineering Sverige AB",
-        "location": "Göteborg",
-        "description": "The world leader in engineering services, we bring together a global team of engineers, scientists, and architects to help the world’s most innovative companies unleash their potential. From autonomous cars to life-saving robots, our digital and software technology experts think outside the box as they provide unique R&D and engineering services across all industries. Join us for a career full of opportunities. Where you can make a difference. Where no two days are the same.\nYour Role\nWe are looking for an CQR Engineer for our pharmaceutical projects in Gothenburg (compliance, quality & regulatory).\nIn this role you will play a key role in:\n• Work towards diverse goals depending on the client's specific needs\n• Driving and supporting our clients in achieving their quality and regulatory objectives\n• Collaborate and support pharmaceutical clients to deliver patient-focused, compliant, and efficient solutions\nYour Profile\n• Degree in pharmacy or engineering\n• Understanding of Quality Systems and GMP and related activities to Investigational Medicinal Product (IMP)\n• Experience of documentation, deviations, changes, and other quality and compliance decisions in the development projects.\n• Experience preferably within a pharmaceutical manufacturing organization is desirable\n• Comprehensive understanding of EU pharmaceutical regulations, encompassing product registration, manufacturing processes, and compliance with EMA guidelines and GxP quality standard\nWhat we believe you will enjoy about working here\n• We recognize the significance of flexible work arrangements to provide support. Be it remote work, or flexible work hours, you will get an environment to maintain healthy work life balance.\n• At the heart of our mission is your career growth. Our array of career growth programs and diverse professions are crafted to support you in exploring a world of opportunities.\n• We support your personal development and offer an education library with more than 250 000 (!) courses and educations and certifications.\nApplication\nAs part of our recruitment process, identity verification or background checks may occasionally be conducted.\nAbout Capgemini \nCapgemini is a global business and technology transformation partner, helping organizations to accelerate their dual transition to a digital and sustainable world, while creating tangible impact for enterprises and society. It is a responsible and diverse group of 340,000 team members in more than 50 countries. With its strong over 55-year heritage, Capgemini is trusted by its clients to unlock the value of technology to address the entire breadth of their business needs. It delivers end-to-end services and solutions leveraging strengths from strategy and design to engineering, all fueled by its market leading capabilities in AI, generative AI, cloud and data, combined with its deep industry expertise and partner ecosystem. The Group reported 2024 global revenues of €22.1 billion. \n\n\nGet The Future You Want | www.capgemini.com",
-        "url": "https://career5.successfactors.eu/sfcareer/jobreqcareerpvt?jobId=384113&company=capgemitecP3&st=66F098DD95D20A45878A7C89014B4A8868E84670",
-        "published": "2026-03-27T13:53:55",
-        "deadline": "2026-06-30T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": true,
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 100
