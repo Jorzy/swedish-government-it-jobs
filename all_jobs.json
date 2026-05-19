@@ -15,6 +15,21 @@
         "relevance_score": 100
     },
     {
+        "id": "31046629",
+        "title": "Experienced Software Engineer",
+        "employer": "L&T Technology Services Sverige Filial",
+        "location": "Göteborg",
+        "description": "Job Title: Software Engineer\nExperience Range: 8 to 12 Years\nLocation: Stockholm, Sweden\nRole Overview\nThe Software Engineer is responsible for designing, implementing, and testing software components for the Tachograph system. Engineers should have development skills in CAN, Diagnostics, language embedded C. This role ensures compliance with safety-critical standards, coding guidelines, and project requirements while contributing to high-quality, maintainable software.\nKey Responsibilities\n1. Design & Implementation\nTranslate software requirements into detailed design and code.\nImplement new features and enhancements on the commonized code base in Embedded C on FreeRTOS.\nFollow specified coding guidelines, best practices, and MISRA compliance for safety-critical software.\nMaintain clean, modular, and reusable code adhering to industry standards.\n\n2. Static Code Analysis\nPerform static code analysis.\nAddress all code quality issues and ensure compliance with coding standards.\n\n3. Unit Testing & Coverage\nDevelop and execute unit test cases for individual software components.\nGenerate and review MC/DC coverage reports to ensure completeness.\nAutomate unit tests where possible.\n\n4. Integration Support\nCollaborate with Integration Test Engineers to ensure smooth module integration.\nResolve defects identified during integration and qualification testing.\n\n5. Documentation & Traceability\nMaintain traceability between requirements, design, implementation, and test artifacts.\nUpdate design documents and code comments for clarity and maintainability.\n\n6. Collaboration\nWork closely with Software Architect, System Engineers, and Test Teams.\nParticipate in design reviews and provide feedback for improvements.\n\nRequired Skills & Qualifications\nBachelor of Engineering\n8+ years of experience in embedded software development or safety-critical systems.\nString understanding of Automotive Diagnostics. \nStrong programming skills in Embedded C.\nKnowledge of real-time operating systems, embedded systems, and safety-critical standards.\nFamiliarity with static analysis tools, unit testing frameworks, and CI/CD pipelines.\nExcellent problem-solving, documentation, and communication skills.",
+        "url": null,
+        "published": "2026-05-18T11:05:40",
+        "deadline": "2026-06-17T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 90
+    },
+    {
         "id": "31031745",
         "title": "App Developer – Remote Worldwide",
         "employer": "Ecareer AB",
@@ -55,21 +70,6 @@
         "deadline": "2026-05-22T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
-        "id": "31015937",
-        "title": "Senior Automotive DevOps Engineer IRC288824",
-        "employer": "GlobalLogic Sweden AB",
-        "location": "Göteborg",
-        "description": "Description\nThe project aim is to optimize, extend with new features Automotive Solution. Our clients are  from Europe and USA and development is targeted to Automotive Solution what will be deployed in newest cars. The project is considered as technical excellence and we are paying huge attention to technical challenge motivation of our team members as well as excellence compensation.\nAt our project we are building a computer-in-the-car architecture – key for enabling innovation within areas such as advanced connectivity, machine learning and autonomous drive.\nA challanging project to setup infrastructure from scratch for automotive solutions for European cars vendors.\nKnowledge and creativity are welcome.\nRequirements\nLevel of knowledge: intermediate/advanced\nJenkins toolchain for CI/CD\nBazel build system\nDevops experience in the Automotive sector\nMake, Bash, PowerShell, Windows CMD interface, Groovy(Pipeline scripting)\nPython, Docker\nBasic electronics knowledge, hardware, some experience in low-level communications protocols(UART, CAN)\nHIL setup . Automative CI/CD\nBasic knowledge and preferably some experience with C/C++\nGitGerrit\nLinux,\nWSL, Windows\nAnsible,Terraform\n\nWould be a Plus:\nBasic Vector toolkit experience(Canoe, Vector hardware configuration)\nSome knowledge about Static code analysis tools\nOverall ability to learn quickly\nAzure cloud experience\n\n\n\nJob responsibilities\nMain responsibilities:\nAutomation of the target process(build and automated testing on remote hardware setup)\nMaintaining CI machinery availability(Build nodes, and mentioned remote hardware for example)\nDiagnosing process interrupts(Like build issues for example making logs understanding and hardware issues diagnostics) and preferably the ability to resolve issues with automated solutions\nManagement of building the created solution\nSupport the DevOps operations\nIntegration of solutions with an already working system\n\nThe deliveries will be tested and tracked to optimize the end-to-end flow over time.\nTogether they will drive the technical analysis/triage of found deviations with high severity.\nWhat we offer\nCulture of caring. At GlobalLogic, we prioritize a culture of caring. Across every region and department, at every level, we consistently put people first. From day one, you’ll experience an inclusive culture of acceptance and belonging, where you’ll have the chance to build meaningful connections with collaborative teammates, supportive managers, and compassionate leaders. \nLearning and development. We are committed to your continuous learning and development. You’ll learn and grow daily in an environment with many opportunities to try new things, sharpen your skills, and advance your career at GlobalLogic. With our Career Navigator tool as just one example, GlobalLogic offers a rich array of programs, training curricula, and hands-on opportunities to grow personally and professionally.\nInteresting & meaningful work. GlobalLogic is known for engineering impact for and with clients around the world. As part of our team, you’ll have the chance to work on projects that matter. Each is a unique opportunity to engage your curiosity and creative problem-solving skills as you help clients reimagine what’s possible and bring new solutions to market. In the process, you’ll have the privilege of working on some of the most cutting-edge and impactful solutions shaping the world today.\nBalance and flexibility. We believe in the importance of balance and flexibility. With many functional career areas, roles, and work arrangements, you can explore ways of achieving the perfect balance between your work and life. Your life extends beyond the office, and we always do our best to help you integrate and balance the best of work and life, having fun along the way!\nHigh-trust organization. We are a high-trust organization where integrity is key. By joining GlobalLogic, you’re placing your trust in a safe, reliable, and ethical global company. Integrity and trust are a cornerstone of our value proposition to our employees and clients. You will find truthfulness, candor, and integrity in everything we do.",
-        "url": "https://www.globallogic.com/careers/senior-automotive-devops-engineer-irc288824/",
-        "published": "2026-05-08T14:55:50",
-        "deadline": "2026-05-18T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": true,
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 100
@@ -240,6 +240,21 @@
         "relevance_score": 100
     },
     {
+        "id": "31049979",
+        "title": "Senior Developer",
+        "employer": "HCL Technologies Sweden AB",
+        "location": "Göteborg",
+        "description": "AOSP / Android Developer\nAbout the Role\nWe are looking for a skilled AOSP / Android Developer to join our development team. You will work in a modern embedded software environment, contributing to Android platform development, framework components, and system-level features.\nRequired Qualifications\nBachelor’s or Master’s degree in Software Engineering, Computer Science, or equivalent education\nStrong experience in Java and/or Kotlin development\nExperience working in a modern embedded Linux software environment\nHands-on experience with development tools such as Git, Gerrit, and Jenkins\nSolid knowledge of the Android Framework, including development and build tools\nExperience with Gradle and Soong build systems\nAbility to design and write automated unit and integration tests\n\nMeritorious / Nice-to-Have Skills\nSwedish driver’s license (B-level) for testing purposes\n\nFor Bluetooth Developers\nPrevious experience in Bluetooth development is required\nExperience with AIDL, Android HAL, and C/C++ development is highly meritorious\n\nFor HMI Developers\nPrior experience in Human Machine Interface (HMI) development\nExperience working with AOSP is highly desirable\n\nWhat We Offer\nA collaborative and technically advanced development environment\nOpportunities to work with cutting-edge Android and embedded technologies\nA role with real impact on platform-level and user-facing solutions",
+        "url": null,
+        "published": "2026-05-18T16:09:50",
+        "deadline": "2026-06-17T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
         "id": "31042065",
         "title": "Senior Embedded Software Developer Automotive",
         "employer": "GlobalLogic Sweden AB",
@@ -323,21 +338,6 @@
         "url": "https://mpyascitech.com/jobba-hos-oss?jobid=312587&ref=platsbankenv2",
         "published": "2026-04-23T15:09:57",
         "deadline": "2026-05-24T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
-        "id": "30944411",
-        "title": "Platform Engineer - Messaging Infrastructure",
-        "employer": "WirelessCar Sweden AB",
-        "location": "Göteborg",
-        "description": "WirelessCar’s Journey\nBuild the event-driven messaging infrastructure for Drive, WirelessCar's Internal Developer Platform!\nWirelessCar drives the future of mobility by connecting vehicles and developing cutting-edge digital services. We help leading brands—like Volkswagen, Volvo, and Jaguar Land Rover—innovate, enhance mobility, and accelerate their digital transformation. Join us and shape the next era of automotive technology!\nTeam Trailblazers at WirelessCar is building Drive, an Internal Developer Platform designed to make it easier for WirelessCar developers to build and run customer solutions. We're looking for a person who is willing to learn everything there is to know about messaging technologies like NATS. Both from an operational perspective but also from the perspective of how to use them for building the best possible solutions for the customers of WirelessCar.\nAbout team Trailblazers\nTrailblazers is a cross-functional platform engineering team shaping the future platform for hundreds of developers. As a part of this team you will influence architecture, innovate, and see your impact directly in production. The team thrives on collaboration and shared ownership.\nWhat you'll work on\n• Operate and scale NATS clusters: monitor, tune, and troubleshoot production NATS infrastructure; take part in incident response and capacity planning\n• Improve observability and SRE practices: dashboards, alerts, and tracing that help teams debug their own messaging issues\n• Create actionable documentation with real-world examples: clear examples, runnable code, troubleshooting guides\n• Build developer tooling: create CLIs, APIs, or Kubernetes operators that let teams provision messaging resources on-demand through self-service tooling\n• Continuous improvements: continuously work on designing, fine-tuning and ensuring the best possible clustering topology\n\nWe pair and mob by default, expect collaborative coding sessions multiple times a week.\n\n\nWhat we're looking for\n• Experience working in production environments: monitoring, alerting, incident response, and post-mortems\n• Ability to work in an ambiguous environments: it's part of your job to discover the options, document trade-offs in lightweight ADRs to drive a decision, then make sure the implementation reach production\n• Willingness to go deep on NATS internals: clustering, JetStream, subject hierarchies, security models\n• Solid understanding of distributed systems: you've debugged distributed systems in production and understand how to approach network partitions, performance degradation, and message processing bottlenecks\nNice to have\n• Experience from operating systems running on Kubernetes\n• Hands-on experience designing and operating messaging systems or other high-throughput distributed systems\n• You've built or contributed to open source (we maintain NAuth, a Kubernetes Operator that enables GitOps of NATS AuthN/Z configuration)\n• Experience of Helm charts and Kubernetes CRDs, we value experience in crafting users interfaces with those or similar technologies\n• You write Go or want to learn how to write idiomatic Go of high quality\n• Interested in or already using AI Agents for development\n• You've worked with GitOps (ArgoCD, Flux, or Kargo) and understand how to work with declarative infrastructure definitions\nIf you want to write about your work or speak at conferences, we'll support you!\nTo join our journey WirelessCar is always on the move, often into uncharted land. We are curious, believe in collaboration and are always open to new ideas on how we can make a difference. When you join our journey, you will be part of a great crew of highly competent and warm hearted people from all over the world.\nWay of working At WirelessCar we believe in a Hybrid work setup. The location for this job is in Gothenburg. \n\nBefore you apply:\n\nApplicants must have a valid work permit.\n\n\nOur company language is English so please write your application in English.",
-        "url": "https://career.wirelesscar.com/jobs/7606574-platform-engineer-messaging-infrastructure/applications/new?promotion=1961987-arbetsformedlingen",
-        "published": "2026-04-23T08:22:30",
-        "deadline": "2026-05-18T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
         "source": "JobTech",
@@ -555,6 +555,21 @@
         "relevance_score": 100
     },
     {
+        "id": "31049892",
+        "title": "Member Technical Staff",
+        "employer": "HCL Technologies Sweden AB",
+        "location": "Göteborg",
+        "description": "Data Engineer\n·      Python, Databricks, SQL, Database Management, Big Data, Data Pipelines, Snwo Flakes, Data Governance, GDPR Compliance, Cloud Platforms (Azure / AWS / GCP), Kubernetes (k8s), OpenShift, CI/CD, Containerization, Fault Tracing, HIL Testing (Hardware-in-the-Loop), Data Quality Assurance, Data Validation, System Resilience, Automated Data Systems, System weaver (if applicable), AI/ML Model Training Data, ETL / ELT, Distributed Data Systems, and Data Monitoring & Observability.",
+        "url": null,
+        "published": "2026-05-18T16:00:05",
+        "deadline": "2026-06-17T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 80
+    },
+    {
         "id": "31043423",
         "title": "Quality Solution Leader Electrical & Electronics at Volvo Buses",
         "employer": "Volvo Business Services AB",
@@ -750,21 +765,6 @@
         "relevance_score": 100
     },
     {
-        "id": "30966965",
-        "title": "Senior Machine Learning Engineer / Tech Lead",
-        "employer": "Volvo Business Services AB",
-        "location": "Göteborg",
-        "description": "Company description:\n\"Founded in 1927, the Volvo Group is committed to driving prosperity and shaping the future landscape through sustainable transport, mobility, and infrastructure solutions. By offering trucks, buses, construction equipment, power solutions for marine and industrial applications, financing and services that increase our customers’ uptime and productivity. Our headquarters are in Gothenburg, Sweden. Volvo Group shares are listed on Nasdaq Stockholm.\"\nJob description: \n You will join the Data Science team composed of 40+ Data scientists and Machine Learning Engineers.  You will work in an international environment, collaborating with colleagues across disciplines to deliver end-to-end data and AI products used globally. \n You will report to a Chapter Lead Sweden. \n The Machine Learning Engineer position will be located in Gothenburg and we are looking for several profiles in both Sweden and France. All positions are permanent contract in both locations. \n  \n What you will do  \n  \n At Volvo Group Digital Technology & Operations (DTO), you will contribute to the transformation of our company, the transport industry and society at large.  \n In this role, you will lead the engineering of production-grade machine learning solutions, from understanding real business needs to industrializing, operating, and continuously improving ML and AI products at scale.  \n You will design, build, deploy, and operate ML and AI products with strong engineering practices, including CI/CD, monitoring, and robust model and feature management.  \n You will help ensure long-term performance by monitoring drift and partnering with the business to decide when and how to improve pipelines.  \n As a tech lead you will take leadership and responsibility of an AI product working with a team of Data Scientists, Machine Learning Engineers, and other data professionals. \n  \n  \n Who are you? Tech: \n  Deep understanding of statistics, probability and machine learning – with a relevant academic degree in a quantitative field, such as mathematics, statistics, engineering, or physics. \n Proven experience managing the full lifecycle of AI and ML software, including, among others, CI/CD, architecture, orchestration, quality assurance, and monitoring.  \n Ability to manage and industrialize applications based on advanced deep learning techniques and foundational models. \n Extensive experience of programming in relevant languages and software management (Git).  \n Hands-on experience with cloud engineering including infrastructure, data and compute - designing and operating scalable, secure cloud environments for AI products. Experience with microservices architecture and API development is a merit. \n Experience of relevant tools (non-exhaustive): \n CI/CD e.g. Azure Pipelines, Github Actions \n Containerization & orchestration e.g. Docker, Podman, Terraform  \n  \nProduct management: \n  Previous experience of managing and owning AI products along with industrialization and commercialization in regulated environments. Domain experience of vehicle data, diagnostics, telematics, manufacturing, or warranty analytics would be meriting. \n Technical leadership experience, guiding cross-functional teams to design, build, and deliver AI products \n  \n \n Communication and stakeholder management: \n  Clear communication skills in English and preferably also in the local language, and the ability to collaborate across cultures and time zones. \n  \n \n Ready for the next move? \n  \n Curious, for further information about the job reach out to Johannes von Römer (johannes.von.romer@volvo.com). \n Last application date: 18 May 2026. \n  \n We review applications and interview candidates on a rolling basis, so do not wait to apply. \n We value your data privacy and therefore do not accept applications via mail. In some countries and specific positions, background checks may be required, in accordance with local laws and regulations. If this is applicable to the role you have applied for, you will be informed. \n  \n Volvo Group Digital Technology & Operations (DTO) is a new division established to integrate the capabilities of VG Digital & IT and VG Connected Solutions to accelerate the digital transformation in Volvo Group. The organizational set up is structured around domains, digital products with functions for digital excellence to deliver outstanding customer experience.\n  \n Joining the new DTO division means being part of a fast-moving digital product-oriented organization where teams truly own what they build from idea to delivery. In DTO, we work in agile, cross-functional teams, mastering the latest technology, and creating outstanding digital experiences that make a real difference for our colleagues and Volvo Group customers around the world. We put people first and build our culture on trust, passion, customer success, change, and performance. If you want to grow, collaborate across functions and entities, and help shape the future of digital products within Volvo Group, DTO is a great place to be.",
-        "url": "https://volvo-information-technology-ab.contactrh.com/jobs/9669/44142664",
-        "published": "2026-04-28T13:25:02",
-        "deadline": "2026-05-18T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "30937843",
         "title": "IT Business Analyst",
         "employer": "Professional Galaxy AB",
@@ -795,21 +795,6 @@
         "relevance_score": 100
     },
     {
-        "id": "30895954",
-        "title": "Automation Engineer to Rebl Industries",
-        "employer": "Mpya Sci & Tech AB",
-        "location": "Göteborg",
-        "description": "Are you an automation engineer who loves robotics, thrives in hands-on problem solving and wants to help scale the next generation of AI-powered automation? \nJoin the team that’s redefining industrial automationRebl Industries builds robotic workmates that companies subscribe to instead of buying. Our robots deploy in weeks, learn continuously and take over repetitive, heavy and precision-demanding tasks. With a unique Robot-as-a-Service model, we make automation flexible, scalable and accessible for businesses that want results without the traditional complexity and investment costs of automation projects. We’re a fast-growing, ambitious scale-up working at the intersection of robotics, AI, software and real-world production. Read more about us at www.rebl.industriesWhat you will doAs an Automation Engineer at Rebl, you turn cutting-edge technology into reliable automation. You’ll build and integrate control systems, tune robot performance, test and validate installations, as well as ensure our solutions run smoothly in demanding operational environments. You’ll collaborate closely with mechanical, electrical and software engineers – from early concepts to deployment and continuous improvement as systems scale across customer sites.What we’re looking for\nUniversity degree in Automation, Mechatronics, Robotics, or a related engineering field.\nMinimum 5+ years of professional experience in automation, mechatronics or similar engineering roles\nProven experience designing, implementing and commissioning automation systems in real-world environments\nStrong PLC programming skills (Siemens TIA Portal preferred) and hands-on control system knowledge\nExperience integrating sensors, actuators and mechatronic components into cohesive systems\nProficiency in Python for automation, data communication, or system integration\nFamiliarity with CAD and simulation tools to support mechanical and system design\nAbility to troubleshoot complex systems, optimize performance, and ensure reliable operation in production\nA proactive problem-solving mentality with the ability to work independently and drive projects forward\nFluency in english with professional proficiency in Swedish. \n\nYour mindsetYou’re pragmatic, curious and energized by solving real-world automation challenges. You move fluidly between design, implementation and hands-on testing. You take ownership, communicate clearly and enjoy collaborating across disciplines. You thrive in a scaling environment where speed matters, structure evolves and every engineer has real influence. Most importantly, you want to build things that work – in production, at scale, with measurable impact.Why Rebl IndustriesAt Rebl Industries, you join a sharp, driven and supportive team where your work has immediate effect. You help define the future of robotic automation — not in theory, but in real industrial use. Your ideas shape both the product and the company as we scale to new markets and new levels of performance.Apply now!In this recruitment process Rebl Industries collaborates with Mpya Sci & Tech. For questions about the position, you are welcome to contact Talent Advisor Marcus Hultberg at +46 723 66 49 43 or marcus.hultberg@mpyascitech.com. We work with ongoing selection so don´t hesitate to apply via www.mpyascitech.com as the position may be filled before last day of application.\nÖppen för alla\nVi fokuserar på din kompetens, inte dina övriga förutsättningar. Vi är öppna för att anpassa rollen eller arbetsplatsen efter dina behov.",
-        "url": "https://mpyascitech.com/jobba-hos-oss?jobid=311965&ref=platsbankenv2",
-        "published": "2026-04-13T13:46:03",
-        "deadline": "2026-05-18T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "30895357",
         "title": "Manager Data Platform",
         "employer": "Etraveli Group AB",
@@ -833,21 +818,6 @@
         "url": "https://career5.successfactors.eu/sfcareer/jobreqcareerpvt?jobId=384113&company=capgemitecP3&st=66F098DD95D20A45878A7C89014B4A8868E84670",
         "published": "2026-03-27T13:53:55",
         "deadline": "2026-06-30T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": true,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
-        "id": "30623274",
-        "title": "Power Electronics Engineer",
-        "employer": "Capgemini Engineering Sverige AB",
-        "location": "Göteborg",
-        "description": "At Capgemini Engineering, the world leader in engineering services, we bring together a global team of engineers, scientists, and architects to help the world’s most innovative companies unleash their potential. From autonomous cars to life-saving robots, our digital and software technology experts think outside the box as they provide unique R&D and engineering services across all industries. Join us for a career full of opportunities. Where you can make a difference. Where no two days are the same.\n\n\nYour role\nAs a Power electronics engineer at Capgemini Engineering, you will be working with electromobility, power electronics and verification.\nIn this role you will play a key role in:\n• Typical tasks like pre-studies, proof-of-concept design, schematic design, certain PCB layout, on-board verification and board bring up.\n• Our growing team, and the assignments require that you to work in agile teams according to Kanban or Scrum.\nYour profile\n• At least 3+ years of experience from power electronics field.\n• Experience from verification including practical experience with measurement and measurement techniques (analogue measurements)\n• Meriting if the work experience is with in the automotive sector and especially power electronic systems\n• Good knowledge of Electrical schematics drawing, PCB layout component placement, PCB layout routing design & layout optimization.\n• Good knowledge of PCB layout guidelines considering EMI/EMC aspects.\n• Knowledge of electrical / electronics circuit analysis\nWhat we believe you will enjoy about working here\n• We recognize the significance of flexible work arrangements to provide support. Be it remote work, or flexible work hours, you will get an environment to maintain healthy work life balance.\n• At the heart of our mission is your career growth. Our array of career growth programs and diverse professions are crafted to support you in exploring a world of opportunities.\n• We support your personal development and offer an education library with more than 250 000 (!) courses and educations and certifications.\nApplication\nAs part of our recruitment process, identity verification or background checks may occasionally be conducted.\nCapgemini is a global business and technology transformation partner, helping organizations to accelerate their dual transition to a digital and sustainable world, while creating tangible impact for enterprises and society. It is a responsible and diverse group of 340,000 team members in more than 50 countries. With its strong over 55-year heritage, Capgemini is trusted by its clients to unlock the value of technology to address the entire breadth of their business needs. It delivers end-to-end services and solutions leveraging strengths from strategy and design to engineering, all fueled by its market leading capabilities in AI, generative AI, cloud and data, combined with its deep industry expertise and partner ecosystem.",
-        "url": "https://www.capgemini.com/se-en/jobs/332276-en_US+sap_btp",
-        "published": "2026-02-17T12:28:20",
-        "deadline": "2026-05-30T23:59:59",
         "is_consultant": false,
         "is_meaningful": true,
         "source": "JobTech",
