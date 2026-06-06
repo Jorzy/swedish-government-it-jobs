@@ -30,6 +30,21 @@
         "relevance_score": 100
     },
     {
+        "id": "31144007",
+        "title": "Senior Software Developer",
+        "employer": "Abilia Aktiebolag",
+        "location": "Göteborg",
+        "description": "Responsible for leading software development initiatives and making technical decisions within projects, contributing to system architecture and development processes.\nResponsibilities and position authority include, but are not limited to:\n•\tDesign, develop, and maintain complex software systems.\n•\tLead technical discussions and contribute to system architecture decisions.\n•\tReview code and provide constructive feedback to team members.\n•\tIdentify and resolve technical challenges and bottlenecks.\n•\tIndependently manage software projects and modules from design to deployment.\n•\tPropose and implement improvements in development processes, tools, and systems.\nMain tasks/duties\nMain tasks/duties include, but are not limited to:\n•\tDevelop high-quality, scalable, and maintainable code in accordance with project specifications.\n•\tLead design and development of key application components and services.\n•\tConduct code reviews and mentor junior and mid-level developers.\n•\tCollaborate with cross-functional teams including Product, QA, and Operations.\n•\tParticipate in system architecture design and technology evaluations.\n•\tEnsure security, performance, and reliability in software solutions.\n•\tContribute to the definition and enforcement of coding standards and development best practices.\n•\tTroubleshoot, debug, and optimize software systems.\n•\tDocument technical designs, solutions, and best practices.\nPerformance Criteria\n•\tDelivery of robust, high-quality code that meets technical and business objectives.\n•\tLeadership in project execution and technical decision-making.\n•\tPositive feedback from team members on mentorship and technical collaboration.\n•\tDemonstrated improvements in system performance, maintainability, or scalability.\n•\tEffective cross-team collaboration and communication.",
+        "url": "https://careers.abilia.com/jobs/7856428-senior-software-developer/applications/new?promotion=2037647-arbetsformedlingen",
+        "published": "2026-06-05T09:27:22",
+        "deadline": "2026-12-02T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
         "id": "31127997",
         "title": "System Design Engineer",
         "employer": "Volvo Personvagnar Aktiebolag",
@@ -145,21 +160,6 @@
         "deadline": "2026-10-31T23:59:59",
         "is_consultant": false,
         "is_meaningful": true,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
-        "id": "31004679",
-        "title": "Senior Embedded Software Engineer",
-        "employer": "SkillHuset Sweden AB",
-        "location": "Göteborg",
-        "description": "Senior Embedded Software Engineer with Android, C++ and Python as their main language as well us an understanding of system architecture.\nTeam works with Build configuration, Android version bring up and SW complexity reduction.\n\n\nTo be successful in this role, your experience must include:\n\t•\tEmbedded Software Development of complex software products using C++ and Python.\n\t•\tEmbedded OS or Linux experience.\n\t•\tDevelopment within android platform\n\t•\tWorking experience in a CI environment.\n\t•\tDevelopment, improvement, test and maintenance of the new hardware platform.\n\t•\tCoordinate and communicate with the CI teams to enable the new hardware support quickly and smoothly.\n\t•\tDevelopment, improvement, test and maintenance of the new hardware platform.\nWe'd also prefer if you have:\n\t•\tA Driver’s license (B-level) will also be ideal.\n\t•\tExperience from Automotive Infotainment domain\n\t•\tTest automation experience using Pytest\n\t•\tPrevious working experience with android uplift",
-        "url": "http://www.skillhuset.se",
-        "published": "2026-05-06T16:33:45",
-        "deadline": "2026-06-05T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 100
@@ -720,21 +720,6 @@
         "relevance_score": 100
     },
     {
-        "id": "31106104",
-        "title": "Service Operation Excellence & Agile Transformation Leader",
-        "employer": "CGI Sverige AB",
-        "location": "Göteborg",
-        "description": "Are you ready to lead the transformation of service operations into the future? We are looking for a strategic and results-driven leader to drive the evolution toward a customer-centric, data-driven, AI-enabled, and automation-first organization.\nYour mission\nAs a Service Operation Excellence & Agile Transformation Leader, you will play a key role in transforming service operations into a modern, proactive, and intelligent organization.\nYou will:\nLead the transformation toward a customer-centric, data-driven, AI-enabled, and automation-first operating model\nShift from reactive service management to future ways of working based on four transformation pillars:\nPredictive – anticipate incidents, risks, demand, and service degradation before impacting customers\nPreventive – eliminate recurring issues through root cause removal, knowledge reuse, and automation\nPrescriptive – leverage data and AI to guide optimal operational decisions\nAutonomous – enable self-healing, auto-remediation, and intelligent service operations\nIncrease speed, resilience, service quality, and customer experience without increasing operational risk\n\nWhat you will do\nYou will drive operational excellence and lead transformation initiatives across the organization:\nDrive excellence across ITIL processes, including incident, problem, change, and knowledge management\nEnhance customer experience through improved service reliability, transparency, communication, and proactive service assurance\nLead the adoption of AI-powered service management, AIOps, automation-by-default, observability, and self-healing capabilities\nEstablish standardized, scalable, and measurable ways of working across service operations\nLead agile transformation by enabling cross-functional, empowered, and outcome-driven teams\nBuild and manage a KPI-driven performance framework focused on:\nCustomer satisfaction and service experience\nOperational cost optimization\nMTTR/MTTD reduction\nChange success rate and auto-remediation rate\nTicket reduction and productivity improvement\nSLO/SLA adherence\nCompliance\nContinuously improve service delivery, SLA fulfillment, and operational efficiency across services and business streams\n\nWho you are\nWe are looking for an experienced leader who can turn strategy into measurable results:\nA senior IT service operations leader with a strong customer focus\nProven track record of leading transformation in complex IT service, infrastructure, platform, or managed services environments\nComfortable working with customers, service delivery leaders, technical teams, and executive stakeholders\nA strong change leader with a focus on outcomes, simplification, and business impact\nPassionate about building future-ready service operations using AI, automation, and data-driven insights\n\nRequired skills and experience\nExtensive experience in ITIL-based service management (incident, problem, change, knowledge)\nStrong background in Operational Excellence, Lean, and continuous improvement\nSolid understanding of customer experience within IT services, including SLA/SLO management\nExperience working with Agile, DevOps, SRE, and product-oriented operating models\nHands-on experience with AIOps, automation, observability, and AI-driven operations\nProven ability to define and manage KPIs, SLAs/SLOs, dashboards, and service improvement plans\nStrong stakeholder management skills across all organizational levels\nExperience driving cost optimization, productivity improvements, compliance, and risk reduction\nExcellent communication, coaching, and transformation leadership skills\n\nWhy join us?\nLead a high-impact transformation program\nWork at the forefront of AI-driven service operations\nInfluence both business outcomes and customer experience\nBe part of building a modern, future-ready organization\n\n\n\nFeel free to contact Karin Magnusson if you have any questions. Karin.magnusson@cgi.com",
-        "url": "https://cgi.njoyn.com/corp/xweb/xweb.asp?page=JobDetails&jobid=j0526-2511&clid=21001&lang=8&bpac=78mw65i2iqxzs6iu84z46i",
-        "published": "2026-05-29T16:13:45",
-        "deadline": "2026-06-15T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "31105609",
         "title": "CX Data Scientist Volvo Cars",
         "employer": "Volvo Personvagnar Aktiebolag",
@@ -923,21 +908,6 @@
         "url": "https://multimind.zerolime.se/ams/?3d29326e-efde-45ff-a5da-058ed844f1f1",
         "published": "2026-05-28T11:44:53",
         "deadline": "2026-06-27T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
-        "id": "31078336",
-        "title": "Development Engineer-R&D Filler Metals (SAW)",
-        "employer": "ESAB AB",
-        "location": "Göteborg",
-        "description": "We are now looking for a Development Engineer to join our team in Gothenburg. This is a key role within our global R&D organization, where you will lead technical development projects, drive innovation, and mentor junior engineers.\n \nYour Responsibilities:\n \nAs a Development Engineer, you will:\nLead complex development projects delivering new and innovative filler metals for ESAB globally.\n\n\nDrive product enhancement initiatives and continuous improvement activities.\n\n\nConduct advanced research and investigations to build knowledge and support future product development.\n\n\nApprove raw materials and suppliers, ensuring alignment with technical and quality standards.\n\n\nDevelop and maintain technical documentation, production instructions, and control procedures.\n\n\nCollaborate cross-functionally with Product Management, Sourcing, Quality, Approvals, and Production Engineering teams.\n\n\nAct as a technical mentor and support the development of junior engineers within the team.\n\n \nYour Profile:\n \nWe believe you have:\nA Ph.D. or Master’s degree in Materials Science, Metallurgy, Chemistry, or a related field.\n\n\nAt least 4 years of experience in product development or research within welding, steel, or inorganic process industries.\n\n\nProven experience in project leadership and cross-functional collaboration.\n\n\nStrong analytical skills and a strategic mindset.\n\n\nExcellent communication skills in English (Swedish is meritorious).\n\n\nExperience with statistical tools such as Design of Experiments (DoE) and Multivariate Data Analysis (MVDA) (e.g., MODDE, SIMCA).\n\n\nExperience with big data and LLM and machine learning.\n\n\nAn interest in driving a sustainable transformation of a large industrial company.\n\n\nAn IWE diploma is meriting.\n\n \nWhat We Offer:\n \nA dynamic and innovative work environment with access to cutting-edge technology.\n\n\nOpportunities to work on global projects and collaborate with talented colleagues worldwide.\n\n\nProfessional development and career growth opportunities.",
-        "url": "https://esab.wd5.myworkdayjobs.com/esabcareers/job/Sweden-Goteborg/Development-Engineer---R-D-Filler-Metals--SAW-_R0025153",
-        "published": "2026-05-25T12:56:40",
-        "deadline": "2026-06-05T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
         "source": "JobTech",
