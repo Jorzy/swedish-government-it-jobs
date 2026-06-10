@@ -120,21 +120,6 @@
         "relevance_score": 90
     },
     {
-        "id": "31086889",
-        "title": "ADAS Test & Integration Engineer",
-        "employer": "Tatvanord AB",
-        "location": "Göteborg",
-        "description": "Join our dynamic team at the forefront of ADAS development! Team specializes in real-vehicle testing and first-line fault tracing of advanced driver-assistance systems (ADAS) to ensure robust, production-ready software.\n Key Responsibilities:\nPlan and execute vehicle smoke tests across multiple software branches (baseline, post-merge, release, etc.)\nPerform software uploads and maintenance on test vehicles\nValidate AD/ADAS feature availability, activation, and behavior in real-world scenarios\nConduct first-line issue analysis and log findings\nSupport sensor calibration and vehicle build quality for production and testing\nCollaborate with global AD/ADAS teams to maintain software and test integrity\n\n Your Profile:\nStrong technical background in automotive systems, electronics, or software integration\nHands-on experience with vehicle testing, diagnostics, or software flashing tools\nAnalytical mindset with attention to detail\nTeam-oriented with good communication skills\nDriver’s license required",
-        "url": null,
-        "published": "2026-05-27T14:10:20",
-        "deadline": "2026-06-09T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 90
-    },
-    {
         "id": "31082310",
         "title": "M365 & IAM Platform Engineer/Developer",
         "employer": "Aurobay Sweden AB",
@@ -270,6 +255,21 @@
         "relevance_score": 100
     },
     {
+        "id": "31156704",
+        "title": "Software Developer - Software Download",
+        "employer": "Volvo Personvagnar Aktiebolag",
+        "location": "Göteborg",
+        "description": "Company description:\nWho are we?Volvo Cars is a company on a mission; to bring traditional car manufacturing into a connected, sustainable and smart future.Since 1927, we have been a brand known for our commitment to safety, creating innovative cars that make life less complicated for our consumers. In 2010, we decided to transform our business, resulting in a totally new generation of cars and technologies, as well as steady growth and record sales. Today, we’re expanding our global footprint in Europe, China and the US, and we’re on the lookout for new talent. We are constantly pushing our own skills and abilities to drive change in the automobile industry like never before. We are looking for innovative, committed people to join us in this endeavour and create safe, sustainable and connected cars. We believe in the power of people and will challenge and support you to reach your full potential. Join us and be part of Volvo Cars’ journey into the future.\nJob description:   Let's introduce ourselves \nThe SWDL team is part of Diagnostic and Base Technology (DBT), which forms the foundation for all electronic control units across the entire vehicle electrical system. Our mission is to enable common, scalable solutions for R&D development departments, driving complexity reduction, cost efficiency, and increased development speed.\n Within this context, the team plays a key role, contributing to the software download capability as a core enabler for BaseTech, OTA, VIDA, and vehicle-level integration maturity across platforms.\n What you'll do \nYou will become a member of an development team with great team spirit, the Software Download (SWDL) team. The team is responsible for designing and verifying Software Download technologies. The team is also developing (in C++) the One SWDL Engine, which is one common SW module to be used for SWDL in many areas such as development testing, vehicle implementation (in Volvo Cars new Core System Platform), production and at aftermarket. The team is collaborating with many different system areas of the vehicle, as well as customer service departments and manufacturing engineering. As a part of our team, you get access to long-term development opportunities in a dynamic and continuously growing field.You get inspired by our mission to give our customers a better car experience every day. You will use your deep knowledge to develop the SW component we call One SWDL Engine.\n What you'll bring \nWe believe you are a true software engineer who is motivated by challenging tasks in a complex and innovative environment. You have the interest and experience in creating SW architecture and technical road maps. You enjoy sharing your knowledge with your colleagues, but also learning from others.  For this position a minimum of 5 years’ experience with C++, Linux and GIT is required. Experience with other areas such as Python, C, Gerrit, Jenkins, Android, DoIP, software testing and CI is considered a plus.\n You bring hardware and system knowledge, including ECU architecture, flashing and download concepts, and hands-on testing on real hardware and rigs, with an understanding of BaseTech, OTA, and vehicle electrical systems. Solid knowledge of embedded systems and experience with QNX. Knowledge of basic Cryptography and PKI.\n You have an interest in AI-assisted development, using modern tools for code generation, review, and quality improvement. You are customer-focused, quality-driven, collaborative, fluent in English, and comfortable working with incomplete information while solving complex problems.\n Driven by customer focus you get things done. You are committed to high delivery quality and you can proceed your work without having all facts at hand before you start. You are flexible and have excellent communication and documentation skills. You have a positive attitude and are a team player. You are experienced with continuous development and familiar with software development best practices. You are fluent in English and can communicate effectively with all types of stakeholders. You are analytical and a problem-solver, aware of that there are multiple solutions for a problem.\n We believe you have a M.Sc or B.Sc degree in Software Development, Software Engineering or equivalent.",
+        "url": "https://volvo-car-corporation.contactrh.com/jobs/9669/44232774",
+        "published": "2026-06-09T10:25:02",
+        "deadline": "2026-06-20T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
         "id": "31136495",
         "title": "AI developer",
         "employer": "Synteda AB",
@@ -338,21 +338,6 @@
         "url": "https://jobs.smartrecruiters.com/AFRY/744000127426769-android-c-automotive-software-developer?oga=true&trid=4de896fd-3759-406c-8d07-8a7da8844ce0",
         "published": "2026-05-20T14:49:59",
         "deadline": "2026-06-19T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
-        "id": "31049979",
-        "title": "Senior Developer",
-        "employer": "HCL Technologies Sweden AB",
-        "location": "Göteborg",
-        "description": "AOSP / Android Developer\nAbout the Role\nWe are looking for a skilled AOSP / Android Developer to join our development team. You will work in a modern embedded software environment, contributing to Android platform development, framework components, and system-level features.\nRequired Qualifications\nBachelor’s or Master’s degree in Software Engineering, Computer Science, or equivalent education\nStrong experience in Java and/or Kotlin development\nExperience working in a modern embedded Linux software environment\nHands-on experience with development tools such as Git, Gerrit, and Jenkins\nSolid knowledge of the Android Framework, including development and build tools\nExperience with Gradle and Soong build systems\nAbility to design and write automated unit and integration tests\n\nMeritorious / Nice-to-Have Skills\nSwedish driver’s license (B-level) for testing purposes\n\nFor Bluetooth Developers\nPrevious experience in Bluetooth development is required\nExperience with AIDL, Android HAL, and C/C++ development is highly meritorious\n\nFor HMI Developers\nPrior experience in Human Machine Interface (HMI) development\nExperience working with AOSP is highly desirable\n\nWhat We Offer\nA collaborative and technically advanced development environment\nOpportunities to work with cutting-edge Android and embedded technologies\nA role with real impact on platform-level and user-facing solutions",
-        "url": null,
-        "published": "2026-05-18T16:09:50",
-        "deadline": "2026-06-17T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
         "source": "JobTech",
@@ -510,21 +495,6 @@
         "relevance_score": 100
     },
     {
-        "id": "31102010",
-        "title": "Software Engineer - Inverter and DCDC converter",
-        "employer": "AVL MTC MOTORTESTCENTER AB",
-        "location": "Göteborg",
-        "description": "Company description:\nAVL is one of the world’s leading mobility technology companies for development, simulation and testing in the automotive industry, and beyond. The company provides concepts, solutions and methodologies in fields like vehicle development and integration, e-mobility, automated and connected mobility (ADAS/AD), and software for a greener, safer, better world of mobility.\nJob description:AVL Powertrain Engineering in Sweden is now looking to recruit a new Software Engineer to support our Automotive OEM customers in Function Development and Testing, in the Gothenburg area. You will work in the development of complex vehicle systems and focus on the function development and testing of automotive components.\nAt AVL MTC, our Software team is a multi-national group of passionate engineers driving innovation in automotive software development for next-generation vehicle technologies. You’ll work at the forefront of mobility, collaborating on cutting-edge embedded platforms, safety-critical systems, and advanced software architectures. If you're passionate about automotive software development and driven to shape the future of mobility alongside a global team, we look forward to hearing from you. \n•    Collaborate with system engineers and architects to translate requirements into software architecture using modeling and design tools•    Design and develop application functionality and algorithms by writing clean, efficient code in C and/or C++, or by modeling and implementing them in Simulink•    Experience with Software development for Inverter and power electronics •    Development of innovative strategies and functions for vehicle powertrain systems using modern simulation tools (e.g. Matlab/Simulink) •    Following a model-based algorithm development approach, you optimize the existing functional models in the application software and maintain them until the series is introduced•    Supporting verification and validation activities across the software development lifecycle, including static code analysis, unit testing, and MIL/SIL/HIL testing•    Work with CI/CD pipelines and version control tools (Git, Gerrit, Jenkins, Docker…)•    Requirement engineering, test reports and documentation generation if necessary•    Maintain build stability and manage software integration•    Collaborate effectively across cross-functional and multi-disciplinary teams, following Model-Based Systems Engineering (MBSE) principles and agile development practices\nProfile description:You should have experience from product development of EV Powertrain Systems for light- or heavy-duty.  You should have obtained a Bachelor’s degree in Mechatronics engineering or equivalent. You are a strong communicator with great networking skills, you are solution focused, eager to learn new skills and driven by self-development.\n •    4+ years’ experience from software functional development and testing (Inverters, DCDC converters) within the automotive industry•    Experience of Model Based Development using MATLAB, Simulink, Stateflow and Auto-code generation using Embedded Coder.•    Functional safety knowledge (ISO26262 and /or ASPICE).•    Experience in inverter and power electronics software development •    Solid understanding of AUTOSAR methodology and toolchain•    Identification and management of functional requirements•    Definition of test methods, planning, preparing and execution of test task and reporting•    Strong programming (C and/or C++) skills with a focus on readability, maintainability, and scalability•    Communication tools: CAN, CANalyser, CANoe, Flexray•    Very good social and communication skills in English (Swedish is meritorious)  \n  \n Meriting:•    Driver’s license B (E and/or C meritorious)•    HiL systems knowledge in e.g., dSpace, ETAS.•    Knowledge in INCA, Python.•    Experience with AUTOSAR Basic Software Modules like (OS, MemStack, ComStack)\nWe offer: Be part of our pioneering work– together with our customers we shape the future of mobility!\n •    Competitive Compensation Package•    Collective Agreement and insurances•    Working with international OEMs and Tier 1’s•    A personal onboarding concept will help you to get up to speed smoothly\n Interested?If so, please use our online application tool to send your application to AVL!",
-        "url": "https://avl-list-gmbh.contactrh.com/jobs/9669/44210040",
-        "published": "2026-05-29T10:25:17",
-        "deadline": "2026-06-09T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "31101324",
         "title": "Senior Integration Leader",
         "employer": "Volvo Personvagnar Aktiebolag",
@@ -548,6 +518,21 @@
         "url": "https://career.telavox.com/jobs/7613238-software-engineer?promotion=2011109-arbetsformedlingen",
         "published": "2026-05-21T10:56:41",
         "deadline": "2026-11-17T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
+        "id": "31049979",
+        "title": "Senior Developer",
+        "employer": "HCL Technologies Sweden AB",
+        "location": "Göteborg",
+        "description": "AOSP / Android Developer\nAbout the Role\nWe are looking for a skilled AOSP / Android Developer to join our development team. You will work in a modern embedded software environment, contributing to Android platform development, framework components, and system-level features.\nRequired Qualifications\nBachelor’s or Master’s degree in Software Engineering, Computer Science, or equivalent education\nStrong experience in Java and/or Kotlin development\nExperience working in a modern embedded Linux software environment\nHands-on experience with development tools such as Git, Gerrit, and Jenkins\nSolid knowledge of the Android Framework, including development and build tools\nExperience with Gradle and Soong build systems\nAbility to design and write automated unit and integration tests\n\nMeritorious / Nice-to-Have Skills\nSwedish driver’s license (B-level) for testing purposes\n\nFor Bluetooth Developers\nPrevious experience in Bluetooth development is required\nExperience with AIDL, Android HAL, and C/C++ development is highly meritorious\n\nFor HMI Developers\nPrior experience in Human Machine Interface (HMI) development\nExperience working with AOSP is highly desirable\n\nWhat We Offer\nA collaborative and technically advanced development environment\nOpportunities to work with cutting-edge Android and embedded technologies\nA role with real impact on platform-level and user-facing solutions",
+        "url": null,
+        "published": "2026-05-18T16:09:50",
+        "deadline": "2026-06-17T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
         "source": "JobTech",
@@ -750,21 +735,6 @@
         "relevance_score": 100
     },
     {
-        "id": "31105609",
-        "title": "CX Data Scientist Volvo Cars",
-        "employer": "Volvo Personvagnar Aktiebolag",
-        "location": "Göteborg",
-        "description": "Company description:\nWho are we?Volvo Cars is a company on a mission; to bring traditional car manufacturing into a connected, sustainable and smart future.Since 1927, we have been a brand known for our commitment to safety, creating innovative cars that make life less complicated for our consumers. In 2010, we decided to transform our business, resulting in a totally new generation of cars and technologies, as well as steady growth and record sales. Today, we’re expanding our global footprint in Europe, China and the US, and we’re on the lookout for new talent. We are constantly pushing our own skills and abilities to drive change in the automobile industry like never before. We are looking for innovative, committed people to join us in this endeavour and create safe, sustainable and connected cars. We believe in the power of people and will challenge and support you to reach your full potential. Join us and be part of Volvo Cars’ journey into the future.\nJob description:   Let's introduce ourselves \nAt Volvo Cars Customer Experience, we’re looking for a CX Data Scientist to turn customer data into actionable insights that improve experience, retention, and business outcomes. You’ll work at the intersection of data science, AI, and customer experience (CX)—building models, uncovering insights, and embedding intelligence from Voice of the customer into decision-making across the organization.  \n What you'll do \n \n Advanced Analytics & Modelling \n In this role, you will lead advanced analytics and modelling initiatives to uncover actionable insights across the customer experience landscape. •    Develop predictive models to forecast key CX outcomes such as NPS, CSAT, churn, and complaints •    Design next-best-action models to guide operational and CX decision-making •    Model relationships between CX metrics and broader business outcomes such as retention, revenue, and cost-to-serve •    Develop and deploy analytical products that enable end-to-end customer journey analysis to identify friction points and drop-offs  Experimentation & Impact Measurement •    Innovate and dare to challenge what we have today for something new tomorrow  •    Design and build & evaluate experiments and A/B tests to measure CX improvements •    Quantify impact through uplift analysis, ROI measurement, and outcome tracking •    Build scalable analytical frameworks (e.g. journey friction scoring, driver models) \n  \n What you'll bring \n \n Core Skills and Experience\n You have a strong foundation in data science and analytics, including both supervised and unsupervised learning, supported by solid skills in statistics, hypothesis testing, and experimental design. You bring hands-on experience with NLP and text analytics, applying techniques such as topic modelling and sentiment analysis to understand customer behavior. You’re also familiar with broader AI/ML concepts and how to apply them in a business context, with experience evaluating and monitoring models in production. In addition, you have worked with experimentation frameworks, using A/B testing and causal inference methods to measure impact and support data-driven decision-making. You bring strong hands-on experience working with Python, using libraries such as pandas and scikit-learn, along with modern NLP frameworks like spaCy, NLTK, or transformers to solve real-world problems. You are comfortable working with SQL to query, extract, and transform large and complex datasets, and you have experience operating within modern data platforms and cloud environments such as Azure, Snowflake, dbt, or Databricks. Impact, Collaboration & Mindset While technical expertise is important, your mindset and curiosity are equally valued. You have a strong ability to translate complex analysis into actionable business impact, contributing to informed and aligned decision-making across teams. You bring experience working closely with business, product, engineering, and analytics stakeholders, ensuring alignment with customer experience KPIs, operational priorities, and business objectives. You demonstrate a well-developed analytical and problem-solving mindset, with a strong focus on data quality and measurable impact and take ownership of end-to-end analytical solutions. You are outcome-driven and continuously developing your expertise in AI, machine learning, and analytics. You balance independent execution with collaborative teamwork and are motivated to leverage data and AI to improve customer experience and business outcomes.",
-        "url": "https://volvo-car-corporation.contactrh.com/jobs/9669/44211056",
-        "published": "2026-05-29T15:25:12",
-        "deadline": "2026-06-09T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "31101327",
         "title": "Senior Data Engineer",
         "employer": "VOLVO BUSINESS SERVICES AKTIEBOLAG",
@@ -790,21 +760,6 @@
         "deadline": "2026-06-27T23:59:59",
         "is_consultant": false,
         "is_meaningful": true,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
-        "id": "31086441",
-        "title": "Performance Marketing Expert",
-        "employer": "Volvo Business Services AB",
-        "location": "Göteborg",
-        "description": "The Performance Marketing Expert role is responsible for the data-driven planning, execution, and optimization of paid digital marketing activities across but not limited to SEM, Social, OLV and Display channels. This role ensures that all campaigns are aligned with Volvo Trucks’ brand values and business objectives, driving high-quality traffic, lead generation, and measurable business growth. The Performance Marketing expert collaborates closely with Marketing team, Content Production team, Analytics, and Channel Owners to deliver efficient, effective, and on-brand digital activations. \n\n\n \n\n\nKey Responsibilities  \n\n\nDevelop, implement and continuously optimize datadriven paid media strategies across channels such as SEM, Social, OLV and Display to drive highquality traffic, lead generation and measurable business results.  \n\n\n\nOwn the endtoend execution of paid media campaigns, including campaign setup, targeting, bidding strategies and budget allocation, to maximize ROI and support defined business objectives.  \n\n\n\nMonitor, analyze and evaluate campaign performance on an ongoing basis, translating insights into concrete optimization actions, recommendations and performance improvements.  \n\n\n\nEnsure that all paid media activities are fully aligned with Volvo Trucks’ brand guidelines, messaging frameworks and compliance requirements.  \n\n\n\nCollaborate closely with the Content Production team, Analytics, Channel Owners and local market teams to deliver integrated, coherent and datadriven digital activations across markets.  \n\n\n\nStay continuously up to date with digital marketing trends, platform developments, new formats and best practices to proactively identify innovation opportunities and maintain a competitive edge.  \n\n\n\nDrive efficiency and scalability in paid media operations by leveraging automation, platform capabilities and AIbased tools where applicable, while ensuring full adherence to brand, quality and compliance standards. \n\n\n\n \nRequested Qualifications  \n \nDeep handson expertise in paid digital marketing channels, including SEM (Google Ads, Bing), Social (such as LinkedIn and Meta) and Display advertising, with a strong focus on B2B performance and lead generation. \nStrong analytical skills and experience working with digital marketing analytics, attribution models and reporting tools to evaluate performance and drive continuous optimization. \nProven experience in endtoend campaign management, including setup, optimization, budget allocation and performance followup across multiple markets and channels. \nUptodate knowledge of digital marketing platforms, algorithms, formats, trends and regulatory requirements relevant for B2B marketing and paid media. \nAbility to work effectively in a global, multistakeholder environment, collaborating closely with content, analytics, channel owners and local market teams. \nStrong communication and project management skills, with the ability to translate data and performance insights into clear recommendations and actions. \nCreative and commercial mindset combined with a strong focus on datadriven decisionmaking, testing and continuous improvement. \nExperience working with AI and/or machine learningbased automation tools for bidding, targeting, optimization or reporting within performance marketing is considered a plus. \n\n \nThe position is based in Gothenburg and occasional travel may occur. \n \nWe are looking forward to receiving your application! \n \nDon’t hesitate to get in touch if you have any questions or want to know more about this role. \n\n\nWe value your data privacy and therefore do not accept applications via mail.",
-        "url": "https://career55.sapsf.eu/sfcareer/jobreqcareerpvt?jobId=28245&company=volvoinfor&st=A4B09931710CFDF73FBD90999AEDCD2F367AC3E0",
-        "published": "2026-05-26T16:58:30",
-        "deadline": "2026-06-09T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 100
