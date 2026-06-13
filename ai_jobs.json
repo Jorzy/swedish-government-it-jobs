@@ -13,20 +13,5 @@
         "source": "JobTech",
         "category": "AI",
         "relevance_score": 60
-    },
-    {
-        "id": "31123156",
-        "title": "Industrial PhD, Perception Team",
-        "employer": "Einride AB (publ)",
-        "location": "Göteborg",
-        "description": "We are looking for a highly motivated Industrial PhD candidate to bridge the gap between cutting-edge academic research and industrial application. In this role, you will be employed by Einride Autonomous Technologies while being enrolled as a PhD candidate at University of Gothenburg.\nYour research will focus on exploring and devising methodologies to establish Foundation Models as experienced co-workers to evaluate and improve the safety of autonomous systems – during development and in operation.\nKey Responsibilities:\nResearch & Innovation: Drive high-impact research within the context of the EASe project (Evaluate Autonomous Systems with Foundation Models) that aligns with Einride’s strategic goals and meets highest academic standards\nDoctoral Educational Progression: Complete required PhD coursework\nKnowledge transfer: Act as the primary link between the company’s R&D team and the university research group\nDissemination: Author scientific papers for international journals and conferences under guidance of the supervision team\n\nQualifications and requirements:\nMaster’s degree in Robotics, Artificial Intelligence, Computer Science or related field\nStrong foundation in linear algebra, data structures, algorithm design, and complexity analysis\nExperience in C/C++ and Python, and experience with practical deep learning frameworks, such as PyTorch and TensorFlow\nStrong problem-solving skills, and a desire to to combine theoretical depth with practical industrial problem-solving\nTeam player. You can take ownership and work with the team to deliver great outcomes\nGreat communication skills. Fluency in English (both verbal and in writing) is mandatory\nMust meet the entry requirements for admittance to doctoral studies at the Graduate School at the Department of Computer Science and Engineering (CSE) at University of Gothenburg (cf. eligibility criteria below)\n\n\n\nThis is a full-time remote position based in Gothenburg. You will be part of a truly diverse, high performing team with a common passion for sustainability and making things happen in an innovative way. We recommend that you submit your application as soon as possible since selection and interviews are held continually.\nPlease note that as part of our standard recruitment process, we conduct a background control on the final candidate for this role. This may include verification of education, employment history, any relevant professional certifications or other information that may be of our interest.\nAt Einride, we are innovators, building solutions the world has never seen before – but urgently needs. That’s why we take action, and it’s why we are always eager to be challenged. We know that our best innovations come from having a diverse mix of people, including those of different experiences, career paths, and walks of life. By coming together and sharing our perspectives openly – by disagreeing, discussing, and committing – we deliver greater impact.",
-        "url": "https://careers.einride.tech/",
-        "published": "2026-06-02T08:58:30",
-        "deadline": "2026-06-12T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "AI",
-        "relevance_score": 90
     }
 ]
