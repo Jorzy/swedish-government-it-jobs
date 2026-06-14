@@ -330,6 +330,21 @@
         "relevance_score": 100
     },
     {
+        "id": "31068608",
+        "title": "Android Developer",
+        "employer": "Tata Technologies Nordics AB",
+        "location": "Göteborg",
+        "description": "At Tata Technologies, we make product development dreams a reality by designing, engineering, and validating the products of tomorrow for the world’s leading manufacturers. Due to our continued growth, we are now recruiting for AAOS Application Developers.\nResponsibilities:\nDevelop and maintain system-level applications for AAOS running in Android VM Integrate applications with vehicle hardware via HALs (Hardware Abstraction Layers) and AIDL interfaces\nOptimize performance, memory usage, and boot time for embedded environments\nCollaborate with UX/UI teams to implement responsive and intuitive interfaces\nEnsure compliance with automotive safety and security standards\nDebug and resolve issues across multiple layers (Java, JNI, native C++)\nParticipate in code reviews, unit testing, and CI/CD pipeline integration\nDocument architecture, APIs, and development workflows\n\n\n\nKnowledge/skills:\nBachelor’s or Master’s degree in Computer Science, Electrical Engineering, or related field\nExperience in Android development, with at least 1 year in AAOS\nStrong proficiency in Java and Kotlin; familiarity with C/C++ is a plus\nExperience with Android System Services, Binder IPC, and AOSP customization\nHands-on experience with Android VM (ART/Dalvik) and embedded Linux\nFamiliarity with automotive protocols (Ethernet, CAN, LIN, MOST) and VHAL\nKnowledge of Android build system (ex, Gradle)\nSource code, CI/CD and artifact management systems like GitHub, GitHub Actions, GitHub Packages\n\nPreferred Skills\nExperience with Android Automotive Emulator and AAOS reference platforms\nFamiliarity with Google Automotive Services (GAS) and non-GAS deployments\nUnderstanding of ISO 26262, ASPICE, and cybersecurity standards\nExposure to Android TV or Android Things is a bonus\n\n\n\n\n\nIf you are passionate about bringing innovation to the projects you work on, then we would love to hear from you.\nTata Technologies: Engineering a better world.\nTata Technologies would like to thank all applicants for their interest; each application will be reviewed against the set criteria for the role. We would like to advise that only candidates under consideration will be contacted. If you do not hear from us within 10 working days following the closing date, it will mean that unfortunately your application has not been successful. We will however retain your details for any suitable future opportunities.",
+        "url": "http://www.tatatechnologies.com",
+        "published": "2026-05-21T23:25:30",
+        "deadline": "2026-07-31T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
         "id": "31174997",
         "title": "OTA Release Leader",
         "employer": "Agile Resources AB",
@@ -690,21 +705,6 @@
         "relevance_score": 100
     },
     {
-        "id": "31126990",
-        "title": "Software Engineer",
-        "employer": "GlobalLogic Sweden AB",
-        "location": "Göteborg",
-        "description": "As a Software Engineer, you are self-driven, highly communicative, experienced, and a proactive team player who easily grasps system level perspectives. You are curious, eager to learn, and have an innovative mindset. You care about people and take responsibility for getting things done.\nRequirements\nM.Sc in Software Engineering and/or Software Science or similar\nAt least 8 years of experience from working with Software Development\nAt least 5 years of experience from C++ (or C) development\nExperience with CI/CD, unit & integration testing\nExperience with Linux, GIT/Gerrit, Bazel & Cmake, Python\nFluent in English\n\nMeritorious\nExperience within Automotive, ISO-26262, for Software Development\nExperience within Cyber Security for Software Development\nExperience with QNX, Bash, Json, yaml, Google test, Python test\n\nJob Responsibilities\nThese teams are building and maintaining the next generation vehicle applications that supports the range from basic functionalities to advanced active safety and unsupervised autonomous driving. Our task is to create and maintain a safe, reliable, and secure software that enables our stakeholders and partners to deploy and innovate their functionalities. As a Software Engineer, you are self-driven, highly communicative, experienced, and a proactive team player who easily grasps system level perspectives. You are curious, eager to learn, and have an innovative mindset. You care about people and take responsibility for getting things done.",
-        "url": null,
-        "published": "2026-06-02T13:26:05",
-        "deadline": "2026-06-13T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "31119049",
         "title": "Senior Engineer",
         "employer": "L&T Technology Services Sverige Filial",
@@ -713,21 +713,6 @@
         "url": null,
         "published": "2026-06-01T14:47:35",
         "deadline": "2026-07-01T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
-        "id": "31068608",
-        "title": "Android Developer",
-        "employer": "Tata Technologies Nordics AB",
-        "location": "Göteborg",
-        "description": "At Tata Technologies, we make product development dreams a reality by designing, engineering, and validating the products of tomorrow for the world’s leading manufacturers. Due to our continued growth, we are now recruiting for AAOS Application Developers.\nResponsibilities:\nDevelop and maintain system-level applications for AAOS running in Android VM Integrate applications with vehicle hardware via HALs (Hardware Abstraction Layers) and AIDL interfaces\nOptimize performance, memory usage, and boot time for embedded environments\nCollaborate with UX/UI teams to implement responsive and intuitive interfaces\nEnsure compliance with automotive safety and security standards\nDebug and resolve issues across multiple layers (Java, JNI, native C++)\nParticipate in code reviews, unit testing, and CI/CD pipeline integration\nDocument architecture, APIs, and development workflows\n\n\n\nKnowledge/skills:\nBachelor’s or Master’s degree in Computer Science, Electrical Engineering, or related field\nExperience in Android development, with at least 1 year in AAOS\nStrong proficiency in Java and Kotlin; familiarity with C/C++ is a plus\nExperience with Android System Services, Binder IPC, and AOSP customization\nHands-on experience with Android VM (ART/Dalvik) and embedded Linux\nFamiliarity with automotive protocols (Ethernet, CAN, LIN, MOST) and VHAL\nKnowledge of Android build system (ex, Gradle)\nSource code, CI/CD and artifact management systems like GitHub, GitHub Actions, GitHub Packages\n\nPreferred Skills\nExperience with Android Automotive Emulator and AAOS reference platforms\nFamiliarity with Google Automotive Services (GAS) and non-GAS deployments\nUnderstanding of ISO 26262, ASPICE, and cybersecurity standards\nExposure to Android TV or Android Things is a bonus\n\n\n\n\n\nIf you are passionate about bringing innovation to the projects you work on, then we would love to hear from you.\nTata Technologies: Engineering a better world.\nTata Technologies would like to thank all applicants for their interest; each application will be reviewed against the set criteria for the role. We would like to advise that only candidates under consideration will be contacted. If you do not hear from us within 10 working days following the closing date, it will mean that unfortunately your application has not been successful. We will however retain your details for any suitable future opportunities.",
-        "url": "http://www.tatatechnologies.com",
-        "published": "2026-05-21T23:25:30",
-        "deadline": "2026-07-31T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
         "source": "JobTech",
