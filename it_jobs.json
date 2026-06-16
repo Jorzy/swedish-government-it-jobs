@@ -45,6 +45,21 @@
         "relevance_score": 100
     },
     {
+        "id": "31182147",
+        "title": "Software Engineer",
+        "employer": "Volvo Personvagnar Aktiebolag",
+        "location": "Göteborg",
+        "description": "Company description:\nWho are we?Volvo Cars is a company on a mission; to bring traditional car manufacturing into a connected, sustainable and smart future.Since 1927, we have been a brand known for our commitment to safety, creating innovative cars that make life less complicated for our consumers. In 2010, we decided to transform our business, resulting in a totally new generation of cars and technologies, as well as steady growth and record sales. Today, we’re expanding our global footprint in Europe, China and the US, and we’re on the lookout for new talent. We are constantly pushing our own skills and abilities to drive change in the automobile industry like never before. We are looking for innovative, committed people to join us in this endeavour and create safe, sustainable and connected cars. We believe in the power of people and will challenge and support you to reach your full potential. Join us and be part of Volvo Cars’ journey into the future.\nJob description:  Let's introduce ourselves \nThe Steering Column and In-house SW team is part of the Deceleration and Steering department, at Chassis & Climate sub-unit. We are responsible to develop the Steering Column HW and SW that goes into the Steering Gear ECU.  As Software and Control Systems Engineer, you will be responsible to develop state of the art functions connected to ADAS and Steering Feel. You will also be responsible to test and document your findings as well as implementing development processes that will assure the quality of the team delivery. \n What you'll do \n \n  Software Development: Design, develop, and maintain software for automotive steering systems, including electric power assisted steering system (EPAS), steer-by-wire, and advanced driver-assistance systems (ADAS) related to steering.\n Control Algorithms: Develop and implement motor control algorithms for steering systems to ensure precise and responsive vehicle handling, steering feedback control, and ADAS tracking.\n Requirements Analysis: Gather and analyse software requirements for steering systems, ensuring alignment with overall vehicle design and performance goals.\n System Integration: Integrate software components with hardware steering systems, ensuring seamless functionality and performance. Work closely with hardware engineers to define software-hardware interfaces.\n Testing and Validation: Develop and execute test cases for steering software validation, including unit testing, integration testing, and system-level testing. Utilize simulation tools and real-world testing environments to ensure software reliability and safety.\n Debugging and Troubleshooting: Identify and resolve software issues and bugs related to steering systems. Perform root cause analysis and implement corrective actions to enhance software robustness.\n Documentation: Create and update test and compliance reports.\n    Profile description: What you'll bring \nSkills\n  Experience with function testing of CAN nodes in SIL, MIL, HIL, and vehicle.\n Experience with SW function development, objective tunning, and testing.\n Experience with SW development tools – MATLAB/Simulink, Carmaker.\n Experience with testing tools – Vector CANape, CANoe (and CAPL), dSPACE, DSA.\n Familiarity with testing principles and the ability to write and execute test cases. \n Understanding different testing levels (unit testing, integration testing, system testing).\n Ability to work effectively in a team, share knowledge, and contribute to a collaborative development environment.\n Familiarity with software development processes compluing with automotive industry standards, such as ISO 26262 for functional safety and ASPICE.\n  \nQualifications\n  Education: Bachelor’s or master’s degree in computer science, electrical engineering, mechanical engineering, or a related field.\n Experience: Proven experience in software development within the automotive industry, specifically related to steering systems.",
+        "url": "https://volvo-car-corporation.contactrh.com/jobs/9669/44248447",
+        "published": "2026-06-16T09:25:03",
+        "deadline": "2026-06-27T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 90
+    },
+    {
         "id": "31172986",
         "title": "AUTOSAR Software Development Engineer (automotive)",
         "employer": "Capgemini Engineering Sverige AB",
@@ -90,21 +105,6 @@
         "relevance_score": 100
     },
     {
-        "id": "31127997",
-        "title": "System Design Engineer",
-        "employer": "Volvo Personvagnar Aktiebolag",
-        "location": "Göteborg",
-        "description": "Company description:\nWho are we?Volvo Cars is a company on a mission; to bring traditional car manufacturing into a connected, sustainable and smart future.Since 1927, we have been a brand known for our commitment to safety, creating innovative cars that make life less complicated for our consumers. In 2010, we decided to transform our business, resulting in a totally new generation of cars and technologies, as well as steady growth and record sales. Today, we’re expanding our global footprint in Europe, China and the US, and we’re on the lookout for new talent. We are constantly pushing our own skills and abilities to drive change in the automobile industry like never before. We are looking for innovative, committed people to join us in this endeavour and create safe, sustainable and connected cars. We believe in the power of people and will challenge and support you to reach your full potential. Join us and be part of Volvo Cars’ journey into the future.\nJob description:   Let's introduce ourselves \nThe Manage Electrical Energy (MEE) team is responsible for developing core system platform functionality related to energy and power optimization across the vehicle. Our responsibility spans the full lifecycle—from early concept and system definition to industrialization and field follow‑up.\n We are a cross‑functional team working closely across System Design, System Safety, Software Development, Verification, and Quality Assurance, collaborating to deliver robust, scalable, and future‑ready electrical energy solutions for the vehicle platform.\n What you'll do \nAs a System Design Engineer, your main focus will be system design and function specification within the electrical energy management domain. You will:\n  Lead system design activities and develop concept solutions for balancing energy consumption across the complete electrical system throughout all vehicle life phases\n Define, document, review, and sign off system requirements and technical documentation\n Take ownership of system documentation and requirement management\n Monitor implementations in ongoing vehicle programs and ensure feedback is fed back into the concept solution\n Work closely with software, hardware, and system engineers, contributing across disciplines and learning from a broad technical landscape\n Collaborate with multiple stakeholders to ensure robust, safe, and scalable system solutions\n  What you'll bring \nWe believe you are a result‑oriented and analytical engineer who enjoys problem solving and thrives in a changing environment. You are self‑driven, structured in your communication, and comfortable taking ownership of complex systems.\n  \n You bring:\n  A BSc degree or higher in Software Engineering, Electrical Engineering, or equivalent experience\n 5+ years of experience in system design, preferably in automotive or telecom environments\n Strong communication skills and the ability to present technical results in a clear and structured way\n  \n \n Experience with:\n  System design of large, distributed systems\n System safety\n Software development\n Hardware knowledge related to DC/DC converters, LV/HV batteries, and power supply systems\n A valid EU driver’s license (category B)\n  \n \n It is considered a strong advantage if you also have experience or knowledge in:\n  Elektra\n CarWeaver / SystemWeaver\n Embedded software testing\n Automotive communication protocols such as CAN, FlexRay, Ethernet, SOME/IP\n Power electronics\n  \n \n You value teamwork, collaboration, and continuous learning — and you’re motivated to grow your competence while contributing to a shared technical vision.",
-        "url": "https://volvo-car-corporation.contactrh.com/jobs/9669/44218254",
-        "published": "2026-06-02T14:25:06",
-        "deadline": "2026-06-15T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 90
-    },
-    {
         "id": "31122096",
         "title": "Senior Solution & Technical Delivery Experts – Crew Tracking Implementation",
         "employer": "Pigs Fly AI AB",
@@ -148,21 +148,6 @@
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 90
-    },
-    {
-        "id": "31031745",
-        "title": "App Developer – Remote Worldwide",
-        "employer": "Ecareer AB",
-        "location": "Göteborg",
-        "description": "App Developer – Remote Worldwide\nCompany: Invera US Location: Remote / Worldwide Employment Type: Full-time or Contract\nAbout the Role\nInvera US is seeking a skilled and motivated App Developer to join our team. This role is fully remote and can be performed from anywhere in the world.\nWe are looking for a developer who can build, enhance, and maintain high-quality mobile applications. The ideal candidate is experienced, detail-oriented, and able to work independently while collaborating with an international team.\nResponsibilities\nDevelop and maintain mobile applications for iOS and/or Android.\nWork with modern app development frameworks and technologies.\nCollaborate with the team to design, test, and launch new features.\nIdentify and resolve bugs, performance issues, and technical problems.\nEnsure applications are user-friendly, secure, and scalable.\nParticipate in planning, technical discussions, and product improvements.\nRequirements\nProven experience as an App Developer or Mobile Developer.\nExperience with iOS, Android, or cross-platform development.\nKnowledge of technologies such as Flutter, React Native, Swift, Kotlin, Java, or similar.\nAbility to write clean, efficient, and well-documented code.\nStrong problem-solving skills.\nAbility to work remotely and manage your time effectively.\nGood communication skills in English.\nPreferred Qualifications\nExperience with UI/UX implementation.\nExperience working with APIs, databases, and cloud services.\nPrior experience in startups or international remote teams.\nKnowledge of app publishing processes for the App Store and Google Play.\nWhat We Offer\nA fully remote role with global flexibility.\nThe opportunity to work with Invera US on exciting digital products.\nA flexible, international work environment.\nOpportunity for long-term collaboration and professional growth.\nHow to Apply\nPlease submit your CV, portfolio, GitHub profile, or examples of previous app projects. Include a brief introduction about yourself, your experience, and why you are interested in working with Invera US.",
-        "url": "https://jobb.ecareer.se/jobs/7720779-app-developer-remote-worldwide/applications/new?promotion=1996676-arbetsformedlingen",
-        "published": "2026-05-12T18:11:11",
-        "deadline": "2026-06-15T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
     },
     {
         "id": "31020343",
@@ -353,6 +338,21 @@
         "url": "https://jobs.smartrecruiters.com/AFRY/744000127426769-android-c-automotive-software-developer?oga=true&trid=4de896fd-3759-406c-8d07-8a7da8844ce0",
         "published": "2026-05-20T14:49:59",
         "deadline": "2026-07-10T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
+        "id": "31049979",
+        "title": "Senior Developer",
+        "employer": "HCL Technologies Sweden AB",
+        "location": "Göteborg",
+        "description": "AOSP / Android Developer\nAbout the Role\nWe are looking for a skilled AOSP / Android Developer to join our development team. You will work in a modern embedded software environment, contributing to Android platform development, framework components, and system-level features.\nRequired Qualifications\nBachelor’s or Master’s degree in Software Engineering, Computer Science, or equivalent education\nStrong experience in Java and/or Kotlin development\nExperience working in a modern embedded Linux software environment\nHands-on experience with development tools such as Git, Gerrit, and Jenkins\nSolid knowledge of the Android Framework, including development and build tools\nExperience with Gradle and Soong build systems\nAbility to design and write automated unit and integration tests\n\nMeritorious / Nice-to-Have Skills\nSwedish driver’s license (B-level) for testing purposes\n\nFor Bluetooth Developers\nPrevious experience in Bluetooth development is required\nExperience with AIDL, Android HAL, and C/C++ development is highly meritorious\n\nFor HMI Developers\nPrior experience in Human Machine Interface (HMI) development\nExperience working with AOSP is highly desirable\n\nWhat We Offer\nA collaborative and technically advanced development environment\nOpportunities to work with cutting-edge Android and embedded technologies\nA role with real impact on platform-level and user-facing solutions",
+        "url": null,
+        "published": "2026-05-18T16:09:50",
+        "deadline": "2026-06-17T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
         "source": "JobTech",
@@ -750,21 +750,6 @@
         "relevance_score": 100
     },
     {
-        "id": "31049979",
-        "title": "Senior Developer",
-        "employer": "HCL Technologies Sweden AB",
-        "location": "Göteborg",
-        "description": "AOSP / Android Developer\nAbout the Role\nWe are looking for a skilled AOSP / Android Developer to join our development team. You will work in a modern embedded software environment, contributing to Android platform development, framework components, and system-level features.\nRequired Qualifications\nBachelor’s or Master’s degree in Software Engineering, Computer Science, or equivalent education\nStrong experience in Java and/or Kotlin development\nExperience working in a modern embedded Linux software environment\nHands-on experience with development tools such as Git, Gerrit, and Jenkins\nSolid knowledge of the Android Framework, including development and build tools\nExperience with Gradle and Soong build systems\nAbility to design and write automated unit and integration tests\n\nMeritorious / Nice-to-Have Skills\nSwedish driver’s license (B-level) for testing purposes\n\nFor Bluetooth Developers\nPrevious experience in Bluetooth development is required\nExperience with AIDL, Android HAL, and C/C++ development is highly meritorious\n\nFor HMI Developers\nPrior experience in Human Machine Interface (HMI) development\nExperience working with AOSP is highly desirable\n\nWhat We Offer\nA collaborative and technically advanced development environment\nOpportunities to work with cutting-edge Android and embedded technologies\nA role with real impact on platform-level and user-facing solutions",
-        "url": null,
-        "published": "2026-05-18T16:09:50",
-        "deadline": "2026-06-17T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "31036260",
         "title": "Software Engineer (R&D)",
         "employer": "Ascom (Sweden) AB",
@@ -1108,6 +1093,21 @@
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 100
+    },
+    {
+        "id": "31134915",
+        "title": "Responsible AI Lead",
+        "employer": "SAAB AKTIEBOLAG",
+        "location": "Solna",
+        "description": "Vill du påverka och göra skillnad på riktigt? Här bidrar du till att skapa trygghet för människor och samhällen. Det du gör spelar roll.\n\n\nDin roll\n\nHar du en passion för ansvarsfull AI, där säkerhetskrav, juridisk efterlevnad och teknisk kvalitet är en naturlig del av utvecklingen? Vill du arbeta med AI‑system där långsiktighet, tillförlitlighet och förtroende går hand i hand med innovation och teknisk utveckling?\nHos Saab får du vara med och bygga avancerade AI & Data‑system i teknikens framkant. Våra lösningar används i allt från stridsflygsystemet Gripen och avancerade sensorplattformar till framtidens självkörande ubåtar och komplexa ledningssystem. AI är här en integrerad del av hur vi utvecklar och vidareutvecklar nästa generations försvarsteknologi. För att stödja denna utveckling söker Saab nu en Responsible AI Lead/Head of AI Governance till vår centrala AI & Data‑organisation. Rollen har ett tydligt fokus på att skapa strukturer och arbetssätt som gör det möjligt att utveckla och använda AI på ett ansvarsfullt, säkert och regelrätt sätt inom hela koncernen.\nSom Responsible AI Lead/Head of AI Governance får du ett övergripande ansvar för att bygga och förvalta de tekniska processerna kring Saabs AI‑utveckling. Din uppgift är att omsätta lagkrav, standarder och etiska principer till praktiska, skalbara arbetssätt som är väl anpassade till ingenjörs- och utvecklingsverksamheten.\nDu tillhör en central funktion men arbetar nära Saabs affärsområden, arkitekter och utvecklingsteam för att säkerställa att AI‑lösningar är väl förberedda för användning på en global marknad, både tekniskt och regulatoriskt. Rollen innebär ett nära samspel mellan teknik, kvalitet, juridik och affär.\nDina huvudsakliga ansvarsområden:\nEtablera och förvalta tekniska processer för regulatorisk efterlevnad, med fokus på EU AI Act och Data Act.\nOmsätta Responsible AI‑principer till praktiska ramverk för transparens, förklarbarhet, spårbarhet och bias‑hantering.\nSäkerställa tekniska mekanismer för mänsklig tillsyn (human‑in‑the‑loop) i relevanta AI‑system.\nLeda och samordna tekniska riskbedömningar för AI‑lösningar genom hela deras livscykel.\nSätta standarder för datakvalitet, dataproveniens och spårbarhet genom ML‑ och MLOps‑processer.\nEtablera rutiner för kontinuerlig monitorering av modeller, inklusive hantering av model drift i operativa miljöer.\n\n\nDin profil\n\n\nVi söker en teknisk ledare som trivs i strukturerade miljöer och som har lätt för att samverka över olika discipliner. Du har förmågan att tolka regelverk och standarder och omsätta dem till tydliga tekniska krav och processer som stödjer både kvalitet och utvecklingstakt.\nKvalifikationer:\nUtbildning: Kandidatexamen inom Datavetenskap, Teknik, Systemvetenskap eller liknande, eller motsvarande relevant arbetslivserfarenhet.\nErfarenhet: Flerårig erfarenhet av mjukvaru‑, system‑ eller plattformsutveckling i en reglerad industri (t.ex. försvar, flyg, energi eller fordonsindustri).\nRegulatorisk förståelse: Erfarenhet av arbete med teknisk regelefterlevnad och kvalitets‑ eller säkerhetsstandarder, exempelvis ISO 9001 och/eller ISO 27001.\nSpråk: Flytande svenska och engelska i tal och skrift.\n\nMeriterande: \nKunskap om internationella ramverk för ansvarsfull AI, exempelvis NATO:s principer eller motsvarande.\n\nBefattningen kräver att du genomgår och godkänns enligt vid var tid gällande bestämmelser för säkerhetsskydd. För befattningar där Saab har krav på säkerhetsklassinplacering kan, i förekommande fall, medföra krav på visst medborgarskap.\nPlaceringsort: Stockholm eller Göteborg\n\n\nVad du blir en del av\n\nUpptäck oändliga möjligheter. Anta utmaningar, skapa smarta innovationer och uppgradera dina förmågor. Det här är en plats för kluriga tänkare, modiga pionjärer och alla däremellan. Tillsammans uppnår vi det extraordinära, var och en tar med sitt unika perspektiv. Varje bidrag räknas.\nSaab är ett ledande försvars- och säkerhetsföretag med syfte att hjälpa nationer att skydda sin befolkning och bidra till trygghet för människor och samhällen. Med 28 000 talangfulla medarbetare utvecklar Saab teknik och lösningar för en säkrare och mer hållbar värld.\nSaab utvecklar, tillverkar och underhåller avancerade system inom flygteknik, vapen, ledningssystem, sensorer och undervattenssystem. Saab har sitt huvudkontor i Sverige men en global verksamhet där Saab är en del av många nationers försvarsförmåga. Läs mer om oss här\n \nVälkommen med din ansökan!",
+        "url": "https://www.aplitrak.com/?adid=cC5zdmVuc3Nvbi41OTg0NC4xMzc2NUBzYWFiLmFwbGl0cmFrLmNvbQ",
+        "published": "2026-06-03T13:53:53",
+        "deadline": "2026-06-17T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 90
     },
     {
         "id": "31095920",
