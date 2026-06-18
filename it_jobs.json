@@ -135,21 +135,6 @@
         "relevance_score": 90
     },
     {
-        "id": "31046629",
-        "title": "Experienced Software Engineer",
-        "employer": "L&T Technology Services Sverige Filial",
-        "location": "Göteborg",
-        "description": "Job Title: Software Engineer\nExperience Range: 8 to 12 Years\nLocation: Stockholm, Sweden\nRole Overview\nThe Software Engineer is responsible for designing, implementing, and testing software components for the Tachograph system. Engineers should have development skills in CAN, Diagnostics, language embedded C. This role ensures compliance with safety-critical standards, coding guidelines, and project requirements while contributing to high-quality, maintainable software.\nKey Responsibilities\n1. Design & Implementation\nTranslate software requirements into detailed design and code.\nImplement new features and enhancements on the commonized code base in Embedded C on FreeRTOS.\nFollow specified coding guidelines, best practices, and MISRA compliance for safety-critical software.\nMaintain clean, modular, and reusable code adhering to industry standards.\n\n2. Static Code Analysis\nPerform static code analysis.\nAddress all code quality issues and ensure compliance with coding standards.\n\n3. Unit Testing & Coverage\nDevelop and execute unit test cases for individual software components.\nGenerate and review MC/DC coverage reports to ensure completeness.\nAutomate unit tests where possible.\n\n4. Integration Support\nCollaborate with Integration Test Engineers to ensure smooth module integration.\nResolve defects identified during integration and qualification testing.\n\n5. Documentation & Traceability\nMaintain traceability between requirements, design, implementation, and test artifacts.\nUpdate design documents and code comments for clarity and maintainability.\n\n6. Collaboration\nWork closely with Software Architect, System Engineers, and Test Teams.\nParticipate in design reviews and provide feedback for improvements.\n\nRequired Skills & Qualifications\nBachelor of Engineering\n8+ years of experience in embedded software development or safety-critical systems.\nString understanding of Automotive Diagnostics. \nStrong programming skills in Embedded C.\nKnowledge of real-time operating systems, embedded systems, and safety-critical standards.\nFamiliarity with static analysis tools, unit testing frameworks, and CI/CD pipelines.\nExcellent problem-solving, documentation, and communication skills.",
-        "url": null,
-        "published": "2026-05-18T11:05:40",
-        "deadline": "2026-06-17T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 90
-    },
-    {
         "id": "31020343",
         "title": "System Developer",
         "employer": "Capgemini Engineering Sverige AB",
@@ -353,21 +338,6 @@
         "url": "https://jobs.smartrecruiters.com/AFRY/744000127426769-android-c-automotive-software-developer?oga=true&trid=4de896fd-3759-406c-8d07-8a7da8844ce0",
         "published": "2026-05-20T14:49:59",
         "deadline": "2026-07-10T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
-        "id": "31049979",
-        "title": "Senior Developer",
-        "employer": "HCL Technologies Sweden AB",
-        "location": "Göteborg",
-        "description": "AOSP / Android Developer\nAbout the Role\nWe are looking for a skilled AOSP / Android Developer to join our development team. You will work in a modern embedded software environment, contributing to Android platform development, framework components, and system-level features.\nRequired Qualifications\nBachelor’s or Master’s degree in Software Engineering, Computer Science, or equivalent education\nStrong experience in Java and/or Kotlin development\nExperience working in a modern embedded Linux software environment\nHands-on experience with development tools such as Git, Gerrit, and Jenkins\nSolid knowledge of the Android Framework, including development and build tools\nExperience with Gradle and Soong build systems\nAbility to design and write automated unit and integration tests\n\nMeritorious / Nice-to-Have Skills\nSwedish driver’s license (B-level) for testing purposes\n\nFor Bluetooth Developers\nPrevious experience in Bluetooth development is required\nExperience with AIDL, Android HAL, and C/C++ development is highly meritorious\n\nFor HMI Developers\nPrior experience in Human Machine Interface (HMI) development\nExperience working with AOSP is highly desirable\n\nWhat We Offer\nA collaborative and technically advanced development environment\nOpportunities to work with cutting-edge Android and embedded technologies\nA role with real impact on platform-level and user-facing solutions",
-        "url": null,
-        "published": "2026-05-18T16:09:50",
-        "deadline": "2026-06-17T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
         "source": "JobTech",
@@ -765,21 +735,6 @@
         "relevance_score": 100
     },
     {
-        "id": "31036260",
-        "title": "Software Engineer (R&D)",
-        "employer": "Ascom (Sweden) AB",
-        "location": "Göteborg",
-        "description": "Join Ascom Sweden as a Software Engineer – and help Shape the Future of Critical Communication!\nWe’re looking for a passionate Embedded Software Developer to join the development of radio-based personal alarm and communication devices used in health care and other critical environments. Our products include VoWiFi phones, DECT handsets, paging solutions, and IP‑DECT infrastructure with the purpose to put the right information in the right hands, at the right time and help people to make the best possible decisions in critical situations.\nThe position is within R&D at our Gothenburg office.\nYour Key Responsibilities\n\nDevelop embedded software for real-time communication devices and infrastructure products.\n\n\nDesign and implement low-level drivers and hardware near functionality (I2C, SPI)\n\n\nWork with real-time operating systems and multitasking/inter-process communication\n\n\nDevelop network communication stacks (TCP/IP, SIP, RTP)\n\n\nContribute to radio communication features and protocols.\n\n\nCollaborate with hardware, quality and cross-functional stakeholders\n\n\nParticipate in system architecture and technical design decisions, including investigating and proposing solutions. \n\n\nWhat You Bring\n\nBachelor’s or Master’s degree in Computer Science or related field\n\n\nExperience in object-oriented C++ development for embedded systems\n\n\nExperience with real-time OS, multitasking, and inter-process communication\n\n\nStrong background in low-level C/C++ development for drivers and data communication\n\n\nExperience with TCP/IP and data security protocols\n\n\nSolid understanding of low-level development and hardware interaction\n\n\nProficiency in development tools as GCC, Git, Docker, Jenkins, CMake\n\n\nExcellent English skills (spoken and written)\n\n\nAbility to converse in Swedish \n\n\nWho You Are\n\nA collaborative team player with excellent interpersonal and communication skills\n\n\nStructured and analytical, with strong problem-solving skills\n\n\nProactive and self-driven, with a sense of ownership\n\n\nComfortable working in cross-functional, hardware-close environments \n\n\nWhy Ascom?\nAt Ascom, you’ll be part of a dynamic team driving innovation and you’ll get to work on meaningful projects that impact safety and communication.\nReady to take the next step in your career? Apply now and help us shape the future of Innovation at Ascom!",
-        "url": "https://career.ascom.com/jobs/7731419-software-engineer-r-d/applications/new?promotion=1998100-arbetsformedlingen",
-        "published": "2026-05-13T13:11:09",
-        "deadline": "2026-11-09T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "30971542",
         "title": "Cyber Security Engineer",
         "employer": "Mission Consultancy Assistance Sweden AB",
@@ -1005,21 +960,6 @@
         "relevance_score": 100
     },
     {
-        "id": "31049892",
-        "title": "Member Technical Staff",
-        "employer": "HCL Technologies Sweden AB",
-        "location": "Göteborg",
-        "description": "Data Engineer\n·      Python, Databricks, SQL, Database Management, Big Data, Data Pipelines, Snwo Flakes, Data Governance, GDPR Compliance, Cloud Platforms (Azure / AWS / GCP), Kubernetes (k8s), OpenShift, CI/CD, Containerization, Fault Tracing, HIL Testing (Hardware-in-the-Loop), Data Quality Assurance, Data Validation, System Resilience, Automated Data Systems, System weaver (if applicable), AI/ML Model Training Data, ETL / ELT, Distributed Data Systems, and Data Monitoring & Observability.",
-        "url": null,
-        "published": "2026-05-18T16:00:05",
-        "deadline": "2026-06-17T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 80
-    },
-    {
         "id": "31020328",
         "title": "System engineer (automotive industry)",
         "employer": "Capgemini Engineering Sverige AB",
@@ -1075,21 +1015,6 @@
         "deadline": "2026-07-02T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
-        "id": "30813580",
-        "title": "CQR Engineer",
-        "employer": "Capgemini Engineering Sverige AB",
-        "location": "Göteborg",
-        "description": "The world leader in engineering services, we bring together a global team of engineers, scientists, and architects to help the world’s most innovative companies unleash their potential. From autonomous cars to life-saving robots, our digital and software technology experts think outside the box as they provide unique R&D and engineering services across all industries. Join us for a career full of opportunities. Where you can make a difference. Where no two days are the same.\nYour Role\nWe are looking for an CQR Engineer for our pharmaceutical projects in Gothenburg (compliance, quality & regulatory).\nIn this role you will play a key role in:\n• Work towards diverse goals depending on the client's specific needs\n• Driving and supporting our clients in achieving their quality and regulatory objectives\n• Collaborate and support pharmaceutical clients to deliver patient-focused, compliant, and efficient solutions\nYour Profile\n• Degree in pharmacy or engineering\n• Understanding of Quality Systems and GMP and related activities to Investigational Medicinal Product (IMP)\n• Experience of documentation, deviations, changes, and other quality and compliance decisions in the development projects.\n• Experience preferably within a pharmaceutical manufacturing organization is desirable\n• Comprehensive understanding of EU pharmaceutical regulations, encompassing product registration, manufacturing processes, and compliance with EMA guidelines and GxP quality standard\nWhat we believe you will enjoy about working here\n• We recognize the significance of flexible work arrangements to provide support. Be it remote work, or flexible work hours, you will get an environment to maintain healthy work life balance.\n• At the heart of our mission is your career growth. Our array of career growth programs and diverse professions are crafted to support you in exploring a world of opportunities.\n• We support your personal development and offer an education library with more than 250 000 (!) courses and educations and certifications.\nApplication\nAs part of our recruitment process, identity verification or background checks may occasionally be conducted.\nAbout Capgemini \nCapgemini is a global business and technology transformation partner, helping organizations to accelerate their dual transition to a digital and sustainable world, while creating tangible impact for enterprises and society. It is a responsible and diverse group of 340,000 team members in more than 50 countries. With its strong over 55-year heritage, Capgemini is trusted by its clients to unlock the value of technology to address the entire breadth of their business needs. It delivers end-to-end services and solutions leveraging strengths from strategy and design to engineering, all fueled by its market leading capabilities in AI, generative AI, cloud and data, combined with its deep industry expertise and partner ecosystem. The Group reported 2024 global revenues of €22.1 billion. \n\n\nGet The Future You Want | www.capgemini.com",
-        "url": "https://career5.successfactors.eu/sfcareer/jobreqcareerpvt?jobId=384113&company=capgemitecP3&st=66F098DD95D20A45878A7C89014B4A8868E84670",
-        "published": "2026-03-27T13:53:55",
-        "deadline": "2026-06-30T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": true,
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 100
