@@ -330,6 +330,21 @@
         "relevance_score": 100
     },
     {
+        "id": "30793987",
+        "title": "Mobile Apps Developer",
+        "employer": "Alten Sverige AB",
+        "location": "Göteborg",
+        "description": "We are looking for a talented and passionate Mobile Apps Software Developer specializing in Android development to join our team. Here, you’ll have the chance to develop one of the world’s most advanced mobile applications and the supporting systems that make it all work. You’ll be at the forefront of technology, creating solutions that gain recognition in leading tech media. \n\n \n\nWHY ALTEN?\n\nAt ALTEN, you will be part of a highly skilled team working with some of the most exciting projects in the automotive industry. We offer a culture where you can grow, challenge yourself and make a real impact in projects that shape the vehicles of tomorrow.\r\n\n\nYOUR BACKGROUND\nBSc degree in a computer-related field or equivalent work experience as a mobile apps software developer (or a passionate hobbyist developer).\nDocumented experience of released applications (at least one published app) or open-source projects, either independently or as part of a team.\nExperience in writing testable and maintainable code.\nFluent in Kotlin with a strong understanding of the Android platform and framework.\nExcellent English skills, both verbal and written.\n\n \n\n \nMERITORIOUS:\nExperience in C/C++ embedded development.\nExperience in iOS mobile app development.\nExperience in Microsoft Azure .NET development.\nExperience with agile tools such as Jira, Git, and Jenkins.\nExperience in software development automation.\nGood knowledge of BLE technology (Bluetooth Low Energy).",
+        "url": "https://www.alten.se/career/15394-Mobile-Apps-Developer",
+        "published": "2026-03-24T15:02:04",
+        "deadline": "2026-06-30T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
         "id": "31174997",
         "title": "OTA Release Leader",
         "employer": "Agile Resources AB",
