@@ -240,21 +240,6 @@
         "relevance_score": 100
     },
     {
-        "id": "31156704",
-        "title": "Software Developer - Software Download",
-        "employer": "Volvo Personvagnar Aktiebolag",
-        "location": "Göteborg",
-        "description": "Company description:\nWho are we?Volvo Cars is a company on a mission; to bring traditional car manufacturing into a connected, sustainable and smart future.Since 1927, we have been a brand known for our commitment to safety, creating innovative cars that make life less complicated for our consumers. In 2010, we decided to transform our business, resulting in a totally new generation of cars and technologies, as well as steady growth and record sales. Today, we’re expanding our global footprint in Europe, China and the US, and we’re on the lookout for new talent. We are constantly pushing our own skills and abilities to drive change in the automobile industry like never before. We are looking for innovative, committed people to join us in this endeavour and create safe, sustainable and connected cars. We believe in the power of people and will challenge and support you to reach your full potential. Join us and be part of Volvo Cars’ journey into the future.\nJob description:   Let's introduce ourselves \nThe SWDL team is part of Diagnostic and Base Technology (DBT), which forms the foundation for all electronic control units across the entire vehicle electrical system. Our mission is to enable common, scalable solutions for R&D development departments, driving complexity reduction, cost efficiency, and increased development speed.\n Within this context, the team plays a key role, contributing to the software download capability as a core enabler for BaseTech, OTA, VIDA, and vehicle-level integration maturity across platforms.\n What you'll do \nYou will become a member of an development team with great team spirit, the Software Download (SWDL) team. The team is responsible for designing and verifying Software Download technologies. The team is also developing (in C++) the One SWDL Engine, which is one common SW module to be used for SWDL in many areas such as development testing, vehicle implementation (in Volvo Cars new Core System Platform), production and at aftermarket. The team is collaborating with many different system areas of the vehicle, as well as customer service departments and manufacturing engineering. As a part of our team, you get access to long-term development opportunities in a dynamic and continuously growing field.You get inspired by our mission to give our customers a better car experience every day. You will use your deep knowledge to develop the SW component we call One SWDL Engine.\n What you'll bring \nWe believe you are a true software engineer who is motivated by challenging tasks in a complex and innovative environment. You have the interest and experience in creating SW architecture and technical road maps. You enjoy sharing your knowledge with your colleagues, but also learning from others.  For this position a minimum of 5 years’ experience with C++, Linux and GIT is required. Experience with other areas such as Python, C, Gerrit, Jenkins, Android, DoIP, software testing and CI is considered a plus.\n You bring hardware and system knowledge, including ECU architecture, flashing and download concepts, and hands-on testing on real hardware and rigs, with an understanding of BaseTech, OTA, and vehicle electrical systems. Solid knowledge of embedded systems and experience with QNX. Knowledge of basic Cryptography and PKI.\n You have an interest in AI-assisted development, using modern tools for code generation, review, and quality improvement. You are customer-focused, quality-driven, collaborative, fluent in English, and comfortable working with incomplete information while solving complex problems.\n Driven by customer focus you get things done. You are committed to high delivery quality and you can proceed your work without having all facts at hand before you start. You are flexible and have excellent communication and documentation skills. You have a positive attitude and are a team player. You are experienced with continuous development and familiar with software development best practices. You are fluent in English and can communicate effectively with all types of stakeholders. You are analytical and a problem-solver, aware of that there are multiple solutions for a problem.\n We believe you have a M.Sc or B.Sc degree in Software Development, Software Engineering or equivalent.",
-        "url": "https://volvo-car-corporation.contactrh.com/jobs/9669/44232774",
-        "published": "2026-06-09T10:25:02",
-        "deadline": "2026-06-20T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "31136495",
         "title": "AI developer",
         "employer": "Synteda AB",
@@ -315,21 +300,6 @@
         "relevance_score": 100
     },
     {
-        "id": "31061305",
-        "title": "Android/C++ Automotive Software Developer",
-        "employer": "AFRY AB",
-        "location": "Göteborg",
-        "description": "Company Description\nAFRY offers services in engineering, design, digitalization, and advisory. We are dedicated experts in industry, energy, and infrastructure, creating value for future generations. AFRY has Nordic roots with a global reach. Our shared principles – Result driven, Client centric, Empowering, and Accountable – guide how we work, develop, and succeed together. Join us in accelerating the transition to a sustainable society.\n\nJob Description\nAt AFRY, we develop and deliver cutting-edge solutions for vehicles, systems, functions, and attributes to clients in the automotive industry. Our customers include both established OEMs, innovative startups, and Tier 1 system suppliers.\nWe are currently seeking experienced software developers who are passionate about shaping the next generation of infotainment systems based on Google’s Android Automotive OS.\nAs an Android/C++ Automotive Software Developer, you will work on software development across both application and native layers of the Android stack for infotainment systems. You will collaborate closely with UX designers and other stakeholders to define a seamless, end-to-end user experience. You’ll be part of a team with full responsibility—from design and architecture to documentation, development, verification, and validation. At AFRY, you’ll also have the opportunity to contribute actively to innovation by generating new ideas and solutions.\n\nQualifications\n\nWe are looking for candidates with the following background and skills:\n\nM.Sc. in Software Engineering or equivalent experience gained through years of professional practice\nSolid experience in Android application and platform development, including work with AOSP and the AOSP build system\nFamiliarity with modern app architectural patterns such as MVP, MVVM, and layered architecture\nExperience working with automotive communication buses\nStrong programming skills in Android, Kotlin, C++, and Python\nGood knowledge of Android testing frameworks such as JUnit, Espresso, and Mockito\n\nExcellent command of English, both written and spoken\nMandatory qualifications:\nProven experience working with a Swedish OEM within the automotive industry\nCurrently residing in Sweden today\nPossession of a Swedish B-class driving license\n\nMeritorious qualifications:\nExperience in Embedded Linux development\nFamiliarity with Continuous Integration (CI) tools and workflows\nDevOps\n\n\nAdditional Information\nAt AFRY, you are given the opportunity to grow in an inspiring and innovative environment where you can develop both professionally and personally. We value our employees’ well-being and offer secure employment with competitive benefits. AFRY places strong emphasis on competence development, and we provide both internal and external training opportunities to help you continue growing within your field.\nWe are flexible regarding your start date. You are welcome to contact us even if you have just started considering a job change and are not quite there yet. We would be happy to tell you more about our operations and future opportunities, as we continuously seek new colleagues.\nFor all recruitments at AFRY, an ID check, reference check, and verification of education are always conducted as a standard procedure. Please feel free to read more about our recruitment process here.\nWelcome with your application! Last date to apply: 2026-06-20\nDaniel Sletteberg Loveryd - Service Area Manager, daniel.slettebergloveryd@afry.com (mailto:daniel.slettebergloveryd@afry.com)\nWe kindly ask not to be contacted by external providers regarding recruitment solutions or similar services, as these are managed according to company-level agreements.  \nAt AFRY, we engineer change in everything we do. Change happens when brave ideas come together. When we collaborate, innovate technology, and embrace challenging points of view. That’s how we're making future. We are actively looking for qualified candidates to join our inclusive and diverse teams across the globe. Join us in accelerating the transition towards a sustainable future.",
-        "url": "https://jobs.smartrecruiters.com/AFRY/744000127426769-android-c-automotive-software-developer?oga=true&trid=4de896fd-3759-406c-8d07-8a7da8844ce0",
-        "published": "2026-05-20T14:49:59",
-        "deadline": "2026-07-10T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "30793987",
         "title": "Mobile Apps Developer",
         "employer": "Alten Sverige AB",
@@ -340,6 +310,21 @@
         "deadline": "2026-06-30T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
+        "id": "30466704",
+        "title": "Software Flow Developer",
+        "employer": "SiNIX Flow AB",
+        "location": "Göteborg",
+        "description": "We are now looking for more colleagues who has previously taken an active part in building and improving CI/CD systems and are familiar with some related practices such as provisioning, delivery flows, build systems, repository management, data management and data visualization. We learn, share knowledge and always strive to create and deliver the best solutions to our customer.\nAs we have a great range of customers demanding our skills it gives a good opportunity for you to discover many different solutions and technologies. Most of the time, you will be working together with colleagues from SiNIX, at the customer or in one of our teams.\nOur customers trust in us and we work very closely with them. In the partnership, we guide them to the solutions that supports them in the best possible way.\nOur mission in SiNIX Flow -  is to make software development smooth and efficient. An environment where you as a developer get fast feedback through intuitive built pipelines and continuous integration.\nWe are looking for persons with a few years of year's experience in CI/CD, DevOps etc BUT most importantly - are interested in making software development smooth and efficient.\nIt´s good if you have:\nA Bachelor or Master's degree in Computer Science or equivalent.\nExperience in CI/CD pipeline design.\nExperience in IaC.\nExperience in working with Docker and Kubernetes.\nExperience with different cloud providers.\nScripting/coding in for example Python, but good to have C++, Golang etc.\nWe offer:\nInteresting assignments\nGreat and skilled colleagues\nLots of fun and learning\nWe are a Göteborg based company, but have customers outside the region.\nAt SiNIX, we prioritize the value of our colleagues by creating memorable experiences and sharing skills. We empower our employees with choices in training, vacation time, and flexible salaries, fostering a supportive and thriving work environment. Our aim is to inspire ongoing growth and development, making success a shared journey.",
+        "url": "https://jobs.sinix.se/",
+        "published": "2026-02-01T00:00:00",
+        "deadline": "2026-07-30T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": true,
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 100
@@ -743,6 +728,21 @@
         "url": null,
         "published": "2026-04-29T10:13:10",
         "deadline": "2026-06-27T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
+        "id": "30855467",
+        "title": "ADAS Embedded Developer",
+        "employer": "Nexer Engineering AB",
+        "location": "Göteborg",
+        "description": "The future of mobility is evolving, and so are we at Nexer Engineering in Gothenburg.\nAre you motivated by tackling complex technical challenges and eager to contribute to the future of intelligent and safe vehicles? We are strengthening our embedded community, and we’re looking for someone who wants to be part of it. Together, we stay at the forefront, create innovative solutions for our clients, grow our skills, and have a lot of fun along the way!\nAbout Nexer Engineering in Gothenburg\nWithin Nexer Engineering, we collaborate with industry‑leading companies and specialize in product development and advanced engineering. Many of our assignments are within the automotive industry, where ADAS and future mobility play a central role. We cover competence areas ranging from embedded systems to low‑level, hardware‑near software development and sensor‑based technologies.\nAbout the role\nWe hire for the long term, and we’re looking for someone who wants to grow with us. And while we’re particularly interested in someone with a strong interest in ADAS, you will also, over time, have the flexibility to take on other embedded assignments - such as connectivity, platform and middleware development, or classic embedded programming in other industries.\nIn embedded development and ADAS‑related assignments, you will contribute to the development of next‑generation vehicle technologies. Depending on your background and ambitions, your work may involve areas such as:\nsoftware development for ADAS and sensor‑based systems\nembedded C/C++ development\nworking with radar, lidar, cameras, or other perception technologies\nreal‑time environments and safety‑critical systems\nalgorithmic functions, platform development, or low‑level hardware‑near software\n\nWe believe you have:\nExperience in ADAS and AUTOSAR\nExperience in embedded systems\nStrong programming skills in Embedded C (C++ is meritorious)\nExperience from automotive or similar technical domains\nAt least a B.Sc. in Computer Science, Electrical Engineering or a related field\n\nApplication\nDo you recognize yourself in the description above and feel that Nexer sounds like the right place for you? Then we’re really looking forward to reading your application!\nPlease note that we do not accept applications via e‑mail due to GDPR regulations.\nNexer as an employer\nIf you work at Nexer, you get a bold and entrepreneurial employer with an international presence. We take pride in leading the digital revolution and being at the forefront of technology, always with an agile and forward-looking approach. With us, you get unique opportunities to dream big, act smart and develop. As a family-owned company, we own our strategy and invest in long-term goals, and we encourage employee involvement and ideas. In addition, we offer a flexible work policy, where it’s possible to work remotely when it suits you and your assignment.\nOur culture\nOur vision is Promising future – it’s important for us to make a difference and contribute to a better future. We are committed to our customers and have a sincere concern for each other. We embrace diversity and believe that people with different backgrounds and experiences make our work and our company better. We value innovation and the will to develop and take the next step, onwards and upwards. And most importantly – we have fun at work!",
+        "url": "https://nexergroup.teamtailor.com/jobs/7506074-adas-embedded-developer",
+        "published": "2026-04-02T08:53:35",
+        "deadline": "2026-07-31T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
         "source": "JobTech",
