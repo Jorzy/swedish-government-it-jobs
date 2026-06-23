@@ -45,6 +45,21 @@
         "relevance_score": 100
     },
     {
+        "id": "31200813",
+        "title": "C++ Software Engineer – Automotive Industry",
+        "employer": "ACADEMIC WORK SWEDEN AB",
+        "location": "Göteborg",
+        "description": "Would you like to work at the forefront of autonomous driving and combine advanced C++ development with system design? Academic Work is currently looking for an experienced developer for our client in Gothenburg!\nAbout the role\nIn this role, you will combine system design with development in C++ and Python. You will become part of a small, close-knit team of five people where collaboration with the Product Owner and Unit Leader is close. The work revolves around understanding, breaking down, and realizing requirements in advanced software systems for autonomous functions — from analysis and architecture to implementation and testing.\nFor this role, we are looking for someone who is curious, enjoys learning new things and does not hesitate to ask for help when needed. At the same time, you are proactive and take initiative to drive the work forward.\nYou are offered\nA stimulating work environment with a focus on personal and professional development\nThe opportunity to work with the latest technology\nA flexible workplace where you can combine office work and remote work\n\nWork tasks\nWork with requirements analysis, requirements breakdown, and system design\nDevelop and test software in C++ and Python\nModel and document systems in SystemWeaver or similar tools\nUse specialized analysis and debugging tools\nCollaborate closely with the team to ensure robust and scalable solutions\n\nWe are looking for someone who\nHas several years of experience in embedded software development with strong knowledge of C++ and Python\nHas professional experience within the automotive industry\nHas experience with software architecture and design patterns\nIs comfortable working with system design, requirements analysis, and requirements breakdown\nHas experience with CarWeaver / SystemWeaver\nHas good knowledge of English, Swedish is highly meritorious\n\nTo succeed in the role, your personal skills are:\nGoal oriented\nResponsible\nOrganized\n\nOur recruitment process\nThis recruitment process is handled by Academic Work and it is our client’s wish that all questions regarding the position is directed to Academic Work.\nOur selection process is continuous and the advert may close before the recruitment process is completed if we have moved forward to the next phase. The process includes two tests: one personality test and one cognitive test. The tests are tools to find the right talent for the right position, to enable equality, diversity, and a fair process.",
+        "url": "https://www.academicwork.se/lediga-jobb/p/platsbanken/Y89Y3T",
+        "published": "2026-06-22T13:14:28",
+        "deadline": "2026-12-19T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
         "id": "31182147",
         "title": "Software Engineer",
         "employer": "Volvo Personvagnar Aktiebolag",
@@ -525,6 +540,21 @@
         "relevance_score": 100
     },
     {
+        "id": "31202647",
+        "title": "HIL Engineer",
+        "employer": "GlobalLogic Sweden AB",
+        "location": "Göteborg",
+        "description": "We are seeking Hardware-in-the-Loop (HIL) Engineer to support the development, maintenance, and continuous improvement of component and system-level HIL test environments within an automotive software platform organization.\nThe candidate will be responsible for ensuring that HIL rigs remain operational, correctly configured, and aligned with project plans, enabling developers and test teams to efficiently verify software, functions, and requirements throughout the product lifecycle. The role involves hands-on work with hardware, software integration, automation, troubleshooting, networking, and close collaboration with development and test teams.\nRequirements\nBachelor’s degree in Electrical Engineering, Computer Engineering, Software Engineering, or a related field.\nExperience working with Hardware-in-the-Loop (HIL), embedded systems, automotive testing, or system integration.\nHands-on experience with ECU bring-up, software flashing, and troubleshooting.\nStrong knowledge of Linux environments, including system installation, configuration, and maintenance.\nExperience with automotive communication and networking technologies, including Ethernet, IP networking, switches, and VLANs.\nProficiency in at least one scripting or programming language such as Python, CAPL, or C/C++.\nExperience using Vector tools such as CANoe and CANalyzer.\nStrong debugging and root-cause analysis skills across both hardware and software domains.\nAbility to work independently while collaborating effectively with cross-functional engineering teams.\nExperience with MATLAB/Simulink.\nKnowledge of CI/CD pipelines and test automation frameworks.\nExperience supporting or maintaining large-scale HIL test environments.\nFamiliarity with DevOps practices and automation tools.\nUnderstanding of automotive electrical architectures and ECU communication.\nExperience with Cisco switches, rack installations, and laboratory test environments.\n\n \nJob responsibilities\nBuild, configure, and maintain HIL test environments for automotive software development and validation.\nIntegrate and troubleshoot ECUs, embedded systems, networking, and test hardware.\nSupport developers and test engineers by ensuring reliable and available test platforms.\nDevelop automation solutions using Python, CAPL, or similar technologies to improve efficiency and scalability.\nPerform software flashing, system bring-up, fault tracing, and root-cause analysis.\nMaintain Linux-based systems and support networking infrastructure used in HIL environments.\nCollaborate with cross-functional teams in an Agile development environment.\nDrive continuous improvements to HIL platforms, automation frameworks, and testing processes.",
+        "url": "https://www.globallogic.com/careers/hil-engineer-irc296671/",
+        "published": "2026-06-22T16:52:05",
+        "deadline": "2026-07-03T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
         "id": "31199239",
         "title": "Embedded Software Engineer  Automotive",
         "employer": "Bertrandt Sverige AB",
@@ -653,21 +683,6 @@
         "url": "https://career.coretura.com/jobs/7892023-embedded-software-developer/applications/new?promotion=2047906-arbetsformedlingen",
         "published": "2026-06-11T10:43:56",
         "deadline": "2026-06-26T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
-        "id": "31163084",
-        "title": "Driver Simulation & Control Engineer",
-        "employer": "Mpya Sci & Tech AB",
-        "location": "Göteborg",
-        "description": "Mpya Sci &amp; Tech was created by and for people who love technology and science. We’re not here to do what everyone else is doing. We believe that real talent lies in individuals who dare to keep growing throughout their entire lives. With extensive experience and deep industry knowledge, we’ve built a forward-leaning and cutting-edge company—our way. At Mpya Sci &amp; Tech, we believe in a sustainable working life where we build a culture together based on genuine involvement, eager curiosity, and the freedom to be yourself. Learn more at: www.mpyascitech.com .\nAbout Mpya Sci & Tech\nMpya Sci & Tech is a company built by engineers – for engineers. We’ve created a workplace where you, as an employee, are always at the center. In everything we do, we strive for a high level of involvement and responsiveness to our employees' thoughts about their future roles and careers. Together, we are building a strong, inclusive, curious, and open-minded culture that offers great opportunities for our team members. We want you to work on assignments that you are passionate about, grow professionally, and maintain a healthy work–life balance.\nAbout the Role\nWe are now looking for a Driver Simulation & Control Engineer to support one of our custmers.A team of software developers, automotive engineers, data scientists, physicists, who collaborates to build a best-in-class simulation environment for autonomous driving (AD) and advanced driver assistance systems (ADAS). Our group, Software-in-the-Loop Environments, is part of the R&D organization Safe Vehicle Automation (SVA), which owns all AD/ADAS and vehicle control software running on our vehicles. Our tools are used across the organization to test, verify, and validate software — helping us deliver the safest cars on the market.\nWhat you will do\nThe closed-loop simulations team develops an in-house simulator to test the decision-making and control components of our AD/ADAS software stack. We work primarily in C++ and Python, following open standards such as OpenSCENARIO, OpenDRIVE, and OSI to build a scalable, high-performance simulator. We are looking for a software developer with experience in simulation and control theory who can help ensure our driver model performs well across all relevant scenarios. You will contribute as a developer on our agile Scrum team, collaborating on user stories in a backlog the team owns end to end.\nWho you are\nYou are a team player who actively looks for opportunities to grow — both personally and as part of a team. You communicate clearly, take ownership of your work, and build trust with colleagues and stakeholders. You enjoy tackling loosely defined problems and are comfortable with ambiguity and change.\nYou hold an M.Sc. in Physics, Automotive Engineering, Mechatronics, Computer Science, Computer Engineering, or a related engineering discipline. Candidates who have developed equivalent skills outside of a formal education are also encouraged to apply.\nYou have experience with closed-loop simulations and control theory. Experience with driver modeling in a simulation context is a plus, as is familiarity with OpenSCENARIO, OpenDRIVE, and OSI standards.\nWho are we?\nAt Mpya Sci & Tech, we believe in a sustainable working life, and we’re building a culture where you can: Be Dedicated - Be Brave and Curious - Be Inclusive and Allowing\nWe believe that real talent lies in those who dare to keep growing throughout life. With deep industry knowledge and years of experience, we’ve built a forward-thinking company – in our own way.\nInterested?\nFeel free to reach out if you want to know more, Patrik Artman, Business Manager @ Mpya Sci & Tech, 0733-908035, Patrik.artman@mpyascitech.com",
-        "url": "https://mpyascitech.com/jobba-hos-oss?jobid=314916&ref=platsbankenv2",
-        "published": "2026-06-10T12:00:44",
-        "deadline": "2026-06-22T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
         "source": "JobTech",
