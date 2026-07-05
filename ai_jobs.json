@@ -30,6 +30,21 @@
         "relevance_score": 70
     },
     {
+        "id": "31248818",
+        "title": "Fullstack Developer",
+        "employer": "WEON GALAXY AB",
+        "location": "Göteborg",
+        "description": "We are looking for a skilled Fullstack Developer with a strong software engineering foundation and a passion for building high-quality products. You will work across the entire technology stack, developing user-facing applications, backend services, and platform capabilities that support our AI-powered virtual fitting technology.\nThis role requires a high degree of ownership and initiative. As part of a fast-moving startup, you'll have the opportunity to influence technical decisions, contribute to product strategy, and take features from concept to production.\nQualifications\nStrong experience with JavaScript and TypeScript.\nExperience building modern web applications using React and Next.js.\nExperience developing backend services using Node.js.\nExperience designing and consuming REST APIs.\nFamiliarity with relational databases such as PostgreSQL.\nSolid understanding of software engineering principles, system design, and web architecture.\nExperience working with Git and Linux-based development environments.\nBachelor's or Master's degree in Computer Science, Software Engineering, or a related field (or equivalent practical experience).\n\n\n\nNice to Have\nPython\nExperience integrating AI or Machine Learning solutions into production systems\nKnowledge of Computer Vision technologies\nExperience working with SaaS products or e-commerce platforms",
+        "url": null,
+        "published": "2026-07-04T18:55:40",
+        "deadline": "2026-08-03T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "AI",
+        "relevance_score": 70
+    },
+    {
         "id": "31242222",
         "title": "Marketing & Media Analytics",
         "employer": "VOLVO BUSINESS SERVICES AKTIEBOLAG",

@@ -913,20 +913,5 @@
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 100
-    },
-    {
-        "id": "31020328",
-        "title": "System engineer (automotive industry)",
-        "employer": "Capgemini Engineering Sverige AB",
-        "location": "Göteborg",
-        "description": "The world leader in engineering services, we bring together a global team of engineers, scientists, and architects to help the world’s most innovative companies unleash their potential. From autonomous cars to life-saving robots, our digital and software technology experts think outside the box as they provide unique R&D and engineering services across all industries. Join us for a career full of opportunities. Where you can make a difference. Where no two days are the same.\nYour role\nWe are looking for an engineer for complex and advanced system design. You will use your expertise and technical knowledges to help our clients to develop, systemize, integrate, verify, and launch new systems. In this position you will collaborate with many different stakeholders and teams.\nIn this role you will play a key role in:\n•  An agile team with vast competence in function design, systemization, function realization and integration, requirements management and decomposition as well as function Verification and Validation (V&V) in both virtual physical test environments.\n•  The collaboration with colleagues from different teams, who all share the same passion for their work.\nYour profile\n•  Relevant educational background\n•  Minimum 4+ years of work experience in relevant domain\n•  The ability to understand and apply architectural principles to SW system design\n•  Understands and applies UML to represent the SW system design\n•  Safety thinking and experience in applying safety requirements during the SW system design process\n•  Experience in SE-Tool or System Weaver\n•  Awareness about the SW development processes\n•  Awareness about the ISO26262 functional safety processes\n•  Awareness about the R155 cyber security processes\n•  Swedish driving license or soon to get\nMeritorious skills:\n•  Software integration\n•  Function integration and testing in HIL and SIL environments\n•  Work experience from Autonomous functions\nWhat we believe you will enjoy about working here \n•  We recognize the significance of flexible work arrangements to provide support. Be it remote work, or flexible work hours, you will get an environment to maintain healthy work life balance. \n•  At the heart of our mission is your career growth. Our array of career growth programs and diverse professions are crafted to support you in exploring a world of opportunities. \n•  We support your personal development and offer an education library with more than 250 000 (!) courses and educations and certifications.\nAbout Capgemini \nCapgemini is a global business and technology transformation partner, helping organizations to accelerate their dual transition to a digital and sustainable world, while creating tangible impact for enterprises and society. It is a responsible and diverse group of 340,000 team members in more than 50 countries. With its strong over 55-year heritage, Capgemini is trusted by its clients to unlock the value of technology to address the entire breadth of their business needs. It delivers end-to-end services and solutions leveraging strengths from strategy and design to engineering, all fueled by its market leading capabilities in AI, generative AI, cloud and data, combined with its deep industry expertise and partner ecosystem. The Group reported 2024 global revenues of €22.1 billion. \nGet The Future You Want | www.capgemini.com",
-        "url": "https://www.capgemini.com/se-en/jobs/7035-en_US+sap_btp/",
-        "published": "2026-05-11T09:57:10",
-        "deadline": "2026-10-31T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": true,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
     }
 ]
