@@ -360,6 +360,21 @@
         "relevance_score": 100
     },
     {
+        "id": "31068608",
+        "title": "Android Developer",
+        "employer": "Tata Technologies Nordics AB",
+        "location": "Göteborg",
+        "description": "At Tata Technologies, we make product development dreams a reality by designing, engineering, and validating the products of tomorrow for the world’s leading manufacturers. Due to our continued growth, we are now recruiting for AAOS Application Developers.\nResponsibilities:\nDevelop and maintain system-level applications for AAOS running in Android VM Integrate applications with vehicle hardware via HALs (Hardware Abstraction Layers) and AIDL interfaces\nOptimize performance, memory usage, and boot time for embedded environments\nCollaborate with UX/UI teams to implement responsive and intuitive interfaces\nEnsure compliance with automotive safety and security standards\nDebug and resolve issues across multiple layers (Java, JNI, native C++)\nParticipate in code reviews, unit testing, and CI/CD pipeline integration\nDocument architecture, APIs, and development workflows\n\n\n\nKnowledge/skills:\nBachelor’s or Master’s degree in Computer Science, Electrical Engineering, or related field\nExperience in Android development, with at least 1 year in AAOS\nStrong proficiency in Java and Kotlin; familiarity with C/C++ is a plus\nExperience with Android System Services, Binder IPC, and AOSP customization\nHands-on experience with Android VM (ART/Dalvik) and embedded Linux\nFamiliarity with automotive protocols (Ethernet, CAN, LIN, MOST) and VHAL\nKnowledge of Android build system (ex, Gradle)\nSource code, CI/CD and artifact management systems like GitHub, GitHub Actions, GitHub Packages\n\nPreferred Skills\nExperience with Android Automotive Emulator and AAOS reference platforms\nFamiliarity with Google Automotive Services (GAS) and non-GAS deployments\nUnderstanding of ISO 26262, ASPICE, and cybersecurity standards\nExposure to Android TV or Android Things is a bonus\n\n\n\n\n\nIf you are passionate about bringing innovation to the projects you work on, then we would love to hear from you.\nTata Technologies: Engineering a better world.\nTata Technologies would like to thank all applicants for their interest; each application will be reviewed against the set criteria for the role. We would like to advise that only candidates under consideration will be contacted. If you do not hear from us within 10 working days following the closing date, it will mean that unfortunately your application has not been successful. We will however retain your details for any suitable future opportunities.",
+        "url": "http://www.tatatechnologies.com",
+        "published": "2026-05-21T23:25:30",
+        "deadline": "2026-07-31T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
         "id": "31214017",
         "title": "Senior Test Automation Framework Engineer",
         "employer": "Agile Resources AB",
@@ -653,6 +668,21 @@
         "url": "http://www.tatatechnologies.com",
         "published": "2026-06-12T14:12:25",
         "deadline": "2026-07-12T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
+        "id": "30971542",
+        "title": "Cyber Security Engineer",
+        "employer": "Mission Consultancy Assistance Sweden AB",
+        "location": "Göteborg",
+        "description": "About the job\nAre you a skilled Cyber Security Engineer with a talent for finding gaps in the most secure systems? We’re looking for someone to perform in-depth penetration testing across various technologies, including Windows and Linux environments, Citrix Workspaces, Cloud infrastructures, and APIs. You will use the latest tools and techniques to uncover vulnerabilities and work alongside our development and security teams to address and fix them. If you're ready to tackle complex security challenges, we want to hear from you!\nThe ideal profile\nThe perfect candidate is a highly skilled and detail-oriented Cyber Security Engineer with genuine hands-on experience in penetration testing and vulnerability analysis. You have excellent written and verbal communication skills and are a strong problem-solver. You thrive both working independently and collaborating within a team, always ready to tackle challenges with analytical precision.\nQualifications:\nYou have a strong understanding of network protocols, both Windows and Linux operating systems, application architectures and Red Hat\nIn-depth knowledge of common vulnerabilities and exploits (CVEs)\nProficiency in using various penetration testing tools such as Metasploit, Nmap, Burp Suite and/or Nessus\n\nAdditional skills:\nExperience with cloud security, particularly AWS.\nKnowledge of scripting languages (e.g., Python, PowerShell).\nFamiliarity with source code review techniques.\nUnderstanding of frameworks like ISO 27001, NIST, CIS\nSecurity certifications such as OSCP, CEH, PEN TEST+",
+        "url": null,
+        "published": "2026-04-29T10:13:10",
+        "deadline": "2026-08-15T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
         "source": "JobTech",
