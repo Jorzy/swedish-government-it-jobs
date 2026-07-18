@@ -30,6 +30,21 @@
         "relevance_score": 70
     },
     {
+        "id": "31278638",
+        "title": "Computer Vision Engineer at Boneprox",
+        "employer": "Detechtiv AB",
+        "location": "Göteborg",
+        "description": "Computer Vision Engineer at Boneprox\n\n\nIntroduction Do you want to work hands-on with computer vision in a product that's actually used in clinics, while growing broadly as an engineer? At Boneprox, you'll build and refine the vision models behind our diagnostics, working closely with the rest of a small, technically driven team.\n\n\nAbout us Boneprox develops SaaS solutions for the dental industry, with a focus on diagnostics and more efficient workflows. Our products are used by clinics across Europe and combine modern web technologies with advanced AI.\nAll development is done in-house from our office at Järntorget in Gothenburg. The team has built the product from the ground up, and several members have been there since the beginning. Today, we are a small organization of around eleven people across three companies, where the development team works closely together in a flat and technically driven environment.\n\n\nThe role This is a role for someone who wants to get hands-on with computer vision on real clinical data, not toy datasets, not research demos.\n\n\nYou'll work on training and improving detection, segmentation, and keypoint models for dental radiograph analysis, digging into annotation quality and dataset structure, running experiments, and iterating on model performance. You'll work closely with our annotation pipeline and QA process to make sure the data feeding the models is actually good, and you'll help push predictions from \"works in a notebook\" to \"works reliably in production.\"\n\n\nThe role isn't isolated to modeling either. You'll work with the backend team on getting models served correctly, and contribute to how new diagnostic features get evaluated and shipped.",
+        "url": null,
+        "published": "2026-07-17T09:41:55",
+        "deadline": "2026-08-16T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "AI",
+        "relevance_score": 100
+    },
+    {
         "id": "31248818",
         "title": "Fullstack Developer",
         "employer": "WEON GALAXY AB",
