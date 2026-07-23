@@ -1,17 +1,1 @@
-[
-    {
-        "id": "31213994",
-        "title": "Test Automation Developer / System Design Engineer",
-        "employer": "Agile Resources AB",
-        "location": "Göteborg",
-        "description": "Vill du utveckla systemtester för tunga fordon och arbeta nära felsökning i en tekniskt avancerad miljö? Här får du kombinera C++ med testautomation och systemnivåvalidering.\nHär får du arbeta med systemnära testutveckling för tunga fordon i en tekniskt avancerad miljö. Rollen passar dig som trivs med felsökning, analys och att förstå hur komplex funktionalitet beter sig i praktiken.\nOm rollen\nUtveckla automatiserade tester på systemnivå.\nArbeta med testning av HIL-riggar och trucksystem.\nFelsöka resultat från nattliga körningar och rotorsak.\nBidra i ett team som arbetar med testfall utifrån funktionskrav.\n\nDet här kommer du göra\nSkapa och vidareutveckla testfall för systemnivå.\nAnalysera testresultat och avgöra om felet ligger i produkt, ramverk, test eller testobjekt.\nArbeta nära tekniska team för att förstå och verifiera funktionalitet.\nBidra till förbättring av testflöden och kvalitet i leveransen.\n\nVi söker dig som har\nGod kunskap i C++.\nErfarenhet av testutveckling eller testautomation.\nStark analytisk förmåga och strukturerat arbetssätt.\nFörmåga att felsöka komplexa tekniska problem.\nMeriterande med kunskap om fordons- eller truckdomänen.\n\nTeknik & Verktyg\nC++\nTestautomation\nHIL-riggar\nSystemnivåtest\nEUF-krav\n\nPraktisk information\nOrt: Göteborg\nArbetssätt: Ej specificerat\nSpråk: Ej specificerat",
-        "url": "https://recruit.agile.nu/apply/jp-cf64558719f7b0b7?source=platsbanken",
-        "published": "2026-06-25T08:51:27",
-        "deadline": "2026-07-25T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "RPA",
-        "relevance_score": 100
-    }
-]
+[]
