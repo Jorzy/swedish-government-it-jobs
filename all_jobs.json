@@ -435,21 +435,6 @@
         "relevance_score": 100
     },
     {
-        "id": "31265488",
-        "title": "Automotive C++ engineer",
-        "employer": "GlobalLogic Sweden AB",
-        "location": "Göteborg",
-        "description": "We are looking for an experienced C++ Engineer to join our international team working on advanced solutions in the Automotive domain. You will contribute to the development of software responsible for processing, coordination, and management of data flows in next-generation automotive systems.\nRequirements:\n* 3+ years of commercial experience in C++ development.\n* Strong knowledge of OOP, design patterns\n* Hands-on experience with Git, CI/CD, and unit testing.\n* Background in Automotive or Embedded projects is a strong plus.\n* English – Advanced (both written and spoken, for daily communication with the team).\nNice to have: \n* Driving Lisence and experience \n\n\nJob Responsibilities:\n* Design, implement, and optimize software modules in C++ for data management systems.\n* Ensure system stability, performance, and scalability.\n* Collaborate closely with international developers and system engineers.\n* Participate in code reviews, testing, and continuous improvement of development processes.",
-        "url": "https://www.globallogic.com/careers/automotive-c-engineer-gothenburg-irc295108/",
-        "published": "2026-07-10T12:18:00",
-        "deadline": "2026-07-24T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "31261714",
         "title": "Senior Embedded Software Developer",
         "employer": "Allgon AB",
@@ -688,6 +673,21 @@
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 100
+    },
+    {
+        "id": "30603966",
+        "title": "Spontaneous Application Consat Digital Solutions",
+        "employer": "Consat Engineering AB",
+        "location": "Göteborg",
+        "description": "Are you looking for a bright future? Do you want to work with cutting-edge technology — alongside colleagues who could easily belong in your favorite sitcom?\nWhat a fortunate coincidence. We might be looking for you.\nAt Consat Digital Solutions, we operate at the intersection of software, hardware, and intelligent systems. We develop smart, sustainable digital solutions — from advanced embedded systems and connected products to AI-driven applications and scalable digital platforms.\nEven if we don’t have the perfect position advertised right now, we are always interested in connecting with talented and driven professionals who want to shape the future with us.\nWe would love to hear from:\n\nSoftware developers (C/C++, Python, .NET, etc.)\n\n\nEmbedded engineers\n\n\nAI / ML engineers\n\n\nTest & verification engineers\n\n\nSystem architects\n\n\nTechnical project managers\n\n\nDigitalization specialists\n\n\nCurious problem-solvers who enjoy turning complexity into clarity\n\n\nWe believe great technology is built through collaboration — from concept and architecture to implementation, verification, and delivery. That means strong engineering, structured testing, and confident project leadership working seamlessly together.\nAt Consat, you’ll work with modern tools, challenging projects, and skilled colleagues who value knowledge-sharing, innovation, and continuous improvement. We take our work seriously — but not ourselves.\nIf you are driven by technology, motivated by real-world impact, and ready to grow in a dynamic and supportive environment, we would love to hear from you.\nLet’s build intelligent systems that make a difference — together.",
+        "url": "https://careers.consat.se/jobs/7220130-spontaneous-application-consat-digital-solutions/applications/new?promotion=1839031-arbetsformedlingen",
+        "published": "2026-02-12T14:11:44",
+        "deadline": "2026-08-11T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 90
     },
     {
         "id": "31281430",
