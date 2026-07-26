@@ -330,51 +330,6 @@
         "relevance_score": 100
     },
     {
-        "id": "31214017",
-        "title": "Senior Test Automation Framework Engineer",
-        "employer": "Agile Resources AB",
-        "location": "Göteborg",
-        "description": "Bygg testautomation för avancerad fordonsutveckling och bidra till säkrare, mer tillförlitliga system i en tekniskt driven miljö i Göteborg.\nHär får du arbeta med testautomation som gör verklig skillnad för kvalitet och tillförlitlighet i avancerade system. Rollen passar dig som trivs nära utveckling, verifiering och simulering i en tekniskt komplex miljö.\nOm rollen\nUtveckla och vidareutveckla testautomationsramverk för SIL- och HIL-miljöer.\nSkapa automatiserade verifieringstester för realistiska scenarier.\nBidra till högre testtäckning, effektivare flöden och stabilare leveranser.\n\nDet här kommer du göra\nDesigna, implementera och köra automatiserade tester.\nAnalysera testresultat och avvikelser eller fel.\nSamarbeta med utvecklingsteam för att förstå krav och lösa problem.\nDokumentera testmetoder, resultat och arbetssätt.\n\nVi söker dig som har\nGedigen bakgrund inom testautomation för fordonsnära system.\nStark kunskap i C#/.NET, CAPL och Python.\nErfarenhet av SIL, HIL och systemverifiering.\nGod förståelse för SDLC och testmetodik.\nFörmåga att arbeta självständigt och strukturerat.\n\nTeknik & Verktyg\nC#/.NET\nCAPL\nPython\nCANoe\nGit, Jenkins, Gradle och Docker\n\nPraktisk information\nOrt: Göteborg\nArbetssätt: Ej specificerat\nSpråk: Ej specificerat",
-        "url": "https://recruit.agile.nu/apply/jp-b1aae16f991b67a3?source=platsbanken",
-        "published": "2026-06-25T08:54:15",
-        "deadline": "2026-07-25T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
-        "id": "31213964",
-        "title": "Embedded Software Integration Engineer",
-        "employer": "Agile Resources AB",
-        "location": "Göteborg",
-        "description": "Utveckla låg-nivå mjukvara för realtidssystem i en avancerad fordonsmiljö. Här får du arbeta nära hårdvara, testautomation och hela utvecklingskedjan.\nHär får du arbeta med inbyggd mjukvara i en tekniskt avancerad miljö där realtid, kvalitet och testbarhet står i fokus. Rollen passar dig som vill vara med genom hela utvecklingskedjan och bidra nära både hårdvara och test.\nOm rollen\nUtveckla och underhålla inbyggd mjukvara för kontrollenheter.\nArbeta med låg-nivå utveckling i realtidssystem.\nBidra i hela kedjan från krav och design till verifiering och underhåll.\nVara med och forma SW-design och testupplägg.\n\nDet här kommer du göra\nSkriva och vidareutveckla kod i C och Python.\nTa fram mjukvarukrav och teknisk dokumentation.\nSkapa och optimera skript för testautomation.\nArbeta nära verifiering av funktioner i inbyggda system.\nSamarbeta i ett tvärfunktionellt agilt team.\n\nVi söker dig som har\nStark kompetens inom C och Python.\nErfarenhet av mjukvaruarkitektur och design.\nVana av funktionell säkerhet, gärna enligt ISO 26262.\nErfarenhet av Git och agila arbetssätt.\nGod förståelse för realtidssystem och resursbegränsade embedded-miljöer.\n\nTeknik & Verktyg\nC\nPython\nGit\nISO 26262\nCAN-FD, LIN och Ethernet\nRobot Framework\nJenkins\nVector CANalyzer\nLauterbach\nOscilloskop\n\nPraktisk information\nOrt: Göteborg\nArbetssätt: Ej angivet\nSpråk: Engelska",
-        "url": "https://recruit.agile.nu/apply/jp-d4a1733ec9605fe2?source=platsbanken",
-        "published": "2026-06-25T08:50:38",
-        "deadline": "2026-07-25T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
-        "id": "31213962",
-        "title": "Software Engineer inom Vehicle Motion Control",
-        "employer": "Agile Resources AB",
-        "location": "Göteborg",
-        "description": "Utveckla mjukvara för styrning av fordonets rörelser i en global miljö med fokus på C++, inbyggda system och testdriven integration.\nHär får du arbeta med mjukvara som påverkar hur fordonet accelererar, bromsar och samverkar med andra system. Rollen passar dig som vill utveckla lågnivåmjukvara i en tekniskt avancerad miljö med nära samarbete mellan flera team.\nOm rollen\nUtveckla mjukvara för fordonets longitudinella rörelsestyrning.\nArbeta med C++-moduler, appar, HAL:ar och tjänster.\nBidra till leveranser i en plattformsnära miljö för nästa generations fordonsstyrning.\n\nDet här kommer du göra\nUtveckla och underhålla funktionalitet i C++.\nSkapa CI-testfall för implementerad funktionalitet.\nFelsöka, testa och spåra problem vid integration.\nSamarbeta med andra team och tekniska specialister.\n\nVi söker dig som har\nMinst 3 års erfarenhet av mjukvaruutveckling.\nErfarenhet av C++ och gärna Python.\nVana av automatiserad testning och CI/CD.\nGod förståelse för inbyggda system och applikationsramverk.\nTeknisk högskoleutbildning inom relevant område.\nMycket god engelska i tal och skrift.\n\nTeknik & Verktyg\nC++\nPython\nLinux\nQNX\nWireshark\nCANoe\nCanalyzer\n\nPraktisk information\nOrt: Göteborg\nArbetssätt: Ej specificerat\nSpråk: Engelska",
-        "url": "https://recruit.agile.nu/apply/jp-fce22ec8af903f3e?source=platsbanken",
-        "published": "2026-06-25T08:50:36",
-        "deadline": "2026-07-25T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "31172699",
         "title": "Embedded-Utvecklare Försvarsindustri",
         "employer": "Knowit Aktiebolag (publ)",
@@ -658,6 +613,21 @@
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 90
+    },
+    {
+        "id": "30466704",
+        "title": "Software Flow Developer",
+        "employer": "SiNIX Flow AB",
+        "location": "Göteborg",
+        "description": "We are now looking for more colleagues who has previously taken an active part in building and improving CI/CD systems and are familiar with some related practices such as provisioning, delivery flows, build systems, repository management, data management and data visualization. We learn, share knowledge and always strive to create and deliver the best solutions to our customer.\nAs we have a great range of customers demanding our skills it gives a good opportunity for you to discover many different solutions and technologies. Most of the time, you will be working together with colleagues from SiNIX, at the customer or in one of our teams.\nOur customers trust in us and we work very closely with them. In the partnership, we guide them to the solutions that supports them in the best possible way.\nOur mission in SiNIX Flow -  is to make software development smooth and efficient. An environment where you as a developer get fast feedback through intuitive built pipelines and continuous integration.\nWe are looking for persons with a few years of year's experience in CI/CD, DevOps etc BUT most importantly - are interested in making software development smooth and efficient.\nIt´s good if you have:\nA Bachelor or Master's degree in Computer Science or equivalent.\nExperience in CI/CD pipeline design.\nExperience in IaC.\nExperience in working with Docker and Kubernetes.\nExperience with different cloud providers.\nScripting/coding in for example Python, but good to have C++, Golang etc.\nWe offer:\nInteresting assignments\nGreat and skilled colleagues\nLots of fun and learning\nWe are a Göteborg based company, but have customers outside the region.\nAt SiNIX, we prioritize the value of our colleagues by creating memorable experiences and sharing skills. We empower our employees with choices in training, vacation time, and flexible salaries, fostering a supportive and thriving work environment. Our aim is to inspire ongoing growth and development, making success a shared journey.",
+        "url": "https://jobs.sinix.se/",
+        "published": "2026-02-01T00:00:00",
+        "deadline": "2026-07-30T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": true,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
     },
     {
         "id": "31281430",
