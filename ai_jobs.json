@@ -73,5 +73,20 @@
         "source": "JobTech",
         "category": "AI",
         "relevance_score": 70
+    },
+    {
+        "id": "31303187",
+        "title": "Applied data scientist",
+        "employer": "CetaSol AB",
+        "location": "Göteborg",
+        "description": "Turn ship physics into software people actually use\n\n\nAt Cetasol we build the monitoring and analytics platform that commercial fleets use to cut fuel consumption, understand how their vessels really perform, and stay on the right side of CII and EU MRV reporting. A growing part of that platform is predictive maintenance: catching when an engine, generator, thruster, or the vessel as a whole starts behaving differently than it should, before it becomes a failure.\nGetting there takes two things that rarely live in the same person: an understanding of the physics behind how these assets actually behave, and the engineering skill to ship that understanding as a working product.\nWe're looking for that person.\n\n\nWhat you'll do\nBuild physical and data-driven models of vessel assets — engines, generators, thrusters, and the ship as a whole — that capture what \"normal\" operation looks like\nDetect when an asset deviates from its expected behaviour, and trace that deviation back to the sensors and signals driving it\nWork with noisy, real-world sensor data from vessels: clean it, validate it, and decide what it can and cannot support\nTake your own models from notebook to production on AWS, and build the React interfaces where the results actually land in front of customers\nOwn features end to end, with our UX designer, full stack developers and data scientist alongside you\nHelp us decide where a first-principles model beats a statistical one, and where it doesn't\n\nWhat we're looking for The balance here is genuinely 50/50. You should be comfortable deriving a model and deploying it.\n\n\nOn the modelling side:\nStrong applied mathematics, physics or engineering foundation — fluid dynamics, thermodynamics, control theory, numerical methods, or similar\nExperience with anomaly detection or condition monitoring on physical systems — knowing how to separate a genuine fault signature from normal operating variation\nSolid Python and the usual scientific stack; experience with time series and sensor data\nThe judgement to know when a model is good enough and when it's fooling you\n\nOn the engineering side:\nPractical experience building and running services on AWS\nComfortable in React and modern frontend work — you don't need to be a specialist, but you should be able to build the view your model deserves\nFamiliarity with the ordinary craft of software: version control, testing, code review, CI\n\nAnd:\nYou explain technical work clearly to people who aren't specialists\nYou're happy to sit somewhere between disciplines rather than in the middle of one\n\nWe're open on years of experience. If you can do the work, the title follows.\nNice to have Predictive maintenance or condition-based monitoring · maritime, automotive, aerospace or energy domain experience · digital twins or physics-informed machine learning · edge computing or embedded data collection\n \nWhy Cetasol \nShipping accounts for roughly 3% of global CO₂ emissions, and a meaningful share of that is avoidable through better operational decisions. The work here is technically interesting and the impact is measurable in tonnes of fuel.\nYou'd be joining a small engineering team where your work is visible and your scope is wide. We're based in Gothenburg and work hybrid — we value time in the same room, without counting days.",
+        "url": "https://cetasol.com",
+        "published": "2026-07-29T14:36:20",
+        "deadline": "2026-08-28T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "AI",
+        "relevance_score": 100
     }
 ]
