@@ -15,6 +15,21 @@
         "relevance_score": 100
     },
     {
+        "id": "31305297",
+        "title": "MLOps Engineer role",
+        "employer": "SkillHuset Sweden AB",
+        "location": "Göteborg",
+        "description": "Responsibilities:\n* Develop and deploy end-to-end microservices-based solutions for batch and real-time algorithms, including monitoring, logging, automated testing, and performance testing.\n* Design, implement, and optimize MLOps pipelines using tools such as Kubeflow, Seldon, MLFlow, Docker, and Kubernetes.\n* Collaborate with Data Scientists to enhance the ML model development process and ensure performance improvements.\n* Ensure scalability, maintainability, and robustness of deployed machine learning models.\n* Monitor and troubleshoot ML model performance and infrastructure issues in production (experience with Prometheus and Grafana is valuable).\n* Support and enhance ML software infrastructure, including CI/CD, data storage, cloud services, security, and system monitoring.\n* Work with cloud platforms, particularly GCP and Azure, to optimize resource allocation and costs.\n* Stay up to date with the latest trends and best practices in MLOps.\nQualifications:\n* Bachelor's or Master’s degree in Computer Science, Engineering, or a related field.\n* 5+ years of experience as a Machine Learning Engineer or in a similar role.\n* Proficiency in Python and experience with ML frameworks like TensorFlow, PyTorch, and scikit-learn.\n* Strong understanding of MLOps best practices and tools, including Kubeflow, Seldon, MLFlow, Docker, and Kubernetes.\n* Experience working with cloud platforms, especially GCP.\n* Knowledge of data processing, ETL, and feature engineering techniques.\n* Strong problem-solving skills and ability to work in a fast-paced, collaborative environment.\n* Excellent communication and interpersonal skills.",
+        "url": null,
+        "published": "2026-07-30T13:38:55",
+        "deadline": "2026-08-29T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
         "id": "31266030",
         "title": "Senior Developer to Relay Software Team",
         "employer": "Mullvad VPN AB",
@@ -210,21 +225,6 @@
         "relevance_score": 60
     },
     {
-        "id": "31230702",
-        "title": "Data Engineer / Web Developer",
-        "employer": "Lysio Research AB",
-        "location": "Lund",
-        "description": "Om Lysio Research\nVi på Lysio Research arbetar med undersökningar och utredningar som leder till samhällsutveckling. Bland våra kunder finns de flesta kommuner i landet och flera regioner och myndigheter. De undersökningar vi genomför är varierande, ofta komplexa och framförallt viktiga. Många beslut fattas av kommuner, myndigheter, företagsledningar och andra aktörer baserat på resultatet i mätningar som vi genomfört.\nVi är ett växande företag som vunnit flera Gasellpriser. För nuvarande är vi 30 anställda (+ flertal intervjuare). Självklart erbjuder vi friskvårdsbidrag och tjänstepension för våra anställda. Hos oss får du arbeta i en roll där du kan växa och utvecklas.\nOm tjänsten\nGillar du siffror, IT och samhällsfrågor och vill arbeta med oss i undersökningar som leder till samhällsutveckling? Vi behöver nu utöka vårt team med en utvecklare. I denna roll arbetar du både med att bygga infrastruktur och skapa webbapplikationer som sedan används internt av oss och kundspecifika lösningar. Det kommer också förekomma arbete i kundprojekt, främst databearbetning (\"data wrangling\") och redovisning av resultat i olika format som t.ex. PowerPoint/Excel eller webbaserade dashboards. \nLysio Research vill vara med och bidra till samhällsutveckling genom att använda och främja fri programvara. Därför använder vi oss främst av open source-mjukvara i vår utvecklingsstack. Du kommer, vid intresse, ha möjlighet och uppmuntras att själv bidra till den mjukvara och de bibliotek vi använder.\nPå Lysio tror vi på att de anställda skall kunna växa inom organisationen, därför innebär tjänsten stor möjlighet att utvecklas och på sikt ta mer eget ansvar för automatiserings- och utvecklingsprojekt.\nVem är du?\nVi söker dig som har ett samhällsintresse, gillar undersökningar och vill lära dig mer om de metoder och verktyg som används i undersökningsbranschen. \nDu har programmering som intresse och använder detta frekvent, antingen i jobbet eller privat.\nDu trivs med att ha många olika uppgifter samtidigt och att arbeta i ett högt tempo. Det är av stor vikt att ha kapaciteten att jobba mot deadlines, prioritera, vara noggrann och självgående. \nDu bör ha en akademisk examen inom IT, matematik, statistik eller annat område som vi bedömer likvärdigt. Viss statistikutbildning på universitetsnivå är ett krav.\nDet är till fördel om du har intresse av att visuellt presentera statistik.\nDu har nyligen tagit din examen och är i början av din karriär.\nDu kan arbeta på något av våra kontor i Göteborg eller Lund. \n\nKvalifikationer\nMycket hög IT-vana\nErfarenhet av databearbetning med Python/Pandas eller R\nErfarenhet av webbutveckling med Python\nGod vana av AI-stödd programmering med Claude Code eller liknande\nAllmänt intresse för siffror och data science\nEffektiv och självgående\nSocial förmåga och trygghet i möten med nya människor\n\nMeriterande\nKunskaper inom LEMP-stacken\nKunskap inom DevOps\nGod vana av att arbeta med Excel och PowerPoint\nVana av att arbeta i SPSS eller annan statistikprogramvara\nVana av BI/ETL-verktyg så som Tableau/QlikView/Power BI\nKänsla för UI/UX-design och datavisualisering",
-        "url": "https://podio.com/webforms/26278343/1981796",
-        "published": "2026-06-30T11:44:30",
-        "deadline": "2026-07-30T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": true,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "31248250",
         "title": "Software Developer",
         "employer": "ZENSEACT AB",
@@ -340,6 +340,36 @@
         "deadline": "2026-12-09T23:59:59",
         "is_consultant": false,
         "is_meaningful": true,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
+        "id": "31305552",
+        "title": "Software Engineer",
+        "employer": "Volvo Personvagnar Aktiebolag",
+        "location": "Göteborg",
+        "description": "Company description:\nWho are we?Volvo Cars is a company on a mission; to bring traditional car manufacturing into a connected, sustainable and smart future.Since 1927, we have been a brand known for our commitment to safety, creating innovative cars that make life less complicated for our consumers. In 2010, we decided to transform our business, resulting in a totally new generation of cars and technologies, as well as steady growth and record sales. Today, we’re expanding our global footprint in Europe, China and the US, and we’re on the lookout for new talent. We are constantly pushing our own skills and abilities to drive change in the automobile industry like never before. We are looking for innovative, committed people to join us in this endeavour and create safe, sustainable and connected cars. We believe in the power of people and will challenge and support you to reach your full potential. Join us and be part of Volvo Cars’ journey into the future.\nJob description:  Let's introduce ourselves \nVolvo Cars is growing and facing an exciting future in the electrification of vehicles. If you want to utilize state of the art methods to test and verify next generation electrified luxury cars, the role as our new Hardware in the loop (HIL) Development Engineer is the role for you to prosper!You will be part of an HIL Development team in the eART Software Factory within the Product Stream Electric Propulsion. You will be a member of a truly international team designing HIL test-environments for production software testing. Meaning the HIL models, you will create is crucial for testing electrical propulsion ECUs used in the Traction Battery, Charging and Electric Drive Systems.\n What you'll do \nVolvo Cars’ development centers around software (SW) and in our next generation vehicles, we take a giant leap into the future by launching a capable centralized compute platform, hosting most of the in-house developed SW. In these next generation vehicles, we are building a computer-in-the-car architecture.  The Propulsion & Energy unit is located at Gothenburg. The department, Propulsion & Energy Quality has an Enabling ART (Agile Release Train) within Propulsion & Energy, with the purpose to provide the infrastructure for SW development teams to integrate, test, and release SW in a continuous integration (CI) flow. The infrastructure includes development and maintenance of Hardware-in-Loop setups for development, verification, and validation of software products. We do this by building a robust and automated test framework and enabling SW test & release in a CI flow. We are looking for our future team member to develop, validate and maintain Model-Based Hardware in Loop setups that are intended for software functionality verification on embedded systems. The embedded test setups are built around the above-mentioned Propulsion & Energy architecture. These setups are a combination of simulated vehicle components and real hardware components to emulate a real vehicle with all the relevant dynamics. Our team are responsible for the development and maintenance of these embedded setups (hardware-in-loop), while making sure that these setups are capable to execute relevant test cases for platform, software, and function verification. These are state-of-the art test setups, critical for testing software before the final product is launched. Hence, you will be working in a fast paced, innovative environment, solving problems and challenges daily. We offer you to work in a small cross functional team, with high focus on quality and continuous improvements. Together with your colleagues, you will define, set up and configure these test environments supporting our current and future projects. You will be working with Software application and deployment on core computer and embedded ECUs, model all relevant components and signals to enable test automation, moving us towards Continuous Integration and Continuous Deployment. Together with us, you will grow your competence and get a broad understanding of Volvo Cars Next Generation Vehicles and Software Platform along with domain growth in Propulsion & Energy. You will work closely with other groups at Volvo Cars, our suppliers and get the opportunity to create a wide network.\n   Profile description: What you'll bring \nYou will fit well in this role if you are a Modeling and Simulation Engineer focusing on model-based development on HIL test beds and an understanding of Software Verification cycles correlated to Model Based Development (SIL, MIL, HIL and VIL)We see that you have a B.Sc. or M.Sc. in SW Engineering, Electrical Engineering or equivalent with emphasis on SW development. You have extensive experience in either dynamic modelling using Matlab/Simulink or test automation. Experience from an Agile working environment and from Continuous Integration is beneficial.You are fluent in English.\n  Software/ Plant model development (python, Matlab/Simulink, Stateflow)\n Experience with HIL systems and real-time simulation\n Experience in Continuous Integration\n dSPACE toolchain (ConfigurationDesk, AutomationDesk, ControlDesk,...)\n Knowledge of modeling electric motors, power electronics, and traction battery systems\n Automation of software test\n CAN and Automotive Ethernet communications \n  \nMeritorious:\n  Experience from SW platform development, including middleware.\n Knowledge in Electric Propulsion simulation\n Knowledge in integration of sensor technologies\n Verification in vehicles at system or functional level or experience from test automation\n Experience in Core, Domain development/testing.",
+        "url": "https://volvo-car-corporation.contactrh.com/jobs/9669/44348101",
+        "published": "2026-07-30T14:25:06",
+        "deadline": "2026-08-13T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
+        "id": "31305099",
+        "title": "System Engineer",
+        "employer": "L&T Technology Services Sverige Filial",
+        "location": "Göteborg",
+        "description": "L&T Technology Services Limited (LTTS) is a global leader in Engineering and R&D (ER&D) services.\nWe are hiring in Gothenburg, Sweden!\nWould you like to join a team with innovation, teamwork and entrepreneurship as the fundamental platform?\nWe are looking for experienced System Engineers for the Automotive Industry.\nSystem Designer – Job Description\nAs a System Designer, you will be responsible for defining and developing system architectures for vehicle stability and motion control functions such as ESC, Traction Control, and Yaw Control. You will translate performance, safety, and diagnostic requirements into robust system designs while collaborating closely with software, hardware, calibration, and feature teams to ensure end-to-end functionality. The role includes system documentation, concept evaluation through modeling and simulation, support for functional safety activities in compliance with ISO 26262, and participation in integration, verification, and validation activities, including SIL/HIL testing and vehicle-level assessments.\nKey Responsibilities:\nDevelop system architectures and functional designs for vehicle motion control features.\nDefine and manage system requirements, diagnostics, and safety-related specifications.\nCollaborate with cross-functional teams to deliver complete system solutions.\nCreate and maintain system design documentation and interface definitions.\nSupport simulations, concept studies, and performance evaluations.\nContribute to functional safety activities, including HARA, safety concepts, and DFMEA.\n\nSupport system integration, verification, and validation through SIL/HIL and vehicle testing\n\n\nSoft Skills\nStrong analytical and problem‑solving skills.\nExcellent communication and documentation abilities.\nAbility to work independently and collaborate in cross-functional environments.\n\nEducation \nBachelor’s or Master’s degree in Electrical, Electronics, Computer Science, Automotive, or related field.\n\nWe believe you enjoy to work in teams, interact with people and have great communication skills. You are able to encourage, coach and develop to drive change and implementation in your surroundings.\nInterviews will be held continuously. To apply, please send in your application documents to the email address: LTTS.Sweden@Ltts.com.\nEnter the reference \"System Engineer\" in your application",
+        "url": null,
+        "published": "2026-07-30T12:37:20",
+        "deadline": "2026-08-29T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 100
@@ -598,21 +628,6 @@
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 90
-    },
-    {
-        "id": "30466704",
-        "title": "Software Flow Developer",
-        "employer": "SiNIX Flow AB",
-        "location": "Göteborg",
-        "description": "We are now looking for more colleagues who has previously taken an active part in building and improving CI/CD systems and are familiar with some related practices such as provisioning, delivery flows, build systems, repository management, data management and data visualization. We learn, share knowledge and always strive to create and deliver the best solutions to our customer.\nAs we have a great range of customers demanding our skills it gives a good opportunity for you to discover many different solutions and technologies. Most of the time, you will be working together with colleagues from SiNIX, at the customer or in one of our teams.\nOur customers trust in us and we work very closely with them. In the partnership, we guide them to the solutions that supports them in the best possible way.\nOur mission in SiNIX Flow -  is to make software development smooth and efficient. An environment where you as a developer get fast feedback through intuitive built pipelines and continuous integration.\nWe are looking for persons with a few years of year's experience in CI/CD, DevOps etc BUT most importantly - are interested in making software development smooth and efficient.\nIt´s good if you have:\nA Bachelor or Master's degree in Computer Science or equivalent.\nExperience in CI/CD pipeline design.\nExperience in IaC.\nExperience in working with Docker and Kubernetes.\nExperience with different cloud providers.\nScripting/coding in for example Python, but good to have C++, Golang etc.\nWe offer:\nInteresting assignments\nGreat and skilled colleagues\nLots of fun and learning\nWe are a Göteborg based company, but have customers outside the region.\nAt SiNIX, we prioritize the value of our colleagues by creating memorable experiences and sharing skills. We empower our employees with choices in training, vacation time, and flexible salaries, fostering a supportive and thriving work environment. Our aim is to inspire ongoing growth and development, making success a shared journey.",
-        "url": "https://jobs.sinix.se/",
-        "published": "2026-02-01T00:00:00",
-        "deadline": "2026-07-30T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": true,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
     },
     {
         "id": "31281430",
@@ -960,6 +975,21 @@
         "relevance_score": 100
     },
     {
+        "id": "31303187",
+        "title": "Applied data scientist",
+        "employer": "CetaSol AB",
+        "location": "Göteborg",
+        "description": "Turn ship physics into software people actually use\n\n\nAt Cetasol we build the monitoring and analytics platform that commercial fleets use to cut fuel consumption, understand how their vessels really perform, and stay on the right side of CII and EU MRV reporting. A growing part of that platform is predictive maintenance: catching when an engine, generator, thruster, or the vessel as a whole starts behaving differently than it should, before it becomes a failure.\nGetting there takes two things that rarely live in the same person: an understanding of the physics behind how these assets actually behave, and the engineering skill to ship that understanding as a working product.\nWe're looking for that person.\n\n\nWhat you'll do\nBuild physical and data-driven models of vessel assets — engines, generators, thrusters, and the ship as a whole — that capture what \"normal\" operation looks like\nDetect when an asset deviates from its expected behaviour, and trace that deviation back to the sensors and signals driving it\nWork with noisy, real-world sensor data from vessels: clean it, validate it, and decide what it can and cannot support\nTake your own models from notebook to production on AWS, and build the React interfaces where the results actually land in front of customers\nOwn features end to end, with our UX designer, full stack developers and data scientist alongside you\nHelp us decide where a first-principles model beats a statistical one, and where it doesn't\n\nWhat we're looking for The balance here is genuinely 50/50. You should be comfortable deriving a model and deploying it.\n\n\nOn the modelling side:\nStrong applied mathematics, physics or engineering foundation — fluid dynamics, thermodynamics, control theory, numerical methods, or similar\nExperience with anomaly detection or condition monitoring on physical systems — knowing how to separate a genuine fault signature from normal operating variation\nSolid Python and the usual scientific stack; experience with time series and sensor data\nThe judgement to know when a model is good enough and when it's fooling you\n\nOn the engineering side:\nPractical experience building and running services on AWS\nComfortable in React and modern frontend work — you don't need to be a specialist, but you should be able to build the view your model deserves\nFamiliarity with the ordinary craft of software: version control, testing, code review, CI\n\nAnd:\nYou explain technical work clearly to people who aren't specialists\nYou're happy to sit somewhere between disciplines rather than in the middle of one\n\nWe're open on years of experience. If you can do the work, the title follows.\nNice to have Predictive maintenance or condition-based monitoring · maritime, automotive, aerospace or energy domain experience · digital twins or physics-informed machine learning · edge computing or embedded data collection\n \nWhy Cetasol \nShipping accounts for roughly 3% of global CO₂ emissions, and a meaningful share of that is avoidable through better operational decisions. The work here is technically interesting and the impact is measurable in tonnes of fuel.\nYou'd be joining a small engineering team where your work is visible and your scope is wide. We're based in Gothenburg and work hybrid — we value time in the same room, without counting days.",
+        "url": "https://cetasol.com",
+        "published": "2026-07-29T14:36:20",
+        "deadline": "2026-08-28T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "AI",
+        "relevance_score": 100
+    },
+    {
         "id": "31237878",
         "title": "Senior Data Scientist",
         "employer": "Volvo Personvagnar Aktiebolag",
@@ -987,21 +1017,6 @@
         "is_meaningful": false,
         "source": "JobTech",
         "category": "IT",
-        "relevance_score": 100
-    },
-    {
-        "id": "31303187",
-        "title": "Applied data scientist",
-        "employer": "CetaSol AB",
-        "location": "Göteborg",
-        "description": "Turn ship physics into software people actually use\n\n\nAt Cetasol we build the monitoring and analytics platform that commercial fleets use to cut fuel consumption, understand how their vessels really perform, and stay on the right side of CII and EU MRV reporting. A growing part of that platform is predictive maintenance: catching when an engine, generator, thruster, or the vessel as a whole starts behaving differently than it should, before it becomes a failure.\nGetting there takes two things that rarely live in the same person: an understanding of the physics behind how these assets actually behave, and the engineering skill to ship that understanding as a working product.\nWe're looking for that person.\n\n\nWhat you'll do\nBuild physical and data-driven models of vessel assets — engines, generators, thrusters, and the ship as a whole — that capture what \"normal\" operation looks like\nDetect when an asset deviates from its expected behaviour, and trace that deviation back to the sensors and signals driving it\nWork with noisy, real-world sensor data from vessels: clean it, validate it, and decide what it can and cannot support\nTake your own models from notebook to production on AWS, and build the React interfaces where the results actually land in front of customers\nOwn features end to end, with our UX designer, full stack developers and data scientist alongside you\nHelp us decide where a first-principles model beats a statistical one, and where it doesn't\n\nWhat we're looking for The balance here is genuinely 50/50. You should be comfortable deriving a model and deploying it.\n\n\nOn the modelling side:\nStrong applied mathematics, physics or engineering foundation — fluid dynamics, thermodynamics, control theory, numerical methods, or similar\nExperience with anomaly detection or condition monitoring on physical systems — knowing how to separate a genuine fault signature from normal operating variation\nSolid Python and the usual scientific stack; experience with time series and sensor data\nThe judgement to know when a model is good enough and when it's fooling you\n\nOn the engineering side:\nPractical experience building and running services on AWS\nComfortable in React and modern frontend work — you don't need to be a specialist, but you should be able to build the view your model deserves\nFamiliarity with the ordinary craft of software: version control, testing, code review, CI\n\nAnd:\nYou explain technical work clearly to people who aren't specialists\nYou're happy to sit somewhere between disciplines rather than in the middle of one\n\nWe're open on years of experience. If you can do the work, the title follows.\nNice to have Predictive maintenance or condition-based monitoring · maritime, automotive, aerospace or energy domain experience · digital twins or physics-informed machine learning · edge computing or embedded data collection\n \nWhy Cetasol \nShipping accounts for roughly 3% of global CO₂ emissions, and a meaningful share of that is avoidable through better operational decisions. The work here is technically interesting and the impact is measurable in tonnes of fuel.\nYou'd be joining a small engineering team where your work is visible and your scope is wide. We're based in Gothenburg and work hybrid — we value time in the same room, without counting days.",
-        "url": "https://cetasol.com",
-        "published": "2026-07-29T14:36:20",
-        "deadline": "2026-08-28T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "AI",
         "relevance_score": 100
     },
     {
