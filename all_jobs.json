@@ -285,6 +285,21 @@
         "relevance_score": 100
     },
     {
+        "id": "31313008",
+        "title": "Software Engineer",
+        "employer": "Volvo Personvagnar Aktiebolag",
+        "location": "Göteborg",
+        "description": "Company description:\nWho are we?Volvo Cars is a company on a mission; to bring traditional car manufacturing into a connected, sustainable and smart future.Since 1927, we have been a brand known for our commitment to safety, creating innovative cars that make life less complicated for our consumers. In 2010, we decided to transform our business, resulting in a totally new generation of cars and technologies, as well as steady growth and record sales. Today, we’re expanding our global footprint in Europe, China and the US, and we’re on the lookout for new talent. We are constantly pushing our own skills and abilities to drive change in the automobile industry like never before. We are looking for innovative, committed people to join us in this endeavour and create safe, sustainable and connected cars. We believe in the power of people and will challenge and support you to reach your full potential. Join us and be part of Volvo Cars’ journey into the future.\nJob description:  Let's introduce ourselves \nAt Volvo Cars, we are on a mission to provide freedom to move in a personal, sustainable, and safe way. As our vehicles become increasingly software-defined, the ability to develop, test, and validate software efficiently is critical.We are now looking for a Software Developer specializing in emulator platforms to enable faster innovation by supporting scalable, high-quality development environments for our infotainment systems.\n What you'll do \nAs an Infotainment Software Developer, you will be part of an agile team focused on building and improving emulator platforms that accelerate development and testing across multiple teams.You will:\n  Develop and maintain Android-based emulator platforms for infotainment systems\n Enable software development and testing without dependency on physical hardware\n Work closely with developers, product owners, and QA teams to ensure the emulator meets real-world development needs\n Identify and resolve performance, compatibility, and usability issues in the emulator\n Optimize emulator performance (CPU, memory, efficiency) to ensure fast and reliable execution\n Support application teams in adapting and debugging their software on emulator platforms\n Ensure the emulator platform reuses existing shared VCC software stack\n Ensure feature parity between emulator and hardware platforms\n Adapt and maintain SELinux policies for emulator environments\n Integrate emulator platforms into CI/CD pipelines\n Contribute to reducing software complexity and improving development workflows\n  \nLocation: Lindholmen, Gothenburg\n   Profile description: What you'll bring \nWe are looking for a Mid–Senior Embedded Software Engineer with strong Android and system-level expertise, combined with a passion for developer productivity and platform enablement.Required experience:\n  Strong experience in C++ and Python in embedded environments\n Experience with Android platform development (AOSP / system level)\n Experience with Embedded Linux or OS-level development\n Solid understanding of system architecture and platform integration\n Experience working in a CI/CD environment\n Experience troubleshooting complex system and platform-level issues\n Experience working with developer tools, platforms, or virtualization/emulation environments\n  \nPreferred experience:\n  Experience working with emulators, virtual platforms, or simulation environments\n Automotive or infotainment domain experience\n Test automation experience (e.g., Pytest)\n Experience with hardware bring-up or platform abstraction\n Understanding of SELinux policies\n Bachelor’s or Master’s degree in Electrical Engineering, Computer Science, or similar",
+        "url": "https://volvo-car-corporation.contactrh.com/jobs/9669/44354473",
+        "published": "2026-08-03T12:25:01",
+        "deadline": "2026-08-13T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
         "id": "31308402",
         "title": "Software Engineer",
         "employer": "Volvo Personvagnar Aktiebolag",
@@ -838,21 +853,6 @@
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 100
-    },
-    {
-        "id": "31248818",
-        "title": "Fullstack Developer",
-        "employer": "WEON GALAXY AB",
-        "location": "Göteborg",
-        "description": "We are looking for a skilled Fullstack Developer with a strong software engineering foundation and a passion for building high-quality products. You will work across the entire technology stack, developing user-facing applications, backend services, and platform capabilities that support our AI-powered virtual fitting technology.\nThis role requires a high degree of ownership and initiative. As part of a fast-moving startup, you'll have the opportunity to influence technical decisions, contribute to product strategy, and take features from concept to production.\nQualifications\nStrong experience with JavaScript and TypeScript.\nExperience building modern web applications using React and Next.js.\nExperience developing backend services using Node.js.\nExperience designing and consuming REST APIs.\nFamiliarity with relational databases such as PostgreSQL.\nSolid understanding of software engineering principles, system design, and web architecture.\nExperience working with Git and Linux-based development environments.\nBachelor's or Master's degree in Computer Science, Software Engineering, or a related field (or equivalent practical experience).\n\n\n\nNice to Have\nPython\nExperience integrating AI or Machine Learning solutions into production systems\nKnowledge of Computer Vision technologies\nExperience working with SaaS products or e-commerce platforms",
-        "url": null,
-        "published": "2026-07-04T18:55:40",
-        "deadline": "2026-08-03T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "AI",
-        "relevance_score": 70
     },
     {
         "id": "31237896",
