@@ -645,6 +645,21 @@
         "relevance_score": 100
     },
     {
+        "id": "31321356",
+        "title": "Development Specialist",
+        "employer": "Foundever Sweden AB",
+        "location": "Göteborg",
+        "description": "As a Junior full-stack .NET developer at Foundever you would be working on internal Performance management system, widely used in Nordic region and beyond, which is part of daily work within the region. You will collaborate closely with all the parties involved: developers, internal customers, and other teams.\nHelping customers is our way of working and in the DNA of the culture, so we provide support on issues our users face, do the development, and fix bugs as necessary. And you will work in a small team of developers and would help your colleagues with problem solving and knowledge spreading mindset.\nBasic qualifications\nMinimum 1-year professional experience of C# and .NET Framework\nMinimum 1-year with SQL Server, scripting in SQL\nexperience with ASP.NET MVC\nexperience with JavaScript/TypeScript, and SCSS\nWorked with Git and team collaboration tools (e.g., Gitlab, etc.)\nstrong programming and problem-solving skills\nproficiency in Object-Oriented Programming & Design\ngood understanding of web platform\nstrong communication and collaboration skills\nability to communicate on daily basis in English. (Swedish will be a plus)\n\nDesirable qualifications\nexperience working in call center business\nproven experience with web UI design\nexperience working with legacy code\nProven experience in AI\n\nCompetences: \nRequired\nSQL-Server\nJavaScript\nASP.NET\nC#.NET",
+        "url": "https://jobs.emea.sykes.com/vacancyinformation.aspx?vguid=24aa07d2-e75e-49bd-97ae-7bcd5f0cb900",
+        "published": "2026-08-05T11:34:15",
+        "deadline": "2026-09-25T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": true,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
         "id": "31319704",
         "title": "Senior Cloud Operations Engineer  Overseas Infrastructure & Cloud Platform",
         "employer": "Norvion Systems AB",
@@ -788,21 +803,6 @@
         "url": "https://jobs.taigatech.se/jobs/8022647-technical-project-manager",
         "published": "2026-07-07T14:13:50",
         "deadline": "2026-09-30T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
-        "id": "31251706",
-        "title": "Data Scientist",
-        "employer": "VOLVO BUSINESS SERVICES AKTIEBOLAG",
-        "location": "Göteborg",
-        "description": "Company description:\n\"Founded in 1927, the Volvo Group\nJob description: \n Data Scientist – Volvo Trucks Digital Management  \n \n Data Analytics & AI \n  \n Transport is at the core of modern society. At Volvo Trucks, you can use data science and AI to help shape the future of sustainable transport and infrastructure solutions. If you are passionate about turning data into business value, enjoy solving varied challenges, and want to work close to the business in a highly collaborative role, this could be a great opportunity for you. \n  \n The Role \n  \n We are looking for a Data Scientist to join Data Analytics & AI within Volvo Trucks Digital Management. In this role, you will work hands-on with data science and AI to solve real business challenges across Volvo Trucks. You will be part of a collaborative, skilled, and supportive team where advanced analytics, machine learning, and generative AI are applied to create meaningful impact. \n This is a broad, hands-on role with a strong focus on collaboration and communication. You will work closely with business stakeholders across different parts of the organization, which means you need to be comfortable understanding business needs, challenging assumptions, translating technical concepts into clear insights, and building trust with people at different levels of technical understanding. \n Your work will vary across projects, business areas, and technical challenges. One project may focus on predictive modeling, another on data exploration and experimentation, and another on generative AI or helping move AI solutions toward production. This variation is a core part of the role. \n It is also a role for someone who enjoys working in a broad problem space. You do not need to know everything from day one. What matters most is a curious mindset, strong problem-solving ability, and a willingness to learn new domains, methods, and technologies over time. At Volvo Trucks, we value people who can grow into challenges, collaborate with others, and contribute across a wide range of issues.\n  \n What you will do \n  Apply data science and AI methods to real-world business problems \n Work with advanced analytics, machine learning and generative AI \n Collaborate closely with business stakeholders to understand needs and identify valuable use cases \n Communicate methodologies, findings, and recommendations in a clear and transparent way, to build trust. \n Work with a wide range of projects, data sources, and business contexts \n Contribute throughout the lifecycle from exploration and prototyping to support with productionizing of AI solutions \n Collaborate with colleagues across different domains \n Continuously learn about the business, its information landscape, and the transport industry to create relevant and actionable solutions \n  \n \n  \n Who are you\n  \n You are a curious and analytical person who enjoys solving problems and learning continuously in a fast-evolving field. You like working in close collaboration with others and are motivated by turning complex questions into practical business value. \n You communicate clearly and bring a positive, proactive attitude to your work. As the role involves close interaction with business stakeholders, you should be comfortable explaining technical topics in a simple and engaging way, listening actively, and adapting your message to different audiences. \n  \n We believe you likely have: \n  A degree in computer science, statistics, engineering, or another relevant field \n Experience using Python for data science, analytics and AI development \n Good understanding of adjacent areas such as DevOps, APIs and data modeling \n A collaborative mindset and the confidence to take on new challenges even when the path is not fully defined from the start \n At least 2-3 years of work experience as a data scientist or relevant role \n  \nIt is an advantage if you have experience with: \n  MLOps \n Deployment and scaling of AI solutions \n Cloud platforms such as Azure, AWS, or GCP",
-        "url": "https://volvo-information-technology-ab.contactrh.com/jobs/9669/44294192",
-        "published": "2026-07-06T13:25:01",
-        "deadline": "2026-08-05T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
         "source": "JobTech",
