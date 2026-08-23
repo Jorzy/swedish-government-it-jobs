@@ -883,20 +883,5 @@
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 100
-    },
-    {
-        "id": "31346034",
-        "title": "Manufacturing Engineer Manager",
-        "employer": "Adient Sweden AB",
-        "location": "Göteborg",
-        "description": "Responsible for designing, implementing, and optimising intelligent manufacturing systems that increase efficiency, reduce waste, and enhance product quality. This role integrates advanced automation, machine learning, robotics, and data-driven decision-making into production environment.",
-        "url": "https://www.adient.com/careers/",
-        "published": "2026-08-12T16:28:35",
-        "deadline": "2026-08-22T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 80
     }
 ]
