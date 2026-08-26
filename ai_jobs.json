@@ -15,6 +15,21 @@
         "relevance_score": 60
     },
     {
+        "id": "31395082",
+        "title": "Cyber Security Analyst",
+        "employer": "Volvo Personvagnar Aktiebolag",
+        "location": "Göteborg",
+        "description": "Company description:\nWho are we?Volvo Cars is a company on a mission; to bring traditional car manufacturing into a connected, sustainable and smart future.\nSince 1927, we have been a brand known for our commitment to safety, creating innovative cars that make life less complicated for our consumers. In 2010, we decided to transform our business, resulting in a totally new generation of cars and technologies, as well as steady growth and record sales. Today, we’re expanding our global footprint in Europe, China and the US, and we’re on the lookout for new talent.\nWe are constantly pushing our own skills and abilities to drive change in the automobile industry like never before. We are looking for innovative, committed people to join us in this endeavour and create safe, sustainable and connected cars. We believe in the power of people and will challenge and support you to reach your full potential. Join us and be part of Volvo Cars’ journey into the future.\nJob description:   Let's introduce ourselves \nCyber Defense Centre Operations protects the business through 24/7 cyber defence capabilities, including security monitoring, incident response, threat intelligence, threat hunting, and digital forensics. We also own and continuously enhance strategic security platforms and services, including SIEM, SOAR, endpoint protection, and Data Loss Prevention (DLP), to strengthen the organization's cyber resilience.\n What you'll do \nResponsible for investigating cyber threats, security incidents, and critical vulnerabilities, while coordinating response activities across stakeholders.\n  \n The role leverages cyber threat intelligence to assess risks, support threat hunting, and drive timely containment and remediation to strengthen the organization's security posture.\n What you'll bring \nYou would carry a Bachelor’s degree in Cyber Security, Information Security, Computer Science, or related field. You should bring 3+ years of experience in Security Operations (SOC), Incident Response, Threat Hunting, or Threat Intelligence. You should also bring experience coordinating and managing cyber security incidents.\n  \n Some technical competencies you should bring would be a strong understanding of cyber threats, attack techniques, and vulnerability management. Hands-on experience with SIEM, EDR/XDR, and security monitoring platforms as well a knowledge of cyber threat intelligence frameworks and methodologies (e.g., MITRE ATT&CK, Kill Chain). You should also bring experience investigating security incidents, malware, phishing, and advanced threats.\n You would bring understanding of network, endpoint, cloud, and identity security technologies. You have a strong analytical and investigative mindset. You should have the ability to coordinate incident response across multiple stakeholders as well as excellent communication and reporting skills. You are capable to prioritize and manage multiple security events simultaneously and have a proactive approach to identifying and mitigating cyber risks.\n  \n Preferred Certifications:\n GIAC (GCIH, GCFA, GCTI), CISSP, Security+, CySA+, or equivalent certifications.",
+        "url": "https://volvo-car-corporation.contactrh.com/jobs/9669/44401823",
+        "published": "2026-08-25T14:25:01",
+        "deadline": "2026-09-04T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "AI",
+        "relevance_score": 100
+    },
+    {
         "id": "31228808",
         "title": "Founding Software Product Engineer - Repli5 Platform",
         "employer": "Repli5 AB",
