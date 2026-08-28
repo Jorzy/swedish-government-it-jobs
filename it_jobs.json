@@ -15,6 +15,21 @@
         "relevance_score": 100
     },
     {
+        "id": "31412896",
+        "title": "Developer",
+        "employer": "Ericsson AB",
+        "location": "Göteborg",
+        "description": "Company description:\nEricsson AB\nJob description:   Join our Team   About this opportunity:\n Are you a recent graduate or a software developer at the early stage of your career, eager to build a rewarding career in technology? Ericsson is looking for multiple Software Developers to strengthen our Packet Core organization as we take on exciting new challenges. At Ericsson, we are developing 5G and beyond by creating telecom solutions that empower billions of people worldwide. We are not just imagining the future — we are building it. Our department within Ericsson Packet Core consists of approximately 45 dedicated and self-motivated engineers who thrive in an environment of collaboration and creativity. Located at our vibrant office in Lindholmen, Gothenburg, we combine technical expertise with a strong commitment to improving the world through connectivity. \n  \n What you will do:\n You will join one of three cross-functional teams and contribute to making our world-class telecom products even better. You will work with feature development from the initial study through implementation and delivery. \n  \n Your daily work will include:\n   \nDeveloping code in C for the Packet Core User Plane.\n \n  \nDesigning and building fast, efficient, and well-structured software. \n \n  \nContributing to team deliveries and solving challenges related to networking protocols and system design.\n \n Developing and maintaining features for 4G and 5G user plane functions.\n Participating in design discussions, code reviews, testing, integration, and troubleshooting.\n Collaborating with experienced developers, architects, testers, and product stakeholders.\n Contributing to continuous improvements in our products, tools, and ways of working.\n  \n \n Our microservices are deployed in a cloud environment, giving you hands-on experience with cloud technologies, containerized systems, and modern software development tools such as Git and continuous integration pipelines. Together with your team, you will work on advanced software challenges and help push our technology forward, with the ambition of setting new standards in mobile packet switching performance. \n  \n The skills you bring:\n  A BSc or MSc degree in Computer Science, Software Engineering, Electrical Engineering, or a similar field.\n Strong programming skills, primarily in low-level programming using C or a similar language such as C++, Rust, or Go.\n Experience with UNIX/Linux environments.\n Knowledge of data communications and computer networks.\n Familiarity with modern development tools such as Git.\n Interest in container and cloud technologies, for example Kubernetes and cloud platforms.\n An interest in using AI tools to support software development and engineering productivity.\n The ability to analyze and solve complex technical problems independently.\n Good written and spoken English.\n Experience or knowledge of 4G/5G, EPC, 5G Core, UPF, Packet Core, IP networks, routing, TCP/IP, GTP-U, or PFCP is an advantage, but not required.",
+        "url": "https://ericsson-ab.contactrh.com/jobs/9669/44408316",
+        "published": "2026-08-28T16:25:01",
+        "deadline": "2026-09-09T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
         "id": "31398385",
         "title": "Software Engineer (C/C++)",
         "employer": "GlobalLogic Sweden AB",
