@@ -585,6 +585,21 @@
         "relevance_score": 100
     },
     {
+        "id": "30971542",
+        "title": "Cyber Security Engineer",
+        "employer": "Mission Consultancy Assistance Sweden AB",
+        "location": "Göteborg",
+        "description": "About the job\nAre you a skilled Cyber Security Engineer with a talent for finding gaps in the most secure systems? We’re looking for someone to perform in-depth penetration testing across various technologies, including Windows and Linux environments, Citrix Workspaces, Cloud infrastructures, and APIs. You will use the latest tools and techniques to uncover vulnerabilities and work alongside our development and security teams to address and fix them. If you're ready to tackle complex security challenges, we want to hear from you!\nThe ideal profile\nThe perfect candidate is a highly skilled and detail-oriented Cyber Security Engineer with genuine hands-on experience in penetration testing and vulnerability analysis. You have excellent written and verbal communication skills and are a strong problem-solver. You thrive both working independently and collaborating within a team, always ready to tackle challenges with analytical precision.\nQualifications:\nYou have a strong understanding of network protocols, both Windows and Linux operating systems, application architectures and Red Hat\nIn-depth knowledge of common vulnerabilities and exploits (CVEs)\nProficiency in using various penetration testing tools such as Metasploit, Nmap, Burp Suite and/or Nessus\n\nAdditional skills:\nExperience with cloud security, particularly AWS.\nKnowledge of scripting languages (e.g., Python, PowerShell).\nFamiliarity with source code review techniques.\nUnderstanding of frameworks like ISO 27001, NIST, CIS\nSecurity certifications such as OSCP, CEH, PEN TEST+",
+        "url": null,
+        "published": "2026-04-29T10:13:10",
+        "deadline": "2026-09-19T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
         "id": "31374653",
         "title": "Asset Manager Produktion",
         "employer": "Göteborg Energi Aktiebolag",
@@ -683,21 +698,6 @@
         "url": "https://volvo-car-corporation.contactrh.com/jobs/9669/44413502",
         "published": "2026-09-01T16:25:02",
         "deadline": "2026-09-18T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
-        "id": "31398873",
-        "title": "Project Manager / Delivery Manager at Kognic",
-        "employer": "Kognic AB",
-        "location": "Göteborg",
-        "description": "Do you want to play a key role in shaping the future of autonomous vehicles and Physical AI? Kognic is on a mission to make everything that moves autonomous. As our customer base grows, we are looking for a Delivery Manager / Project Manager to join our Operations team and drive high-impact customer projects.\nThe role\nAs a Delivery Manager, you will sit at the center of our operational success, bridging the gap between global automotive customers and third-party suppliers. You will lead customer projects end-to-end, ensuring that Kognic delivers high-quality annotation data on time, within budget, and with an exceptional level of service. We are a team of dedicated Delivery Managers working with different customers, sharing knowledge and best practices among each other. We work a hybrid remote setup with at least one day a week at the Gothenburg Office.\nWhat You’ll Do\n\nManage Relationships: Serve as the main operational point-of-contact for customers, suppliers, and internal stakeholders. You build strong, trust-based relationships while comfortably navigating tough customer discussions, managing expectations, and holding firm boundaries when needed.\n\n\nDrive Project Success: Lead project execution from planning to final delivery, ensuring strict alignment with deadlines, budgets, and quality standards.\n\n\nProactive Risk & Change Management: Spot bottlenecks early and handle changes as they happen - whether it's shifting timelines, new data specs, or pipeline issues. You guide the customer, set clear boundaries to avoid scope creep.\n\n\nProcess Optimization: Collaborate with Data Specialists to incorporate AI tools and smart methodologies into daily operations, contributing to Kognic’s ongoing scaling journey.\n\nWho You Are\nWe are looking for a collaborative, positive, and proactive leader who thrives in a dynamic scale-up environment. You enjoy guiding customers in the right direction, solving complex delivery puzzles, and confidently balancing competing priorities.\n\nEducation: Bachelor’s or Master’s degree in a technical discipline, project management, business or equivalent.\n\n\nExperience: At least 4–5 years of experience in project management and supplier delivery, including direct external customer management and full ownership of project budgets.\n\n\nCommunication: Excellent verbal and written English skills (Swedish is not required).\n\n\nAnalytical Mindset: Comfortable navigating technical complexity and data-driven project metrics.\n\n\nMeritorious: Experience in driving organizational or process change, as well as leveraging AI tools to simplify, automate, and optimize workflows.\n\nWhy Kognic?\nWe are in it to win, and have a lot of fun while doing it! To be part of Kognic is to be part of a purpose-driven company with strong values where we, together, create what Kognic will be tomorrow. Besides working with around 100 talented and humble people from many different nationalities, in a fun and creative environment, we also have many other great benefits!\n\nWorking in the exciting field of AI and playing an important part in the world’s next great technological leap\n\n\nA hybrid work model and an employer that prioritises life-work balance\n\n\nLots of team and office events, parental pay, salary exchange, great health benefits, order your own computer, place your own pension - to name a few\n\n\nFrom our early days as a pure start-up to our current life as a scale-up, we work in a dynamic environment, which means that every day might be different from the next, but that is exactly how we want it. Kognicians all have a strong desire to explore uncharted territory and a willingness to constantly be learning.\nJoin us\nWe recommend that you submit your application as soon as possible since we select and perform interviews continuously. We do not require any cover letter but ask you to share your resume and answer a couple of questions in the application\nYou are more than welcome to visit our career website to learn more about our recruiting process. If you have any questions regarding the position, please contact our VP of Operations Olof at Olof.fyr@kognic.com.\n--\nAbout Kognic\nKognic was conceived in the curious minds of Daniel Langkilde and Oscar Petersson, two engineering students, who dared to dream big and help machines make sense of our messy, chaotic, and unstructured world. Kognic's pioneering dataset management solution helps companies accelerate the development of high-performing and trusted AI products, focusing on bringing the most advanced driver-assistance systems (ADAS) and autonomous driving (AD) to market.",
-        "url": "https://careers.kognic.com/jobs/8271128-project-manager-delivery-manager-at-kognic/applications/new?promotion=2162895-arbetsformedlingen",
-        "published": "2026-08-26T11:03:51",
-        "deadline": "2027-02-22T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
         "source": "JobTech",
