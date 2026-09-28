@@ -765,21 +765,6 @@
         "relevance_score": 100
     },
     {
-        "id": "31483478",
-        "title": "Software test engineer",
-        "employer": "GlobalLogic Sweden AB",
-        "location": "Göteborg",
-        "description": "We are looking for a talented and driven individual to work on Audio signal processing and HW/SW technologies. The role focuses on evaluating, testing, and improving audio systems for various communication devices. The work involves firmware testing, acoustic tuning, audio evaluation, bug investigation, and contributing to the development of innovative products. \n\n\nBy joining us, you will have the opportunity to work on cutting-edge technologies in a collaborative and supportive team environment. We offer potential for growth and development, and the chance to contribute to a company that values diversity and innovation.\n\n\nResponsibilities:\nConduct performance analysis and optimization of audio processing systems.\nAudio tuning of devices for real time communication optimization.\nPerform system acoustic evaluations and subjective analysis across various devices.\nMeasure and analyze audio characteristics, performance and quality on different operating systems and devices.\nDevelop and maintain evaluation pipelines and dashboards for audio testing.\nDocument and communicate test results and debugging processes in reports.\nProvide technical support for audio systems using different lab set-ups and audio tools.\nContribute to the development of innovative products.\n\n\n\nRequired Qualifications:\nBachelor’s or Master’s degree in Computer Science, Electrical Engineering, or a related field.\nBackground in audio signal processing.\nProficiency in coding with C++ and/or Python.\nFamiliar with audio systems and technologies.\nKnowledge of embedded systems and OS.\nAbility to set up and conduct lab experiments and evaluations.\nStrong technical skills and a willingness to learn new technologies.\nExcellent teamwork and communication abilities.\nGreat problem-solving and analytical skills.\nStrong communication and collaboration skills.\n\nPreferred Qualifications:\nExperience with various audio devices used in communication systems.\nExperience with firmware testing and debugging processes.\nExperience with Artificial Intelligence (AI) and Machine Learning (ML) technologies.",
-        "url": "https://www.globallogic.com/careers/audio-quality-engineer-irc304616/",
-        "published": "2026-09-16T11:20:00",
-        "deadline": "2026-09-27T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 90
-    },
-    {
         "id": "31475876",
         "title": "Senior Advanced Packaging & Reliability Engineer",
         "employer": "SHT Smart High-Tech Aktiebolag",
