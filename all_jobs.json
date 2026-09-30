@@ -30,6 +30,21 @@
         "relevance_score": 100
     },
     {
+        "id": "31535087",
+        "title": "Entry Level: Microwave Design Engineer",
+        "employer": "Ericsson AB",
+        "location": "Göteborg",
+        "description": "Company description:\nEricsson AB\nJob description:   Join our Team   Join Ericsson's Microwave Design team in Gothenburg and become part of the development of next-generation wireless transport solutions.As a Microwave Design Engineer, you will contribute to the design of advanced RF and microwave circuits used in Ericsson's MINI-LINK product portfolio. You will work with technologies ranging from microwave integrated circuits and power amplifiers to complete analog front-end solutions for future radio platforms.Our team combines deep technical expertise with a collaborative and supportive atmosphere where learning, innovation, and knowledge sharing are part of everyday work.\n What you will do\n  Design RF and microwave circuits such as power amplifiers, LNAs, filters, switches and matching networks.\n Simulate, analyse and optimize microwave designs using industry-standard tools.\n Perform laboratory measurements and verification of prototypes and products.\n Participate in the full development cycle from concept and requirements to verification and release.\n Collaborate with component suppliers, research organizations and internal development teams.\n Support technical investigations and feasibility studies for future technology development.\n Contribute to innovation and continuous improvement within the microwave domain.\n  \nThe skills you bring\n  MSc degree in Electrical Engineering, Engineering Physics or equivalent.Knowledge of RF and microwave engineering.\n Experience with simulation tools such as ADS, AWR, HFSS, CST or equivalent.\n Understanding of RF measurements and laboratory equipment.Interest in analog, microwave or high-frequency circuit design.\n Strong analytical and problem-solving skills.Ability to learn quickly and work collaboratively in an agile team environment.\n Good communication skills in English.\n  \n \n Why join Ericsson? At Ericsson you will work with world-leading technology and contribute to the future of wireless communication. You will have the opportunity to grow your technical competence, collaborate with highly experienced experts and participate in the development of cutting-edge microwave solutions used around the world.",
+        "url": "https://ericsson-ab.contactrh.com/jobs/9669/44474705",
+        "published": "2026-09-30T09:25:02",
+        "deadline": "2026-10-14T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
         "id": "31512311",
         "title": "System Architect",
         "employer": "Ericsson AB",
@@ -180,6 +195,21 @@
         "relevance_score": 100
     },
     {
+        "id": "31533791",
+        "title": "Developer Platform Engineer",
+        "employer": "Agile Resources AB",
+        "location": "Göteborg",
+        "description": "Vi söker en Developer Platform Engineer som vill utveckla och automatisera moderna plattformstjänster i en teknikintensiv miljö.\nHär får du möjlighet att bygga och förbättra en modern utvecklarplattform med fokus på automation, tillförlitlighet och skalbara molntjänster. Du arbetar nära utvecklingsteam och bidrar med både praktisk plattformsexpertis och teknisk vägledning.\nOm rollen\nUtveckla och förvalta plattformstjänster för utvecklingsteam.\nDriva förbättringar inom automation, stabilitet och effektivitet.\nArbeta i en miljö med AWS, CI/CD och serverless-arkitektur.\n\nDet här kommer du göra\nAutomatisera processer och infrastruktur enligt Everything-as-Code-principer.\nGe runtime-stöd för infrastruktur och tjänster.\nStötta och coacha utvecklingsteam i tekniska frågor.\nBidra till tekniska roadmaps och plattformsförbättringar.\nFörvalta och vidareutveckla CI/CD-flöden och utvecklarverktyg.\n\nVi söker dig som har\nMinst fem års relevant arbetslivserfarenhet, varav minst tre år i produktionsmiljöer på enterprise-nivå.\nStark programmeringsförmåga i exempelvis Bash, Python, Java eller TypeScript.\nDjup förståelse för CI/CD, automatisering och molnbaserad infrastruktur.\nErfarenhet av SQL- och NoSQL-databaser samt Linux-miljöer.\nKunskap om eventdriven och serverless-baserad arkitektur.\n\nTeknik & Verktyg\nAWS: CloudFormation, CDK, SAM, EC2, ECS, IAM, Lambda, SQS, SNS och EventBridge.\nCI/CD: CodePipeline, CodeBuild, CodeDeploy och Jenkins.\nAutomation: Packer, Ansible, Chef, Docker och Git.\nDatabaser: DynamoDB, MongoDB och PostgreSQL.\nMeriterande: Kubernetes, Artifactory, SonarQube, GitHub, Gerrit och sårbarhetsskanning.\n\nPraktisk information\nOrt: Göteborg.\nArbetssätt: Hybrid, med arbete på plats i Göteborg.",
+        "url": "https://recruit.agile.nu/apply/jp-e6758ace83be7f65?source=platsbanken",
+        "published": "2026-09-29T16:35:43",
+        "deadline": "2026-10-29T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": true,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
         "id": "31514122",
         "title": "Service Owner Analytics & Senior BI Developer",
         "employer": "Agile Resources AB",
@@ -268,6 +298,21 @@
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 100
+    },
+    {
+        "id": "31533824",
+        "title": "Exterior/Interior Lighting Studio Engineer",
+        "employer": "Agile Resources AB",
+        "location": "Göteborg",
+        "description": "Ta en nyckelroll i utvecklingen av innovativa ljuslösningar för framtidens fordon, där designvision möter teknik, funktion och regelverk.\nVill du omsätta starka designidéer till genomförbara ljuslösningar för moderna fordon? Här får du arbeta nära design och teknik i en senior roll med fokus på exteriör- och interiörbelysning.\nOm rollen\nDriv utvecklingen av belysningskoncept i en designstudio för fordonsindustrin.\nVara länken mellan design, konstruktion, validering och tillverkning.\nSäkerställa att lösningar möter tekniska, estetiska och regulatoriska krav.\n\nDet här kommer du göra\nÖversätta designintentioner och tekniska krav till genomförbara koncept.\nTa fram och utvärdera ljuskoncept i CAD- och optiska simuleringsverktyg.\nDokumentera genomförbarhet, beslut och kritiska frågeställningar.\nBenchmarka lösningar och följa utvecklingen inom belysningsteknik och tillverkningsmetoder.\nStötta utveckling och utvärdering av fysiska lamp-prototyper.\n\nVi söker dig som har\nMinst tio års erfarenhet av fordonsutveckling med fokus på lamp- och belysningssystem.\nErfarenhet av både exteriör- och interiörbelysning, från koncept till komponentutveckling.\nGod förståelse för fordonsutvecklingsprocesser, verifiering och relevanta regelverk.\nErfarenhet av komponenttillverkning, verktygsförutsättningar och ledtider.\nFörmåga att driva frågor självständigt och samarbeta tvärfunktionellt.\n\nTeknik & Verktyg\nCATIA V5 för solid- och ytmodellering.\nTeamcenter för produktdatahantering och konstruktion.\nOptiska verktyg som SPEOS, LucidShape eller LightTools.\nJira och Microsoft Office för planering och dokumentation.\n\nPraktisk information\nOrt: Sverige\nArbetssätt: På plats i studio\nSpråk: Engelska krävs; mandarin är meriterande",
+        "url": "https://recruit.agile.nu/apply/jp-ff3712368041fe08?source=platsbanken",
+        "published": "2026-09-29T16:35:37",
+        "deadline": "2026-10-29T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 90
     },
     {
         "id": "31528911",
@@ -525,6 +570,21 @@
         "relevance_score": 80
     },
     {
+        "id": "31533208",
+        "title": "Software Engineer",
+        "employer": "Volvo Personvagnar Aktiebolag",
+        "location": "Göteborg",
+        "description": "Company description:\nWho are we?Volvo Cars is a company on a mission; to bring traditional car manufacturing into a connected, sustainable and smart future.Since 1927, we have been a brand known for our commitment to safety, creating innovative cars that make life less complicated for our consumers. In 2010, we decided to transform our business, resulting in a totally new generation of cars and technologies, as well as steady growth and record sales. Today, we’re expanding our global footprint in Europe, China and the US, and we’re on the lookout for new talent. We are constantly pushing our own skills and abilities to drive change in the automobile industry like never before. We are looking for innovative, committed people to join us in this endeavour and create safe, sustainable and connected cars. We believe in the power of people and will challenge and support you to reach your full potential. Join us and be part of Volvo Cars’ journey into the future.\nJob description:  Let's introduce ourselves \nOur primary need is an Infrastructure as Code (IaC) Developer. As an IaC Developer, you will play a pivotal role in designing, implementing, and maintaining infrastructure using modern IaC practices and tools.  \n  \n You will work on projects, collaborate with cross-functional teams, and contribute to the automation and scalability of our infrastructure.\n What you'll do  Design, build, and maintain Infrastructure as Code (IaC) solutions using tools such as Crossplane, Azure, and Ansible.\n Integrate infrastructure provisioning into CI/CD pipelines.\n Automate deployment, scaling, and lifecycle management of cloud resources.\n Ensure security and compliance requirements are met across all infrastructure configurations.\n Monitor and troubleshoot infrastructure issues, implement optimizations, and maintain high availability.\n Stay current with emerging technologies and best practices in IaC and cloud computing.\n  What you'll bring  Bachelor’s degree in Computer Science, Information Technology, or a related field, or equivalent practical experience.\n Proven hands-on experience with IaC tooling, including Crossplane, Azure, and Ansible.\n Strong scripting and programming skills in languages such as Python, Bash, or PowerShell.\n Strong infrastructure domain expertise across both cloud and on-premises environments.\n Solid experience working primarily with Microsoft Azure.\n Working knowledge of container technologies such as Docker and Kubernetes.\n Working knowledge of Go.\n Proven experience with DevOps practices and CI/CD pipelines.\n Strong problem-solving skills, a collaborative mindset, and the ability to work effectively in a team.\n Clear communication skills and the ability to collaborate with cross-functional stakeholders.\n  \n \n We are moving toward a leaner organization focused on the essentials. This makes the right domain expertise non-negotiable, as there will be limited opportunity to add complementary resources.\n Main technologies in our environment: Azure, RHEL, SUSE, Ansible, VMware, vRealize, ServiceNow, Red Hat Automation Platform, Windows, Azure DevOps, GitHub, GitHub Actions.",
+        "url": "https://volvo-car-corporation.contactrh.com/jobs/9669/44473378",
+        "published": "2026-09-29T15:25:02",
+        "deadline": "2026-10-14T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
         "id": "31517115",
         "title": "Senior Embedded Software Platform & Integration Engineer",
         "employer": "Volvo Business Services Aktiebolag",
@@ -600,36 +660,6 @@
         "relevance_score": 100
     },
     {
-        "id": "31455321",
-        "title": "Developer – Java & AWS Serverless",
-        "employer": "Logikfabriken AB",
-        "location": "Göteborg",
-        "description": "Do you enjoy building and writing code in a welcoming team environment?\nPerfect! 👌\nWe're looking for someone with a few years of experience in Java and AWS Serverless who enjoys working in a team doing DevOps for real – you build it, you run it. The team owns the full cycle: code, tests, documentation, load testing, CI/CD and running things in production. On-call may become part of the role. It doesn't hurt if you're social, cheerful and open-minded.\nYou don't need to tick every box below. If most of it sounds like you and you're curious about the rest – apply!\nTECH AND SKILLS\n\nJava\n\n\nAWS Serverless (Lambda / API Gateway / DynamoDB)\n\n\nDevOps – CI/CD, testing, operations and monitoring\n\n\nNICE TO HAVE\n\nExperience with connectivity / connected services – a big plus\n\n\nPython\n\n\nEXPERIENCE\n\n4+ years of software development in a team setting\n\n\n❤️Logikfabriken is a consultancy by and for talented, engaged and fun people in tech.\n🚀Our ambition is to become Sweden's best and most inspiring employer.\n🌕Together we create the conditions and drive the company forward.\n🍾We value spending time together, so we go on two conferences a year and organise talks, after-works and lots of other fun stuff.\n💰On top of that, we believe in fair pay and transparency. That's why everyone at Logikfabriken has the same terms and sets their own salary, pension, parental pay, number of vacation days and other benefits. Our model is flexible, secure and in most cases means a substantial pay rise. See for yourself what you could earn: Calculate your salary\n🌳We also care deeply about sustainability. Logikfabriken has been climate neutral since 2017 and we're constantly working to reduce our footprint.\nFind our full offer here: Logikfabriken FAQ",
-        "url": "https://jobs.logikfabriken.se/jobs/8350889-developer-java-aws-serverless/applications/new?promotion=2186662-arbetsformedlingen",
-        "published": "2026-09-09T10:36:20",
-        "deadline": "2027-03-08T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": true,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
-        "id": "31401133",
-        "title": "Embedded Software Developer - General Lighting",
-        "employer": "LumenRadio AB",
-        "location": "Göteborg",
-        "description": "LumenRadio is a high-tech company with the vision of replacing all cables in the world. We have been leading the wireless transformation within the lighting industry since 2008, where our technology is being used every day in the largest TV and Movie productions in Hollywood, at the Coachella festival, and the Eurovision Song Contest. Our patented technologies deliver unprecedented reliability for the most business-critical applications, and our products are now also used in permanent indoor and outdoor lighting installations, as well as in building automation systems.\nReplacing cables in lighting control systems with wireless communication makes installations easier, more flexible and more cost-efficient. With rising demands for energy efficiency, wireless lighting control has become a key enabler, making intelligent control possible even where traditional cabling is not.\nIn our General Lighting team, we work with W-DALI and AirGlow to bring reliable wireless lighting control to real-world environments, using existing DALI systems and without the need for cabling. You will be part of our R&D organization, where we continuously develop and refine wireless communication technology, and are currently focused on building the next-generation platform that enables even higher performance in our wireless solutions.\nYour future\nWe are looking for our next Embedded Software Developer to join our product development team within General Lighting. In this role, you will play an important role in new development projects as well as maintenance assignments on system level, e.g. drawing up requirement specifications, pre-studies, proposals, system design, system testing (QA) and acceptance testing. You will also plan and execute product/project plans and drive process improvements.\nAn important part of our approach to product development is having a deep understanding of our customers' challenges and closely understanding the environment in which our products are used. As a developer in the team, we expect you to be driven by a desire to understand the industry and participate in technical customer dialogues and support cases when needed. You will balance a deep technical interest and knowledge with the willingness to learn about domain specific requirements, standards, certifications etc.\nAs part of maintaining a close dialogue with our customers and partners, we expect you to participate in trade shows and engineering meet-ups around the world approximately 2-3 times per year.\nAbout you\n\nBachelor's or Master's degree in Computer Science, Electrical Engineering, or equivalent\n\n\nExperience in delivering high-quality embedded C firmware\n\n\nExperience with Python, e.g. for testing purposes\n\n\nExperience in CI/CD and measuring electronics\n\n\nA genuine passion for technology, demonstrated by curiosity and a desire to stay informed about industry trends\n\n\nFluency in English, written and spoken\n\n\nWhile it's beneficial to have prior knowledge of, it's not essential as you'll have the opportunity to learn about:\n\nnetworking (IPv6, OSI model etc.)\n\n\nwireless networking (Bluetooth/BLE, Zigbee, WiFi, LoRa, Thread, 6LoWPAN, NB-IoT, 5G etc.)\n\n\ndifferent lighting- & industry protocols, such as DALI, KNX, BACnet, Modbus, etc.\n\n\nOur tech stack\n\nWhatever OS and editor that make you productive\n\n\nArm-gcc, Git, GNU Make\n\n\nRobot Framework, GitLab and GitLab CI\n\n\nBluetooth, SPI, UART, our own meshing network stack Mira\n\n\nWe are looking for people who share our values – Reliability, Innovation, Simplicity and Energy.\nDiversity and culture\nWe are on a mission to replace all cables in the world, and we are looking for you who share our passion for cutting-edge technology! We value diversity and welcome different-minded professionals who are committed to our ambitious goals. We warmly welcome and encourage job applications from people of all backgrounds and genders.\nIf you need any adjustments to support you with your application, just let us know by emailing nelly.bertilsson@lumenradio.com.\nOur Benefits\n\nWe offer good job security through agreements and insurance, paid parental leave, holiday leave, and attractive pension plans📃\n\n\nYearly health allowance - For your physical activity and well-being🧘🏽\n\n\nYearly personal development allowance - For your brain and creativity🧠\n\n\nFree access to the gym in the same building🏋🏽‍♂️\n\n\nFlexible working hours⌚\n\n\nNot to mention our Coffee Club, Multipath Running Club, Crafts Club, and much more!☕\n\n\nMore information This is a full-time position at our Head Office in Gothenburg. In this position, you will report to Erik Abrahamsson, Engineering Manager, Lighting Control, and responsible recruiter is Nelly Bertilsson. Don't hesitate to reach out to nelly.bertilsson@lumenradio.com if you have any questions.\nWe kindly ask not to be contacted for external recruitment services for this recruitment process.",
-        "url": "https://lumenradio.teamtailor.com/jobs/7844753-embedded-software-developer-general-lighting/applications/new?promotion=2163817-arbetsformedlingen",
-        "published": "2026-08-26T15:44:58",
-        "deadline": "2027-02-22T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "31491134",
         "title": "Senior Embedded Software Engineer – AI och LLM",
         "employer": "Agile Resources AB",
@@ -685,6 +715,21 @@
         "deadline": "2026-11-07T23:59:59",
         "is_consultant": false,
         "is_meaningful": true,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
+        "id": "31532181",
+        "title": "Thesis: Evaluate AI Agents&AIOps for DevOps Practices Platform Engineering",
+        "employer": "Volvo Business Services Aktiebolag",
+        "location": "Göteborg",
+        "description": "Company description:\n\"Founded in 1927, the Volvo Group is committed to driving prosperity and shaping the future landscape through sustainable transport, mobility, and infrastructure solutions. By offering trucks, buses, construction equipment, power solutions for marine and industrial applications, financing and services that increase our customers’ uptime and productivity. Our headquarters are in Gothenburg, Sweden. Volvo Group shares are listed on Nasdaq Stockholm.\"\nJob description:Transport is at the core of modern society. Imagine using your expertise to shape sustainable transport and infrastructure solutions for the future. If you seek to make a difference on a global scale, working with next-gen technologies and the sharpest collaborative teams, then we could be a perfect match. \n What do we do in VAS? \nThe DevOps Group within Volvo Autonomous Solutions (VAS) is responsible for the Software Factory and provides Test Automation and Orchestration frameworks that enable efficient software development and validation.\n  \n We deliver the frameworks, tools, services, and engineering capabilities that allow development and verification teams to build, test, deploy, and operate software efficiently. Our responsibilities span the entire software delivery ecosystem, including source control management, CI/CD pipelines, deployment automation, container platforms, infrastructure services, test orchestration, and observability solutions.\n  \n Together, these capabilities form our Software Factory, which accelerates software delivery, improves software quality, increases automation, and promotes DevOps best practices across the organization.\n  \n Description of the Area\n As part of our Software Factory, VAS has developed Octopus, an in-house workflow orchestration platform designed to automate and streamline engineering processes across the software development and validation lifecycle.\n  \n As we evolve from a traditional DevOps organization toward a Platform Engineering operating model, we are exploring how Artificial Intelligence (AI), AI Agents, and AIOps can transform platform operations and software delivery. This thesis will investigate how AI-driven capabilities can be integrated into the Octopus platform to enhance automation, operational efficiency, and developer experience.\n  \n Using Octopus as the experimental environment, the study will evaluate how the role of DevOps engineers may evolve, identify operational activities that can benefit from AI assistance or autonomous execution by AI agents, and determine where human oversight remains essential. The work will also explore governance, reliability, security, compliance, and competency considerations required for the safe and successful adoption of AI-enabled operations.\n Thesis Description \nThis thesis investigates how AI Agents and AIOps can reshape DevOps practices and accelerate the transition toward Platform Engineering within Volvo Autonomous Solutions (VAS).\n  \n Through an industrial case study using the Octopus platform, the research will analyze:\n  How AI impacts the role and responsibilities of DevOps engineers.\n Which operational activities are suitable for AI-assisted execution.\n Which activities can be safely automated through autonomous AI agents.\n Where human decision-making, accountability, and oversight must remain mandatory.\n The governance, reliability, security, compliance, and operational requirements for AI-enabled platforms.\n The skills, competencies, and organizational capabilities required for future Platform Engineering teams.\n  \n \n The outcome will be an evidence-based adoption framework that provides a structured and low-risk approach for introducing AIOps and AI Agents within VAS. The study will help define how Octopus can evolve from a workflow orchestration platform into an intelligent Platform Engineering capability while maintaining appropriate guardrails, operational control, security, and human accountability.\n Ready for the next move? \nAre you excited to bring your skills and disruptive ideas to the table? We can’t wait to hear from you. Apply today! \n Questions?\n Contact: shilpa.avasarala@volvo.com\n We value your data privacy and therefore do not accept applications via mail. \n  \n Who we are and what we believe in We are committed to shaping the future landscape of efficient, safe, and sustainable transport solutions. Fulfilling our mission creates countless career opportunities for talents across the group’s leading brands and entities.\n  \n Applying to this job offers you the opportunity to join Volvo Group. Every day, you will be working with some of the sharpest and most creative brains in our field to be able to leave our society in better shape for the next generation. ​We are passionate about what we do, and we thrive on teamwork. ​We are almost 100,000 people united around the world by a culture of care, inclusiveness, and empowerment. \n  \n Part of Volvo Group, Volvo Autonomous Solutions accelerates the development, commercialization and sales of autonomous transport solutions, focusing on defined segments for the on- and off-road space. The combination of strong tech expertise and skilled customer solutions creates innovative transport offers never seen before. We are constantly pushing our own skills and ability to drive change in a traditional industry to meet a growing customer demand. We are now looking for innovative, committed individuals to join us in our endeavor to create customer solutions that enhance safety, flexibility and productivity.",
+        "url": "https://volvo-information-technology-ab.contactrh.com/jobs/9669/44472917",
+        "published": "2026-09-29T13:25:01",
+        "deadline": "2026-10-11T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 100
@@ -885,21 +930,6 @@
         "relevance_score": 100
     },
     {
-        "id": "31373113",
-        "title": "Application Specialist - Dynamics 365 Field Service Developer",
-        "employer": "Swegon Operations Aktiebolag",
-        "location": "Göteborg",
-        "description": "Swegon is building a global Microsoft Dynamics 365 Customer Engagement platform to strengthen our customer-centric digital capabilities. The solution is already deployed in multiple countries and is continuously expanding.\nWe are looking for a Dynamics 365 Developer, Application Specialist with focus on Field Service to join our growing software team. You will play a key role in turning business needs into scalable, high-quality solutions and help bring technologies like AI, IoT, and automation into real-world use. Our ambition is clear: to become a global leader in software for indoor climate solutions.\nYou will work closely with:\n\nProduct Owners\n\n\nSolution Architects\n\n\nDevelopers\n\n\nBusiness stakeholders\n\n\n…and contribute to shaping how Swegon works globally. \n\nKey Responsibilities\n\nDevelop and customize Dynamics 365 CE (primarily Field Service)\n\n\nDesign and implement integrations with other systems\n\n\nSupport and improve global deployments\n\n\nCollaborate closely with product and architecture teams\n\n\nDrive continuous improvements in development processes\n\n\nProvide user support via ticketing tools\n\n\nEnsure high-quality UX and intuitive solutions\n\n\n\nWe are looking for someone who:\n\nHas 5+ years experience with Dynamics 365 CE development\n\n\nHas strong interest in technology and digital transformation\n\n\nIs comfortable working in an agile environment\n\n\nCommunicates effectively with both technical and business teams\n\n\n\nTechnical Skills (Relevant Experience)\n\nDynamics 365 CE (customization, plugins, workflows)\n\n\nPower Automate\n\n\nIntegration patterns\n\n\n\nMeritorious qualifications include experience within the Field Service domain, such as service workflows, technician management, and scheduling. Experience with ERP and CRM integrations is also highly valued, as well as strong knowledge of Azure and Azure DevOps. Experience with IoT integrations is considered a significant advantage, along with prior work with Dynamics Field Service in a large multinational organization. A basic understanding of Power BI is also desirable.\n\nWe offer:\n\nA key role in a global digital transformation\n\n\nHigh degree of influence and ownership\n\n\nModern tech stack and forward-leaning architecture\n\n\nA collaborative and supportive culture\n\n\nStrong focus on work-life balance\n\n\nClear alignment with our values:  Customer Empathy, Trust, Commitment \n\n\nAt Swegon, we work towards creating the world's best indoor climate that promotes people's well-being - 'feel good inside.' We have ambitious goals in our sustainability efforts, aiming to offer the most energy-efficient products, promote equality, and become CO2 neutral, while maintaining transparency in our operations. We provide exciting challenges in a global environment with competent colleagues and a culture defined by our values; \"Customer Empathy, Trust, and Commitment,\" which permeates everything we do and forms the basis for the decisions we make and how we interact with each other. At Swegon, we foster an open and flexible organizational culture with short decision-making processes, plenty of development opportunities, and we value your ability to balance work with your personal life. We place great importance on personal qualities, welcome applicants from diverse backgrounds, and strive for diversity and equality.\nAbout Swegon Group:\nSwegon Group, owned by Investment AB Latour, listed on the Stockholm Stock Exchange, is a market-leading provider for a healthy indoor climate. Our solutions include ventilation, heating, cooling, climate optimization, as well as connected services and technical expertise. Swegon has subsidiaries and distributors worldwide and operates 17 production units in Europe, North America, and India. The company employs around 4000 people and had a turnover of approximately 10 billion SEK in 2025.\nContact Information:\nWelcome to submit your application via www.swegon.se/jobb. We practice continuous selection and encourage you to submit your application as soon as possible. There may be some delays due to the summer holiday period. For more information about the position, contact Richard Roper, Dynamics Manager. richard.roper@swegon.com",
-        "url": "https://karriar.swegon.se/en-GB/jobs/7977228-application-specialist-dynamics-365-field-service-developer/applications/new?promotion=2152971-arbetsformedlingen",
-        "published": "2026-08-19T15:41:33",
-        "deadline": "2027-02-15T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "31269117",
         "title": "System Engineer",
         "employer": "INCIPIENTUS ULTRASOUND FLOW TECHNOLOGIES AB",
@@ -943,20 +973,5 @@
         "source": "JobTech",
         "category": "AI",
         "relevance_score": 70
-    },
-    {
-        "id": "31228788",
-        "title": "Machine Learning Engineer - Computer Vision",
-        "employer": "Repli5 AB",
-        "location": "Göteborg",
-        "description": "About Repli5: Repli5 is a small Swedish startup based in Gothenburg that specializes in bringing Generative AI to computer vision applications. Our technology, called RealSim, leverages gen AI to bridge the gap between synthetic data and reality. This is particularly useful for creating accurate, realistic training data for computer vision models, essential in developing solutions for industrial robotics, autonomous drones, and select automotive applications. Our technology is also capable of enhancing real-world images by introducing extensive weather and lighting variations, which significantly increases the robustness of downstream computer vision models. We are now packaging this tech into a platform service built for computer vision engineers.\nThe Opportunity: Shaping the Future of AI Perception We're looking for an experienced Machine Learning Engineer with a deep background in computer vision and generative AI. You’ll be part of a team developing workflows that generate realistic, diverse, and highly controllable synthetic image data using state-of-the-art tools like Stable Diffusion, LoRA, and ControlNet. These workflows will be adapted and applied to our new platform and your work will thus directly impact Repli5’s business and the performance and robustness of real-world AI systems—from self-driving cars to industrial automation.\nWhat You’ll Do (Key Responsibilities)\n\nDevelop and fine-tune generative AI pipelines (e.g., Stable Diffusion, ControlNet, LoRA) for synthetic image generation.\n\n\nDesign and implement machine learning workflows to generate structured, photorealistic datasets.\n\n\nCollaborate with 3D artists and simulation engineers to align ML models with physical environments and sensor setups.\n\n\nWork closely with customers in automotive, robotics, and aerospace to deliver tailored datasets.\n\n\nOptimize generation systems for scalability, quality, and speed using tools like ComfyUI or custom pipelines.\n\n\nWho You Are (Qualifications)\n\nThe Essentials: MSc or PhD in Computer Vision, Machine Learning, or related field with 3+ years of hands-on experience with deep learning frameworks (e.g., PyTorch, TensorFlow). Extensive experience with state-of-the-art image generation models (GAN, Diffusion, Transformers)\n\n\nExploring Mindset: Experience exploring workflows with generative AI models (especially diffusion-based) and a strong passion for reading and applying new research papers.\n\n\nToolset Curiosity (Big Plus!): Familiarity with tools like LoRA, ControlNet, ComfyUI, or custom workflows around Stable Diffusion.\n\n\nDomain Knowledge (Big Plus!): Strong understanding of synthetic data generation and its role in training perception systems.\n\n\nPractitioner: A track record of deploying ML systems in domains like industrial automation, defense, or automotive.\n\n\nThe Startup Gene: You excel in fast-paced, ambiguous environments where you can take initiative and work independently.\n\n\nA Team Player: A problem-solving intellect with a team player spirit and a positive can-do attitude.\n\n\nWhat We Offer\n\nA competitive compensation package.\n\n\nFlexibility and work-life balance.\n\n\nChallenging tasks that are at the forefront of technology.\n\n\nThe autonomy to make major technical decisions and influence the product direction.\n\n\nAn international, caring culture where it is natural to both ask for and offer help.\n\n\nFlexible working hours and the possibility to work from home some days a week.\n\n\nFun at work.\n\n\nRecruitment Process\n\nApplication Review\n\n\nFirst Interview (1-1 with COO) - More about you. This is our chance to learn who you are and what you bring to the table.\n\n\nTechnical interview (with 2-3 from the Repli5 team). You're given a technical problem similar to a customer request and you are expected to present how you would solve this (but not present the actual solution). This is followed by general technical questions\n\n\nFinal stage is a sync with the CEO.",
-        "url": "https://repli5.teamtailor.com/jobs/7989080-machine-learning-engineer-computer-vision/applications/new?promotion=2076767-arbetsformedlingen",
-        "published": "2026-06-29T22:25:20",
-        "deadline": "2026-12-26T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
     }
 ]
