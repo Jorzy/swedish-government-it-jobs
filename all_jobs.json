@@ -15,6 +15,36 @@
         "relevance_score": 100
     },
     {
+        "id": "31576552",
+        "title": "Join Our Team as a SW Engineer",
+        "employer": "FPT Sverige AB",
+        "location": "Göteborg",
+        "description": "About the Role\nWe are seeking a highly motivated and skilled Automotive Software Engineer to join our engineering team. In this role, you will be responsible for the full software development lifecycle of embedded systems for automotive applications, from requirement analysis through to qualification testing. You will collaborate closely with cross-functional teams and work independently to deliver high-quality software components.\nKey Responsibilities\n·      Analyze software and hardware requirements for automotive embedded systems.\n·      Design system architecture, detailed modules, and software interfaces.\n·      Develop, test, and integrate embedded software, including hardware drivers and bootloaders.\n·      Conduct unit testing, integration testing, and qualification testing in compliance with automotive standards.\n·      Collaborate with cross-functional teams to support system bring-up and debugging.\n·      Document design specifications and test procedures.\n·      Work efficiently both independently and as part of a collaborative team.\nWhat You'll Bring\n·      3+ years of experience in automotive embedded systems development.\n·      Proficient in C/C++ programming; scripting experience in Python, Shell, or Perl.\n·      Strong understanding of microcontrollers, device drivers, and embedded systems.\n·      Hands-on experience with bootloaders, cross compilers, and toolchains.\n·      Familiarity with software development lifecycle and working with hardware manuals, schematics, and data sheets.\n·      Practical experience with automotive communication protocols: SPI, CAN, LIN, FlexRay, Ethernet.\n·      Experience with debugging tools, simulators, emulators, and test equipment.\n·      Team player with excellent self-management and communication skills.\nNice to Have\n·      Experience with AUTOSAR Classic Platform development.\n·      Familiarity with AUTOSAR Configuration Tools (e.g., DaVinci, ECU Spectrum).\n·      Understanding of Functional Safety concepts (ISO 26262).\n·      Experience with multi-threaded and multitasking systems.\n·      Knowledge of Automotive SPICE or CMMI frameworks.\nBenefits & Perks:\n·      Competitive salary and performance-based bonuses.\n·      Health, dental, and vision insurance.\n·      Flexible work hours and remote work options.\n·      Learning and development opportunities\n.      Work with a talented and passionate team in a collaborative environment.",
+        "url": null,
+        "published": "2026-10-09T11:29:00",
+        "deadline": "2027-03-31T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
+        "id": "31576451",
+        "title": "Join Our Team as a SW Engineer",
+        "employer": "FPT Sverige AB",
+        "location": "Göteborg",
+        "description": "About the Role\nWe are seeking a highly motivated and skilled Automotive Software Engineer to join our engineering team. In this role, you will be responsible for the full software development lifecycle of embedded systems for automotive applications, from requirement analysis through to qualification testing. You will collaborate closely with cross-functional teams and work independently to deliver high-quality software components.\nKey Responsibilities\n·      Analyze software and hardware requirements for automotive embedded systems.\n·      Design system architecture, detailed modules, and software interfaces.\n·      Develop, test, and integrate embedded software, including hardware drivers and bootloaders.\n·      Conduct unit testing, integration testing, and qualification testing in compliance with automotive standards.\n·      Collaborate with cross-functional teams to support system bring-up and debugging.\n·      Document design specifications and test procedures.\n·      Work efficiently both independently and as part of a collaborative team.\nWhat You'll Bring\n·      3+ years of experience in automotive embedded systems development.\n·      Proficient in C/C++ programming; scripting experience in Python, Shell, or Perl.\n·      Strong understanding of microcontrollers, device drivers, and embedded systems.\n·      Hands-on experience with bootloaders, cross compilers, and toolchains.\n·      Familiarity with software development lifecycle and working with hardware manuals, schematics, and data sheets.\n·      Practical experience with automotive communication protocols: SPI, CAN, LIN, FlexRay, Ethernet.\n·      Experience with debugging tools, simulators, emulators, and test equipment.\n·      Team player with excellent self-management and communication skills.\nNice to Have\n·      Experience with AUTOSAR Classic Platform development.\n·      Familiarity with AUTOSAR Configuration Tools (e.g., DaVinci, ECU Spectrum).\n·      Understanding of Functional Safety concepts (ISO 26262).\n·      Experience with multi-threaded and multitasking systems.\n·      Knowledge of Automotive SPICE or CMMI frameworks.\nBenefits & Perks:\n·      Competitive salary and performance-based bonuses.\n·      Health, dental, and vision insurance.\n·      Flexible work hours and remote work options.\n·      Learning and development opportunities\n.      Work with a talented and passionate team in a collaborative environment.",
+        "url": null,
+        "published": "2026-10-09T11:17:15",
+        "deadline": "2027-03-31T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
         "id": "31538333",
         "title": "System Tester",
         "employer": "Ericsson AB",
@@ -253,21 +283,6 @@
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 90
-    },
-    {
-        "id": "31452883",
-        "title": "Service Owner Analytics & Senior BI Developer",
-        "employer": "Agile Resources AB",
-        "location": "Göteborg",
-        "description": "Driv och utveckla moderna analyslösningar i en senior roll där du kombinerar serviceägarskap med praktisk BI- och dataplattformsutveckling.\nVill du kombinera strategiskt serviceägarskap med praktisk utveckling inom BI och analys? I den här seniora rollen arbetar du med skalbara dataproducts och moderna analyslösningar i en verksamhet med många affärsområden och intressenter.\nOm rollen\nAnsvara för utvalda analys- och BI-tjänster genom hela livscykeln.\nKombinera serviceägarskap, prioritering och intressentdialog med hands-on-utveckling.\nBidra till övergången från äldre BI-lösningar till en Databricks-baserad analysplattform.\nSamarbeta nära verksamhet, data engineers och plattformsteam.\n\nDet här kommer du göra\nFörvalta, supportera och vidareutveckla analys- och BI-lösningar.\nUtveckla datamodeller, transformationer och återanvändbara analyskomponenter i Databricks.\nSkapa och underhålla semantiska modeller, rapporter och dashboards i Power BI.\nÖversätta verksamhetsbehov till skalbara dataproducts och analyslösningar.\nBidra till AI-relaterade analysinitiativ, databeredning och feature-ready dataset.\n\nVi söker dig som har\nSenior erfarenhet av att utveckla BI- och analyslösningar med tydligt verksamhetsvärde.\nStark praktisk kompetens inom Databricks, SQL, notebooks och datamodellering.\nGedigen erfarenhet av Power BI, inklusive semantisk modellering, DAX och prestandaoptimering.\nGod förståelse för dataarkitektur samt ETL- och ELT-principer.\nFörmåga att driva prioriteringar och samverka med både verksamhet och tekniska team.\n\nTeknik & Verktyg\nDatabricks för datamodellering, transformationer och analysutveckling.\nPower BI för semantiska modeller, rapportering och dashboards.\nSQL, DAX och notebooks.\nETL/ELT och dataarkitekturprinciper.\nQlik Sense och AI/ML-relaterade analystillämpningar är meriterande.\n\nPraktisk information\nOrt: Göteborg.\nArbetssätt: Hybrid, med arbete på kontor cirka 2–3 dagar per vecka.\nSpråk: Engelska i professionell arbetsmiljö.",
-        "url": "https://recruit.agile.nu/apply/jp-20c7035dadfbb742?source=platsbanken",
-        "published": "2026-09-08T15:55:13",
-        "deadline": "2026-10-08T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
     },
     {
         "id": "31561383",
@@ -570,21 +585,6 @@
         "relevance_score": 90
     },
     {
-        "id": "31452859",
-        "title": "Embedded Software Release Engineer",
-        "employer": "Agile Resources AB",
-        "location": "Göteborg",
-        "description": "Säkerställ kvalitet och konfiguration i mjukvarureleaser för eftermarknaden hos en etablerad aktör inom fordonsindustrin.\nVill du arbeta med mjukvarureleaser som gör att fordon kan uppdateras med rätt programvara under hela sin livscykel? I rollen får du kombinera embedded-utveckling, kvalitetssäkring och konfigurationshantering i en verksamhet inom fordonsindustrin.\nOm rollen\nAnsvara för mjukvarureleaser och konfiguration för eftermarknaden.\nSäkerställa att system och fordon får tillgång till aktuell mjukvara.\nArbeta nära projekt, produktleveranser och kvalitetsfunktioner.\n\nDet här kommer du göra\nSäkra mjukvarubehov inför leveranser, övergångar och releaser.\nVerifiera kvalitet och konfiguration i servicepaket.\nGranska, analysera och validera mjukvarudokumentation.\nSkapa och verifiera mjukvarurelaterade tillbehör och distributioner.\nSäkerställa bakåtkompatibilitet för ECU-hårdvara och mjukvara.\n\nVi söker dig som har\nErfarenhet av embedded software-utveckling eller annan relevant mjukvaruutveckling.\nFörmåga att självständigt driva arbete mot tydliga leveranser.\nVana att analysera komplex information och lösa problem pragmatiskt.\nFokus på kvalitet, struktur och effektiv implementering.\n\nTeknik & Verktyg\nEmbedded Software\nSW Configurator\nKOLA\nSEWS\nECU-hårdvara och ECU-mjukvara\n\nPraktisk information\nOrt: Göteborg\nArbetssätt: Ej specificerat\nSpråk: Engelska",
-        "url": "https://recruit.agile.nu/apply/jp-85ea107b5c2af432?source=platsbanken",
-        "published": "2026-09-08T15:55:02",
-        "deadline": "2026-10-08T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 80
-    },
-    {
         "id": "31564887",
         "title": "Platform Engineer, OpenShift / Kubernetes",
         "employer": "Logikfabriken AB",
@@ -698,6 +698,21 @@
         "url": "https://careersweden.knowit.se/jobs/7642209-senior-data-engineer-till-knowit-i-goteborg/applications/new?promotion=1991222-arbetsformedlingen",
         "published": "2026-05-11T08:45:23",
         "deadline": "2026-11-07T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": true,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
+        "id": "31570811",
+        "title": "Manager, Delivery Management",
+        "employer": "Kognic AB",
+        "location": "Göteborg",
+        "description": "Kognic is on a mission to make everything that moves autonomous. Our Delivery Managers sit at the sharp end of that promise: the people who make sure it actually happens for the world’s most demanding automotive and AI customers. We're now looking for our next Kognic leader, ready to own that commitment end to end, leading and developing our team of Delivery Managers who keep our delivery at that same high bar.\nThe Role\nKognic is scaling fast, and the way we lead our deliveries has to scale with it. This is what you will be part of building. You lead our team of Delivery Managers, around 12 people who own the day-to-day across all our accounts. You shape the team and how it works: how the function meets customers and internal stakeholders. You define what good looks like, then hire and coach in that direction. You balance pragmatism in the day to day with the long-term changes that make us stronger over time.\nWhat You'll Do \nThe team works with complex enterprise customers and short turnaround times, which calls for decentralised decision-making and a high degree of autonomy. When delivery is at risk, you own the escalation and its resolution. The path will differ every time, but it always goes through your team, never around them. So the core of the job is to hire and develop the team Kognic needs to execute well. You hire and onboard, and you run performance and salary reviews. You build a team that customers and the rest of Kognic trust with the big moments.\nOur customer promise is “the most data for your budget”. As a leader of a critical function in our deliveries, you will have a real impact on our ability to fulfill that promise. You keep a close eye on the budget and margin, both per account and for the company as a whole. You act early to improve outcomes in the short and long term. Succeed here and you have a material impact on how AD and ADAS get developed across the industry.\nYou report to the VP Operations and join the Operations leadership team, together with leaders of our two other Operations functions, Customer Success and Data Specialists. We set direction together. How your function gets there is yours to lead.\nThe job will change as the function matures. We are flexible, and you should be too. The role is based in Gothenburg with a hybrid setup possible.\nWho you are\nYou’re a leader who draws energy from building. When customer escalations, commercial pressure, and your own team's growth all compete for your attention, you stay grounded and decisive.\n\nEducation: Bachelor's or Master's degree in a technical field, Industrial Engineering and Management, Business Administration/Finance, or similar educational background and/or work experience.\n\n\nExperience:\n\nYou have led a team through major change\n\n\nYou have 3+ years of formal leadership and management responsibilities\n\n\nYou have experience of delivery to enterprise customers, with a real grip on margin and P&L. Commercial accountability isn’t new territory for you.\n\n\n\nLanguage skills: Fluent in English, written and spoken.\n\n\nLeadership Style: You lead through your team. You empower your team with mandate, the tools and coaching to handle situations themselves. You know what is happening in your team and what’s needed next. You create clarity when things are ambiguous, and you thrive in leading through change.\n\n\nPersonality: Curious, can-do energy. You don’t wait to be told what to do. You’d rather try something and adjust than wait for the perfect plan. Confident and without ego.\n\n\nNice to have: Experience leading project or delivery managers, working with BPO or supplier relationships, or operating across borders and cultures.\n\nWhy Kognic?\nWe are in it to win, and have a lot of fun while doing it! We aim to win the most demanding customers in the world: global enterprises with little tolerance for error, in a technology that changes every quarter. That kind of work is complex and interdependent, and no team at Kognic can do it alone. So the people are the point. You will work with around 100 talented and humble colleagues of many nationalities who are kind, honest, and ambitious.\n\nYou grow faster than you thought possible. With an unusual level of transparency during a time of rapid growth, you will both see and contribute to the scale-up journey.\n\n\nYou are at the forefront of technology in the exciting field of AI, playing a major role in automotive as a whole.\n\n\nYou get the practical things too: team and office events, parental pay, salary exchange, great health benefits, insurance, place your own pension - to name a few.\n\n\nFrom our early days as a pure start-up to our current life as a scale-up, we work in a dynamic environment, which means that every day might be different from the next, but that is exactly how we want it. Kognicians all have a strong desire to explore uncharted territory and a willingness to constantly be learning.\nJoin Us!\nWe recommend that you submit your application as soon as possible, as we continuously select and conduct interviews. We do not require a cover letter, but ask you to share your resume and answer a couple of questions in the application.\nYou are more than welcome to visit our career website to learn more about our recruiting process. If you have any questions regarding the position, please contact our Hiring Manager, Olof Fyr at olof.fyr@kognic.com.\nAbout Kognic\nKognic was conceived in the curious minds of Daniel Langkilde and Oscar Petersson, two engineering students, who dared to dream big and help machines make sense of our messy, chaotic, and unstructured world. Kognic’s pioneering dataset management solution helps companies accelerate the development of high-performing and trusted AI products, focusing on bringing the most advanced driver-assistance systems (ADAS) and autonomous driving (AD) to market.",
+        "url": "https://careers.kognic.com/jobs/8515548-manager-delivery-management/applications/new?promotion=2236173-arbetsformedlingen",
+        "published": "2026-10-08T11:47:51",
+        "deadline": "2027-04-06T23:59:59",
         "is_consultant": false,
         "is_meaningful": true,
         "source": "JobTech",
@@ -825,21 +840,6 @@
         "relevance_score": 100
     },
     {
-        "id": "31492467",
-        "title": "Supply Chain Process Specialist",
-        "employer": "Beiersdorf Aktiebolag",
-        "location": "Göteborg",
-        "description": "At Beiersdorf, home of Nivea, Eucerin, Hansaplast & Labello we want to help people feel good about their skin – and our commitment goes far beyond caring for skin. We act according to our purpose, WE CARE BEYOND SKIN and take responsibility for our consumers, our employees, the environment and society.\n \nWe are looking for a proactive, business-focused Process Specialist to lead the development and optimisation of customer management and Supply Chain processes across the Nordics.\n \nActing as the Nordic SAP customer management SME, you will drive best practices, translate business requirements into effective system solutions, and collaborate with global SAP key users and IT teams to deliver continuous improvement.\n \nAs part of our digital transformation journey, you will leverage technologies such as AI, Microsoft Copilot, and automation tools to improve efficiency, simplify processes, and develop innovative solutions that enhance employee and customer experiences.\n \nTo stay connected to customer needs, you will periodically support customer order management activities, using these insights to identify process improvements and strengthen the overall customer experience.\n \nThis is a Fixed Term Contract up to 15 months \n \nYour Tasks\nLead the implementation of global customer management projects and digital transformation initiatives within the Nordic region, working in close collaboration with the Global SAP key user community\nAct as the primary point of contact for SAP-related matters within the Nordic Supply Chain organization, including the creation and management of IT support tickets as needed.\nDrive the adoption and effective use of AI-powered tools, including Microsoft Copilot, to improve productivity and process efficiency. \nIdentifying recurring process failures and working on sustainable corrective actions\nIdentify opportunities for automation and lead initiatives that eliminate manual activities and simplify workflows. \nDesign, develop, or coordinate the implementation of automation solutions and bots that improve operational performance and service quality.\nMaintain strong process governance by ensuring key processes are documented, updated, and followed.\nCoordinate EDI-related projects in collaboration with internal IT functions and customers' IT departments \nSupport customer order management activities when needed to maintain operational insight and identify opportunities for improvement \n\n \nYour Profile\nStrong experience working with SAP or similar ERP systems; EDI understanding is a plus. \nStrong understanding of customer management, order-to-cash and supply chain processes. \nExperience driving process improvements, system enhancements, or business transformation initiatives. \nExperience working with AI-enabled tools such as Microsoft Copilot, Power Automate, or similar technologies \nStrong analytical skills with the ability to translate data and insights into practical actions and improvements. \nExcellent stakeholder management and communication skills, with the ability to collaborate and simplify messages across functions and organizational levels \nA continuous improvement mindset and a passion for process excellence and customer experience. \n\n \nPlease submit your CV in English\n \nAt Beiersdorf, we see you as a person – far beyond your title or role. Our goal is to provide the flexibility and support you need for your professional and personal success through our work environment. That is why we have a lot to offer!\n \nCompetitive salary\nBonus\nPrivate Health Insurance\nPension\n30 days vacation per year\nWellness fee\nMeal vouchers\nDiscounted product purchases\nLeave entitlements and wellbeing support to include access to an excellent Employee Assistance Programme\n\n \nAt Beiersdorf, we believe that every individual brings unique perspectives, experiences, and strengths that deserve to be valued and celebrated. We are committed to fostering an inclusive and supportive environment where everyone feels empowered to be themselves, thrive in their role, and work in ways that enable them to succeed. Through flexibility, understanding, accessibility, and meaningful support, we aim to ensure that all colleagues feel respected, heard, and able to reach their full potential.\n \nWe are committed to providing an inclusive recruitment experience and are happy to discuss any reasonable adjustments at any stage of the process to support you.",
-        "url": "https://careers.beiersdorf.com/job-invite/21823/",
-        "published": "2026-10-01T10:00:10",
-        "deadline": "2026-10-31T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": true,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "31532181",
         "title": "Thesis: Evaluate AI Agents&AIOps for DevOps Practices Platform Engineering",
         "employer": "Volvo Business Services Aktiebolag",
@@ -913,21 +913,6 @@
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 90
-    },
-    {
-        "id": "31517977",
-        "title": "Business Analyst AI",
-        "employer": "Volvo Business Services Aktiebolag",
-        "location": "Göteborg",
-        "description": "Company description:\n\"Founded in 1927, the Volvo Group is committed to driving prosperity and shaping the future landscape through sustainable transport, mobility, and infrastructure solutions. By offering trucks, buses, construction equipment, power solutions for marine and industrial applications, financing and services that increase our customers’ uptime and productivity. Our headquarters are in Gothenburg, Sweden. Volvo Group shares are listed on Nasdaq Stockholm.\"\nJob description: \n Transport is at the core of modern society. Imagine using your expertise to shape sustainable transport and infrastructure solutions for the future. If you seek to make a difference on a global scale, working with next-gen technologies and the sharpest collaborative teams, then we could be a perfect match. \n Shape the future of global warranty operations through AI, data, and business analysis. We are seeking a Business Analyst to translate strategic business needs into scalable, value-driven solutions that improve the consistency, accuracy, and efficiency of warranty handling.\n  \n About the RoleIn this high-impact role, you will lead the business analysis required to advance our AI-enabled warranty process. Acting as the key interface between Warranty Operations, Sales Areas, end users, IT, and product teams, you will convert insights into prioritized requirements, use cases, and measurable business outcomes while driving process adoption and continuous improvement. \n  \n Key Responsibilities\n  Evaluate warranty process adoption, compliance, performance, and recommend targeted improvements.\n Conduct workflow mapping to identify pain points, improvement opportunities, and future-state processes. \n Translate business needs into prioritized AI and analytics use cases, requirements, and acceptance criteria.\n Build business cases and define key performance indicators to track value realization.\n Partner with business and technology teams to test, implement, and continuously improve solutions.\n Drive change through clear communication, stakeholder engagement, training, business readiness, and follow-up. \n Support implementation planning and adoption roadmaps across different user groups and markets.\n Promote responsible AI through transparency, high-quality data, human oversight, and consistent decision-making.\n  \nWho Are You?You are a commercially minded and analytical professional who brings clarity to complex challenges. You combine strong business acumen with an understanding of warranty operations, data, digitalization, and AI, and can influence across functions in a global environment. \n  \n Qualifications\n  Proven experience in business analysis, process development, requirements management, or business-led digital transformation.\n Good understanding of AI, machine learning, or advanced analytics and their application to business value.\n Strong capability in data analysis and performance measurement, with advanced Excel skills. Knowledge of Power BI and SQL is a plus\n Ability to turn analysis into clear recommendations and materials for executive management\n Experience in driving change management, user adoption, or business readiness initiatives. \n Knowledge of warranty, aftermarket, or service operations is an advantage.\n Experience working cross-functionally with business, IT, and international stakeholders.\n Excellent written and spoken English.\n  \n \n What We OfferYou will join a global, cross-functional environment where AI is transforming warranty operations. This is an opportunity to influence strategic processes and deliver measurable improvements in quality, customer experience, consistence, and cost efficiency.\n  \n ApplicationReady to turn AI into measurable business impact? Apply now and help shape the future of global warranty operations.\n  \n Last application date: October 8, 2026. \n As part of the recruitment process, a background check as well as alcohol and drug testing may be conducted. You will be informed if applicable \n We value your data privacy and therefore do not accept applications via mail. \n Who we are and what we believe in We are committed to shaping the future landscape of efficient, safe, and sustainable transport solutions. Fulfilling our mission creates countless career opportunities for talents across the group’s leading brands and entities.\n Applying to this job offers you the opportunity to join Volvo Group. Every day, you will be working with some of the sharpest and most creative brains in our field to be able to leave our society in better shape for the next generation. ​We are passionate about what we do, and we thrive on teamwork. ​We are almost 100,000 people united around the world by a culture of care, inclusiveness, and empowerment. \n  \n At Volvo Trucks you will be part of leading the way towards a sustainable transport industry. For nearly a century we have been innovating for people – to make life easier, better and safer. Driving progress is our promise to customers, to the industry and to society. At Volvo Trucks we share a curiosity to learn, we work with passion and we embrace change to stay ahead. Join us, together we move the world we want to live in.",
-        "url": "https://volvo-information-technology-ab.contactrh.com/jobs/9669/44465546",
-        "published": "2026-09-24T18:25:01",
-        "deadline": "2026-10-08T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "AI",
-        "relevance_score": 100
     },
     {
         "id": "31475876",
