@@ -1,5 +1,35 @@
 [
     {
+        "id": "31578964",
+        "title": "AI Control Doctorate student",
+        "employer": "Volvo Business Services Aktiebolag",
+        "location": "Göteborg",
+        "description": "BACKGROUND & RESEARCH PROBLEM\nWheel loaders and other construction machines operate on rough, unstructured and dynamic terrain where the ground is deformable, obstacles appear and disappear, and people and vehicles move nearby. Navigating such terrain safely requires reasoning about where a given machine can go and tightly coupling that reasoning with the control system. This project develops methods for safe navigation on rough and dynamic terrain, such as a construction site, for a wheel loader.\nOBJECTIVES\nIndustry: Safe navigation on rough and dynamic terrain, such as a construction site, for a wheel loader.\nScience\n·       Develop methods for building traversability costs from real-time sensor data for a given machine and sensor modality.\n·       Develop a framework for the rigorous and efficient integration of traversability costs into safety controllers.\nTraining: Broaden knowledge of the state of the art in related fields such as model predictive control, control barrier certificates, real-time 3D sensing and mapping, and ML-based sensing and control.\nYOUR PROFILE\n·       MSc in computer science, robotics, electrical engineering, applied mathematics, machine learning or a related field.\n·       Strong programming skills (Python and/or C++) and a solid mathematical foundation.\n·       Experience with one or more of: 3D perception, SLAM, computer vision, control theory or machine learning.\n·       Independent, curious and rigorous, with excellent written and spoken English.\nWHAT WE OFFER\n·       A fully funded doctoral position working on a real industrial problem with access to unique field data from construction sites.\n·       Co-supervision from academia and an experienced Volvo autonomy/perception team.\n·       Compute resources (GPU clusters) and access to test machines and sensor platforms.\n·       A collaborative research environment with the ambition to publish at leading venues.\nSCOPE & APPLICATION\nIndustrial PhD position, approx. 4-5 years, based in Gothenburg, Sweden, with time split between the university and Volvo. To apply, send your CV, grade transcript and a short motivation letter. Scope and start date are agreed together with the supervisors.\n\n\nAs part of the recruitment process, a background check as well as alcohol and drug testing may be conducted. You will be informed if applicable.",
+        "url": "https://career55.sapsf.eu/sfcareer/jobreqcareerpvt?jobId=35919&company=volvoinfor&st=D03D4DECA2548EB7A4D991B0E8F5A1E4C3660017",
+        "published": "2026-10-09T15:42:00",
+        "deadline": "2026-10-24T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "AI",
+        "relevance_score": 70
+    },
+    {
+        "id": "31577522",
+        "title": "AI Localization Doctorate student",
+        "employer": "Volvo Business Services Aktiebolag",
+        "location": "Göteborg",
+        "description": "BACKGROUND & RESEARCH PROBLEM\nConstruction sites are large, cluttered and constantly changing: material is moved, structures are built and removed, and people and machines share the same space. To operate autonomous machines safely and efficiently, we need rich 3D models of the worksite that carry semantic meaning and stay up to date as the environment evolves. This project investigates how to build and maintain semantic 3D maps of a worksite over extended periods of time.\nOBJECTIVES\nIndustry: Investigate methods and tools for creating semantic 3D maps of the worksite and how to maintain them over extended periods of time.\nScience\n•  Investigate approaches for modelling 3D environments and their joint semantic labelling into meaningful categories such as fixed structures, ground types, materials, people and machines.\n•  Investigate how semantic information can be used to intelligently partition the model into instances such as fixed structures, people, moving objects and rooms.\n•  Investigate how novel measurements of the environment can be efficiently used to update the existing model and produce information about dynamics, such as how people, objects or material move in the space.\nTraining: Broaden knowledge of the state of the art in related fields such as 3D reconstruction, semantic labelling of 3D environments, and modelling of dynamic environments.\nYOUR PROFILE\n•  MSc in computer science, robotics, electrical engineering, applied mathematics, machine learning or a related field.\n•  Strong programming skills (Python and/or C++) and a solid mathematical foundation.\n•  Experience with one or more of: 3D perception, SLAM, computer vision, control theory or machine learning.\n•  Independent, curious and rigorous, with excellent written and spoken English.\nWHAT WE OFFER\n•  A fully funded doctoral position working on a real industrial problem with access to unique field data from construction sites.\n•  Co-supervision from academia and an experienced Volvo autonomy/perception team.\n•  Compute resources (GPU clusters) and access to test machines and sensor platforms.\n•  A collaborative research environment with the ambition to publish at leading venues.\nSCOPE & APPLICATION\nIndustrial PhD position, approx. 4-5 years, based in Gothenburg, Sweden, with time split between the university and Volvo. To apply, send your CV, grade transcript and a short motivation letter. Scope and start date are agreed together with the supervisors.\n \nAs part of the recruitment process, a background check as well as alcohol and drug testing may be conducted. You will be informed if applicable. \n\n\nWe value your data privacy and therefore do not accept applications via mail.",
+        "url": "https://career55.sapsf.eu/sfcareer/jobreqcareerpvt?jobId=35918&company=volvoinfor&st=7AA4A691F0ED790C80EB8145F064AD9E003BD14B",
+        "published": "2026-10-09T13:35:26",
+        "deadline": "2026-10-24T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "AI",
+        "relevance_score": 70
+    },
+    {
         "id": "31567180",
         "title": "Digitalization Driver Service Operations",
         "employer": "Volvo Business Services Aktiebolag",
