@@ -495,21 +495,6 @@
         "relevance_score": 90
     },
     {
-        "id": "31491119",
-        "title": "Test Engineer – Fordon",
-        "employer": "Agile Resources AB",
-        "location": "Göteborg",
-        "description": "Arbeta med testvalidering av fordon och bidra till att testfordon är redo för utveckling och verifiering i Sverige och Europa.\nVill du arbeta nära avancerad fordonsutveckling och säkerställa att testfordon fungerar när de behövs som mest? I rollen som Test Engineer blir du en viktig del av ett tvärfunktionellt team som stöttar test och validering av framtidens fordon.\nOm rollen\nDu arbetar i ett team som ansvarar för testfordons livscykel under utvecklingsfasen.\nRollen fokuserar på testvalidering och hantering av frågor från användare av testfordon.\nDu samarbetar nära funktioner inom test, utveckling, fordonsadministration och logistik.\nArbetet omfattar resor, ibland under längre sammanhängande perioder i Europa.\n\nDet här kommer du göra\nGenomföra testvalidering vid adaptiv fordonsprovning.\nSamla in och analysera fordonsdata genom dataloggning.\nDokumentera, rapportera och följa upp fel.\nSäkerställa att testfordon har rätt mjukvarubaslinje och är redo inför planerade tester.\nStötta koordinering av fordon, material och testaktiviteter.\n\nVi söker dig som har\nRelevant högskoleutbildning inom mjukvara, test eller likvärdig erfarenhet.\nErfarenhet av diagnostik och felsökning i fordonsmiljö.\nGod förståelse för mjukvarustruktur i fordon.\nB-körkort.\nGod förmåga att dokumentera och kommunicera tekniska avvikelser.\n\nTeknik & Verktyg\nCANalyzer eller liknande diagnostikverktyg.\nDataloggning och analys av fordonsdata.\nFelrapportering och ärendehantering.\nFordonssystem och mjukvarubaslinjer.\n\nPraktisk information\nOrt: Göteborg.\nArbetssätt: På plats.\nResor: Resor inom Europa ingår i rollen.\nSpråk: Svenska och engelska. Mandarin är meriterande.",
-        "url": "https://recruit.agile.nu/apply/jp-9a1bec0035d6e4c5?source=platsbanken",
-        "published": "2026-09-17T16:48:45",
-        "deadline": "2026-10-17T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": true,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "31608118",
         "title": "Associate Software Engineer",
         "employer": "Capgemini Engineering Sverige AB",
@@ -735,21 +720,6 @@
         "relevance_score": 100
     },
     {
-        "id": "31491134",
-        "title": "Senior Embedded Software Engineer – AI och LLM",
-        "employer": "Agile Resources AB",
-        "location": "Göteborg",
-        "description": "Utveckla AI-drivna lösningar som effektiviserar mjukvaruutveckling. Kombinera Python, automation och LLM:er i en senior roll nära flera utvecklingsteam.\nVill du använda AI för att göra ingenjörs- och mjukvaruutveckling smartare och mer effektiv? I denna seniora roll utvecklar du lösningar som kombinerar etablerad automation med stora språkmodeller. Du blir en del av ett team som driver införandet av AI i komplexa tekniska utvecklingsmiljöer.\nOm rollen\nUtveckla AI-stödda funktioner för mjukvaru- och ingenjörsarbete.\nArbeta i ett tvärfunktionellt team med fokus på praktiska resultat.\nBidra till en konfigurerbar plattform för flera tekniska användningsområden.\n\nDet här kommer du göra\nBygga pipelines som assisterar eller automatiserar utvecklingsuppgifter.\nKombinera mjukvaruautomation med LLM-baserade lösningar.\nKonfigurera och vidareutveckla maskininlärningsplattformen för olika team.\nSamarbeta med utvecklingsteam för att omsätta behov till fungerande lösningar.\nArbeta agilt och demonstrera implementerade resultat löpande.\n\nVi söker dig som har\nMinst fem års relevant erfarenhet inom mjukvaruutveckling, data eller maskininlärning.\nHögskole- eller universitetsutbildning inom datavetenskap, mjukvaruutveckling, data science eller liknande.\nStark kompetens inom mjukvarudesign och programmering.\nPraktisk erfarenhet av stora språkmodeller.\nMycket god förmåga att kommunicera och samarbeta med tekniska intressenter.\n\nTeknik & Verktyg\nPython\nLarge Language Models (LLM)\nMaskininlärning\nKubernetes och containerteknik\nDevOps och mjukvaruautomation\n\nPraktisk information\nOrt: Göteborg\nArbetssätt: Ej specificerat\nSpråk: Engelska, mycket god nivå i tal och skrift",
-        "url": "https://recruit.agile.nu/apply/jp-d216e95ba9c59996?source=platsbanken",
-        "published": "2026-09-17T16:49:19",
-        "deadline": "2026-10-17T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": true,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "31019447",
         "title": "Senior Data Engineer till Knowit i Göteborg",
         "employer": "Knowit AB (Publ)",
@@ -900,21 +870,6 @@
         "relevance_score": 100
     },
     {
-        "id": "31594572",
-        "title": "DevOps Engineer",
-        "employer": "GlobalLogic Sweden AB",
-        "location": "Göteborg",
-        "description": "GlobalLogic’s Automotive department is looking for DevOps Engineer. The goal of our project is to optimize and enhance our Automotive Solution with new features. Our clients include Tier 1 suppliers and OEMs from Europe and the USA, and our development efforts focus on automotive solutions that will be integrated into the latest car models. \nIn this project, we are developing a cutting-edge computer-in-the-car architecture, which is crucial for driving innovation in areas such as advanced connectivity, machine learning, and autonomous driving. We face the exciting challenge of setting up infrastructure from scratch to support automotive solutions for European car manufacturers.\nRequirements\nHands-on experience with Azure (preferably) or AWS\nAutomation solution: Jenkins, Zuul CI, SCM, Git, Terraform, Ansible\nStrong knowledge of concepts: Infrastructure-as-Code way-of-working, PaaS (Platform-as-a-Service), IaaS (Infrastructure-as-a-Service)\nNetwork configuration and management in dynamic environments (TCPIP stack)(middle level enough)\nScripting (basic level): PowerShell, Bash, Apache Groovy, Python\nAgile development methodology: Scrum, Scaled Agile, Kanban\nExperience with Gerrit\nTechnical engineering degree (Preferably in the domain of software or systems engineering);\nKnowledge of Object-Oriented Programming Principles\nStrong communication, multitasking, problem-solving and planning skills.\n\nWould be a plus:\nExperience in embedded(automotive) development\nKnow the basics of automotive (or similar) functional safety standards (ISO26262)\nKnow the basics of any industry standard that provides a framework for defining, implementing, and evaluating the process required for system development (in automotive – ASPICE)\nC Programming\nMatlab Simulink\nMIL, HIL testing.\n\n\n\nJob responsibilities:\nDevelop and maintain software integration and test infrastructure, including build systems, continuous integration (CI), and continuous deployment (CD) pipelines\nCreate and configure end-to-end software build and deployment pipelines\nAutomate build and deployment pipelines\nFamiliarity with test automation frameworks and tools for embedded software testing\nWork with the IT department to provision needed infrastructure or do it ourselves\nStrong understanding of Agile principles and ready to work in collaboration with developer teams\nParticipation in the requirements gathering for CI tasks\nDevelopment of solutions to enable a stable and high-performing automation framework, including work with the infrastructure, with Zuul/Jenkins, and parts of the build system.\nDevelopment of an ISO 26262-qualified toolchain and development environment for the flow from Matlab/Simulink to binary",
-        "url": "https://www.globallogic.com/careers/lead-senior-devops-engineer-embedded-systems-irc305396/",
-        "published": "2026-10-14T10:45:15",
-        "deadline": "2026-10-30T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "31560797",
         "title": "Lead Engineer Virtual Driver",
         "employer": "Volvo Business Services Aktiebolag",
@@ -923,6 +878,36 @@
         "url": "https://volvo-information-technology-ab.contactrh.com/jobs/9669/44487329",
         "published": "2026-10-06T15:25:03",
         "deadline": "2026-10-27T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
+        "id": "31553081",
+        "title": "Go-to-Market Engineer",
+        "employer": "Björn Lundén AB",
+        "location": "Hudiksvall",
+        "description": "Help us build the commercial engine that powers growth across Sweden, Denmark and the Netherlands.\n﻿About the Role\nAs Bjorn Lunden continues to grow across Sweden, Denmark and the Netherlands, we are looking for a Go-to-Market Engineer to join our Commercial Development team.\nYou will play a key role in helping us build a more scalable, efficient and data-driven commercial organisation.\nIn this role, you will be responsible for building, optimizing and scaling the systems, processes and automation that enable our commercial organisation to perform at its best. You will own HubSpot and our commercial technology stack while working closely with stakeholders across Marketing, Sales, Customer Success and Commercial Development to create a more efficient, scalable and data-driven way of working.\nYou will work at the intersection of technology, data and commercial operations, helping us continuously develop and improve our commercial operating model across Sweden, Denmark and the Netherlands.\nYou will have the opportunity to shape how our commercial teams work, how we leverage technology and automation, and how we build scalable commercial capabilities across the Group.\nYou will help shape customer journeys, strengthen commercial processes and identify new opportunities to leverage AI and automation. This is a highly collaborative role where you will partner with teams and stakeholders across countries and functions to continuously improve how we work and grow.\nYour main responsibilities include:\nOwning and developing HubSpot and the commercial technology stack\nBuilding workflows, automation and scalable commercial processes\nDriving marketing automation, lifecycle management and lead flows\nEnsuring data quality, governance and reliable commercial insights\nIdentifying and implementing AI and automation opportunities\nPartnering with Commercial Development, Marketing, Sales and Customer Success to continuously improve the commercial operating model\nLeading system, process and transformation initiatives across markets\nEnsuring new systems, automation and ways of working are successfully adopted and embedded across commercial teams\n\nAbout You\nYou are a curious problem solver who enjoys understanding how systems, processes and people work together. You are driven by finding smarter ways of working and get energy from turning ideas into practical solutions that create real business value.\nYou combine analytical thinking with a hands-on mindset and enjoy working at the intersection of technology and business. Whether you are improving a process, building an automation, analysing data or discussing priorities with stakeholders, you focus on creating solutions that are scalable, effective and user-friendly.\nTo succeed in this role, we believe you have:\nExperience from Go-to-Market Engineering, Revenue Operations, Sales Operations or a similar field\nHands-on experience with CRM platforms, preferably HubSpot\nExperience building workflows, automations and commercial processes\nStrong analytical skills and the ability to translate data into actionable insights\nA good understanding of B2B SaaS and commercial business models\nAn interest in AI, automation and new technologies\nStrong communication and stakeholder management skills\nThe ability to balance strategic thinking with hands-on execution\n\nYou are comfortable working across teams and functions, enjoy taking ownership and thrive in an environment where collaboration, continuous improvement and learning are part of everyday work. Fluency in Swedish and English is required.\nWho We Are\nWe are Bjorn Lunden, the business platform that simplifies everyday life for small and medium-sized businesses. Our belief is simple: every business deserves opportunities to grow, and we’re here to make that happen 🐻.\nWe’re on an exciting journey. With bold ambitions, our vision is to become one of the leading providers of accounting and financial software solutions in Northwestern Europe. With our roots in Hälsingland, specifically in the small village of Näsviken, we’ve grown rapidly in recent years, transforming from a smaller national company into an international group. Today, we operate in Sweden, the Netherlands, and Denmark.\nOur goal is straightforward: to make life a little easier for entrepreneurs and business owners. We believe we can do that through great software, knowledge, innovation, and TACO. Not the kind you might be thinking of - but our version: Trust, Ambition, Collaboration, and Ownership.\nWhat We Offer\nWe offer you a role in an international, growing company with a strong market position and the ambition to challenge industry giants. The wellbeing of our employees truly matters to us, and we want to be a fair and responsible employer where people feel good and enjoy their work.\nWe strive for a healthy work-life balance and support this through competitive conditions and benefits and flexible work opportunities. We want to be the natural first choice for people who want to thrive and have fun at work.\nApplication\nWe are looking for a Go-to-Market Engineer located in Gothenburg, Stockholm, Hudiksvall, Näsviken, or Ljusdal.\nThe application deadline is 1st November 2026, but selection and interviews may take place on an ongoing basis. The position may therefore be filled before the deadline, so we encourage you to apply as soon as possible.\nIf you have any questions about the role, please contact:\nAndreas Stagliano, Group Head of Commercial Development: Andreas.Stagliano@bjornlunden.com\n*For this recruitment, we kindly ask that recruitment agencies or other external partners refrain from contacting us.",
+        "url": "https://jobb.careers.haileyhr.app/sv-SE/job/58198802-bc6f-4af3-8f1e-8642e1a33dca/90cfac48-db72-412b-89d4-9398babd4678/47833d89-7679-46d9-b092-2c55a3d10124",
+        "published": "2026-10-05T11:58:40",
+        "deadline": "2026-11-01T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
+        "id": "31594572",
+        "title": "DevOps Engineer",
+        "employer": "GlobalLogic Sweden AB",
+        "location": "Göteborg",
+        "description": "GlobalLogic’s Automotive department is looking for DevOps Engineer. The goal of our project is to optimize and enhance our Automotive Solution with new features. Our clients include Tier 1 suppliers and OEMs from Europe and the USA, and our development efforts focus on automotive solutions that will be integrated into the latest car models. \nIn this project, we are developing a cutting-edge computer-in-the-car architecture, which is crucial for driving innovation in areas such as advanced connectivity, machine learning, and autonomous driving. We face the exciting challenge of setting up infrastructure from scratch to support automotive solutions for European car manufacturers.\nRequirements\nHands-on experience with Azure (preferably) or AWS\nAutomation solution: Jenkins, Zuul CI, SCM, Git, Terraform, Ansible\nStrong knowledge of concepts: Infrastructure-as-Code way-of-working, PaaS (Platform-as-a-Service), IaaS (Infrastructure-as-a-Service)\nNetwork configuration and management in dynamic environments (TCPIP stack)(middle level enough)\nScripting (basic level): PowerShell, Bash, Apache Groovy, Python\nAgile development methodology: Scrum, Scaled Agile, Kanban\nExperience with Gerrit\nTechnical engineering degree (Preferably in the domain of software or systems engineering);\nKnowledge of Object-Oriented Programming Principles\nStrong communication, multitasking, problem-solving and planning skills.\n\nWould be a plus:\nExperience in embedded(automotive) development\nKnow the basics of automotive (or similar) functional safety standards (ISO26262)\nKnow the basics of any industry standard that provides a framework for defining, implementing, and evaluating the process required for system development (in automotive – ASPICE)\nC Programming\nMatlab Simulink\nMIL, HIL testing.\n\n\n\nJob responsibilities:\nDevelop and maintain software integration and test infrastructure, including build systems, continuous integration (CI), and continuous deployment (CD) pipelines\nCreate and configure end-to-end software build and deployment pipelines\nAutomate build and deployment pipelines\nFamiliarity with test automation frameworks and tools for embedded software testing\nWork with the IT department to provision needed infrastructure or do it ourselves\nStrong understanding of Agile principles and ready to work in collaboration with developer teams\nParticipation in the requirements gathering for CI tasks\nDevelopment of solutions to enable a stable and high-performing automation framework, including work with the infrastructure, with Zuul/Jenkins, and parts of the build system.\nDevelopment of an ISO 26262-qualified toolchain and development environment for the flow from Matlab/Simulink to binary",
+        "url": "https://www.globallogic.com/careers/lead-senior-devops-engineer-embedded-systems-irc305396/",
+        "published": "2026-10-14T10:45:15",
+        "deadline": "2026-10-30T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
         "source": "JobTech",
