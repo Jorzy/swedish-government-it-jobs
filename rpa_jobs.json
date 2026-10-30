@@ -1,17 +1,1 @@
-[
-    {
-        "id": "31648259",
-        "title": "Product Owner Test Automation – Android Infotainment",
-        "employer": "Agile Resources AB",
-        "location": "Göteborg",
-        "description": "Led testautomatisering för avancerade Android-baserade infotainmentsystem och forma strategin, arkitekturen och leveransen för hög produktkvalitet.\nHär får du leda arbetet med verifiering och testautomatisering för avancerade informations- och infotainmentsystem. Du kombinerar produktägarskap med tekniskt djup och bidrar aktivt till robusta, skalbara testlösningar i en komplex mjukvarumiljö.\nOm rollen\nDriv produktägarskapet för ett team inom verifiering och testautomatisering.\nArbeta med Android-baserade infotainmentsystem med höga krav på kvalitet och stabilitet.\nForma teststrategi, automationsroadmap och testarkitektur.\nSamverka nära utvecklare, testare, systemarkitekter och AI-specialister.\n\nDet här kommer du göra\nÄga och prioritera backlogg, epics, features och user stories för testautomatisering.\nTa fram och vidareutveckla testarkitektur för HIL, SIL och molnbaserade testmiljöer.\nStötta utveckling och integration av automatiserade tester i C#, Python och CAPL.\nUtveckla regressionssviter samt bidra till CI/CD-flöden och testinfrastruktur.\nFölja upp testkörningar, analysera fel och stötta rotorsaksanalyser.\n\nVi söker dig som har\nFlera års erfarenhet som Product Owner eller teknisk ledare inom testautomatisering.\nGod kunskap om Android-plattformen och felsökning med ADB.\nStark programmerings- och scriptingbakgrund i CAPL, C#, Python och Docker.\nErfarenhet av testarkitektur och automatiserad verifiering i komplexa system.\nKunskap om agila arbetssätt, exempelvis Scrum.\n\nTeknik & Verktyg\nAndroid och Android Automotive OS\nADB, CAPL, C#, Python och Docker\nHIL, SIL och molnbaserade testramverk\nJenkins, Bitbucket, Gerrit och Git\nJira, Confluence och SystemWeaver\n\nPraktisk information\nOrt: Göteborg\nArbetssätt: Ej specificerat\nSpråk: Engelska",
-        "url": "https://recruit.agile.nu/apply/jp-a70c6228d2b01a5a?source=platsbanken",
-        "published": "2026-10-27T09:07:19",
-        "deadline": "2026-11-26T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "RPA",
-        "relevance_score": 80
-    }
-]
+[]
