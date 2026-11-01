@@ -180,21 +180,6 @@
         "relevance_score": 100
     },
     {
-        "id": "31020343",
-        "title": "System Developer",
-        "employer": "Capgemini Engineering Sverige AB",
-        "location": "Göteborg",
-        "description": "The world leader in engineering services, we bring together a global team of engineers, scientists, and architects to help the world’s most innovative companies unleash their potential. From autonomous cars to life-saving robots, our digital and software technology experts think outside the box as they provide unique R&D and engineering services across all industries. Join us for a career full of opportunities. Where you can make a difference. Where no two days are the same.\nYour role\nWe are looking for a System Developer to join our Automotive team in Gothenburg.\nIn this role you will play a key role in:\n•  Developing a system fulfilling the agreed cross-functional solution.\n•  Making sure that our solutions comply with all agreed requirements.\n•  Breaking down and distribute functional requirements to the execution environment, functional and non-functional realization in Car Weaver (System Weaver) in cooperation with the team and relevant stakeholders.\nYour profile\n•  University degree in Electronics, Software, Mechatronics or equivalent\n•  Minimum 2 years of experience from System Engineering or having gained good electrical system knowledge working with SW testing\n•  Previous experience from system development would give you additional advantage to excel in this position\n•  Fluency in English\n•  Driving license \"B\" or ambition to take it in the near future\nMeritorious skills:\nIt's beneficial and would bring additional impact and contribution to our team if you have experiences in Simulation and Model-Based Design using MATLAB/ Simulink, System Weaver, Elektra, Vehicle communication protocols (CAN, LIN, Flexray, Ethernet). Knowledge of automotive standards Functional Safety ISO26262 and Cyber security ISO21434.\nWhat we believe you will enjoy about working here \n•  We recognize the significance of flexible work arrangements to provide support. Be it remote work, or flexible work hours, you will get an environment to maintain healthy work life balance. \n•  At the heart of our mission is your career growth. Our array of career growth programs and diverse professions are crafted to support you in exploring a world of opportunities. \n•  We support your personal development and offer an education library with more than 250 000 (!) courses and educations and certifications.\nAbout Capgemini \nCapgemini is a global business and technology transformation partner, helping organizations to accelerate their dual transition to a digital and sustainable world, while creating tangible impact for enterprises and society. It is a responsible and diverse group of 340,000 team members in more than 50 countries. With its strong over 55-year heritage, Capgemini is trusted by its clients to unlock the value of technology to address the entire breadth of their business needs. It delivers end-to-end services and solutions leveraging strengths from strategy and design to engineering, all fueled by its market leading capabilities in AI, generative AI, cloud and data, combined with its deep industry expertise and partner ecosystem. The Group reported 2024 global revenues of €22.1 billion. \nGet The Future You Want | www.capgemini.com",
-        "url": "https://www.capgemini.com/se-en/jobs/3185-en_US+sap_btp/",
-        "published": "2026-05-11T09:58:00",
-        "deadline": "2026-10-31T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": true,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "31652576",
         "title": "Senior Embedded C Developer",
         "employer": "Agile Resources AB",
@@ -283,6 +268,21 @@
         "source": "JobTech",
         "category": "IT",
         "relevance_score": 100
+    },
+    {
+        "id": "31668984",
+        "title": "AI & Data Solution Engineer / Tech Lead",
+        "employer": "Agile Resources AB",
+        "location": "Göteborg",
+        "description": "Utveckla intelligenta, datadrivna lösningar som automatiserar och optimerar verksamhets- och produktflöden i tekniskt avancerade miljöer.\nVill du utveckla intelligenta och datadrivna lösningar med tydlig verksamhetsnytta? Här får du arbeta med hela kedjan, från data och AI till integration, programvaruutveckling och driftsättning.\nOm rollen\nArbeta i ett team som bygger AI- och datalösningar för komplexa verksamhets- och produktflöden.\nBidra till lösningar som automatiserar, optimerar och effektiviserar processer.\nRollen kan anpassas mot utvecklare eller Tech Lead med produktägaransvar.\n\nDet här kommer du göra\nUtveckla lösningar inom AI, datahantering och backend.\nBygga och förvalta datapipelines samt integrera system och affärssystem.\nImplementera generativ AI, AI-agenter och RAG-lösningar.\nDelta i integration och driftsättning i moln- och lokala miljöer.\nSom Tech Lead leda det tekniska arbetet och samtidigt bidra i utvecklingen.\n\nVi söker dig som har\nRelevant högskole- eller universitetsutbildning inom datateknik, IT, AI, data science eller programvaruutveckling.\nPraktisk erfarenhet av AI- och dataplattformar samt systemintegration.\nFörmåga att arbeta genom hela leveranskedjan, från idé till produktionssatt lösning.\nGod kommunikationsförmåga på svenska och engelska.\n\nTeknik & Verktyg\nMachine Learning, generativ AI, AI-agenter och RAG.\nAzure och AWS.\nKubernetes, Airflow, Kafka och Spark.\nIceberg, DataHub och dataplattformar i lokala miljöer.\n\nPraktisk information\nOrt: Göteborg.\nArbetssätt: Ej specificerat.\nSpråk: Svenska och engelska.",
+        "url": "https://recruit.agile.nu/apply/jp-b66abd918b6c6a74?source=platsbanken",
+        "published": "2026-10-31T22:54:20",
+        "deadline": "2026-11-30T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": true,
+        "source": "JobTech",
+        "category": "AI",
+        "relevance_score": 70
     },
     {
         "id": "31667519",

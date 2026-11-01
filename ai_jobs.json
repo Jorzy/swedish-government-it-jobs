@@ -1,5 +1,20 @@
 [
     {
+        "id": "31668984",
+        "title": "AI & Data Solution Engineer / Tech Lead",
+        "employer": "Agile Resources AB",
+        "location": "Göteborg",
+        "description": "Utveckla intelligenta, datadrivna lösningar som automatiserar och optimerar verksamhets- och produktflöden i tekniskt avancerade miljöer.\nVill du utveckla intelligenta och datadrivna lösningar med tydlig verksamhetsnytta? Här får du arbeta med hela kedjan, från data och AI till integration, programvaruutveckling och driftsättning.\nOm rollen\nArbeta i ett team som bygger AI- och datalösningar för komplexa verksamhets- och produktflöden.\nBidra till lösningar som automatiserar, optimerar och effektiviserar processer.\nRollen kan anpassas mot utvecklare eller Tech Lead med produktägaransvar.\n\nDet här kommer du göra\nUtveckla lösningar inom AI, datahantering och backend.\nBygga och förvalta datapipelines samt integrera system och affärssystem.\nImplementera generativ AI, AI-agenter och RAG-lösningar.\nDelta i integration och driftsättning i moln- och lokala miljöer.\nSom Tech Lead leda det tekniska arbetet och samtidigt bidra i utvecklingen.\n\nVi söker dig som har\nRelevant högskole- eller universitetsutbildning inom datateknik, IT, AI, data science eller programvaruutveckling.\nPraktisk erfarenhet av AI- och dataplattformar samt systemintegration.\nFörmåga att arbeta genom hela leveranskedjan, från idé till produktionssatt lösning.\nGod kommunikationsförmåga på svenska och engelska.\n\nTeknik & Verktyg\nMachine Learning, generativ AI, AI-agenter och RAG.\nAzure och AWS.\nKubernetes, Airflow, Kafka och Spark.\nIceberg, DataHub och dataplattformar i lokala miljöer.\n\nPraktisk information\nOrt: Göteborg.\nArbetssätt: Ej specificerat.\nSpråk: Svenska och engelska.",
+        "url": "https://recruit.agile.nu/apply/jp-b66abd918b6c6a74?source=platsbanken",
+        "published": "2026-10-31T22:54:20",
+        "deadline": "2026-11-30T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": true,
+        "source": "JobTech",
+        "category": "AI",
+        "relevance_score": 70
+    },
+    {
         "id": "31631205",
         "title": "Senior Scientist - Clinical AI",
         "employer": "AstraZeneca AB",
