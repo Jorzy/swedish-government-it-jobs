@@ -495,21 +495,6 @@
         "relevance_score": 100
     },
     {
-        "id": "31583177",
-        "title": "BI Developer in Solution Team",
-        "employer": "SAAB Aktiebolag",
-        "location": "Göteborg",
-        "description": "Passionate about making ideas a reality? Join our welcoming world of tech and let your ideas soar. \n\n\n Your Role\n\nJoin our Analytics & Data Solutions team and help transform data into insights, decisions, and intelligent solutions. You will work across the full analytics lifecycle, from data ingestion and engineering to modeling, visualization, and emerging AI-driven capabilities. As our analytics landscape evolves from Qlik to Microsoft Fabric and Power BI, you will have a key role in designing scalable data products and enabling data-driven decision-making across the business.\nWhat You'll Do\nPartner with business stakeholders to understand challenges and translate them into data, analytics, and AI-enabled solutions.\nCreate dashboards, reports, and self-service analytics experiences using Qlik Sense and Power BI.\nDesign, build, and maintain data products using Microsoft Fabric, including lakehouses, data pipelines, semantic models, and analytics solutions.\nExplore and implement new capabilities within Microsoft Fabric, including automation, AI-powered analytics, copilots, and intelligent agents.\nEnsure high standards for data quality, governance, documentation, and lifecycle management.\nWork with data modeling, semantic layers, and business definitions to create consistent and reusable analytical assets.\nCollaborate with architects, developers, analysts, and domain experts to deliver end-to-end analytics solutions.\nContribute to the continuous development of our analytics platform, standards, and ways of working.\n\nThe position can be based in Gothenburg, Stockholm, Karlstad, Malmö, Linköping or Karlskoga.\n\n\nYour profile\n\nWe're looking for a curious and forward-thinking analytics professional who enjoys solving business problems with data and technology. You are comfortable working across both traditional BI development and modern cloud-based analytics platforms, and you are excited by the opportunities created by AI and data innovation.\nWe believe you have\nMore than 5 years of experience within Business Intelligence, Analytics Engineering, Data Engineering, or a similar field.\nExperience developing analytics solutions in Qlik Sense.\nHands-on experience with Microsoft Fabric, including one or more of Data Factory, Lakehouse, Warehouse, Notebooks, Semantic Models, or Power BI.\nExperience designing and maintaining data pipelines and data transformation processes.\nExperience with Power BI and modern self-service analytics.\nKnowledge of data warehousing, data lakes, and modern cloud data platforms.\nUnderstanding of data governance, data quality, and analytics best practices.\nExcellent communication skills and the ability to bridge business and technology.\n\nNice to Have\nExperience with Python, Spark, or similar technologies is considered a merit.\nExperience with AI-powered analytics.\nExperience working with data products, semantic models, or domain-oriented analytics.\nExperience from large and complex organizations.\nExperience working within a regulated or security-sensitive environment.\n\nThis position requires that you pass a security vetting based on the current regulations around/of security protection. For positions requiring security clearance additional obligations on citizenship may apply.\n\n\n What you will be part of\n\nExplore a wealth of possibilities. Take on challenges, create smart inventions, and grow beyond. This is a place for curious minds, brave pioneers, and everyone in between. Together, we achieve the extraordinary, each bringing our unique perspectives. Your part matters.\nSaab is a leading defense and security company with an enduring purpose, to help nations keep their people and society safe. Empowered by its 28,000 talented people, Saab constantly pushes the boundaries of technology to create a safer and more sustainable world.\nSaab designs, manufactures and maintains advanced systems in aeronautics, weapons, command and control, sensors and underwater systems. Saab is headquartered in Sweden. It has major operations all over the world and is part of the domestic defense capability of several nations. Read more about us here\nWhy join us? At our company, you will own high-impact solutions that support service members, partners, and critical national infrastructure, making a real difference through your work. You will lead meaningful projects within a modern Digital Solutions organisation that enjoys strong executive sponsorship, providing ample opportunities for growth. We offer a flexible hybrid work model to ensure a healthy work-life balance. Additionally, you will be rewarded with a competitive salary and comprehensive benefits package.\nHow to apply: Submit your CV along with a brief note highlighting a case you worked on, including the business problem you addressed and the outcomes achieved.\nKindly observe that this is an ongoing recruitment process and that the position might be filled before the closing date of the advertisement.",
-        "url": "https://www.aplitrak.com/?adid=YS5vbHNzb24uMDc3MTYuMTM3NjVAc2FhYi5hcGxpdHJhay5jb20",
-        "published": "2026-10-12T10:54:11",
-        "deadline": "2026-11-09T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "31583138",
         "title": "Computer vision specialist",
         "employer": "Synteda AB",
@@ -690,21 +675,6 @@
         "relevance_score": 100
     },
     {
-        "id": "31019447",
-        "title": "Senior Data Engineer till Knowit i Göteborg",
-        "employer": "Knowit AB (Publ)",
-        "location": "Göteborg",
-        "description": "Forma framtidens datadrivna lösningar i molnet. Är du en erfaren Data Engineer som vill arbeta nära tekniken och bygga robusta dataplattformar i moderna molnmiljöer? Hos Knowit i Göteborg får du möjlighet att ta ett tekniskt ledarskap i uppdrag där kvalitet, skalbarhet och affärsvärde står i centrum – tillsammans med några av Sveriges mest datatunga myndigheter och företag.\nOm rollen som Senior Data Engineer på Knowit\nSom Senior Data Engineer hos oss i Göteborg arbetar du med att designa och utveckla avancerade datalösningar i molnet. Du kommer arbeta med moderna principer inom datamodellering, semantic layers och data governance för att skapa robusta och framtidssäkra dataplattformar. Du tar ansvar för arkitekturval, implementation och optimering av pipelines, och fungerar som en teknisk förebild i teamet. Våra uppdrag spänner över både offentlig och privat sektor, där du är med och skapar lösningar där data blir en strategisk tillgång och en central del av verksamheten.\nDina huvudsakliga arbetsuppgifter inkluderar:\nDesigna och implementera skalbara dataplattformar i moln (Azure, AWS, GCP)\n\n\nBygga och optimera datapipelines med Python och DBT\n\n\nSäkerställa hög datakvalitet, prestanda och robusthet i komplexa system\n\n\nDriva tekniska beslut och bidra till best practices inom data engineering\n\n\nStötta team och kunder i arkitektur- och designfrågor\n\nVår teknikstack / verktyg och metoder\nPython, SQL\n\n\nDagster, Airflow\n\n\nDBT, Docker, Kubernetes\n\n\nSnowflake, DataBricks, BigQuery\n\n\nMolnplattformar: Azure, AWS, Google Cloud\n\n\nCI/CD och Infrastructure as Code\n\n\nVi uppmuntrar ständig teknisk utveckling och du får vara med och påverka både teknikval och arbetssätt i våra kunduppdrag.\nVem söker vi?\nVi söker dig med minst 7 års erfarenhet som Data Engineer, som är redo att ta ett större ansvar i team och leveranser. Du har gedigen erfarenhet av molnbaserade lösningar, Python och DBT, och är van vid att arbeta nära både teknik och affär.\nDu är trygg i att leda tekniska diskussioner, fatta beslut och stötta andra. Samtidigt är du prestigelös och trivs i en kultur där samarbete och lärande står i fokus. Erfarenhet av AI och datadrivna organisationer är ett plus.\nVad erbjuder Knowit i Göteborg?\nHos oss får du arbeta i uppdrag som gör verklig skillnad – från samhällsviktiga initiativ inom offentlig sektor till innovativa lösningar i industrin. Du får möjlighet att arbeta med välkända organisationer och myndigheter i en miljö där teknik, lärande och balans står i fokus. Vi erbjuder flexibilitet, ett centralt kontor i Göteborg och en kultur präglad av kunskapsdelning kultur, innovation, hållbarhet och en sund balans mellan arbete och privatliv. Vi har ett modern kontor i centrala Göteborg där vi ofta har aktiviter så som AW, föreläsningar och hackathons.\nÄr du redo att ta nästa steg som Senior Data Engineer?\nVälkommen med din ansökan och bli en del av Knowit i Göteborg!",
-        "url": "https://careersweden.knowit.se/jobs/7642209-senior-data-engineer-till-knowit-i-goteborg/applications/new?promotion=1991222-arbetsformedlingen",
-        "published": "2026-05-11T08:45:23",
-        "deadline": "2026-11-07T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": true,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "31685953",
         "title": "Modelling and Simulation PK/PD Expert",
         "employer": "AstraZeneca AB",
@@ -758,6 +728,21 @@
         "url": "https://volvo-information-technology-ab.contactrh.com/jobs/9669/44542629",
         "published": "2026-10-30T11:25:03",
         "deadline": "2026-11-15T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": false,
+        "source": "JobTech",
+        "category": "IT",
+        "relevance_score": 100
+    },
+    {
+        "id": "31663633",
+        "title": "Business Developer  Embedded Systems - OEM",
+        "employer": "Hykmann Global Business Solutions AB",
+        "location": "Göteborg",
+        "description": "Business Developer – Industry Technology\nLocation: Mölndal, Sweden\nEmployment Type: Full-time\nAre you passionate about technology, customer relationships, and driving new business opportunities? Join Hykmann Global Business Solutions AB in exploring opportunities for an experienced Business Developer within industrial technology.\nAbout the Role\nYou will combine technical understanding with commercial expertise to develop existing customer accounts, acquire new customers, and build long-term partnerships across industrial sectors, particularly agriculture, construction machinery, mining, and heavy material handling.\nWorking closely with engineering, project management, and operations teams, you will translate customer needs into business opportunities involving hardware, software, and technology services.\nKey Responsibilities\nDevelop strategic account plans and grow existing customer relationships.\nIdentify, approach, and acquire new OEM customers and Tier 1 suppliers.\nLead commercial negotiations, prepare proposals, and secure profitable agreements.\nDevelop business cases, ROI calculations, paid pilots, and proof-of-concept initiatives.\nCollaborate with technical teams to ensure solutions meet customer expectations.\nMonitor market trends, customer roadmaps, and competitor activities.\nMaintain CRM records, sales forecasts, and account development plans.\nRepresent the organisation at customer meetings, trade fairs, and industry events.\nUse AI tools to support account research, meeting preparation, and customer communication.\n\nRequired Qualifications\nAt least 5 years of experience in business development, technical sales, or Key Account Management.\nBachelor’s or Master’s degree in Engineering, Business, or a related field.\nExperience managing complex negotiations involving multiple stakeholders and closing deals.\nUnderstanding of embedded hardware and software, with the ability to communicate technical value in commercial terms.\nFluency in English.\n\nNice to Have\nExperience selling to OEMs and Tier 1 suppliers.\nAn established network within agriculture, construction machinery, or related industrial markets.\nExperience in electronics, embedded systems, or industrial technology sales.\nFamiliarity with CRM tools.\nFluency in Swedish.\n\nWorking Arrangement\nPrimarily office-based in Mölndal, with the flexibility to work remotely one day per week.\nTravel to customers, trade fairs, and industry events is required.\n\nWho Should Apply?\nWe are looking for a commercially driven professional with strong technical curiosity, excellent relationship-building skills, and the confidence to turn customer needs into sustainable business opportunities.\n📩 Interested? Explore opportunities and apply through the Hykmann careers portal: https://www.hykmann.com/careers",
+        "url": "https://www.hykmann.com/careers/jobs/667ba7fa-db29-4e0a-b7a8-547cb6960545",
+        "published": "2026-10-29T21:15:25",
+        "deadline": "2026-11-28T23:59:59",
         "is_consultant": false,
         "is_meaningful": false,
         "source": "JobTech",
