@@ -1,5 +1,20 @@
 [
     {
+        "id": "31718695",
+        "title": "AI-ingenjör inom fordonsutveckling",
+        "employer": "Baximus AB",
+        "location": "Göteborg",
+        "description": "Baximus AB söker nu en driven och lösningsorienterad AI-ingenjör för ett uppdrag inom nästa generations fordonsutveckling. I rollen kommer du att arbeta med tidig konceptutveckling, prototyper och genomförbarhetsstudier (feasibility assessments) i gränslandet mellan maskininlärning och fordonsdynamik, energisystem och intelligenta cockpit-funktioner.\nDu arbetar nära domänexperter för att identifiera tillämpningsområden där AI kan skapa mätbart affärsvärde, bygga och utvärdera tidiga konceptmodeller baserade på verklig och simulerad fordonsdata samt dokumentera tekniska beslutsunderlag (go/no-go).\nHuvudsakliga arbetsuppgifter\nUtveckla, träna och testa tidiga AI/ML-prototyper med hjälp av verklig och syntetisk/simulerad data.\n\n\n\nDefiniera och utvärdera tekniska nyckeltal (KPI:er) avseende prestanda, beräkningskostnad, redundans och robusthet.\n\n\n\nGenomföra förstudier gällande beräkningsbegränsningar (compute/latency), integration och datatillgång.\n\n\n\nSamarbeta med domänspecialister inom fordonsutveckling för att omsätta tekniska frågeställningar i tillämpbara modeller.\n\n\n\nBidra till återanvändbara kodbibliotek, testmiljöer och ramverk för snabb konceptvalidering.\n\n\n\nInternationella resor kan förekomma vid behov (upp till 1–2 veckor per år).\n\n\n\nKvalifikationer och skall-krav\nFör att matcha rollen uppfyller du följande krav:\nUtbildning: Civilingenjörs- eller masterexamen inom datateknik, artificiell intelligens, robotik, nätverksteknik eller likvärdig teknisk utbildningsbakgrund.\n\n\n\nErfarenhet: 0–3 års erfarenhet inom tillämpad maskininlärning eller mjukvaruutveckling (inklusive examensarbete, forskningsprojekt och relevant praktik).\n\n\n\nProgrammering: Mycket goda kunskaper i Python samt erfarenhet av bibliotek som NumPy och Pandas.\n\n\n\nMaskininlärningsramverk: Praktisk vana av PyTorch, TensorFlow eller Keras.\n\n\n\nVerktyg: Erfarenhet av versionshantering i Git samt containerisering med Docker.\n\n\n\nSpråk: Mycket goda kunskaper i engelska i tal och skrift (då detta är det dagliga koncernspråket).\n\n\n\nMeriterande erfarenheter\nVi ser det som ett stort plus om du har:\nErfarenhet av LLM-agentarkitekturer, Text-to-SQL eller applikationsutveckling med FastAPI.\n\n\n\nKännedom om simuleringsverktyg eller CAD-geometri (t.ex. STEP/STL-hantering, IPS eller pythonOCC).\n\n\n\nPraktisk erfarenhet av förstärkningsinlärning (Reinforcement Learning) eller datorseende (Computer Vision).\n\n\n\nErfarenhet från forsknings- eller utvecklingsprojekt inom fordonsindustrin.\n\n\n\nVi erbjuder\nMarknadsmässig fast månadslön (enligt överenskommelse baserat på branschpraxis och utbildning).\n\n\n\nKollektivavtalsliknande villkor med fullt tjänstepensions- och försäkringspaket (tjänstepension, sjukförsäkring, TFA och TGL).\n\n\n\nMöjlighet att arbeta i teknikens framkant tillsammans med ledande ingenjörsteam i Göteborg.",
+        "url": null,
+        "published": "2026-11-11T18:15:10",
+        "deadline": "2026-11-22T23:59:59",
+        "is_consultant": false,
+        "is_meaningful": true,
+        "source": "JobTech",
+        "category": "AI",
+        "relevance_score": 100
+    },
+    {
         "id": "31668984",
         "title": "AI & Data Solution Engineer / Tech Lead",
         "employer": "Agile Resources AB",
