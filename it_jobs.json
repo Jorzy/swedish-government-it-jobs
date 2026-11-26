@@ -165,21 +165,6 @@
         "relevance_score": 100
     },
     {
-        "id": "31757945",
-        "title": "Senior Software Developer – Build Engineering",
-        "employer": "Agile Resources AB",
-        "location": "Göteborg",
-        "description": "Utveckla och förbättra CI/CD-tjänster i en modern AWS-miljö där automation, DevOps och stabila utvecklingsflöden står i centrum.\nVill du bygga robusta utvecklingsplattformar som gör det enklare för team att leverera mjukvara snabbt och säkert? I rollen blir du en viktig del av ett Build Engineering-team med fokus på automation, molntjänster och CI/CD.\nOm rollen\nArbeta i ett Build Engineering-team som stödjer utvecklingsleveranser i en större digital verksamhet.\nBidra till en DevOps-kultur där team tar ansvar för hela leveransen.\nUtveckla tjänster och verktyg som effektiviserar bygg-, test- och leveransflöden.\n\nDet här kommer du göra\nUtveckla och förvalta teamets tjänster och interna plattformskomponenter.\nGe drift- och tekniskt stöd för tjänster i produktion.\nAutomatisera arbetsflöden och förbättra CI/CD-processer.\nBidra till teknisk roadmap, dokumentation och kontinuerliga förbättringar.\nSamarbeta med utvecklingsteam och andra tekniska intressenter.\n\nVi söker dig som har\nMinst fem års erfarenhet av mjukvaruutveckling.\nMycket goda kunskaper i Java, TypeScript och Bash.\nErfarenhet av AWS eller liknande molnplattformar.\nGod vana av Linux, skriptning och automatisering.\nErfarenhet av NoSQL-databaser och drift nära utveckling.\n\nTeknik & Verktyg\nAWS: CloudFormation, SNS, SQS, IAM, EC2, ECS, Lambda, EventBridge och CDK.\nSpråk: Bash, Java, JavaScript och TypeScript.\nDevOps: Git, Docker och Packer.\nDatabaser: DynamoDB och PostgreSQL.\nMeriterande: serverless, händelsedriven arkitektur samt AWS CodeBuild, CodePipeline och CodeDeploy.\n\nPraktisk information\nOrt: Göteborg.\nArbetssätt: Hybrid, med arbete från kontoret cirka tre dagar per vecka.\nSpråk: Engelska.\n\nUppdragets period och omfattning\n\n2026-12-07 – 2027-12-31. heltid, minst tre dagar per vecka på kontoret.\nAnsök senast 2026-11-25.",
-        "url": "https://recruit.agile.nu/apply/jp-515b5a5fadf64f20?source=platsbanken",
-        "published": "2026-11-20T11:32:12",
-        "deadline": "2026-11-25T23:59:59",
-        "is_consultant": false,
-        "is_meaningful": false,
-        "source": "JobTech",
-        "category": "IT",
-        "relevance_score": 100
-    },
-    {
         "id": "31774068",
         "title": "Infotainment Test Engineer",
         "employer": "Agile Resources AB",
